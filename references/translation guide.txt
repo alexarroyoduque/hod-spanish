@@ -1,0 +1,349 @@
+Castlevania, White Night Concerto English Translation
+Copyright 2002 Brendan Frayne
+
+
+
+6/25/02
+This is the first release, hope you like it.  Expect an update or two when I get the other endings.
+
+
+
+At the castle entrance, Maxim and Juste...
+
+Juste	So, this is really the castle Lydie was taken to?
+Maxim	I don't remember so clearly, but this must be it.  Don't you believe me?
+J	I know very well that you're not one to lie.
+M	Argh...
+J	Are you all right?
+M	I- I'm okay.  Forget about me, we're here to find Lydie...  Go on ahead!  I'll follow you soon.
+J	All right.  Let's meet again inside.
+
+
+First meeting with Death, near the entrance...
+
+Death	Halt!  The color of that soul...  You're a Belmont, then?
+Juste	That's right.  This overwhelming presence...  Death?
+D	Of course.
+J	Then as I thought, this is Castle Dracula.
+D	Perhaps...
+	However, the energy present here is not necessarily my lord Dracula's.
+J	What do you mean by that?
+D	I leave you for now, but we'll meet again, Belmont!
+	(Disappears)
+J	He got away...
+
+
+Approach of Deplore, Maxim and Juste...
+
+Juste	Maxim, you're all right!
+Maxim	Yes...  Is that you, Juste?  Yes, I guess I'm all right.
+J	What's wrong?  You look out of sorts.
+M	I...  I don't know how I got in the castle.
+J	What?
+M	Well, I'm not sure...  Things are still foggy, but my memories seem to be coming back, bit by bit.
+J	Your memories are returning?
+M	Well it seemed that way.  Since I came to this castle, I've had some strange feelings.  If I go
+	deeper into the castle, I might be able to remember.
+J	Let's go together, Maxim!
+M	No...  If we want to find Lydie, it's better if we're split up.
+J	Oh...  Yeah, I guess you're right.
+M	Stay alive, Juste!
+J	You, too, Maxim.
+
+
+First encounter with the Shopkeeper...
+
+SK	Oh my!  Welcome!
+Juste	What are you doing in a place like this?
+SK	Well, I'm a traveling merchant, you see...  While on the road, I became stuck in a thick fog, then
+	all of a sudden, I found myself in this castle!
+J	But, to open shop in a place like this...
+SK	Of course I tried looking for a way out, but it seems there's none to be found.  Having no other
+	choice, I set up my shop...  Nothing else to do, you know.
+	So, how can I help you?
+
+	(If you approach him a second time)
+SK	Hm?  did you forget something?
+
+	(Every time after that)
+SK	So we meet again.  I'm glad to see you're all right.  What can I do for you?
+
+
+When Juste enters the Item Collection room for the first time...
+
+Juste	My, what an elegant room.  But, it seems rather bare.  If there were just some furniture or
+	decorations...  All right, I'll leave these things I'm carrying.
+	(Places any furniture in inventory about the room)
+
+
+Cave of Skeletons, Evil Maxim and Juste...
+
+EM	Juste!  I was looking for you!
+Juste	Maxim.  What's going on?  Have you found Lydie?
+EM	Found her...  You're also hiding things, aren't you?
+J	What on earth are you talking about?
+EM	Well, no matter...  I don't know the extent of your powers, Belmont, but I won't let you have her!
+J	What's the matter with you?  This isn't like you at all!
+EM	I've gained a new power to surpass you.  But, for now Lydie is my concern.  Farewell!  May you rot
+	away in this castle!  (Laughs)
+J	Wait, Maxim!  Was that really Maxim?  I can't believe it...
+
+
+Corrider in the Air, Maxim and Juste...
+
+Maxim	Juste, did you find Lydie?
+Juste	You're the real Maxim, right?
+M	Whoa, whoa!  What're you talking about?
+J	Nah, forget about it...  How about you?  How is your search going?
+M	I haven't made much progress either...  but my memories are gradually returning.
+J	Really?  So Lydie is in this castle, after all?
+M	Without a doubt.  What's more, I know now that I've been here before...  I thought I should tell you...
+J	Anything.  What's on your mind?
+M	That day, when you ascended to the role of vampire hunter...  I felt a gap widening between us...  So
+	I went on a journey.  I wanted to surpass your skills...  I also wanted to free you from your destiny
+	as a hunter.
+J	...
+M	Do you recall the story you once told me about the relics, the pieces of Dracula?
+J	Yeah, I remember.  My grandfather, Simon, gathered and destroyed the relics in order to end Dracula's
+	curse.
+M	I thought if I could gather and destroy those pieces of Dracula myself, my hopes would be fulfilled.
+J	You're not saying the relics of Dracula still exist?
+M	According to the legend, it's still too early for Dracula's revival.  And, it's not like anyone is under
+	Dracula's curse right now.  At first, I also doubted the relics still existed...  but following the
+	legend, I somehow found the 6 pieces.
+J	Ridiculous!
+M	I can't recall anything after that...  The pieces seem to have disappeared, too...  The only thing I
+	remember vividly is Lydie being taken here...
+J	If that's true, Dracula's pieces were probably brought to this castle as well.
+M	I'm sorry.  I'm to blame for all of this.
+J	You shouldn't apologize to me.
+M	?
+J	You should apologize to Lydie.  But we should get searching if you're to do that...
+M	Ah, that's right.  Okay, I'm going.
+J	Maxim, I'm trusting you.
+M	Thank you...  Juste.
+
+
+Clock Tower, Death and Juste...
+
+Juste	Ah, it's you!
+Death	You know a man named...  Maxim, I believe.
+J	And, if I do?
+D	That man...  He's obtained something which contains Lord Dracula's power, has he not?
+J	Could it have something to do with Dracula's relics?
+D	Relics?  I see, then it all adds up.
+J	What do you mean?
+D	Yes, that explains everything.  You have my thanks.  It's so simple...  That man brought forth the castle.
+J	What?  There's no reason Maxim would do such a thing!
+D	Perhaps not at first.  But, if he obtained Lord Dracula's relics, then it's a different story.  Two
+	spirits have received Dracula's power, and brought this castle into existence once again.
+J	Two spirits?
+D	At the moment two spirits dwell within Maxim.  There is his own soul...  The other is the evil spirit of
+	my lord, Dracula, which came from his relics.
+J	That's absurd.
+D	Still, I wonder why two castles have materialized...  Dracula's spirit alone should have sought to call
+	forth the castle, but...
+J	Wait!  What do you mean two castles?
+D	What a fool...  You weren't even aware that there are two?  Well then, I have nothing more to say.
+	Farewell!
+J	Wait!  Are you running away again?
+D	At present, the castle is divided, incomplete.  This won't suffice.  These two castles must be fully united.
+	(Enters portal to 2nd Castle)
+
+
+2nd Castle, Corridor in the Air, Evil Maxim and Juste...
+
+EM	Oh?  You're still alive, eh?
+Juste	Maxim!  No, it's not him.
+M	Oh, so you've found me out, then?
+J	Who the devil are you?
+M	I am myself.  Though, I'm not the same Maxim you know.  I am the desires that were once sealed away in
+	this man.  Since he obtained the relics of Dracula, another spirit took form within him.  I am that
+	other.  I don't know if he's even aware of me.
+J	Is abducting Lydie your work, then?
+M	Heh, heh, heh, obviously...  That is of course my doing.  But the fool has lost his memories.
+	He doesn't even know where he is right now!  His memories will soon be revived.  If we come to share those,
+	the woman will be mine.
+J	Bastard!
+M	If I perish, your dear friend will die along with me.  Is that all right with you?
+J	Damn!
+M	You will die here, scum!
+
+
+1st Castle, Corridor in the Air, Maxim and Juste...
+
+Maxim	Ju- Juste...
+Juste	Maxim!  Is it the real you?
+M	...  The other one...  So you met him...
+J	Yeah...
+M	Oh...  Dracula's power is great...  soon he'll swallow me completely.
+J 	Don't talk like that!  Get a hold of yourself!
+M	Please, listen to me.  When he brought Lydie here...  He hid her in this castle, which was summoned
+	by my spirit.  I wanted to do something to protect my own memories, but it seems hopeless...
+	Take this bracelet.  With it, you should be able to open the sealed doors.
+J	I can't leave you here like this.
+M	Please!  We can't let them get Lydie!
+J	Al- All right.  Once I've rescued Lydie, I promise I'll come for you too.
+M	Okay...  Please...
+
+
+1st Castle, Castle Tower, Lydie and Juste...
+
+Juste	Lydie!
+Lydie	Juste!  It is you, isn't it, Juste?
+J	Are you all right?  You're not hurt?
+L	I'm fine.  Maxim hid me here.
+J	...Is that so?
+L	He's not with you?
+J	Maxim is waiting outside, most likely.
+L	Juste, what happened to the person who brought me here?
+J	Who brought you here?  You mean you don't know?
+L	Before Maxim came for me, I had been blindfolded the whole time.
+J	Really...  Well, for now let's just get out of here.
+L	Okay.
+	(A laugh, and Death enters)
+D	So she was hidden here...  That fellow is bold, indeed.
+L	Eek!
+J	Lydie!
+	(Death grabs Lydie)
+D	I'll take the girl.
+L	No!  Juste, save me!
+	(Disappears)
+J	Damn!  I can't let him take her!
+
+
+2nd Castle, Moss-Grown Cave, Death and Juste...
+
+Juste	There you are.  Return Lydie!
+Death	Don't worry.  She's with Lord Maxim.
+J	Why?  Lydie has got nothing to do with you!
+D	In order for us to make the castle whole, the girl is necessary.
+J	What do you mean by that?
+D	This castle is in an incomplete state.  It must be prepared for my master's revival.
+	Until the two castles are united as one Castle Dracula's form is not complete.  My lord's dear friend
+	is necessary.
+J	Maxim is a strong man!  It won't happen as easily as you think.
+D	He is filled with the power of Lord Dracula...  And, I know of a way to augment that power within him.
+	If, perhaps, the energy of somebody dear to him is used, I wonder what the effect would be...
+J	You...  You can't mean...  to take her life?  You can't do this!
+D	Don't interfere.  The candle of Lord Maxim's soul has almost burned down.
+	(After fight)
+D	You're too late.  The castle will soon be complete!
+
+
+1st Castle, Final Boss Room
+
+Juste	Stop!
+Maxim	Juste...  it's you.
+J	Lydie!  Are you all right?
+L	......
+J	She fainted.  It appears I'm in time.  Maxim!  You're still yourself, aren't you?
+M	Somewhat.  But I can already see it coming...
+	Please...  kill me!
+J	What are you talking about?  Such a thing would be...
+M	It's no good.  I can't push back the urges any longer!
+J	I...  I can't do it...
+EM	Then allow me the honor.  Prepare yourself!
+	(After fight)
+Maxim	Thank you, Juste.  To fall at your hand...  I'm pleased...
+J	Maxim!
+M	I wanted to set you free from a cursed fate...
+J	It's okay...  Don't say anymore...
+M	Pl- please take care of Lydie...
+J	Maxim!
+	(Demon Castle disappears)
+Lydie	Ungh...
+J	Ah, you're awake.
+L	We're...  all right?
+J	Yeah.
+L	Oh...  Where's Maxim?
+J	Maxim...  he...  ...
+L	Juste...  It's okay, you don't need to say.
+J	I...  I...
+L	I don't understand very well what was going on between the both of you...  But, you mustn't be so hard
+	on yourself.  Blaming yourself would be no different from blaming him.
+J	Perhaps you're right.  He certainly was quite a guy.
+L	Let's go.  It would be better if you rest and have some time to think before you tell me the story.
+J	You're right...  Okay, let's go, Lydie!
+
+The End?
+
+
+2nd Castle, Final Boss Room
+
+Juste	Lydie!
+Lydie	......
+J	She's still breathing, but...  Damn!  Am I too late?
+EM	Welcome, Juste.  You're late.
+J	Maxim...
+EM	Maxim?  Ah, if you mean you're friend, he's dead.  Thanks to the girl, I gained enough strength to
+	completely overcome him.
+J	You bastard.  I won't forgive this!
+EM	It makes no difference to me.  You're my enemy, regardless.
+	(After fight)
+Maxim	Augh.  That...  That bracelet...  You wore it, after all...
+J	Maxim?  Is it you?
+EM	Why is he coming back?  You should be dead already!
+J	Remember, Maxim!  You're no weakling!
+M	You...  you're right.  Compared to our training...  this isn't a big deal, right?
+EM	Why?  Why can't I control this body anymore?
+M	I won't allow you the freedom any longer.  Juste!  Finish him now!
+	(Dracula's relics float into the air)
+M	Uh...  intense...  energy...
+J	The...  the relics!
+EM	This energy alone should suffice...  I don't need this body any longer.  You can have it!
+M	Argh!
+	(Maxim knocked unconscious, Dracula's Phantom appears)
+DP	Blast!  As I thought, my power is unstable.  But, if I drink your blood, I can achieve my full strength.
+J	You think you can?  Don't underestimate a Belmont.
+DP	Well, shall we begin?  Let the battle commence.
+	(After fight)
+DP	Ahh!
+J	As I said, don't take us lightly.
+DP	This is the power of the Belmonts?
+J	You, now finally separated from Maxim, are my enemy, first and foremost.
+DP	I'll die like this...
+	However, under that cursed power, you and your kin are doomed to be hunters for all eternity.  Even in
+	death, I can still find pleasure in that fact.
+	(Demon Castle disappears)
+M	...  Where...  Where are we?
+J	Maxim, you're awake.
+M	I survived too?
+J	You're strength dispatched Dracula.
+M	Not my strength...  Rather, yours and Lydie's.  Ah!  What about Lydie?  Is she safe?
+J	She's still unconscious, but since Dracula's been destroyed, the wounds on her neck have disappeared.
+	Her color is also returning to normal.  It's only a matter of time before she comes to.
+M	Oh...  Juste...  I'm sorry.
+J	It's over now, and everyone is all right.  You needn't say anything.
+M	......  Thank you...
+L	Ungh...
+J	Lydie's coming to.
+L	Oh...  Juste.  Where am I?  Somebody...  Maxim...  sucking blood...
+J	Whoa, easy there, you were just having a nightmare.  Go ahead, feel your neck.
+L	......  Nothing there...  So it was only a dream...
+M	Hey!  The truth...
+J	Shh!  Keep quiet!
+L	Oh?  Maxim, you've returned!
+M	Well, actually...
+J	Yes, Maxim's back.  He's probably tired from the journey, so why don't we all talk after we're home?
+M	No.  I...
+J	All right, Maxim?  Nothing happened!  Everything's all right, isn't it?
+M	You think I'll go by that?  This is typical, you're always taking things too far!
+J	What did you say?
+L	Stop it!
+M	......
+L	......
+L	Enough, you two!  You're fighting so soon after meeting each other?
+M	The truth is, Lydie...
+L	I'll hear your reasons after we've returned home.
+	Until then, the two of you must stop speaking so strangely.
+J	That's right, Maxim.
+M	...  Okay...
+L	Ha ha.  My, but it has been a while, hasn't it, the three of us together like this?
+J	It certainly has.
+M	Yeah.
+
+The End
+
+
+Hope you found this translation useful.  Questions?  Comments?  E-mail me at "petregeus at hotmail.com"

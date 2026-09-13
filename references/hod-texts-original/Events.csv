@@ -1,0 +1,959 @@
+0x00A,"Fifty years have passed since\n
+Simon {NAMEINSERT 0x0006} vanquished\n
+the curse of {NAMEINSERT 0x0007}.\n
+{WAITINPUT}{SAMECHAR}
+Fate has dictated that {NAMEINSERT 0x0000}\n
+{NAMEINSERT 0x0006}, blood descendant \n
+of the {NAMEINSERT 0x0006} Family, hunt\n
+for the relics of {NAMEINSERT 0x0007}.\n
+{WAITINPUT}{SAMECHAR}
+One day, {NAMEINSERT 0x0000}'s best friend, \n
+{NAMEINSERT 0x0001}, who had set out on a\n
+training expedition two years \n
+earlier, returned unexpectedly...\n
+his body covered with wounds. \n
+{WAITINPUT}{SAMECHAR}
+He informs {NAMEINSERT 0x0000} that Lydie, a \n
+childhood friend whom they both \n
+deeply care about, has been \n
+kidnapped.\n
+{WAITINPUT}{SAMECHAR}{NAMEINSERT 0x0001} has completely lost his \n
+memory of his time training away \n
+from home, and only has vague \n
+images of the kidnapping.\n
+{WAITINPUT}{SAMECHAR}
+Ignoring his bodily injuries, {NAMEINSERT 0x0001}\n
+leads {NAMEINSERT 0x0000} to the place where he \n
+believes Lydie is being held captive.\n
+{WAITINPUT}{SAMECHAR}
+Passing through thick fog, the two\n
+men happen upon a castle \n
+undocumented on any map.\n
+Could this be the fabled \n
+{NAMEINSERT 0x0007}'s castle?  \n
+{WAITINPUT}{SAMECHAR}
+Standing solemnly in the night, \n
+this forbidding castle welcomes its \n
+unexpected guests as the \n
+moonlight shines upon it...\n
+{WAITINPUT}{SAMECHAR}"
+0x00B,"{PORTRAIT 0x0001}{NAME 0x0000}
+So you truly believe that \n
+{NAMEINSERT 0x0004} was brought to this \n
+castle...\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0002}{NAME 0x0001}
+My memory fails me, but...\n
+this seems to be the place...\n
+Don't you believe me?\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
+I know better than \n
+anyone that you are not \n
+the type to lie.\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0002}{NAME 0x0001}{NAMEINSERT 0x0000}...\n
+{NEXTACTION}
+Aaargh!! \n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
+Are you all right?!\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0002}{NAME 0x0001}
+I− I'm fine... it's {NAMEINSERT 0x0004}\n
+you should be concerned\n
+about, not me...\n
+{WAITINPUT}{SAMECHAR}
+Go on ahead!!\n
+I'll be right behind you.\n
+You have my word.\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
+OK, then.\n
+I'll see you inside!!\n
+{WAITINPUT}{NEWCHAR}"
+0x00C,"{PORTRAIT 0x0004}{NAME 0x0009}
+Halt!\n
+The color of your soul...\n
+You must be a {NAMEINSERT 0x0006}...\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
+That is correct.  This... \n
+overwhelming power...\n
+{NAMEINSERT 0x0005}...?\n
+{WAITINPUT}{NEWCHAR}{NEXTACTION}{PORTRAIT 0x0004}{NAME 0x0009}
+Indeed.\n
+{NAME 0x0005}{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
+Which means this is, in\n
+fact, {NAMEINSERT 0x0007}'s castle...\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0004}{NAME 0x0005}
+That might be true... \n
+though the power that is \n
+here is not my lord's.\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
+What do you mean?!\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0004}{NAME 0x0005}
+I must go now.\n
+We shall meet again,\n
+son of {NAMEINSERT 0x0006}...\n
+{WAITINPUT}{NEWCHAR}{NEXTACTION}{COMMAND2 0x0000}{PORTRAIT 0x0001}{NAME 0x0000}
+Aaargh...\n
+He... got away...\n
+{WAITINPUT}{NEWCHAR}"
+0x00D,"{PORTRAIT 0x0001}{NAME 0x0000}{NAMEINSERT 0x0001}!!\n
+Are you all right?\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0002}{NAME 0x0001}{NEXTACTION}
+Oh... uh... {NAMEINSERT 0x0000}, is that\n
+you? I'm glad you are all\n
+right.\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
+What's wrong with you? \n
+Standing around in a daze...\n
+leaves you vulnerable.\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0002}{NAME 0x0001}{NEXTACTION}
+I, uh... I think I have \n
+been in this castle \n
+before...\n
+{WAITINPUT}{NEWCHAR}{NEXTACTION}{PORTRAIT 0x0001}{NAME 0x0000}
+What did you say?\n
+{WAITINPUT}{NEWCHAR}{NEXTACTION}{PORTRAIT 0x0002}{NAME 0x0001}
+I can't clearly recall,\n
+but I think I've been \n
+here before...\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
+Your memory is coming \n
+back to you? \n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0002}{NAME 0x0001}
+It seems so. I've been \n
+feeling strange since\n
+coming to the castle.\n
+{WAITINPUT}{SAMECHAR}
+If we continue a little\n
+further, perhaps I may be\n
+able to recall something.\n
+{WAITINPUT}{NEWCHAR}{NEXTACTION}{PORTRAIT 0x0001}{NAME 0x0000}
+Come on!\n
+Let's go together, {NAMEINSERT 0x0001}.\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0002}{NAME 0x0001}
+No, if we're going to find\n
+{NAMEINSERT 0x0004}, we must separate.\n
+We'll cover more ground.\n
+{WAITINPUT}{NEWCHAR}{NEXTACTION}{PORTRAIT 0x0001}{NAME 0x0000}
+Hmm...\n
+Yes, you are right.\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0002}{NAME 0x0001}
+Be careful, {NAMEINSERT 0x0000}. \n
+{WAITINPUT}{NEWCHAR}{NEXTACTION}{PORTRAIT 0x0001}{NAME 0x0000}
+Watch your back too,\n
+{NAMEINSERT 0x0001}...\n
+{WAITINPUT}{NEWCHAR}{NEXTACTION}"
+0x00E,"{PORTRAIT 0x0003}{NAME 0x0001}{NAMEINSERT 0x0000}! There you are!\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
+What's happened, {NAMEINSERT 0x0001}?\n
+Have you found {NAMEINSERT 0x0004}?\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0003}{NAME 0x0001}
+How dare you ask ME of\n
+{NAMEINSERT 0x0004}? You're one of her \n
+captors, aren't you?\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
+Huh? What the hell are\n
+you talking about?\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0003}{NAME 0x0001}
+Oh, nothing... \n
+Forget it.\n
+{WAITINPUT}{SAMECHAR}
+I know not the scope of\n
+your power, {NAMEINSERT 0x0006}. But\n
+I will not let you have her.\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
+What's happened to\n
+you? You're not your\n
+normal self!\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0003}{NAME 0x0001}
+I got new powers to\n
+surpass your strength.\n
+But first, the woman...\n
+{WAITINPUT}{SAMECHAR}
+Farewell!\n
+May you rot away within \n
+the walls of this castle.\n
+{WAITINPUT}{NEWCHAR}{NEXTACTION}{PORTRAIT 0x0001}{NAME 0x0000}
+Wait, {NAMEINSERT 0x0001}!\n
+{COMMAND2 0x0000}{WAITINPUT}{SAMECHAR}
+Was that truly {NAMEINSERT 0x0001}?\n
+Do my eyes and ears \n
+deceive me?\n
+{WAITINPUT}{NEWCHAR}"
+0x00F,"{PORTRAIT 0x0002}{NAME 0x0001}{NAMEINSERT 0x0000}!\n
+Have you found {NAMEINSERT 0x0004}?\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
+You...you're {NAMEINSERT 0x0001},\n
+aren't you?\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0002}{NAME 0x0001}
+Hey!  What do you mean\n
+by that?\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
+Uh, nothing. Forget it.\n
+So tell me, how did you\n
+fare?\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0002}{NAME 0x0001}
+I have found nothing yet.\n
+But my memory is slowly\n
+coming back to me.\n
+{WAITINPUT}{NEWCHAR}{NEXTACTION}{PORTRAIT 0x0001}{NAME 0x0000}
+Really? So {NAMEINSERT 0x0004} is \n
+somewhere in this \n
+castle after all?\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0002}{NAME 0x0001}
+Yes, I'm sure of that now.\n
+And I know that I have\n
+also been here before...\n
+{WAITINPUT}{SAMECHAR}
+...\n
+And, there is something\n
+I think you should know...\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
+Go ahead, you can tell me\n
+anything.\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0002}{NAME 0x0001}
+The day you inherited the\n
+title of Vampire Hunter...\n
+I felt as if a wall had \n
+{WAITINPUT}{SAMECHAR}
+been erected between us...\n
+and for that reason I set \n
+out on my expedition.\n
+{WAITINPUT}{SAMECHAR}
+I wanted to be better \n
+than you and relieve\n
+you of your fate.\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
+...\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0002}{NAME 0x0001}
+Long ago, you told me of\n
+{NAMEINSERT 0x0007}'s remains. Do \n
+you remember that?\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
+Yes, I remember.\n
+The story of how my\n
+grandfather, Simon, \n
+{WAITINPUT}{SAMECHAR}
+gathered {NAMEINSERT 0x0007}'s \n
+remains and destroyed\n
+them to undo his curse.\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0002}{NAME 0x0001}
+I thought my wishes would \n
+be granted if I too could \n
+gather and destroy them.\n
+{WAITINPUT}{NEWCHAR}"
+0x010,"{PORTRAIT 0x0001}{NAME 0x0000}
+What?! \n
+You found them?!\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0002}{NAME 0x0001}
+According to legend, it's\n
+still too early for \n
+{NAMEINSERT 0x0007}'s resurrection.\n
+{WAITINPUT}{SAMECHAR}
+It is not like anyone is \n
+cursed right now either.\n
+{WAITINPUT}{SAMECHAR}
+At first, I was \n
+doubtful that I could find \n
+all his remains...\n
+{WAITINPUT}{SAMECHAR}
+But I uncovered six \n
+parts, as if guided by\n
+a higher being...\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
+That's impossible...\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0002}{NAME 0x0001}
+I have little memory of \n
+what occurred after that, \n
+but the remains have \n
+{WAITINPUT}{SAMECHAR}
+vanished.  I do remember\n
+clearly though that {NAMEINSERT 0x0004}\n
+was kidnapped...\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
+If true, {NAMEINSERT 0x0007}'s bodily \n
+remains may be giving \n
+rise to this castle...\n
+{WAITINPUT}{NEWCHAR}"
+0x011,"{PORTRAIT 0x0001}{NAME 0x0000}
+That means that the \n
+remains found in this \n
+castle are genuine...\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0002}{NAME 0x0001}
+They are identical to the \n
+ones I found. But, I have \n
+little memory of what \n
+{WAITINPUT}{SAMECHAR}
+happened after I found\n
+them. I only remember \n
+{NAMEINSERT 0x0004} being brought here.\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
+If true, {NAMEINSERT 0x0007}'s \n
+remains may be giving\n
+rise to this castle...\n
+{WAITINPUT}{NEWCHAR}"
+0x012,"{PORTRAIT 0x0002}{NAME 0x0001}
+Forgive me.\n
+This is all my fault...\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
+I'm not the one you\n
+should be seeking\n
+forgiveness from...\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0002}{NAME 0x0001}
+?!\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
+You ought to apologize to\n
+{NAMEINSERT 0x0004} first. We must hurry\n
+and find her.\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0002}{NAME 0x0001}
+Yes. Yes, you're right.\n
+OK, I'll be off then.\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}{NAMEINSERT 0x0001}...\n
+I believe in you.\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0002}{NAME 0x0001}
+Thanks,\n
+{NAMEINSERT 0x0000}...\n
+{WAITINPUT}{NEWCHAR}"
+0x013,"{PORTRAIT 0x0001}{NAME 0x0000}
+Aaargh!\n
+{NAMEINSERT 0x0005} has returned!\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0004}{NAME 0x0005}
+Mortal... you know of a\n
+man by the name of \n
+‘{NAMEINSERT 0x0001},' do you not?\n
+{WAITINPUT}{NEWCHAR}{NEXTACTION}{PORTRAIT 0x0001}{NAME 0x0000}
+Yes, I do!\n
+What about him?!\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0004}{NAME 0x0005}
+I believe that man has\n
+discovered objects that\n
+hold my lord's powers.\n
+{WAITINPUT}{NEWCHAR}{NEXTACTION}{PORTRAIT 0x0001}{NAME 0x0000}
+?!\n
+You mean {NAMEINSERT 0x0007}'s \n
+remains...\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0004}{NAME 0x0005}
+My lord's fragmented \n
+remains?!  Now it all\n
+makes perfect sense...\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
+What on earth are you\n
+talking about?!\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0004}{NAME 0x0005}
+You have provided me with\n
+an answer. So, I shall  \n
+reward you with an\n
+{WAITINPUT}{SAMECHAR}
+explanation. It's simple. \n
+This castle is a creation \n
+of {NAMEINSERT 0x0001}'s will.\n
+{WAITINPUT}{NEWCHAR}{NEXTACTION}{PORTRAIT 0x0001}{NAME 0x0000}
+What?!\n
+But he's not capable of \n
+such a feat!\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0004}{NAME 0x0005}
+True of the original \n
+{NAMEINSERT 0x0001}, but possession of my \n
+lord's remains changes \n
+{WAITINPUT}{SAMECHAR}
+everything. The castles' \n
+two spirits now embody my\n
+lord's powers.\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
+The castles' ‘two' spirits?!\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0004}{NAME 0x0005}
+Two spirits exist now \n
+within his body.  \n
+{WAITINPUT}{SAMECHAR}
+His original spirit and \n
+a wicked spirit born\n
+from my lord's remains.\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
+What a ridiculous notion...\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0004}{NAME 0x0005}
+And so, two castles were \n
+born to embody the two \n
+spirits.\n
+{WAITINPUT}{SAMECHAR}
+Of the two spirits, \n
+the wicked one wanted \n
+the castles most.\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
+Wait a minute! What do you\n
+mean by ‘two castles'?!\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0004}{NAME 0x0005}
+Ignorant mortal... Don't\n
+you realize that this castle\n
+has two ""layers""?\n
+{WAITINPUT}{SAMECHAR}
+I don't want to have \n
+anything more to do with \n
+you. Farewell!\n
+{WAITINPUT}{NEWCHAR}{NEXTACTION}{COMMAND2 0x0000}{PORTRAIT 0x0001}{NAME 0x0000}
+W−wait!\n
+Are you running away \n
+from me?\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0004}{NAME 0x0005}
+This castle, as it is now,\n
+is a transient one. I must \n
+go and aid its completion...\n
+{WAITINPUT}{NEWCHAR}"
+0x014,"{PORTRAIT 0x0003}{NAME 0x0001}
+Oh, I see you are still \n
+alive...\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}{NAMEINSERT 0x0001}!\n
+No, you're not {NAMEINSERT 0x0001}...\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0003}{NAME 0x0001}
+Ha...\n
+You're onto me...\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
+What the hell are you?\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0003}{NAME 0x0001}
+I am... myself...\n
+just not the ‘me' that\n
+you knew in the past.\n
+{WAITINPUT}{SAMECHAR}
+This man's suppressed \n
+desires, coupled with his\n
+possession of {NAMEINSERT 0x0007}'s \n
+{WAITINPUT}{SAMECHAR}
+remains, gave rise to\n
+a separate spirit... \n
+and...\n
+{WAITINPUT}{SAMECHAR}
+that other spirit is me.\n
+I'm not sure if he's even\n
+aware of my existence.\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
+And it was also you\n
+who kidnapped {NAMEINSERT 0x0004}?\n
+{WAITINPUT}{NEWCHAR}{NEXTACTION}{PORTRAIT 0x0003}{NAME 0x0001}
+Heh−heh...\n
+Of course it was my \n
+doing. She belongs to me.\n
+{WAITINPUT}{SAMECHAR}{NEXTACTION}
+But he went and lost his \n
+memory and doesn't \n
+even know where she is!\n
+{WAITINPUT}{SAMECHAR}
+But he will retrieve his \n
+memory soon!  When he \n
+does, she'll be all mine.\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
+Damn you!\n
+{NEXTACTION}{WAITINPUT}{NEWCHAR}{NEXTACTION}{PORTRAIT 0x0003}{NAME 0x0001}
+Sure about that? If I die,\n
+your best friend will\n
+perish with me!\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
+Aaargh!\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0003}{NAME 0x0001}
+Your death is at hand!\n
+Die, you vile dog!\n
+{WAITINPUT}{NEWCHAR}"
+0x015,"{PORTRAIT 0x0002}{NAME 0x0001}
+Ju− {NAMEINSERT 0x0000}...\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}{NAMEINSERT 0x0001}!!\n
+It's really you\n
+this time, right...?\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0002}{NAME 0x0001}
+...\n
+So I see you've run\n
+into... my other self.\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
+Yeah...\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0002}{NAME 0x0001}
+I see...\n
+I was nearly taken over\n
+by him...\n
+{WAITINPUT}{SAMECHAR}{NAMEINSERT 0x0007}'s strength was so\n
+overwhelming...\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
+Don't say that!\n
+You must stay strong!\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0002}{NAME 0x0001}
+Listen to me...\n
+When he brought {NAMEINSERT 0x0004}\n
+to this place...\n
+{WAITINPUT}{SAMECHAR}
+He hid her in a castle\n
+forged from the fabric\n
+of my mind. By losing my\n
+{WAITINPUT}{SAMECHAR}
+memory, I protected her,\n
+but I think I've reached \n
+my limit...\n
+{WAITINPUT}{SAMECHAR}
+She's in the lord's room.\n
+With this bracelet, you\n
+can gain entrance as well.\n
+{WAITINPUT}{NEWCHAR}{NEXTACTION}{PORTRAIT 0x0001}{NAME 0x0000}
+I can't just leave you\n
+lying here like this...\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0002}{NAME 0x0001}
+You must! We can't let\n
+him get a hold of {NAMEINSERT 0x0004}!\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
+I− I got it. Once I've \n
+saved {NAMEINSERT 0x0004}, I promise, \n
+I'll come back for you...\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0002}{NAME 0x0001}
+Go now... it's up to you...\n
+{WAITINPUT}{NEWCHAR}"
+0x016,"{PORTRAIT 0x0001}{NAME 0x0000}{NAMEINSERT 0x0004}!!\n
+{WAITINPUT}{NEWCHAR}{NEXTACTION}{PORTRAIT 0x0005}{NAME 0x0004}{NAMEINSERT 0x0000}!\n
+Is it really you, {NAMEINSERT 0x0000}?!\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
+Are you all right?\n
+Are you injured?\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0005}{NAME 0x0004}
+I'm fine. \n
+{NAMEINSERT 0x0001} had me tucked \n
+safely away here.\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
+Oh, I see...\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0005}{NAME 0x0004}
+Didn't he come with you?\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}{NAMEINSERT 0x0001}'s waiting for us \n
+outside, I think...\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0005}{NAME 0x0004}
+Hey, what happened to\n
+the person that brought\n
+me to this place?\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
+You mean that you don't\n
+know who it was that \n
+kidnapped you!?\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0005}{NAME 0x0004}
+Until {NAMEINSERT 0x0001} came to my\n
+rescue, I− I was \n
+blindfolded...\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
+I see...\n
+Okay, let's try to get \n
+out of this place...\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0005}{NAME 0x0004}
+Yes, let's go.\n
+{WAITINPUT}{NEWCHAR}{NEXTACTION}{PORTRAIT 0x0004}{NAME 0x0005}
+So this is where you've \n
+been hiding...\n
+He, too, is a bold man...\n
+{WAITINPUT}{NEWCHAR}{NEXTACTION}{PORTRAIT 0x0005}{NAME 0x0004}
+Nooooo!\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}{NAMEINSERT 0x0004}!\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0004}{NAME 0x0005}
+I shall have this maiden\n
+for myself.\n
+{WAITINPUT}{NEWCHAR}{NEXTACTION}{PORTRAIT 0x0005}{NAME 0x0004}
+No! {NAMEINSERT 0x0000}... save me!!\n
+{WAITINPUT}{NEWCHAR}{NEXTACTION}{PORTRAIT 0x0001}{NAME 0x0000}
+Damn!\n
+I must hurry after them!\n
+{WAITINPUT}{NEWCHAR}"
+0x017,"{PORTRAIT 0x0001}{NAME 0x0000}
+So this is where you \n
+were!  Return {NAMEINSERT 0x0004} to me!\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0004}{NAME 0x0005}
+Fear not.\n
+That maiden is now with\n
+{NAMEINSERT 0x0001}.\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
+But why!?\n
+Leave {NAMEINSERT 0x0004} out of this!\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0004}{NAME 0x0005}
+That maiden will play an\n
+essential role in the \n
+completion of this castle.\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
+What do you mean\n
+by that!?\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0004}{NAME 0x0005}
+This castle is in a transient\n
+state and is preparing for \n
+my lord's resurrection.\n
+{WAITINPUT}{SAMECHAR}
+However, the castle is not \n
+complete until these two \n
+castles have merged.\n
+{WAITINPUT}{SAMECHAR}
+In short, we must rid\n
+of your dear friend's \n
+spirit.\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}{NAMEINSERT 0x0001} is a man of great \n
+strength! It won't be so\n
+easy to do as you plan!!\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0004}{NAME 0x0005}
+He was born of my lord, so\n
+of course he knows ways\n
+to reinforce his power. \n
+{WAITINPUT}{SAMECHAR}
+When something is dear to\n
+you, its effect upon you\n
+becomes immeasurable.\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
+?!\n
+No, surely not...\n
+not {NAMEINSERT 0x0004}'s blood...\n
+{WAITINPUT}{SAMECHAR}
+Stay away from her!\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0004}{NAME 0x0005}
+Do not interfere. Now,\n
+I will extinguish the \n
+candle of your soul!\n
+{WAITINPUT}{NEWCHAR}"
+0x018,"{PORTRAIT 0x0004}{NAME 0x0005}
+You're too late...\n
+The castles will soon \n
+begin to merge together...\n
+{WAITINPUT}{NEWCHAR}"
+0x019,"{PORTRAIT 0x0001}{NAME 0x0000}
+Stop!\n
+{WAITINPUT}{NEWCHAR}{NEXTACTION}{PORTRAIT 0x0002}{NAME 0x0001}
+J− {NAMEINSERT 0x0000}, it's you...\n
+{WAITINPUT}{NEWCHAR}{NEXTACTION}{PORTRAIT 0x0001}{NAME 0x0000}{NAMEINSERT 0x0004}, are you all right?!\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0005}{NAME 0x0004}
+...\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
+She's lost consciousness.\n
+But I think we've made\n
+it here in time!\n
+{WAITINPUT}{NEWCHAR}{NEXTACTION}{PORTRAIT 0x0001}{NAME 0x0000}{NAMEINSERT 0x0001}!\n
+You've still managed to \n
+hold onto your true self.\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0002}{NAME 0x0001}
+Yes, by some means or\n
+another... but...\n
+I've reached my limit...\n
+{WAITINPUT}{SAMECHAR}
+I− I beg you...\n
+Take my life.\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
+Wha− What do you speak \n
+of? I can't...\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0002}{NAME 0x0001}
+I can't hang on any longer.\n
+I can't fight the impulse...\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
+But I...\n
+I cannot take your life.\n
+{WAITINPUT}{NEWCHAR}{NEXTACTION}{PORTRAIT 0x0003}{NAME 0x0001}
+Then, I'll make you\n
+kill me...\n
+Defend yourself!\n
+{WAITINPUT}{NEWCHAR}"
+0x01A,"{PORTRAIT 0x0002}{NAME 0x0001}
+Thank you, {NAMEINSERT 0x0000}...\n
+For I did truly desire to\n
+be felled by your hand...\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}{NAMEINSERT 0x0001}!\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0002}{NAME 0x0001}
+I wanted to free you from\n
+your cursed fate...\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
+That's enough. There's\n
+no need to speak of\n
+anything else...\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0002}{NAME 0x0001}
+Take care of {NAMEINSERT 0x0004}, \n
+will you...\n
+{NEXTACTION}{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}{NAMEINSERT 0x0001}!!!\n
+{WAITINPUT}{NEWCHAR}"
+0x01B,"{PORTRAIT 0x0001}{NAME 0x0000}{NAMEINSERT 0x0004}!!\n
+{WAITINPUT}{NEWCHAR}{NEXTACTION}{PORTRAIT 0x0005}{NAME 0x0004}
+...\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
+She still draws breath,\n
+but... Damn! I am\n
+too late.\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0003}{NAME 0x0001}
+Welcome to the party,\n
+{NAMEINSERT 0x0000}.\n
+You're late.\n
+{WAITINPUT}{NEWCHAR}{NEXTACTION}{PORTRAIT 0x0001}{NAME 0x0000}{NAMEINSERT 0x0001}...\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0003}{NAME 0x0001}{NAMEINSERT 0x0001}?\n
+Oh, his spirit no longer\n
+lives within me.\n
+{WAITINPUT}{SAMECHAR}{NEXTACTION}
+And I owe it all to that \n
+woman. Look at all the \n
+strength she's given me.\n
+{WAITINPUT}{NEWCHAR}{NEXTACTION}{PORTRAIT 0x0001}{NAME 0x0000}
+Dammit!  No mercy for\n
+you.\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0003}{NAME 0x0001}
+Who needs mercy?\n
+Weak threats from an\n
+unworthy opponent..\n
+{WAITINPUT}{NEWCHAR}"
+0x01C,"{PORTRAIT 0x0001}{NAME 0x0000}{NAMEINSERT 0x0001}...\n
+Forgive me...\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0003}{NAME 0x0001}
+You think I will lose...\n
+I, who wield the powers\n
+of Count {NAMEINSERT 0x0007}...\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}{NAMEINSERT 0x0001} was stronger\n
+than you are...\n
+{WAITINPUT}{SAMECHAR}
+I don't believe that\n
+you could have\n
+taken all that he was!\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0003}{NAME 0x0001}
+But if I die, he will \n
+perish as well.\n
+And the woman, too...\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
+...\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0003}{NAME 0x0001}
+So this is goodbye...\n
+{WAITINPUT}{SAMECHAR}
+With that cursed strength\n
+of yours, you'd better\n
+hunt down {NAMEINSERT 0x0007} eternally.\n
+{NEXTACTION}{WAITINPUT}{NEWCHAR}"
+0x01D,"{PORTRAIT 0x0002}{NAME 0x0001}
+Aaargh...\n
+Tha− that bracelet...\n
+You wore it for me...\n
+{WAITINPUT}{NEWCHAR}{NEXTACTION}{PORTRAIT 0x0001}{NAME 0x0000}
+?!\n
+{NAMEINSERT 0x0001}, is that you?\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0003}{NAME 0x0001}
+Wh− Why do you still live \n
+within me?! I thought you\n
+were dead!!\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
+Remember, {NAMEINSERT 0x0001}!!\n
+You're stronger\n
+than this!!\n
+{WAITINPUT}{NEWCHAR}{NEXTACTION}{PORTRAIT 0x0002}{NAME 0x0001}
+You− You're right... But\n
+compared to the training\n
+we had... this is nothing.\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0003}{NAME 0x0001}
+Why!?\n
+Why can I not free myself\n
+of you?\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0002}{NAME 0x0001}
+Because I choose not to \n
+free you. {NAMEINSERT 0x0000}! Finish\n
+me off!!\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0003}{NAME 0x0001}
+Aaargh...\n
+{NEXTACTION}
+I sense a strong magic at\n
+work...\n
+{WAITINPUT}{NEWCHAR}{NEXTACTION}{PORTRAIT 0x0001}{NAME 0x0000}
+The− The remains...\n
+{WAITINPUT}{NEWCHAR}{NEXTACTION}{PORTRAIT 0x0003}{NAME 0x0001}
+As long as I have this\n
+power, I have no need for \n
+this body! Here, have it!\n
+{WAITINPUT}{NEWCHAR}{NEXTACTION}{PORTRAIT 0x0002}{NAME 0x0001}
+Aaaaaah!!\n
+{WAITINPUT}{NEWCHAR}{NEXTACTION}{COMMAND2 0x0000}{PORTRAIT 0x0006}{NAME 0x0008}
+Hmmph, I'm not stable,\n
+but your blood will once\n
+again make me whole.\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
+Take it if you can...\n
+{NEXTACTION}
+Do not underestimate \n
+the power of {NAMEINSERT 0x0006}...\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0006}{NAME 0x0008}{NEXTACTION}
+Ok, let us begin then.\n
+I will enjoy destroying\n
+you.\n
+{WAITINPUT}{NEWCHAR}"
+0x01E,"{PORTRAIT 0x0006}{NAME 0x0008}
+Argggh!!\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
+I told you so. Do not \n
+underestimate the \n
+power of my bloodline!!\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0006}{NAME 0x0008}
+So− So this is the power\n
+of {NAMEINSERT 0x0006}...\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
+Vile spawn of {NAMEINSERT 0x0001}, you\n
+are not worthy of being \n
+my opponent.\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0006}{NAME 0x0008}
+I will now fade from this\n
+world... but I find some\n
+pleasure in this...\n
+{WAITINPUT}{SAMECHAR}
+with the cursed powers of \n
+yours, destiny calls you \n
+to hunt for all eternity.\n
+{WAITINPUT}{NEWCHAR}"
+0x01F,"{PORTRAIT 0x0005}{NAME 0x0004}
+...\n
+Oh, Ooh...\n
+{NEXTACTION}{WAITINPUT}{NEWCHAR}{NEXTACTION}{PORTRAIT 0x0001}{NAME 0x0000}
+It looks like you're\n
+coming to...\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0005}{NAME 0x0004}
+Have we...\n
+been saved?\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
+Yes...\n
+{WAITINPUT}{NEWCHAR}{NEXTACTION}{PORTRAIT 0x0005}{NAME 0x0004}
+Huh?  Where's {NAMEINSERT 0x0001}?\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
+...\n
+{NAMEINSERT 0x0001} is...\n
+arghh...\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0005}{NAME 0x0004}{NAMEINSERT 0x0000}... it's all right.\n
+You don't have to say\n
+anything more.\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
+I... I...\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0005}{NAME 0x0004}
+I have no idea about what\n
+happened between the two \n
+of you... but you mustn't \n
+{WAITINPUT}{SAMECHAR}
+blame yourself. Blaming\n
+yourself is the same as \n
+blaming him.\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
+Perhaps you're right...\n
+Indeed, {NAMEINSERT 0x0001} would\n
+have agreed with you...\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0005}{NAME 0x0004}
+At any rate, let's go \n
+home. We'll figure it all\n
+out after we've rested.\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
+That sounds good...\n
+Let's go home, {NAMEINSERT 0x0004}!\n
+{WAITINPUT}{NEWCHAR}"
+0x020,"{PORTRAIT 0x0001}{NAME 0x0000}
+Damn it all! Ultimately, \n
+I couldn't save Lydie or\n
+{NAMEINSERT 0x0001}.\n
+{WAITINPUT}{SAMECHAR}
+All that remains to\n
+remember them by\n
+is this bracelet...\n
+{WAITINPUT}{SAMECHAR}{NEXTACTION}
+I couldn't even protect \n
+those I love. I've failed \n
+as a Vampire Hunter!\n
+{WAITINPUT}{SAMECHAR}
+What on earth should I do\n
+with myself now...?\n
+{WAITINPUT}{NEWCHAR}"
+0x021,"{PORTRAIT 0x0002}{NAME 0x0001}
+...\n
+Wh− Where am I?\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}{NAMEINSERT 0x0001}, you've come \n
+back to us...\n
+{WAITINPUT}{NEWCHAR}{NEXTACTION}{PORTRAIT 0x0002}{NAME 0x0001}
+Am I alive...?\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
+You used your own\n
+strength to force him\n
+out of you.\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0002}{NAME 0x0001}
+It wasn't my strength...\n
+It was yours and \n
+{NAMEINSERT 0x0004}'s...\n
+{WAITINPUT}{SAMECHAR}{NEXTACTION}
+?!\n
+What about {NAMEINSERT 0x0004}?!\n
+Did you save her?\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
+She hasn't come to, but \n
+her bite marks faded when\n
+{NAMEINSERT 0x0007} was vanquished.\n
+{WAITINPUT}{SAMECHAR}
+She's regained some color.\n
+It's just a matter of time \n
+before she wakes up.\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0002}{NAME 0x0001}
+I see...\n
+{NAMEINSERT 0x0000}...\n
+Please forgive me...\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
+It's all behind us now. \n
+Everyone's been saved, so \n
+there is nothing more to say.\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0002}{NAME 0x0001}
+...\n
+Thank you.\n
+{WAITINPUT}{NEWCHAR}{NEXTACTION}{PORTRAIT 0x0005}{NAME 0x0004}
+...\n
+Uhh... Ooh...\n
+{WAITINPUT}{NEWCHAR}{NEXTACTION}{PORTRAIT 0x0001}{NAME 0x0000}
+It looks as if {NAMEINSERT 0x0004}'s \n
+coming to...\n
+{WAITINPUT}{NEWCHAR}{NEXTACTION}{PORTRAIT 0x0005}{NAME 0x0004}
+Huh, {NAMEINSERT 0x0000}...\n
+What am I doing here...?\n
+{WAITINPUT}{SAMECHAR}
+I think... that I...\n
+was bitten by {NAMEINSERT 0x0001}...\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
+Calm down...you must \n
+have just had a bad \n
+dream.  Feel your neck.\n
+{WAITINPUT}{NEWCHAR}{NEXTACTION}{PORTRAIT 0x0005}{NAME 0x0004}
+...\n
+{COMMAND2 0x0000}{WAITINPUT}
+There's nothing there...\n
+Huh, it was just a dream.\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0002}{NAME 0x0001}
+Hey, tell her the truth...\n
+{WAITINPUT}{NEWCHAR}{NEXTACTION}{PORTRAIT 0x0001}{NAME 0x0000}
+Shhh! Keep quiet.\n
+{WAITINPUT}{NEWCHAR}{NEXTACTION}{PORTRAIT 0x0005}{NAME 0x0004}
+What...?\n
+{NAMEINSERT 0x0001}!\n
+You've come back!\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0002}{NAME 0x0001}
+Yes, but actually...\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
+Yes, {NAMEINSERT 0x0001}. I'm sure you\n
+are exhausted, so let's talk \n
+after we get home!\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0002}{NAME 0x0001}
+No, I want to...\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
+Come on, {NAMEINSERT 0x0001}. Nothing\n
+happened! Isn't it best \n
+we leave it at that?\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0002}{NAME 0x0001}
+No, that's not right!\n
+You should finish what\n
+you start...\n
+{WAITINPUT}{NEWCHAR}{NEXTACTION}{PORTRAIT 0x0001}{NAME 0x0000}
+What did you just say!?\n
+{WAITINPUT}{NEWCHAR}{NEXTACTION}{PORTRAIT 0x0005}{NAME 0x0004}
+Cut it out, you two!\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0002}{NAME 0x0001}
+...\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
+...\n
+{WAITINPUT}{NEWCHAR}{NEXTACTION}{PORTRAIT 0x0005}{NAME 0x0004}
+Stop it, both of you!\n
+Don't get started.  We\n
+just got together!\n
+{NEXTACTION}{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0002}{NAME 0x0001}
+Actually, {NAMEINSERT 0x0004}...\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0005}{NAME 0x0004}
+I'll hear your stories at \n
+home. Until then, let's \n
+talk about other things.\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
+You heard the lady.\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0002}{NAME 0x0001}
+...\n
+{NEXTACTION}
+All right...\n
+{WAITINPUT}{NEWCHAR}{NEXTACTION}{PORTRAIT 0x0005}{NAME 0x0004}
+Hee hee. It's been a \n
+while, hasn't it, since the \n
+three of us got together.\n
+{NEXTACTION}{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
+Yes, it has...\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0002}{NAME 0x0001}
+Yes...\n
+{WAITINPUT}{NEWCHAR}"

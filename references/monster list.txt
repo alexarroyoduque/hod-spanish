@@ -1,0 +1,1692 @@
+
+                             .
+                            / \
+                            \ /
+                            | |                                         
+                       |\___/ \___/|                                 _
+      __    _          | ___   ___ |                                //
+     /_ \/\//          |/   \ /   \|          _                   /\¯
+    // \ /\/             _  | |  __          // __            _   \/
+   ||  //      /\      /\ | | | | /   /\    / \ \ \   /\   /\/_\  ||   /\
+   ||  \\     //\\    //\/  | | |/   | _\   \ | | |  //\\  | / \\ ||  //\\
+   ||   \\   ||  ||   \\/\  | | ||   || \\  | | | | ||  || ||  || || ||  ||
+   ||    \\  ||  ||    \ |  | | ||   ||_//  | | | | ||  || ||  || || ||  ||
+   ||     \\ ||  ||  // ||  | | || _ |  / _ | \/ /  ||  || ||  || || ||  ||
+    \\    //  \\/ |  \\//   | | |\//  \ \// |   /    \\/ | ||  || ||  \\/ |
+     \\__//__  \/\/   \/    | |  \/    \_/   \_/      \/\/ \/  \/ \/   \/\/
+      \_____/              _| |_
+                           \   /  H A R M O N Y   O F   D I S S O N A N C E 
+                            \_/
+
+
+
+                      CASTLEVANIA: HARMONY OF DISSONANCE
+                             MONSTER ENCYCLOPEDIA
+
+                                  Version 1.0
+
+                       For the Nintendo Game Boy Advance
+
+                            Author: Efrem Orizzonte
+
+
+==============================================================================
+COPYRIGHT AND DISCLAIMER
+==============================================================================
+
+This document is (c)2002 Efrem Orizzonte. It cannot be reproduced, be it 
+partially or entirely, without the author's explicit permission. Publishing of 
+it on any Web site without the author's permission is illegal, as is using it 
+in any form to make profit. This document is for private use only, and it is 
+not to be sold for cash.
+
+The author of this document is not an English-speaking person, so please be 
+comprehensive if you find any mistakes in the document. If you have 
+suggestions, corrections, questions, or comments that may be useful and that 
+are pertinent to the subject of this document, please send an e-mail to the 
+following address: 
+
+                          efroriz at hotmail dot com
+
+You are advised not to send in any spams or advertisements. Whether your 
+contribution is worthy of being added to the document is up to the author's 
+decision. If you contribution is useful, it will be inserted in the subsequent 
+update to the document, and you will be given full credit for it.
+
+
+==============================================================================
+MONSTER ENCYCLOPEDIA
+==============================================================================
+
+The following is a complete list of the 100 different enemies you can 
+encounter throughout the game. They are listed as they are in the in-game 
+Monster Encyclopedia, and the info is also the same, apart from the indication 
+of the area(s) where you can find each monster. To visualize these info in the 
+game, you must first collect the Monster Tome relic in The Wailing Way A , 
+then access the menu and select "Secret Info" and "Encyclopedia". 
+
+"A" and "B" indicate each of the two castles in the game.
+
+A "---" in the "Drop items" list means "nothing".
+
+Concerning experience, you may notice that from a certain moment onwards, 
+enemies will give you less EXP than that that is listed. The reason behind it 
+is this: an enemy will give you the listed amount of EXP points if your 
+experience level is lesser than, or equal to, his own. When your level gets 
+higher than that of a monster, that monster will give you less than the listed 
+EXP when killed. According to Zach Keene's FAQ, any monster will give you only 
+1 EXP point when killed since the moment you have roughly 10 levels more than 
+him. 
+
+------------------------------------------------------------------------------
+
+No. 01
+
+BAT
+Lv 1
+HP 1
+Tolerance: none
+Weakness: none
+Drop items: $1
+            ---
+EXP 5
+
+Area: A: Entrance, Marble Corridor, The Wailing Way, Aqueduct of Dragons, 
+         Luminous Cavern 
+      B: Luminous Cavern, Shrine of the Apostates
+
+------------------------------------------------------------------------------
+
+No. 02
+
+TINY SLIME
+Lv 1
+HP 3
+Tolerance: none
+Weakness: none
+Drop items: $1
+            ---
+EXP 5
+
+Area: A: Aqueduct of Dragons
+      B: Luminous Cavern, Aqueduct of Dragons
+
+------------------------------------------------------------------------------
+
+No. 03
+
+SLIME
+Lv 3
+HP 32
+Tolerance: none
+Weakness: none
+Drop items: Anti-venom
+            Sturdy Turban
+EXP 9
+
+Area: A: Aqueduct of Dragons
+      B: Luminous Cavern
+
+------------------------------------------------------------------------------
+
+No. 04
+
+MEDUSA HEAD
+Lv 1
+HP 1
+Tolerance: Thunder
+Weakness: none
+Drop items: ---
+            Pendant
+EXP 5
+
+Area: A: Marble Corridor, Room of Illusion
+      B: Clock Tower
+
+------------------------------------------------------------------------------
+
+No. 05
+
+ZOMBIE
+Lv 1
+HP 2
+Tolerance: none
+Weakness: Fire
+Drop items: ---
+            Casual Wear
+EXP 5
+
+Area: A: Entrance, Room of Illusion
+      B: Castle Treasury
+
+------------------------------------------------------------------------------
+
+No. 06
+
+SKELETON
+Lv 2
+HP 3
+Tolerance: none
+Weakness: none
+Drop items: $5
+            $25
+EXP 7
+
+Area: A: Entrance, Marble Corridor
+      B: Castle Treasury, Skeleton Cave
+
+------------------------------------------------------------------------------
+
+No. 07
+
+FLEAMAN
+Lv 2
+HP 3
+Tolerance: none
+Weakness: none
+Drop items: $1
+            $5
+EXP 7
+
+Area: A: Marble Corridor, Chapel of Dissonance, Luminous Cavern, Clock Tower, 
+         Castle Treasury
+      B: Clock Tower, Marble Corridor
+
+------------------------------------------------------------------------------
+
+No. 08
+
+BONE SOLDIER
+Lv 3
+HP 32
+Tolerance: none
+Weakness: none
+Drop items: Potion
+            Rubber Armor
+EXP 9
+
+Area: A: Marble Corridor, Skeleton Cave
+      B: Castle Treasury, Skeleton Cave
+
+------------------------------------------------------------------------------
+
+No. 09
+
+ARMOR KNIGHT
+Lv 4
+HP 32
+Tolerance: none
+Weakness: Thunder
+Drop items: Potion
+            Field Armor
+EXP 11
+
+Area: A: Entrance, Marble Corridor
+      B: not found
+
+------------------------------------------------------------------------------
+
+No. 10
+
+GIANT BAT
+Lv 10
+HP 400
+Tolerance: none
+Weakness: none
+Drop items: ---
+            ---
+EXP 66
+
+Area: A: Marble Corridor (Boss)
+
+------------------------------------------------------------------------------
+
+No. 11
+
+GHOST
+Lv 4
+HP 4
+Tolerance: none
+Weakness: Fire
+Drop items: ---
+            ---
+EXP 11
+
+Area: A: The Wailing Way
+      B: Castle Treasury, Luminous Cavern, Clock Tower
+
+------------------------------------------------------------------------------
+
+No. 12
+
+BONE PILLAR
+Lv 4
+HP 48
+Tolerance: Fire
+Weakness: none
+Drop items: $1
+            $5
+EXP 11
+
+Area: A: The Wailing Way, Shrine of the Apostates, Chapel of Dissonance, Clock
+         Tower, Castle Treasury, Skeleton Cave, Luminous Cavern
+      B: Skeleton Cave, The Wailing Way, Luminous Cavern
+
+------------------------------------------------------------------------------
+
+No. 13
+
+LARGE GHOST
+Lv 6
+HP 33
+Tolerance: none
+Weakness: Fire
+Drop items: $5
+            $25
+EXP 12
+
+Area: A: The Wailing Way
+      B: The Wailing Way, Shrine of the Apostates
+
+------------------------------------------------------------------------------
+
+No. 14
+
+WHITE DRAGON
+Lv 6
+HP 96
+Tolerance: none
+Weakness: none
+Drop items: $5
+            $25
+EXP 12
+
+Area: A: Shrine of the Apostates, Sky Walkway, Clock Tower, Skeleton Cave
+      B: Aqueduct of Dragons
+
+------------------------------------------------------------------------------
+
+No. 15
+
+ROCK ARMOR
+Lv 7
+HP 48
+Tolerance: Ice
+Weakness: Thunder
+Drop items: Potion
+            Plain Circlet
+EXP 13
+
+Area: A: The Wailing Way, Shrine of the Apostates
+      B: not found
+
+------------------------------------------------------------------------------
+
+No. 16
+
+WHITE DRAGON LV2
+Lv 8
+HP 204
+Tolerance: none
+Weakness: none
+Drop items: Potion
+            $100
+EXP 17
+
+Area: A: not found
+      B: Clock Tower
+
+------------------------------------------------------------------------------
+
+No. 17
+
+LIZARD MAN
+Lv 8
+HP 48
+Tolerance: none
+Weakness: Ice
+Drop items: Potion
+            Plate Coat
+EXP 17
+
+Area: A: Room of Illusion, Shrine of the Apostates, Castle Treasury, The 
+         Wailing Way
+      B: Marble Corridor
+
+------------------------------------------------------------------------------
+
+No. 18
+
+LIVING ARMOR
+Lv 13
+HP 900
+Tolerance: none
+Weakness: none
+Drop items: ---
+            ---
+EXP 110
+
+Area: A: Shrine of the Apostates (Boss)
+
+------------------------------------------------------------------------------
+
+No. 19
+
+ECTOPLASM
+Lv 7
+HP 9
+Tolerance: none
+Weakness: none
+Drop items: Uncurse Potion
+            Thin Robe
+EXP 13
+
+Area: A: Luminous Cavern 
+      B: Castle Treasury, Castle Top Floor, Luminous Cavern
+
+------------------------------------------------------------------------------
+
+No. 20
+
+SKELETON BLAZE
+Lv 9
+HP 64
+Tolerance: none
+Weakness: none
+Drop items: $25
+            Potion
+EXP 22
+
+Area: A: not found
+      B: Castle Treasury, Castle Top Floor, Clock Tower
+
+------------------------------------------------------------------------------
+
+No. 21
+
+BIG SKELETON
+Lv 9
+HP 128
+Tolerance: none
+Weakness: Fire
+Drop items: $25
+            Opal
+EXP 22
+
+Area: A: Clock Tower 
+      B: Skeleton Cave, Castle Top Floor
+
+------------------------------------------------------------------------------
+
+No. 22
+
+FLYING BONE
+Lv 7
+HP 12
+Tolerance: Wind
+Weakness: none
+Drop items: $5
+            Crimson Cloak
+EXP 13
+
+Area: A: Sky Walkway, Chapel of Dissonance
+      B: Skeleton Cave, Sky Walkway
+
+------------------------------------------------------------------------------
+
+No. 23
+
+PEEPING EYE
+Lv 8
+HP 51
+Tolerance: none
+Weakness: none
+Drop items: Potion
+            Shin Guards
+EXP 17
+
+Area: A: Castle Top Floor
+      B: Castle Treasury, Clock Tower
+
+------------------------------------------------------------------------------
+
+No. 24
+
+SKELETON FLAIL
+Lv 10
+HP 51
+Tolerance: none
+Weakness: Thunder
+Drop items: $25
+            Cloth Helmet
+EXP 27
+
+Area: A: Castle Treasury, Skeleton Cave
+      B: Castle Treasury, Skeleton Cave
+
+------------------------------------------------------------------------------
+
+No. 25
+
+SKELETON SPEAR
+Lv 11
+HP 51
+Tolerance: none
+Weakness: none
+Drop items: $25
+            Leather Helmet
+EXP 33
+
+Area: A: not found
+      B: Skeleton Cave, Castle Top Floor, Chapel of Dissonance
+
+------------------------------------------------------------------------------
+
+No. 26
+
+RED SKELETON
+Lv 11
+HP 6
+Tolerance: Fire
+Weakness: none
+Drop items: ---
+            ---
+EXP 0
+
+Area: A: Skeleton Cave 
+      B: Skeleton Cave
+
+------------------------------------------------------------------------------
+
+No. 27
+
+SKELETON RIB
+Lv 11
+HP 51
+Tolerance: none
+Weakness: none
+Drop items: Uncurse Potion
+            Bronze Armor
+EXP 33
+
+Area: A: not found
+      B: Castle Treasury, Skeleton Cave, Clock Tower
+
+------------------------------------------------------------------------------
+
+No. 28
+
+BONE THROWER
+Lv 12
+HP 51
+Tolerance: none
+Weakness: none
+Drop items: Anti-venom
+            Bronze Boots
+EXP 39
+
+Area: A: Chapel of Dissonance, Skeleton Cave
+      B: Skeleton Cave, Castle Top Floor, Luminous Cavern
+
+------------------------------------------------------------------------------
+
+No. 29
+
+SKELETON APE
+Lv 12
+HP 51
+Tolerance: none
+Weakness: none
+Drop items: $25
+            Rock Leather
+EXP 39
+
+Area: A: Skeleton Cave, Castle Treasury 
+      B: Skeleton Cave, Luminous Cavern 
+
+------------------------------------------------------------------------------
+
+No. 30
+
+GATE GUARDER
+Lv 12
+HP 640
+Tolerance: none
+Weakness: none
+Drop items: ---
+            ---
+EXP 39
+
+Area: A: not found
+      B: Castle Treasury
+
+------------------------------------------------------------------------------
+
+No. 31
+
+GOLEM
+Lv 18
+HP 1408
+Tolerance: Thunder
+Weakness: none
+Drop items: ---
+            ---
+EXP 273
+
+Area: B: Luminous Cavern (Boss)
+
+------------------------------------------------------------------------------
+
+No. 32
+
+SKULL KNIGHT
+Lv 20
+HP 1600
+Tolerance: none
+Weakness: Thunder
+Drop items: ---
+            ---
+EXP 339
+
+Area: B: Skeleton Cave (Boss)
+
+------------------------------------------------------------------------------
+
+No. 33
+
+TINY DEVIL
+Lv 12
+HP 64
+Tolerance: none
+Weakness: none
+Drop items: Uncurse Potion
+            Turquoise
+EXP 49
+
+Area: A: Castle Top Floor (Pazuzu), Luminous Cavern 
+      B: not found
+
+------------------------------------------------------------------------------
+
+No. 34
+
+SCARECROW
+Lv 13
+HP 12
+Tolerance: none
+Weakness: Fire
+Drop items: $5
+            Gauntlets
+EXP 47
+
+Area: A: not found
+      B: Luminous Cavern
+
+------------------------------------------------------------------------------
+
+No. 35
+
+SKELETON SPIDER
+Lv 13
+HP 400
+Tolerance: none
+Weakness: none
+Drop items: Potion
+            Bicocette
+EXP 47
+
+Area: A: not found
+      B: Skeleton Cave
+
+------------------------------------------------------------------------------
+
+No. 36
+
+MAN-EATER
+Lv 14
+HP 96
+Tolerance: none
+Weakness: Fire, Ice
+Drop items: Potion
+            Mirror Pendant
+EXP 55
+
+Area: A: Luminous Cavern
+      B: Luminous Cavern
+
+------------------------------------------------------------------------------
+
+No. 37
+
+AXE ARMOR 
+Lv 15
+HP 80
+Tolerance: Fire
+Weakness: Thunder
+Drop items: Iron Boots
+            Bangle
+EXP 62
+
+Area: A: not found
+      B: Luminous Cavern
+
+------------------------------------------------------------------------------
+
+No. 38
+
+WITCH
+Lv 16
+HP 80
+Tolerance: Ice
+Weakness: Fire
+Drop items: Anti-venom
+            Loose Clothing
+EXP 71
+
+Area: A: not found
+      B: Luminous Cavern
+
+------------------------------------------------------------------------------
+
+No. 39
+
+SIREN
+Lv 16
+HP 80
+Tolerance: none
+Weakness: none
+Drop items: ---
+            Mana Prism
+EXP 71
+
+Area: A: not found
+      B: Luminous Cavern
+
+------------------------------------------------------------------------------
+
+No. 40
+
+BOMBER ARMOR
+Lv 16
+HP 96
+Tolerance: none
+Weakness: Thunder
+Drop items: $5
+            $25
+EXP 71
+
+Area: A: not found
+      B: Castle Treasury, Luminous Cavern
+
+------------------------------------------------------------------------------
+
+No. 41
+
+MINOTAUR
+Lv 20
+HP 1920
+Tolerance: none
+Weakness: none
+Drop items: ---
+            ---
+EXP 339
+
+Area: B: Castle Top Floor (Boss)
+
+------------------------------------------------------------------------------
+
+No. 42
+
+BALLOON
+Lv 14
+HP 12
+Tolerance: none
+Weakness: Wind
+Drop items: $5
+            $25
+EXP 55
+
+Area: A: Sky Walkway
+      B: not found
+
+------------------------------------------------------------------------------
+
+No. 43
+
+BIG BALLOON
+Lv 15
+HP 30
+Tolerance: none
+Weakness: Wind
+Drop items: $25
+            Cuirass Armor
+EXP 62
+
+Area: A: Sky Walkway
+      B: not found
+
+------------------------------------------------------------------------------
+
+No. 44
+
+BONE ARCHER
+Lv 17
+HP 84
+Tolerance: Ice
+Weakness: none
+Drop items: Potion
+            Gloves
+EXP 81
+
+Area: A: Sky Walkway, Chapel of Dissonance, Castle Treasury, Skeleton Cave 
+      B: not found
+
+------------------------------------------------------------------------------
+
+No. 45
+
+RULER SWORD
+Lv 19
+HP 240
+Tolerance: Thunder, Wind
+Weakness: Ice
+Drop items: Puff Coat
+            Greek Helm
+EXP 102
+
+Area: A: Sky Walkway
+      B: not found
+
+------------------------------------------------------------------------------
+
+No. 46
+
+DISC ARMOR
+Lv 19
+HP 156
+Tolerance: none
+Weakness: Thunder
+Drop items: $100
+            Cloth Helmet
+EXP 102
+
+Area: A: Clock Tower, Castle Treasury, Luminous Cavern
+      B: Castle Top Floor, Clock Tower
+
+------------------------------------------------------------------------------
+
+No. 47
+
+DEVIL
+Lv 27
+HP 2176
+Tolerance: none
+Weakness: none
+Drop items: ---
+            ---
+EXP 627
+
+Area: A: Sky Walkway (Boss)
+      B: Marble Corridor
+
+------------------------------------------------------------------------------
+
+No. 48
+
+MERMAN
+Lv 19
+HP 160
+Tolerance: Fire
+Weakness: Ice
+Drop items: Potion
+            Piros Helm
+EXP 102
+
+Area: A: Aqueduct of Dragons
+      B: Aqueduct of Dragons
+
+------------------------------------------------------------------------------
+
+No. 49
+
+FISHMAN
+Lv 19
+HP 160
+Tolerance: Fire
+Weakness: Ice
+Drop items: Potion
+            Parade Armor
+EXP 102
+
+Area: A: Aqueduct of Dragons
+      B: Aqueduct of Dragons
+
+------------------------------------------------------------------------------
+
+No. 50
+
+ARABAKI
+Lv 20
+HP 13
+Tolerance: none
+Weakness: none
+Drop items: $25
+            Gold Necklace
+EXP 113
+
+Area: A: Clock Tower, Castle Top Floor, Castle Treasury
+      B: Clock Tower, Aqueduct of Dragons, Sky Walkway, Marble Corridor
+
+------------------------------------------------------------------------------
+
+No. 51
+
+RULER SWORD LV2
+Lv 20
+HP 320
+Tolerance: Thunder, Wind
+Weakness: Ice
+Drop items: Arm Guards
+            Chain Mail
+EXP 113
+
+Area: A: Clock Tower
+      B: not found
+
+------------------------------------------------------------------------------
+
+No. 52
+
+FEATHER DEMON
+Lv 23
+HP 272
+Tolerance: Wind
+Weakness: none
+Drop items: Barbuta
+            Ramail Coat
+EXP 150
+
+Area: A: Clock Tower
+      B: Castle Treasury, Entrance
+
+------------------------------------------------------------------------------
+
+No. 53
+
+GUARDIAN ARMOR
+Lv 24
+HP 4800
+Tolerance: none
+Weakness: none
+Drop items: ---
+            ---
+EXP 165
+
+Area: A: Clock Tower
+      B: not found
+
+------------------------------------------------------------------------------
+
+No. 54
+
+BOOMERANG ARMOR
+Lv 24
+HP 800
+Tolerance: none
+Weakness: none
+Drop items: ---
+            ---
+EXP 165
+
+Area: A: Aqueduct of Dragons
+      B: not found
+
+------------------------------------------------------------------------------
+
+No. 55
+
+GIANT MERMAN
+Lv 30
+HP 3520
+Tolerance: Fire
+Weakness: Ice
+Drop items: ---
+            ---
+EXP 1298
+
+Area: A: Aqueduct of Dragons (Boss)
+
+------------------------------------------------------------------------------
+
+No. 56
+
+MAX SLIMER
+Lv 32
+HP 3680
+Tolerance: none
+Weakness: none
+Drop items: ---
+            ---
+EXP 1479
+
+Area: A: Clock Tower (Boss) 
+
+------------------------------------------------------------------------------
+
+No. 57
+
+FLEAMAN ARMOR
+Lv 14
+HP 20
+Tolerance: Fire
+Weakness: Thunder
+Drop items: $25
+            Fire Mail
+EXP 55
+
+Area: A: Castle Treasury
+      B: Clock Tower, Marble Corridor
+
+------------------------------------------------------------------------------
+
+No. 58
+
+GOLD MEDUSA
+Lv 14
+HP 13
+Tolerance: Thunder
+Weakness: none
+Drop items: ---
+            Medusa Pendant
+EXP 55
+
+Area: A: Clock Tower
+      B: not found
+
+------------------------------------------------------------------------------
+
+No. 59
+
+MIMIC
+Lv 18
+HP 112
+Tolerance: none
+Weakness: Ice
+Drop items: Potion
+            Brigandine
+EXP 91
+
+Area: A: Skeleton Cave
+      B: not found
+
+------------------------------------------------------------------------------
+
+No. 60
+
+WHITE DRAGON LV3
+Lv 18
+HP 160
+Tolerance: none
+Weakness: none
+Drop items: High Potion
+            Armet
+EXP 91
+
+Area: A: not found
+      B: Castle Treasury
+
+------------------------------------------------------------------------------
+
+No. 61
+
+SKELETON MIRROR
+Lv 18
+HP 160
+Tolerance: none
+Weakness: none
+Drop items: $100
+            Silk Hat
+EXP 91
+
+Area: A: not found 
+      B: Sky Walkway
+
+------------------------------------------------------------------------------
+
+No. 62
+
+0
+Lv 19
+HP 160
+Tolerance: none
+Weakness: none
+Drop items: Drumstick
+            Noble Robe
+EXP 102
+
+Area: A: not found
+      B: Marble Corridor, Room of Illusion
+
+------------------------------------------------------------------------------
+
+No. 63
+
+HARPY
+Lv 21
+HP 192
+Tolerance: Wind
+Weakness: Ice
+Drop items: High Potion
+            Bascinet
+EXP 125
+
+Area: A: Clock Tower
+      B: not found
+
+------------------------------------------------------------------------------
+
+No. 64
+
+AXE ARMOR LV2
+Lv 24
+HP 192
+Tolerance: none
+Weakness: Thunder
+Drop items: Kettle Hat
+            Ancient Armor
+EXP 165
+
+Area: A: Castle Treasury, Luminous Cavern
+      B: Sky Walkway, Chapel of Dissonance, Marble Corridor
+
+------------------------------------------------------------------------------
+
+No. 65
+
+SPECTER
+Lv 24
+HP 96
+Tolerance: none
+Weakness: none
+Drop items: Noon Star
+            Sapphire
+EXP 165
+
+Area: A: Clock Tower, Castle Treasury 
+      B: Clock Tower, Chapel of Dissonance, Marble Corridor
+
+------------------------------------------------------------------------------
+
+No. 66
+
+BRONZE GUARDER
+Lv 25
+HP 112
+Tolerance: none
+Weakness: none
+Drop items: ---
+            ---
+EXP 179
+
+Area: A: not found
+      B: Clock Tower
+
+------------------------------------------------------------------------------
+
+No. 67
+
+PEEPING BIG
+Lv 33
+HP 2000
+Tolerance: none
+Weakness: none
+Drop items: ---
+            ---
+EXP 1981
+
+Area: B: Clock Tower (Boss)
+
+------------------------------------------------------------------------------
+
+No. 68
+
+LEGION (SAINT)
+Lv 35
+HP 1920
+Tolerance: none
+Weakness: none
+Drop items: ---
+            ---
+EXP 2230
+
+Area: B: Sky Walkway (Boss)
+
+------------------------------------------------------------------------------
+
+No. 69
+
+SHADOW
+Lv 36
+HP 1600
+Tolerance: none
+Weakness: none
+Drop items: ---
+            ---
+EXP 2362
+
+Area: B: Sky Walkway (Boss)
+
+------------------------------------------------------------------------------
+
+No. 70
+
+MELTY ZOMBIE
+Lv 26
+HP 192
+Tolerance: none
+Weakness: Ice, Wind
+Drop items: Uncurse Potion
+            Iron Helmet
+EXP 193
+
+Area: A: not found
+      B: Aqueduct of Dragons
+
+------------------------------------------------------------------------------
+
+No. 71
+
+BONE LIQUID
+Lv 25
+HP 38
+Tolerance: none
+Weakness: Thunder
+Drop items: Anti-venom
+            Velvet Cloak
+EXP 179
+
+Area: A: not found
+      B: Aqueduct of Dragons, Entrance
+
+------------------------------------------------------------------------------
+
+No. 72
+
+RULER SWORD LV3
+Lv 27
+HP 384
+Tolerance: Thunder, Wind
+Weakness: Ice
+Drop items: $250
+            Greaves
+EXP 209
+
+Area: A: Castle Treasury
+      B: Sky Walkway
+
+------------------------------------------------------------------------------
+
+No. 73
+
+POISON LIZARD
+Lv 29
+HP 240
+Tolerance: none
+Weakness: Ice
+Drop items: Turkey
+            Heavy Armor
+EXP 242
+
+Area: A: Castle Top Floor, Castle Treasury
+      B: Marble Corridor
+
+------------------------------------------------------------------------------
+
+No. 74
+
+PAZUZU
+Lv 38
+HP 4500
+Tolerance: none 
+Weakness: none
+Drop items: ---
+            ---
+EXP 2640
+
+Area: A: Castle Top Floor (Boss)
+
+------------------------------------------------------------------------------
+
+No. 75
+
+SPRIGGAN
+Lv 35
+HP 280
+Tolerance: none
+Weakness: Wind
+Drop items: $100
+            Steel Glove
+EXP 354
+
+Area: A: Castle Treasury
+      B: Sky Walkway, Entrance, Room of Illusion
+
+------------------------------------------------------------------------------
+
+No. 76
+
+GORGON
+Lv 32
+HP 420
+Tolerance: Thunder
+Weakness: none
+Drop items: Double Mail
+            Silver Bangle
+EXP 295
+
+Area: A: Castle Treasury
+      B: not found
+
+------------------------------------------------------------------------------
+
+No. 77
+
+BLAZE MASTER
+Lv 33
+HP 280
+Tolerance: none
+Weakness: none
+Drop items: Steel Helmet
+            Bloody Glove
+EXP 314
+
+Area: A: Castle Treasury, Luminous Cavern
+      B: not found
+
+------------------------------------------------------------------------------
+
+No. 78
+
+ARTHRO SKELETON
+Lv 33
+HP 1400
+Tolerance: none 
+Weakness: none
+Drop items: High Potion
+            Magic Necklace
+EXP 314
+
+Area: A: Skeleton Cave
+      B: not found
+
+------------------------------------------------------------------------------
+
+No. 79
+
+RARE GHOST
+Lv 34
+HP 2
+Tolerance: none
+Weakness: none
+Drop items: Lucky Ring
+            Mystic Brooch
+EXP 334
+
+Area: A: Castle Top Floor
+      B: Entrance, Shrine of the Apostates
+
+------------------------------------------------------------------------------
+
+No. 80
+
+SKELETON GLASS
+Lv 34
+HP 56
+Tolerance: Ice
+Weakness: none
+Drop items: $250
+            Ruby
+EXP 334
+
+Area: A: Skeleton Cave
+      B: not found
+
+------------------------------------------------------------------------------
+
+No. 81
+
+VICTORY ARMOR
+Lv 36
+HP 280
+Tolerance: Fire
+Weakness: Thunder
+Drop items: $400
+            Ninja Cloak
+EXP 375
+
+Area: A: Marble Corridor, Shrine of the Apostates, Luminous Cavern
+      B: Room of Illusion
+
+------------------------------------------------------------------------------
+
+No. 82
+
+HAMMER-HAMMER
+Lv 36
+HP 1400
+Tolerance: none
+Weakness: none
+Drop items: High Potion
+            Crested Band
+EXP 375
+
+Area: A: Luminous Cavern
+      B: not found
+
+------------------------------------------------------------------------------
+
+No. 83
+
+DISC ARMOR LV2
+Lv 33
+HP 280
+Tolerance: none
+Weakness: Thunder
+Drop items: $250
+            High Potion
+EXP 143
+
+Area: A: not found
+      B: Clock Tower
+
+------------------------------------------------------------------------------
+
+No. 84
+
+MINOTAUR LV2
+Lv 42
+HP 4200
+Tolerance: none 
+Weakness: none
+Drop items: ---
+            ---
+EXP 3228
+
+Area: A: Castle Top Floor (Boss)
+
+------------------------------------------------------------------------------
+
+No. 85
+
+LEGION (CORPSE)
+Lv 43
+HP 4620
+Tolerance: none
+Weakness: none
+Drop items: ---
+            ---
+EXP 3388
+
+Area: A: Skeleton Cave (Boss)
+
+------------------------------------------------------------------------------
+
+No. 86
+
+TALOS
+Lv 48
+HP 4200
+Tolerance: Ice
+Weakness: none
+Drop items: ---
+            ---
+EXP 4227
+
+Area: A: Luminous Cavern (Boss)
+
+------------------------------------------------------------------------------
+
+No. 87
+
+DEATH
+Lv 48
+HP 3920
+Tolerance: none
+Weakness: none
+Drop items: ---
+            ---
+EXP 4227
+
+Area: A: Luminous Cavern (Boss)
+
+------------------------------------------------------------------------------
+
+No. 88
+
+DEATH
+Lv 49
+HP 2800
+Tolerance: none 
+Weakness: none
+Drop items: ---
+            ---
+EXP 4406
+
+Area: A: Luminous Cavern (Boss)
+
+------------------------------------------------------------------------------
+
+No. 89
+
+PIXIE
+Lv 36
+HP 320
+Tolerance: Fire
+Weakness: Ice
+Drop items: Big Mana Prism
+            Diamond
+EXP 375
+
+Area: A: Luminous Cavern
+      B: not found
+
+------------------------------------------------------------------------------
+
+No. 90
+
+SYLPH
+Lv 36
+HP 320
+Tolerance: none
+Weakness: none
+Drop items: Big Mana Prism
+            Silver Tiara
+EXP 375
+
+Area: A: Luminous Cavern
+      B: not found
+
+------------------------------------------------------------------------------
+
+No. 91
+
+MASTER LIZARD
+Lv 38
+HP 280
+Tolerance: none
+Weakness: Ice
+Drop items: Turkey
+            Battle Armor
+EXP 419
+
+Area: A: Castle Treasury
+      B: Marble Corridor
+
+------------------------------------------------------------------------------
+
+No. 92
+
+OWL
+Lv 37
+HP 252
+Tolerance: Wind
+Weakness: none
+Drop items: $250
+            Turkey
+EXP 397
+
+Area: A: not found (Wailing Way)
+      B: The Wailing Way, Shrine of the Apostates
+
+------------------------------------------------------------------------------
+
+No. 93
+
+CLEAR BONE
+Lv 38
+HP 72
+Tolerance: Thunder
+Weakness: none
+Drop items: $400
+            Ancient Robe
+EXP 419
+
+Area: A: not found
+      B: Entrance
+
+------------------------------------------------------------------------------
+
+No. 94
+
+JP BONEPILLAR
+Lv 39
+HP 72
+Tolerance: none
+Weakness: Wind
+Drop items: $250
+            $400
+EXP 441
+
+Area: A: not found
+      B: Shrine of the Apostates
+
+------------------------------------------------------------------------------
+
+No. 95
+
+SIMON WRAITH
+Lv 41
+HP 360
+Tolerance: none
+Weakness: Fire
+Drop items: High Potion
+            Noon Star
+EXP 488
+
+Area: A: not found
+      B: The Wailing Way, Shrine of the Apostates
+
+------------------------------------------------------------------------------
+
+No. 96
+
+PIKE MASTER
+Lv 43
+HP 1800
+Tolerance: none
+Weakness: none
+Drop items: Gold Headband
+            Floating Boots
+EXP 537
+
+Area: A: not found
+      B: Marble Corridor
+
+------------------------------------------------------------------------------
+
+No. 97
+
+CYCLOPS
+Lv 49
+HP 4680
+Tolerance: none 
+Weakness: none
+Drop items: ---
+            ---
+EXP 4406
+
+Area: B: Shrine of the Apostates (Boss)
+
+------------------------------------------------------------------------------
+
+No. 98
+
+MAXIM
+Lv 46
+HP 4800
+Tolerance: none
+Weakness: none
+Drop items: ---
+            ---
+EXP 0
+
+Area: A: Castle Treasury (Boss)
+      B: Castle Treasury (Boss)
+
+------------------------------------------------------------------------------
+
+No. 99
+
+DRACULA WRAITH
+Lv 52
+HP 2250
+Tolerance: none
+Weakness: none
+Drop items: ---
+            ---
+EXP 0
+
+Area: B: Castle Treasury (Boss)
+
+------------------------------------------------------------------------------
+
+No. 100
+
+DRACULA WRAITH
+Lv 55
+HP 6666
+Tolerance: none
+Weakness: none
+Drop items: ---
+            ---
+EXP 0
+
+Area: B: Castle Treasury (Boss)
+
+
+==============================================================================
+CREDITS
+==============================================================================
+
+My thanks go to...
+
+Konami Computer Entertainment for another great Castlevania game. They 
+couldn't resist the temptation to milk out the Symphony of the Night success, 
+but the final result is quite remarkable, albeit less addictive than Circle of 
+the Moon.
+
+Zach Keene for another excellent Castlevania FAQ. It helped me found out some 
+secrets, and its Mechanics section simply deserves to be read.
+
+Demajen for his good Heretic's Grave Web site. It provided detailed maps and 
+monster lists to help me clear up mistakes.
+
+You, for reading my FAQ. I hope you enjoyed it, but most of all, I hope it was 
+useful to you. Thank you!
+
+
+
+
+
+                  ~ Castlevania: Harmony of Dissonance FAQ ~
+                       Copyright Efrem Orizzonte 2002

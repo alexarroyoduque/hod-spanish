@@ -1,0 +1,426 @@
+0x022,"Potion\n
+"
+0x023,"High Potion\n
+"
+0x024,"Elixir\n
+"
+0x025,"Mana Prism\n
+"
+0x026,"Big Mana Prism\n
+"
+0x027,"Drumstick\n
+"
+0x028,"Turkey\n
+"
+0x029,"Anti−venom\n
+"
+0x02A,"Uncurse Potion\n
+"
+0x02B,"Medicine Jar\n
+"
+0x02C,"Lure Key\n
+"
+0x02D,"Skull Key\n
+"
+0x02E,"Floodgate Key\n
+"
+0x02F,"Castle Map 1\n
+"
+0x030,"Castle Map 2\n
+"
+0x031,"Castle Map 3\n
+"
+0x032,"Hint Card 1\n
+"
+0x033,"Hint Card 2\n
+"
+0x034,"Hint Card 3\n
+"
+0x035,"Hint Card 4\n
+"
+0x036,"Hint Card 5\n
+"
+0x037,"Hint Card 6\n
+"
+0x038,"Noon Star\n
+"
+0x039,"Opal\n
+"
+0x03A,"Turquoise\n
+"
+0x03B,"Sapphire\n
+"
+0x03C,"Ruby\n
+"
+0x03D,"Diamond\n
+"
+0x03E,"Crushing Stone\n
+"
+0x03F,"Steel Tip\n
+"
+0x040,"Platinum Tip\n
+"
+0x041,"Energy Circle\n
+"
+0x042,"Bullet Tip\n
+"
+0x043,"Red Stone\n
+"
+0x044,"Blue Stone\n
+"
+0x045,"Yellow Stone\n
+"
+0x046,"Green Stone\n
+"
+0x047,"Leather Armor\n
+"
+0x048,"Rubber Armor\n
+"
+0x049,"Field Armor\n
+"
+0x04A,"Plate Coat\n
+"
+0x04B,"Cloth Tunic\n
+"
+0x04C,"Bronze Armor\n
+"
+0x04D,"Rock Leather\n
+"
+0x04E,"Cuirass Armor\n
+"
+0x04F,"Padded Armor\n
+"
+0x050,"Puff Coat\n
+"
+0x051,"Parade Armor\n
+"
+0x052,"Chain Mail\n
+"
+0x053,"Scale Armor\n
+"
+0x054,"Healing Mail\n
+"
+0x055,"Guardian Armor\n
+"
+0x056,"Fire Mail\n
+"
+0x057,"Brigandine\n
+"
+0x058,"Ancient Armor\n
+"
+0x059,"Heavy Armor\n
+"
+0x05A,"Plate Mail\n
+"
+0x05B,"Double Mail\n
+"
+0x05C,"Sun Armor\n
+"
+0x05D,"Moon Armor\n
+"
+0x05E,"Battle Armor\n
+"
+0x05F,"Walk Armor\n
+"
+0x060,"Silver Armor\n
+"
+0x061,"Ceramic Mail\n
+"
+0x062,"Magical Armor\n
+"
+0x063,"Kaiser Mail\n
+"
+0x064,"Casual Wear\n
+"
+0x065,"Summer Clothes\n
+"
+0x066,"T − Shirt\n
+"
+0x067,"Thin Robe\n
+"
+0x068,"Fancy Clothes\n
+"
+0x069,"Loose Clothing\n
+"
+0x06A,"Ramail Coat\n
+"
+0x06B,"Blizzard Robe\n
+"
+0x06C,"Noble Robe \n
+"
+0x06D,"Mystical Robe\n
+"
+0x06E,"Lightning Robe\n
+"
+0x06F,"War Fatigues\n
+"
+0x070,"Ancient Robe\n
+"
+0x071,"JB's Bracelet\n
+"
+0x072,"Night Goggles\n
+"
+0x073,"MK's Bracelet\n
+"
+0x074,"Crush Boots\n
+"
+0x075,"Fancy Bandana\n
+"
+0x076,"Sturdy Turban\n
+"
+0x077,"Plain Circlet\n
+"
+0x078,"Leather Cap\n
+"
+0x079,"Cloth Helmet\n
+"
+0x07A,"Leather Helmet\n
+"
+0x07B,"Sallet\n
+"
+0x07C,"Bicocette\n
+"
+0x07D,"Greek Helm\n
+"
+0x07E,"Face−guard\n
+"
+0x07F,"Piros Helm\n
+"
+0x080,"Bagonette\n
+"
+0x081,"Barbuta\n
+"
+0x082,"Guardian Helm\n
+"
+0x083,"Armet\n
+"
+0x084,"Bascinet\n
+"
+0x085,"Silk Hat\n
+"
+0x086,"Barrel Helmet\n
+"
+0x087,"Morion\n
+"
+0x088,"Kettle Hat\n
+"
+0x089,"Iron Helmet\n
+"
+0x08A,"Full Helmet\n
+"
+0x08B,"Cabacete\n
+"
+0x08C,"Pot Helm\n
+"
+0x08D,"Silver Tiara\n
+"
+0x08E,"Steel Helmet\n
+"
+0x08F,"Viking Helm\n
+"
+0x090,"Gold Headband\n
+"
+0x091,"Platinum Crown\n
+"
+0x092,"Red Silk Hat\n
+"
+0x093,"Leather Gloves\n
+"
+0x094,"Gauntlets\n
+"
+0x095,"Gloves\n
+"
+0x096,"Hard Gloves\n
+"
+0x097,"Guardian Glove\n
+"
+0x098,"Arm Guards\n
+"
+0x099,"Arm Plates\n
+"
+0x09A,"Bloody Glove\n
+"
+0x09B,"Steel Glove\n
+"
+0x09C,"Leather Boots\n
+"
+0x09D,"Shin Guards\n
+"
+0x09E,"Ankle Guards\n
+"
+0x09F,"Bronze Boots\n
+"
+0x0A0,"Guardian Boots\n
+"
+0x0A1,"Iron Boots\n
+"
+0x0A2,"Greaves\n
+"
+0x0A3,"Leggings\n
+"
+0x0A4,"Silver Boots\n
+"
+0x0A5,"Floating Boots\n
+"
+0x0A6,"Platinum Shoes\n
+"
+0x0A7,"Infinite Boots\n
+"
+0x0A8,"Silk Cloak\n
+"
+0x0A9,"Velvet Cloak\n
+"
+0x0AA,"Emerald Cloak\n
+"
+0x0AB,"Wind Cloak\n
+"
+0x0AC,"Crimson Cloak\n
+"
+0x0AD,"Ninja Cloak\n
+"
+0x0AE,"Twilight Cloak\n
+"
+0x0AF,"Wristband\n
+"
+0x0B0,"Bangle\n
+"
+0x0B1,"Kaiser Knuckle\n
+"
+0x0B2,"Silver Bangle\n
+"
+0x0B3,"Crested Band\n
+"
+0x0B4,"Pendant\n
+"
+0x0B5,"Lucky Charm\n
+"
+0x0B6,"Gold Necklace\n
+"
+0x0B7,"Magic Necklace\n
+"
+0x0B8,"Medusa Pendant\n
+"
+0x0B9,"Heart Choker\n
+"
+0x0BA,"Greed Amulet\n
+"
+0x0BB,"Mystic Brooch\n
+"
+0x0BC,"Cipher's Charm\n
+"
+0x0BD,"Mirror Pendant\n
+"
+0x0BE,"Lucky Ring\n
+"
+0x0BF,"Holy Ring\n
+"
+0x0C0,"Rare Ring\n
+"
+0x0C1,"Chaos Ring\n
+"
+0x0C2,"Nova Ring\n
+"
+0x0C3,"Logoth's Ring\n
+"
+0x0C4,"Heaven's Ring\n
+"
+0x0C5,"Aurora Ring\n
+"
+0x0C6,"Earth Ring\n
+"
+0x0C7,"Fire Book\n
+"
+0x0C8,"Ice Book\n
+"
+0x0C9,"Bolt Book\n
+"
+0x0CA,"Wind Book\n
+"
+0x0CB,"Summoning Tome\n
+"
+0x0CC,"Lizard Tail\n
+"
+0x0CD,"Sylph Feather\n
+"
+0x0CE,"Griffin's Wing\n
+"
+0x0CF,"Soul Orb\n
+"
+0x0D0,"Fairy Journal\n
+"
+0x0D1,"Monster Tome\n
+"
+0x0D2,"Eye of Vlad\n
+"
+0x0D3,"Heart of Vlad\n
+"
+0x0D4,"Rib of Vlad\n
+"
+0x0D5,"Nail of Vlad\n
+"
+0x0D6,"Fang of Vlad\n
+"
+0x0D7,"Vlad's Ring\n
+"
+0x0D8,"Chandelier\n
+"
+0x0D9,"Tall Clock\n
+"
+0x0DA,"Bookshelf\n
+"
+0x0DB,"Old Radio\n
+"
+0x0DC,"Silver Dishes\n
+"
+0x0DD,"Antique Table\n
+"
+0x0DE,"Chair\n
+"
+0x0DF,"Rocking Chair\n
+"
+0x0E0,"Silk Curtain\n
+"
+0x0E1,"Ancient Urn\n
+"
+0x0E2,"Wizard's Urn\n
+"
+0x0E3,"Pretty Vase\n
+"
+0x0E4,"Side Table\n
+"
+0x0E5,"Teacup\n
+"
+0x0E6,"Teapot\n
+"
+0x0E7,"Wine Glass\n
+"
+0x0E8,"Hero Statue\n
+"
+0x0E9,"Smiling Statue\n
+"
+0x0EA,"Sage Statue\n
+"
+0x0EB,"Raccoon Figure\n
+"
+0x0EC,"Lucky Cat\n
+"
+0x0ED,"Phonograph\n
+"
+0x0EE,"Stuffed Stag\n
+"
+0x0EF,"Candleholder\n
+"
+0x0F0,"Candlestick\n
+"
+0x0F1,"Silver Trinket\n
+"
+0x0F2,"Gold Trinket\n
+"
+0x0F3,"Strange Mirror\n
+"
+0x0F4,"Castle Drawing\n
+"
+0x0F5,"King−size Bed\n
+"
+0x0F6,"Closet\n
+"

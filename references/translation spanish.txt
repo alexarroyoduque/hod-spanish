@@ -1,0 +1,2556 @@
+------------------------------------------------------------------------------------------------
+               Castlevania: Concerto Of Midnight Sun (White Night Concerto)
+                                   Para Gameboy Advance
+                                     20/4   al   15/7
+                            por Uriel Laurito(UIL18@HOTMAIL.COM)
+   
+Esta guìa costo mucho tiempo hacerla. Pero no me importa si alguien copia material de ésta, ya
+que la hice para eso. No puedo creer como esos idiotas pierdan tiempo en avisos de legalidad y
+otras boludeces.
+------------------------------------------------------------------------------------------------
+ *********************
+*Indice de contenidos:*
+ *********************
+   1) Comentario*
+   2) Introducciòn al juego*
+   3) Controles*
+   4) Caminata*
+   5) Tiendas*
+   6) Equipamiento*
+   7) ìtems*
+   8) Magic Spells*
+   9) Reliquias*
+  10) Collectibles*
+  11) Enemigos*
+  12) Secretos*
+  13) Agradecimientos*
+  14) Despedida*
+ ------------------------------------------------------------------------------------------------
+   ***********
+1)*COMENTARIOS*
+   ***********
+Este juego se podrìa decir que es la adaptaciòn del Castlevania Symphony Of the Night de
+Playstation para la Gameboy Advance, si bien la historia y los personajes no son exactamente los
+mismos, tienen muchisimas cosas en común. Cabe destacar que el Castlevania White Night Concerto
+salió junto con el Castlevania Circle Of The Moon, este último tambièn muy buen juego, pero no
+tiene cosas en común con el de Play. Para cuando leas esta guìa seguramente ya estarà tambièn
+para la GameBoy Advance el Castlevania Aria Of Sorrow, el cual tiene, por lo que pude averiguar,
+una jugabilidad idèntica a la de los otros dos, y la aventura se desarrolla en Japon.
+
+*Respecto a esta guìa quiero decir que:
+
+-La tabla de contenidos tiene ese orden porque la tratè de hacer, en una parte como el menù del
+juego.
+-Los nombres tanto de los enemigos como de los ìtems me parecio conveniente dejarlos en ingles
+ya que no hay un castlevania en español, ademas el ingles es un idioma general. Ah, tambièn
+estaran las distintas partes del castillo en inglès, ya que suenan algo ridìculo en español.
+-Los jefes no estan en la tabla de contenidos ya que estan incluidos en la caminata.
+-Para no hacer mas complicada la caminata no incluì ningùn nombre de los enemigos comùnes,
+observaran que me dirijo a ellos como lo es su apariencia.
+-No voy a incluir las ubicaciones de los incrementos de HP y de corazones, ya que no me parece
+algo muy importante(en relidad no tengo ganas). Pero inclui dentro de la caminata algo mucho
+mejor, todos los dìalogos en español.
+------------------------------------------------------------------------------------------------
+   *********************
+2)*INTRODUCCION AL JUEGO*
+   *********************
+50 años pasaron desde que Simon Belmont "destruyo" a Dràcula.
+
+El heredero de la familia Belmont, Juste, esta cumpliendo el rol de reclectar todas las
+reliquias perdidas del conde Dràcula.
+
+Maxim, un amigo de la familia Belmont, quien habia renunciado al codigo de honor de esta, se ve
+obligado a volver 2 años después con una mala noticia.
+
+Nervioso y casi sin voz logrò decir lo que habia sucedido : 
+Lydie, una amiga de la infancia, habia sido secuestrada.
+
+Recordando viejos tiempos con la familia Belmont, Maxim decide trabajar junto a Juste y lo
+conduce hasta la escena del crimen.
+
+El ambiente empieza a sentirse algo extraño. Se puede escuchar a lo lejos gritos de dolor, la
+niebla invade emergiendo de la misma oscuridad, esto serà tal vez obra de....
+
+Durmiendo bajo la luz de la luna se encuentra el silencioso y tenebroso castillo esperando por
+una nueva aventura...
+------------------------------------------------------------------------------------------------
+   *********
+3)*CONTROLES*
+   *********
+START= 
+-Pausa el juego y permite ingresar al menù de equipamiento, speels, etc.
+
+SELECT= 
+-Permite ver el mapa, mostrando solo lo que hayas avanzado.
+
+A=
+-Permite saltar.
+-Confirmar acciones en los menùes.
+
+B=
+-Usas el làtigo
+-Cancela acciones en el menù.
+-Presionando arriba y B lanzas las armas secundarias(Agua bendita, Hacha, Puñetazos, Cuchillos,
+Biblia).
+
+R y L= 
+-Permiten realizar el dash hacia adelante o hacia atràs.
+-Al presionar arriba y el L cambias el spellbook activo, notaras que en la pantalla cambiara de
+color el circulo que contiene la sub arma.
+-Luego de presionar select si aprietas el L o el R puedes ver por separados los mapas 1 y 2.
+------------------------------------------------------------------------------------------------
+   ********
+4)*CAMINATA*(con todos los dìalogos incluidos!):
+   ********
+Comenzamos encontrando a Maxim un poco antes de la entrada del castillo:
+
+Juste:	Este es el castillo donde se encuentra Lydie?
+Maxim	No recuerdo claramente, pero debe ser.  No me crees?
+J	Yo te conozco bien y se cuando hablas en serio.
+M	Argh...
+J	te encuentras bien?
+M	Si, estoy bien. No te preocupes por mi, estamos aqui para encontrar a Lydie. Ve!
+        Te seguirè luego.
+J	Muy bien.  Nos encontramos después adentro.
+
+continùando nuestro camino podemos ver un montòn de chatarra, saltala y ahì te llevaras la
+sorpresa, cobro vida! y ahora te persigue una especie de robot gigante al cual no le podras
+hacer daño alguno. Sigue, y la puerta se levantarà y el robot caera y se destruirà, por màs que
+lo intentes es imposible volver mientras la puerta se cierra.
+
+Castillo 1
+
+ENTRADA
+
+Hay un par de candelabros que contienen corazones, los grandes equivalen a 5 pequeños. Golpea
+con tu làtigo a la columna para que puedas continuar. Aqui pasa de largo la primer biblioteca y
+sube la segunda, toma la bota(equipala) y ve a la derecha matando a los esqueletos y toma del
+ultimo candelabro la mejor arma del juego, los puñetazos, continùa y conseguiras una gema roja,
+una reliquia que te permite ver cuanto HP le quitas a los enemigos. Ahora regresa a la primer
+biblioteca y sube, podras encontrar ahì nomas parte de una armadura(es muy importante que los
+distintos ìtems que vayas encontrando los equipes ya que sufriras mucho menos el daño). continùa
+hacia la izquierda matando los murcielagos(perdona que te hinche pero tambièn es importante que
+mates a la mayor cantidad de enemigos ya que estos te brindan experiencia y luego de una
+determinada acumulaciòn de esta puedas subir de nivel lo cual incluye aumentar tus poderes) y
+luego sigue tu camino subiendo tomando mini pociones, dinero(al destruir estatuas), tambièn hay
+en uno de los candelabros agua bendita, y matando a estos desagradables esqueletos, luego de mas
+o menos 7 plataformas llegaras a un piso donde puedes ir tanto a la izquierda como a la derecha
+en un camino sin plataformas, dirìgete a la izquierda y podras salvar el juego y recobrar tus
+energias. Ahora a la derecha y llegaras al
+
+CORRIDOR OF MARBLE
+
+Contiunua a la derecha matando a esos soldados esqueletos(no te confies) y te encontraras con la
+MUERTE,pero no te preocupes que no tendras que pelear:
+
+Muerte  Eh!  El color de aquella alma...  eres un Belmont, no es asi?
+Juste	Asi es.  Esta horrible presencia... la Muerte?
+M	Por supuesto.
+J	Como yo pensaba, este es el castillo de Dràcula.
+M	Quizàs...
+	Sin embargo, la energia presente aqui no es necesariamente la de mi amo.
+J	Que quieres decir con eso?
+M	Te dejare por ahora pero nos veremos luego!(Desaparece)
+J	El se fue...
+
+continùa hacia el este y toma ese ìtem que es una parte del mapa del castillo 1,ahora sigue
+hacia arriba del lado izquierdo hasta que puedas ir a un nuevo lugar en esa direcciòn, podras
+notar que no puedes avanzar ya que es muy alto ese muro, pero ve por esas plataformas de arriba
+y empùja el cajòn de madera hacia la derecha hasta que caiga y luego a la izquierda para que
+puedas subir a el y luego continuar tu camino. Sigue subiendo, con mucho cuidado ya que los
+enemigos no son tan dèbiles y llegaras a una habitaciòn que tiene un corazòn y el libro de
+hielo(ver parte 7), ahora regresa por donde viniste. Aqui ve hacia la esquina superior izquierda
+y entra, baja y sigue tu camino, veras a un enemigo. Te recomiendo, si no tienes los puñetazos,
+tomar el hacha del candelabro ya que es mas efectiva que el agua bendita. Ahora sube esa
+plataforma y dirìgete a la izquierda para salvar el juego. y ahora si nos enfrentemonos a este
+murcielago de mierda que se encuentra bajando la misma plataforma y yendo al este.
+
+Giant Bat:       HP:400         Nivel=10         Exp:66     
+
+Este enemigo es muy fàcil, mas si utilizas el poder del libro de hielo combinado con el hacha,
+pero basicamente debes esquivar las lentas bolas de fuego que lanza y esperar a que se haga un
+remolino y te ataque golpeando el piso, en ese momento aprovecha y dale duro, y asi
+sucesivamente o sin no cuando esta en el aire usa el hacha y en unos cuantos golpes lo mataras
+sin que el te toque.(Siempre, luego de vencer a un jefe caera una esfera roja que te llenara la
+barra de energia)
+
+continùa hacia la derecha y dejate caer, en esta habitaciòn encontraras, ademas de un agua
+bendita, un librito verde con una especie de pluma en la tapa, este ìtem lo que permite es ver
+el nombre del enemigo que mataste. Regresa a la habitaciòn de arriba y ve hacia el noroeste y
+encontraras un diamante rojo que en realidad es otro tipo de làtigo que aumentara el ataque. De
+este lugar sigue en la misma linea hacia la izquierda hasta llegar al punto de salvada al cual
+fuimos antes de derrotar al murcielago, y obviamente salva el juego. Bueno, ahora baja y
+dirìgete hacia la izquierda, luego sube estas plataformas, sigue y ahora baja hasta caer en el
+el pozo del piso, sigue bajando, toma la pociòn y cuando estes en la posiciòn de los candelabros
+ve hacia la izquierda y llegaras a
+
+Room of Illusion:
+
+Aqui solo sigue el camino matando a estos lagartos espadachines(Lizardmen(dan buena exp)) y al
+final toma el ìtem que te llenara y aumentara la cantidad de energia. Vuelve a los candelabros y
+si quieres puedes ir hacia la derecha para tomar una BANDANA, para fortalecer tu equipo, esto es
+lo ùnico que puedes hacer aqui ya que aun no poseemos la habilidad para deslizarnos por el piso.
+Bien ahora sube y dirìgete al cuarto dònde vencimos al muricelago gigante(no era TAN grande),
+aqui ve a la derecha y sigue el camino en esa misma linea y direcciòn hasta llegar a otro
+lugar donde hay un guardia esqueleto, sigue a la derecha subiendo y ahora salta a la izquierda y
+mata a esos dos enanos saltarines y continùa el camino hasta poder tomar el antidoto y el
+corazòn(NO el que esta arriba del antidoto), cerca de este hay un anillo y otro corazòn que por
+el momento no los puedes obtener, pero paciencia. Regresa y por ahora tampoco vamos a ir a la
+derecha asi que vuelve a la sala dònde encontramos el librito verde con la pluma(si es que te
+acuerdas,jajaja). Y en este cuarto ve a la derecha y llegaras a
+
+Approach of Deplore
+
+Aqui sigue el camino bajando y yendo hacia la izquierda y llegaras a un cuarto vigilado por una
+cabeza fantasma de esqueleto gigante, vencela y toma la Enciclopedìa de los Monstruos, con la
+cual puedes ver los datos de cada monstruo que derrotaste(esta muy bueno). Regresa y ve a la
+izquierda, sube unas plataformas y toma la pildora que sirve para llenar un poco la magia(MP).
+Sigue a la habitaciòn de la izquierda y toma la pociòn y vence a los cràneos, si quieres antes
+de bajar rompe las velas y encontraràs $100!(puedes ir a otra habitaciòn y luego regresar
+cuantas veces quieras para tomar todos los $100 que quieras),baja y ahora ve a la derecha y
+sigue este camino dos habitaciones mas hasta poder ver debajo nuestro a la capa silk y equipala,
+sigue a la derecha y veras una plataforma a la que por ahora la dejaremos, pero sigue y baja
+estos escalones y toma la pata de pollo para cuando lo necesites puedas utilizarlo como pociòn,
+sigue adelante y toma el corazòn que esta al final de esta habitaciòn junto a una puerta extraña
+que no la podremos abrir asi que vuelve NUEVAMENTE y dirìgete todas las habitaciones que mas
+puedas a la izquierda y cuando te topes con unos escalones subelos y continùa y ahì te toparas
+con una pared y entonces(que forma de explicar!)sube y toma ese anillo verde, que no nos
+veneficia en nada(si es que equipaste los otros itmes) solo para completar mas el mapa. Ahora
+nos preparamos para otro jefe(ya hacia bastante que no peleabamos en serio). Bueno, regresa
+obviamente hacia la derecha hasta que puedas tirarte a una habitaciòn de abajo(queda cerca), y
+cuando estes en esta sala sigue a la dedrecha y llegaras a
+
+Heretic's Grave:
+
+Ve a la derecha(si quieres puedes tomar otra sub-arma, el libro que esta en el 2do candelabro),
+toma la pociòn y dejate caer. continùa a la izquierda matando a estos lagartos hincha bolas y
+llegaras a donde hay un pozo(lo pongo como pozo pero se sabe que es una entrada a otra
+habitaciòn que se encuantra en el piso) y tìrate. Sigue yendo hacia la izquierda y luego
+tendras que subir y bajar algunas veces(no te preocupes que el camino te guìara solo) hasta
+encontrarte con una escalera rota, saltala y sigue a la izquierda hasta encontrar un Max Life
+resguardado por un dragònesqueleto, vencelo(opcional) y tomala, ahora que estamos bien de
+energia vuelve al ultimo "pozo" que saltaste y baja. Aqui ve a la derecha y graba el juego, y ve
+a la izquierda para encontrar nuevamente a nuestro amigo Maxim(que no se como hizo para entrar al
+castillo ya que la puerta se habia cerrado):
+
+Juste	Maxim, te encuentras bien!
+Maxim	Eres tu Juste?  Si, creo que estoy bien.
+J	Que te esta pasando?  Te ves algo extraño.
+M	Yo...  Yo no se como llegue al castillo.
+J	Que?
+M	Bueno, no estoy seguro...  Las cosas en mi cabeza no estan del todo claras pero poco a
+        poco puedo ir recordando.
+J	Estas recobrando la memoria?
+M	Eso parece. Desde que vine al castillo he tenido sensaciones extrañas. Si voy màs
+	adentro del castillo quizà pueda recordar.
+J	Vamos juntos, Maxim!
+M	No...  Si nosotros queremos encontrar a Lydie, mejor serà separarnos.
+J	Oh...  de acuerdo.
+M	Mantente con vida, Juste!
+J	Vos tambièn, Maxim.
+
+
+Y ahora SI podremos enfrentarnos a un guardìa robot como el de la entrada(te acuerdas?):
+
+Giant Armor:    HP: 900      Nivel=13       Exp:110    
+
+Es un enemigo bastante fàcil ya que es muy lento. Cuando lo golpeas muchas veces, el retrocedera.
+Solo hay que tener cuidado cuando baja su espada o de quedar atrapado y que te choque con su
+cuerpo. Quizas tardes un poco en eliminarlo ya que no creo que tengas mas de 7 niveles, pero con
+paciencia lo lograras sin peligro alguno.( La pelea se puede hacer aun mas fàcil si tienes
+equipada el agua bendita porque quita bastante y a distancia, que se encuentra en la vela que
+esta justo antes de esta pelea).Cuando lo derrotes se abrirà la puerta trasera y podras
+adquirir la cola de lagarto que te permite hacer una barrida en el suelo presionando abajo + A. Y
+luego presiona el botòn en el suelo para que se rompa esa columna que une dos sectores el de la
+entrada y la hertic grave.
+Ahora iremos al punto de salvada que quedaba antes de hablar con Maxim y luego ve hacia arriba y
+a la derecha hasta llegar a la escalera rota, aqui baja lo mas que puedas y continùa a la derecha
+tambièn lo màs que puedas hasta que te choques con una pared con una abertura abajo, delìzate
+con tu nueva habilidad(abajo+A) y toma la "Increase Max Life Up" que llenara tus energias e
+incrementara un poco el HP. Y luego sube esas cuatro plataformas de la izquierda. Ve a la derecha
+y toma esa piedra que ves, y ahora ve a la izquierda por la misma linea y toma la pata de pollo,
+y handa hacia arriba y a la derecha(trata de esquivar a ese guerrero poderoso,pero te conviene,
+con cuidado, vencerlo para subir un nivel mas(te recomiendo utiliar el poder de hielo combinado
+con los puñetazos)) y baja esa plata forma presionando abajo + salto y toma ese ìtem que es otro
+tipo de làtigo(esta sobre el ataud de Dràcula?). Este làtigo es un poquitito mas dèbil que el
+anterior pero si lo equipas y dejas presionado el botòn de golpe fìjate lo que hace.
+Bueno ahora vamos a ir por el libro de fuego, pero no te voy a explicar demasiado. Si
+seguiste mis pasos y presionas select veras el mapa y tambièn tres puntos rojos que son los de
+salvadas, entonces debes dirigirte al del medio(que queda cerca del campo de batalla del
+murcielago"gigante") y de aqui ve hacia las plataformas de arriba y continùa a la derecha y
+delìzate en el suelo para poder continuar y asi tomar el libro de fuego y un abrigo.
+                  (Supongo que habras entendido, no es tan dificil)
+Ahora baja, si quieres salva, y vuelve a bajar.Dirìgete a la izquierda, continùa el ùnico camino
+que hay hasta que pudeas tomar varios caminos(te daras cuenta porque vienen murcielagos), y aqui
+baja hasta el angulo inferior izquierdo y no sigas a la izq. sino tìrate en el camino que
+sigue abajo, sigue bajando y cuando tengas que optar por izquierda o derecha, ve por èsta ùltima
+para llegar a
+
+Room of Illusion:
+
+Aqui sigue todo el camino(te recomiendo para ir eliminando a las meduzas y los zombies que en vez
+de ir corriendo bayas arrastrandote por el suelo, ya que es una forma de avanzar atacando) hasta
+que por obligaciòn debas deslizarte para poder continuar y tomes el corazòn y llegues a una
+habitaciòn extraña con un ìtem. Toma el ìtem y equipalo. Esta habitaciòn es nada mas y nada menos
+que un portal el cual te teletransportara a otros sectores del castillo, al presionar hacia
+arriba dentro de el(en el lugar donde estaba el ìtem). Estos portales se identifican en el mapa
+con el color amarillo.
+Y bueno, Hombre. Entra que esta esperando?. Al teletransportarse Juste se preguntara dònde se
+encuentra, bueno muy fàcil en
+
+Castle's Treasury:
+
+Sigue a la derecha venciendo a los esqueletos con boomergans y al final toma la mini pociòn y
+luego sube. Aqui ve a la derecha y baja ahì nomas para enfrentarte con un demonio alado(no es un
+jefe), que es bastante complicado si no me haces caso(no es obligaciòn vencerlo, pero para ganar
+niveles y por tu orgullo), lo que debes hacer es pegarle en el aire cuando las plumas comiencen a
+rodearlo y escapar antes de que completen el circulo para que no te peguen ya que quitan mucha
+energia, y cuando se encuantra por tirar esas especies de palomas quedate justo debajo y no te
+haran daño y a la vez dejando presionado el B para que lo ataques con este làtigo especial(si no
+tienes este làtigo usa el comun y muevelo con el direcciònal), tambièn si te encuentras en
+aprietos no dudes en tomar el ìtem de la vida. Ah ademas aqui seria muy efectiva el hacha, pero
+bueh...Cabe destacar que el camino esta bolqueado por una columna de energia, asi que lo nuestro
+termina aqui, al menos por ahora. Regresa y ahora sigue hacia la izquierda y continùa el camino
+hasta que hayas tomado la muñequera y el antidoto, ahora baja y a la izquierda esta un corazòn y
+a la derecha un punto de salvada. No queda otra mas que regresar a donde podìas optar por izq y
+por der y nosotros habiamos elegido izq. Obviamente vamos hacia la derecha(te recomiendo matar
+al menos uno de los caballeros con bombas para subir un nivel mas) continùa hasta mas no poder y
+baja y continùa hasta el fondo y toma la silla(parte de una collecciòn de objetos), vuelve al
+poo anterior y tìrate, sigue hacia la izquierda y desciende en la primer plataforma que veas,
+baja hasta que se divida en tres caminos (abajo, izq o der) ve hacia abajo y te encontraras a la
+izquierda con una habitaciòn que es donde se ubicaran todos los objetos que vayas encontrando
+(como las sillas), y Juste dira:
+
+Juste	Que habitaciòn tan elegante! pero parece vacia. Si hubiera algunos muebles o decoraciones
+	....  Esta bien, dejare aqui estas cosas que estoy cargando.
+                     (Se refiere a los collectibles)
+	
+Vuelve hacia arriba y toma a la izquierda.Llegaras a
+
+Cave of Skeletons:
+
+Desciende matando esqueletos y luego baja y toma a la izquierda, vence a ese esqueleto con lanza
+y sube esa plataforma y toma otro objeto(de ahora en mas lo llamaremos collectibles), baja y
+pegale a ese cràneo gigante del lado izquierdo para que puedas continuar. continùa el camino ya
+que es el ùnico hasta que no puedas màs y eso se debe a esos palos cruzados sosteniendo otro
+cràneo, golpèalos y sigue hacia arriba y toma otro collectible. Dirìgete a la izquierda y
+trata de esquivar esa especie de hacha colgando(yo use el poder del hielo con los puñetazos y no
+me quito energia), continùa y te encontraras con Maxim(algo cambiado):
+
+M	Juste!  Te estaba buscando!
+Juste	Maxim.  Que esta pasando?  Encontraste a Lydie?
+M	Encontrarla...  Estas escondièndome algo no?
+J	De que carajo estas hablando?
+M	Bueno, no hay problema...  Yo no se hasta dònde pueden ir tus poderes, Belmont, pero no
+        voy a permitir que los obtengas!
+J	Que problema tienes?  Tu no eres tan asi!
+M	Yo obtuve nuevos poderes que sobrepasan los tuyos. Pero, por ahora Lydie me importa.
+        Marchate!  Quiza debas irte de este castillo!  (risas)
+J	Espera Maxim!  Eres tu realmente? Yo no lo puedo creer...
+
+continùa(te recomiendo que trates de subir de nivel ya que nos preparamos para otro jefe)
+subiendo y bajando hasta llegar a un punto de salvada, continùa nuevamente subiendo y bajando,
+toma los $100 y si quieres el libro(otra subarma), de las velas y enfrentate contra otro
+ya no tan dèbil enemigo:
+
+Skeleton Knight:     HP:1600        Nivel:20      Exp:339
+
+Este enemigo tiene tres etapas, la primera es la que ataca con su espada(te das cuanta porque
+comienza a brillar esta) y salta a muy poca altura, la segunda comienza a saltar mas rapido y
+tratara de estamparte(aqui usa mucho esas plataformas) y la tercera(es decir cuando ya le quede
+poca energia) aumentara aun mas su velocidad y te atacara con rayo laser, que es un arma muy
+poderosa pero tiene un punto dèbil que es que cuando te ataca, te hagacharas cerca de el y el
+rayo no te tocara y ,mientras lo lanza, lo atacaras. tambièn otra estrategia es que, cuando se
+dispone a estamparte o a lanzar su rayo, lo traspases con el poder del hielo y los puñetazos y
+lo comiences a atacar por la espalda. . Ah, y ademas cada tanto se refugiarà en su escudo, pero
+solo eso.Si eres precavido no es un enemigo muy dificil pero no te confìes.
+Luego continùa y toma la pluma, que al igual que en zelda, lo que te permite es realizar el doble
+salto presionando dos veces el salto(en el zelda solo te daba el salto, ya que link no saltaba).
+Ahora regresa un poquito atràs hasta una plataforma que antes no podìas llegar pero ahora con
+esta nueva habilidad(salto doble) llegaras. Ve hacia la derecha y sigue el camino y baja para
+tomar el incremento de vida, vuelve por donde subiste para hacer este camino y baja(no
+seguiremos a la izq por ahora). Sigue a la derecha y salva. Ahora sigue por la misma direcciòn
+hasta que puedas ver a una araña esqueleto y sube, toma la bota y equipala. Baja, mata a esos
+esqueletos con vestimenta azul(para matar a alguien),baja y a la izquierda arriba hay una mini
+pociòn, pero sigue bajando hasta que llegues al fondo del mapa, y dirìgete a la derecha continùa
+el ùnico camino que hay, y toma en la sima de estas plataformas el corazòn, tambièn,si lo deseas,
+en las velas de la izquierda esta la cruz que es una muy buen arma. Vuelve hacia arriba, ya que
+a la derecha no podemos continùa. continùa en esta direcciòn(arriba), llegando a la sima de la
+columna vertebral que se ve de fondo, y ve a la derecha. Llegaras a una puerta, a la que debes
+entrar:
+
+Moss-Grown Cave
+
+Sigue el ùnico camino que hay, matando(los debes matar para subir de nivel) soldados y
+murcielagos hasta que te topes con una especie de planta bastante inquieta, eliminala, sigue,
+elimina a la otra que esta mas adelante y continùa hasta llegar a un punto de salvada. De este
+punto ve hacia la derecha y recorre lo mas que puedas, menos el hueco que esta debajo y ademas no
+podras avanzar en la parte superior izquierda ya que hay un muro, encontraràs una pìldora para el
+MP, un collectible Y una mini-pociòn. Ahora vuelve al punto y luego tìrate en el hueco de abajo
+donde veras dos antorchas. Y ve a la derecha para enfrentarte a
+
+GOLEM:     HP:1408      Nivel:18      Exp:273     
+ 
+Al principio situate enfrente de el y golpèalo normalmente con el làtigo hasta que cambie de
+apariencia, el ùnico ataque que realizara este montòn de roca es provocar un temblor que hara que
+caigan rocas del techo, pero son faciles de esquivar. Cuando muestre su punto dèbil, es decir la
+bola roja. El ataque que hara es lanzar de èsta, muchas rocas con lava. Lo que debes hacer es
+golpear esta bola, preferentemente, con golpes especiales y en unos golpes caera hecho polvo.
+
+Luego sigue a la derecha y golpea la palanca para que comience a surgir sangre y puedas subir en
+esa especie de caña que esta debajo tuyo. cuando llegues a la sima sigue a la izquirda derrotando
+a estas pegajosas bolas(slimes), con las que debes tener cuidado ya que te pueden envenenar,
+convertirte en roca, etc. y toma los dos ìtems, uno es un tipo de làtigo(supongo que es mas
+poderoso) y un espejo(collectible). Regresa y continùa hacia la izquierda y luego abajo, ahora a
+la izquierda para completar el mapa y luego sigue a la derecha, derrota a los slimes, a las
+cabezas de dragòny a esas especies de hadas que vuelan(si matas a todos estos es seguro que
+subes de nivel asi que no seas bol.. y no los esquives), toma los cubiertos(collectible), hasta
+llegar a una pantalla donde hay un switch y un muro(es obvio que al presionar el switch se
+levanta el muro), entonces sube hasta ver un bloque de madera, y situate del lado izquierdo y
+empùjalo para que caiga a otra plataforma, luego empùjalo a la izquierda, después a la derecha y
+por ultimo ponlo sobre el switch. En la pròxima habitaciòn nos encontraremos con un incremento de
+HP. Ahora ve a la izquierda en la misma linea del switch y fìjate que llegaras a una sala que
+esta vacia, pero puedes notar que hay un numero(13579)en la parte inferior derecha, aun no
+entiendo para que sirve esto pero me llama la atenciòn ya que vamos a encontrar mas de estas
+habitaciones en el castillo. Bien, ahora regresa al punto de salvada anterior. Ahora nos 
+arrojaremos al hueco que esta a la izquierda de este punto. Sigue a la izquierda y continùa hacia
+abajo, aqui ve a la derecha, mata al soldado y toma el incremento de corazòn, y dirìgete
+nuevamente a la izquierda, mata a los cuatro soldados y continùa hacia abajo hasta que tomes la
+pociòn y sigue a la derecha, es decir continùa en este camino que es el ùnico que hay hasta
+llegar a un portal, entra.
+
+Corridor in the air:
+
+continùa hacia la derecha y te encontraras nuevamente con Maxim:
+
+Maxim	Juste, encontraste a Lydie?
+Juste	Eres realmente Maxim, no?
+M	Que?, De que estas hablando?
+J	Nada, olvidàte de eso... Que hay de ti?  Como esta yendo tu bùsqueda?
+M	Yo no he tenido ningùn progreso tampoco...  Pero mi memoria esta volviendo
+        gradualmente.
+J	Realmente?  Asi que Lydie esta en este castillo después de todo?
+M	Sin ninguna duda. Yo se que estuve aqui antes...  pensaba que deberia habèrtelo dicho...
+J	Què hay en tu mente?
+M	Aquel dìa, cuando asumiste el rol de cazador de vampiros...  Yo senti un alejamiento
+        entre nosotros... Entonces segui mi camino. Queria superar tus habilidades... Para
+        liberarte de ese destino como cazador.
+J	...
+M	Recuerdas la historia que una vez me contaste acerca de las reliquias, las piezas de
+        Dràcula?
+J	Si, recuerdo. Mi abuelo, Simòn, recolecto y destruyo las reliquias para a su vez
+        terminar con el propio Dràcula.
+M	Yo creia que si juntaba y destruia las reliquias de Dràcula, mis esperanzas se
+        concretarian.
+J	No querras decir que las reliquias de Dràcula aun existen?
+M	De acuerdo con la leyenda, es demasiado temprano para que Dràcula vuelva a la vida. Y,
+        es posible detenerlo. Al principio , dude de la existencia de las reliquias...  pero
+        siguiendo la leyenda yo, no recuerdo como, encontrè 6 piezas.
+J	Ridìculo!
+M	Yo no puedo recordar nada mas después de aquello... Las piezas parecian haber
+        desaparecido, tambièn...  Lo ùnico que puedo recordar perfectamente es cuando Lydie fue
+        capturada...
+J	Si esto es verdad, provablemente las piezas de Dràcula tambièn fueròn traidas aqui.
+M	Lo siento.  Yo soy el culpable de todo esto.
+J	No debes disculparte conmigo.
+M	?
+J	Lo debes hacer con Lydie. Pero debemos seguir buscàndola si quieres hacer eso...
+M	Ok, esta bien. Yo seguirè.
+J	Maxim, confìo en ti.
+M	Gracias...  Juste.
+
+Sigue a la derecha hasta mas no poder y baja para ir a la izquierda y tomar un incremento de HP.
+Vuelve por la plataforma que bajaste y sube un par y toma la pociòn. Sube hasta quedar debajo de
+un bicho gigante y de aqui ve a la derecha por el camino de abajo hasta entrar a un punto de
+salvada, ahora sube, delìzate y continùa a la derecha y preparate para enfrentar a un enemigo
+
+DEVIL:     HP:2176       Nivel:27       Exp:627      
+
+Este sujeto ya es bastante habil, pero lo que debes hacer para ganar es tener equipadas 1 o 2
+pociones y  usarlas cuando te veas en aprietos, esquivar constantemente sus ataques y atacarlo
+cuando sea posible(en todo momento), lo que tiene es que es bastante persistente. Sus poderes
+son que cuando lo tocas con el cuerpo te envenena, un rayo de fuego y un ataque con su puño de
+fuego en forma de gancho.
+
+ADVERTENCIA: De este punto en adelante hasta los enemigos comùnes son fuertes, asi que procura
+subir de nivel.
+
+Del campo de batalla ve hacia la izquierda y sube a la primer plataforma que veas, sigue subiendo
+e investiga lo mas que puedas hasta completar esta parte del mapa, toma los dos collectibles
+(velas doradas y velas plateadas) y la pociòn. Y ahora dirìgete a la parte donde anteriormente te
+deslizaste y sube. Sigue el camino hasta llegar a
+
+Chapel of the Heretic
+
+continùa el largo y ùnico camino que hay hasta llegar a una pantalla donde aparecen volando
+esqueletos que te arrojan lanzas. Aqui ve a la derecha y sube algunas plataformas para tomar el
+incremento de corazones, luego ve a la izquierda donde hay cabezas de dragòn tirandote pequeñas
+bolas de fuego y toma de la plataforma de arriba a la derecha una capa verde para equipartela.
+Si vas a la derecha podras ver que hay en una plataforma muy alta una especie de ojo, si es una
+reliquia del conde pero no la podemos alcanzar, entonces vamos a ir a la izquierda para toparte
+con una puerta con un campo de energia que por ahora no podemos abrir, asi que sube a la
+plataforma que esta arriba de esta puerta y sigue hasta la sima para tomar una minipociòn y un
+incremento de HP. Bueno lamentablemente no podemos hacer màs nada aqui por ahora por lo tanto
+debemos volver al
+
+Corridor in the Air
+
+Del campo de batalla ve a la derecha y toma los anteojos para la oscuridad y equipatelos porque
+lo necesitamos, regresa y salva el juego en el punto de salvada que queda por ahì. De este punto
+baja ahì nomas en el hueco y dirìgete a la derecha y al final arròjate al hueco para llegar a una
+pantalla con muy poca luz(esta poca se debe a los anteojos, sino no veriamos nada). Atraviesa
+todo este pasaje tomando los distintos ìtems(casco,carta y anillo) y entra en la puerta final
+para llegar a
+
+Waterway of Aquatic:
+
+Baja, ten cuidado con los enemigos de aqui porque son habiles, sigue a la derecha y baja.Ve a la
+izquierda(usa el dash para que no te toquen) y toma el incremento de corazòn, y ahora ve a la
+derecha y sigue hasta que te encuentres con un ìtem que es otro làtigo(te recomiendo usar el
+dash para esquivar las guillotinas y los enemigos), regresa hasta el lugar donde puedes ir para
+arriba y sube y a la izquierda esta el punto de salvada. De este punto a la derecha te
+enfrentaras a
+
+GIANT MERMAN:      HP:3520      Nivel:30       Exp:1298     
+
+Los 3 ataques que hace constantemente son, enviar reptiles a que te ataquen, largar una rafaga
+supongo que de agua y convertirse en una bola para chocarte. Debes atacarlo constantemente, y
+cuando te hace alguno de los tres ataques debes subirte a una de las plataformas para esquivarlos.
+Luego sigue a la derecha y toma los incrementos de HP y corazones. Sigue a la derecha y llegaras
+
+Clock Tower:
+
+Sigue el camino y cuando veas que puedes ir a la izquierda, ve y recorre todo para tomar un
+incremento de corazon, regresa y sigue subiendo. Cuando llegues a una pantalla donde el camino
+esta bloqueado por una pared, presiona el switch de la izquierda y avanza pasando esos 2
+enemigos y sube. Sigue a la izquierda subiendo a los pendulos hasta que puedas descender en un
+hueco y tomar otra parte del mapa vigilada por esos enanos, sube y ve a la izquierda. Baja lo mas
+que puedas para tomar el ìtem(ten cuidado con esos enemigos voladores) que sirve para incrementar
+la defensa, y ahora sube hasta la sima y entra en la ultima entrada derecha recorre todo y toma
+otra carta. Desciende una plataforma y ve a la derecha y cuando se pueda sube para tomar un
+incremento de HP. Baja y ve al final de la derecha y toma el ìtem(ropa verde), ve a la izquierda
+y baja en el primer hueco que veas(handa un poco a la izquierda para completar esta parte del
+mapa, y luego a la derecha), ve a la derecha, llegaras a una parte donde vuelan meduzas que te
+convierten en piedra, entra en LA SEGUNDA entrada derecha para salvar eljuego. Luego sube y entra
+en la que seria tercer entrada derecha para pelear con
+
+Max Slimer:      HP:3680       Nivel:32       Exp:1479    
+
+La unica estrategia es golpearlo constantemente hasta que desaparesca. Esta bola pegajosa va a
+estar siempre arrojando bolas mas pequeñas que al estar mucho en contacto con ellas te pueden
+envenenar.
+
+Luego de vencerlo sigue a la derecha y sube esas plataformas, entra en la parte izquierda para
+tomar un làtigo nuevo, regresa y sigue subiendo hasta que puedas entrar en otra entrada izquierda
+para encontrarte con un viejo amigo, La Muerte
+
+
+Juste	Ah, eres tu!
+Muerte	Conoces a un hombre llamado... Maxim, creo.
+J	Y si es asi, que?
+M	Ese hombre... El obtuvo algunos poderes del señor Dràcula, no es asi?
+J	Los pudo obtener con las reliquias de Dràcula?
+M	Reliquias?... Ya veo, entonces tiene sentido.
+J	Que quieres decir?
+M	Si, eso explica todo. Te agradesco. Es simple...  Este hombre hizo renacer al castillo.
+J	Què?  Eso no tiene sentido, Maxim no haria algo asi!
+M	Puede que no al principio. Pero, si el obtuvo las reliquias del señor Dràcula, entonces
+        es una historia diferente. Dos espiritus recibieron los poderes de Dràcula, y
+        permitieron que el castillo exista otra vez.
+J	Dos espiritus?
+M	Dos espiritus insistieron dentro de Maxim. Uno es su propia alma... y el otro es el
+        demonìaco esiritu de mi señor, Dràcula, el cual fue traido por sus reliquias.
+J	Eso es absurdo.
+M	Aun, esto es maravilloso porque dos castillos se han realizado...pero...
+J	Espera!  Como que son dos los castillos?
+M	Que tonto...  No estabas enterado?  Pues entonces, no hablo mas.
+	Adios!!
+J	Espera!  Estas huyendo de nuevo?
+M	En el presente, el castillo esta dividido, es decir hay dos castillos pero son solo uno.
+	
+(Entra al portal hacia el segundo castillo)
+
+Ahora si presionas select puedes ver un mapa general, si apretas R veras al primer mapa y si
+apretas L veras al 2do. Como puedes ver es igual al anterior(te recuerdo que podemos y
+debemos ir cuando queremos a cualquiera de los dos mapas).Puedes ver en el mapa general que el
+color verde es un mapa, el azul otro y el celeste es lo que recorriste en esos dos)
+
+Clock Tower:
+
+Bueno, vamos a salir por la derecha, si quieres toma el libro del candelabro, y entra a la
+izquierda para tomar un incremento de HP. Sigue bajando hasta el fondo y ve a la izquierda,
+pasando con el dash a estos dos enemigos y luego llegaras a un lugar donde se ve de fondo al
+cielo en color rojo, y toma el collectible que se encuentra en lo mas alto, luego baja y entra a
+la derecha para salvar el juego.
+Luego entra en la abertura derecha de abajo.Sigue hasta toparte con una rueda dentada a la que
+debes golpear hasta que te abra el camino, luego sube y sigue el ùnico camino que hay para tomar
+un incremento de corazòn que se encuentra bien vigilado. Regresa una pantalla antes de la rueda
+(que tiene el cielo rojo) y baja en esa plataforma. Entra a la derecha y deja que el enemigo
+gigante se acerque al principio de la pantalla entonces cuando este ubicado casi encima tuyo,
+debes saltar encima del switch, que supongo se encuentra justo detras de ti, y un martillo
+reventara de un golpe a nuestro amigo para que èste golpee a su vez a una columna y nos abra el
+camino. Avanza, baja, en la primer entrada que vemos hay una de esas habitaciones tan raras
+que antes habiamos visto pero en vez de tener un numero esta tiene la figura de una de las
+tarjetas que poseemos, regresa y sigue bajando hasta el fondo donde debes salvar el juego a la
+izquierda y bajar(abajo, jajaja). En esta pantalla debemos presionar el switch y recorrer todo
+el camino antes que la bola que se encuentra debajo tuyo, para lograrlo se sabe que debes
+ser mas rapido, pero la mejor estrategia es usar la barrida constantemente ya que en el camino
+nos vamos a encontrar con algunos enemigo. Si lo logras puedes avanzar a la derecha y tomar dos
+ìtems mas o menos buenos, si no la bola bloqueara tu camino y no los podras tomar. No se si te
+diste cuenta pero en el recorrido habia un lugar al cual no fuiste, asi que vuelve a recorrerlo
+y cuando llegues a uno de los extremos izquierdos fìjate que podras tomar luego de hacer una
+barrida dos ìtems mas, entre ellos un collectible.
+Regresa hasta el punto de salvada anterior al mas cercano y salva el juego. Luego baja lo mas
+que puedas y a la izquierda te espera
+
+Peeping Big:      HP:2000      Nivel:33      Exp:1981     
+
+Lo que debes hacer es atacarlo continùamente, salvo cuando comienza a mover su cola o se
+transforma en bola y empieza a picar.
+después de vencerlo ve a la izquierda y ahì nomas te caera un incremento de HP, luego sube por
+la plataforma que estas viendo, ve a la derecha y toma un tipo de pociòn. A la izquierda,
+subiendo las pròximas plataformas que veas encontraras una capa verde. Baja y sigue a la
+izquierda hasta llegar a una parte donde se ve una rueda dentada con sangre y sube y entra a
+la derecha para tomar un ìtem para equipar bastante bueno. Vuelve y baja hasta que encuentres
+una PUERTA y entra para ir al
+
+Corridor in the Air, siempre estando, claro, en el 2do castillo:
+
+Sigue el camino, toma todos los corazones de los candelabros, la pildora(ìtem) y en la parte
+superior derecha entra para enfrentar a
+
+Legion:      HP:1920      Nivel:35       Exp:2230        
+
+La apariencia de este monstruo es una esfera gigante con alas que saca de su interior enemigos
+casi iguales a el, pero en foma mucho mas pequeña. Lo que debemos hacer es golpearlo
+continuamente para que revele su verdadera identidad, es decir que tenemos que lograr romper
+su coraza compuesta por cuatro partes. Se presentara como un ojo con tres tentaculos que de los
+cuales lanzarà rayos, tienes que esquivarlos ya que quitan mucho hp y darle al ojo.
+
+Si te interesa saber que nivel es el adecuado en esta parte del juego, yo tengo nivel 20 y me es
+bastante fàcil. Bueno, ve a la izquierda y ni bien sales de la sala del combate sube las
+primeras plataformas que veas y recorre todo ese rectangulo en forma vertical(si ves esta parte
+en el mapa te daras cuenta), encontraràs un incremento de corazones y si matas a todos los
+enemigos uno te dara ropa que te incrementara mucho la defensa. Te recomiendo matar a esos
+soldados con escudo ya que dan mucha experiencia. Y ahora baja lo mas que puedas. Hacia la
+derecha tienes un punto de salvada y un hueco haremos las dos cosas, salva y luego baja. Ve
+hacia el fondo de la izquierda, toma el pollo y baja. Sigue el ùnico camino usando el dash hasta
+llegar a una parte donde puedas moverte en tres direcciònes, arriba,abajo y derecha. Ve primero
+a la derecha y al fondo toma un incremento de HP, regresa y sube. A la izquierda tienes un punto
+de salvada, continùa a la derecha mata a todos los enemigos ya que es muy fàcil subir de nivel
+y entra en la puerta, sube matando a los esqueletos y cuando puedas entra a la izquierda. Mata
+a ese enemigo y sube, toma el ìtem y a la derecha comienza a pegarle a esa columna para que rote
+y no pares hasta que te lo indique. Vuelve a donde estaban los esqueletos con boomerang y sube.
+Sigue hasta el fondo a la derecha y sube, toma la pociòn, pasa los pendulos, entre ellos hay un
+ìtem y cuando llegues al final no sigas, baja para tomar el mejor làtigo del juego.(Si prestas
+atenciòn el ìtem del làtigo esta sobre una plataforma que a su vez esta en una columna que es a
+la que le pegamos antes para que rote y se abra el camino para arrastrarnos y tomarlo). Ahora
+con este làtigo tenemos el poder suficiente para romper las columnas doradas que esten en nustro
+camino. Cabe destacar que este làtigo empeora nuestras habilidades, pero como dije sirve para
+romper esas columnas y para atacar mas a distancia, para usarlo bien debes dejar apretado el
+botòn de ataque para cargar un poder que luego al soltar dicho botòn saldra despedido. Regresa
+al punto de salvada que esta en el Corridor in the Air, por donde derrotamos a Legiòn, salva y
+ahora ve derecho hacia la izquierda hasta que te topes con una columna dorada a la que debes
+destruir con el poder del làtigo, toma el incremento de vida y sigue para enfrentarte a Maxim?
+
+M	Mm? Aun estas vivo, eh?
+Juste	Maxim!.... No, no es el.
+M	Oh, me encontraràs fuera, entonces?
+J	Quièn demonios eres tu?
+M	Soy yo. Aunque, no soy el Maxim que tu conòces. Luego de que el obtuviera las reliquias
+        de Dràcula, un espiritu tomo la forma suya, ese soy yo. No se si el sabe de mi
+        existencia.
+J	Entonces tu trabajo fue secuestrar a Lydie?
+M	Heh, heh, heh, obviamente... Ese es mi objetivo. Pero el imbecil perdio su memoria.
+	El no sabe exactamente donde se encuentra ahora! Pero su memoria pronto volvera. Si
+        ayudamos a que vuelva, entonces,la chica serà mia.
+J	Bastardo!
+M	Si estropeo los planes, tu querido amigo morira conmigo. Bueno eso es todo, preparate.
+J	Maldito!
+M	De todas formas moriras aqui, scum!
+
+Sombra:      HP:1600      Nivel:36     Exp:2362    
+
+Este enemigo no es muy dificil, se transforma en puma,espada y mariposa, en cualquiera de estas
+formas si te toca mucho te envenenara. Debes acumular poder con tu nuevo làtigo y descargarselo
+cuando este transformado en algo, si no en su forma original no le hara daño. Aprovecha pegarle
+mucho a la mariposa ya que es la forma mas dèbil, eso creo.
+Luego de vencer a Sombra fìjate que si presionas select te encuentras en un "tubito" en forma
+horizontal y que debajo hay uno identico, bueno, ve hacia abajo toma una prenda que hay en el
+camino y al final del camino justo debajo de donde vencimos al enemigo ya dicho se encuentra un
+incremento de corazòn. Por el momento es todo lo que podemos hacer en el 2do castillo  asi
+que vuelve al portal(viendo el mapa te recuerdo que queda bien al noreste) para ir de regreso al
+1ero.
+
+Castillo 1:
+
+Para no explicar tanto ve debajo del punto de salvada mas cercano y dirìgete a la derecha, al
+final del camino te encontraras con un robot gigante al cual debemos pegarle para que retroceda
+hasta que un par de engranes lo triture y se convierta en distintas partes de una armadura
+justo de tu talle(lo que te va a servir es el casco y los brazos). Regresa dos
+habitaciones y ve al fondo para tomar un collectible custodìado por una especie de vivora
+esqueleto. Entra en la abertura del medio de la pared derecha, sigue hasta el fondo y baja,
+en la primer abertura de la derecha hay una de esas habitaciòn raras, la de la izquierda es un
+punto de salvada, y tenemos que ir abajo para volver a competir con una bola pero ahora va a
+ser un poco mas dificil, pero vale la pena ya que el premio va a ser un incremento de HP y
+de corazones, un collectible y el spellbook del trueno(te recuerdo que para cambiar mas fàcil
+los spellbooks debes presionar arriba y R). Te aconsejo hacer el primer piso haciendo barridas
+desde el pincipio, cuando veas pinches usa el doble salto y luego usa mucho el dash para bajar o
+subir plataformas, y en el ultimo piso te recomiendo que uses el poder del hielo con el de los
+puñetazos para atravesar a los cràneos de dragòn. Como en la primer competencia hay un lugar
+oculto, èste se encuentra en el piso de los pinches, debes ponerte bien contra la pared de la
+izquierda y usar la barrida para poder atravesar la pared y luego del camino encontraras el
+colmillo de Dràcula, la reliquia que te incrementa la defensa.
+Bueno, ahora debemos ir al Corridor in the Air, no se si te acuerdas donde queda pero te lo hare
+fàcil(si seguiste esta guìa), presiona select y en el mapa general presiona L, entonces debes
+dirigirte al portal mas lejano es decir al del oeste, pero no vayas precisamente ahì sino ve al
+"tubito" de arriba(te acurdas?), para encontrarte al final del camino con Maxim:
+
+Maxim	Ju- Juste...
+Juste	Maxim!  Eres el verdadero?
+M	...  El otro yo... lo encontràste...
+J	Si...
+M	Oh...  El poder de Dràcula es impresionante...  pronto me absorvera completamente.
+J 	No digas eso! Debes tratar de controlarte!
+M	Por favor, escuchame. Cuando el la trajo aqui... a este castillo, estaba invocado por
+        mi espiritu. Yo quise hacer algo pero las confusiones en mi cabeza lo impedìan, no tenìa
+        esperanzas...
+	Toma este brazalete. Con el, debes abrir la puerta que conduce a la batalla final.
+J	No puedo dejarte aqui asi.
+M	Por favor! no podemos perder tiempo, ve por Lydie!
+J	Esta bien. Yo rescatare a Lydie, te lo prometo.
+M	...  Por favor..
+
+Debemos equipar el brazalete de maxim para poder, como lo dijo el, abrir algunas puertas.
+Entonces vamos a dirigirnos de donde estamos bien al norte, no se si recuerdas que habia una
+puerta naranja a la que no podìamos acceder. Cuando la abras vas a llegar a
+
+Castle Tower:
+
+(si jugaste al castlevania de playstation o al de sega  esta parte es identica, pero no
+lucharemos frente a Dràcula)
+
+Rompe la columna con tu super làtigo, continùa a la izquierda y llegaremos a un portal pero
+no lo tomaremos, preferimos luchar
+
+Pazusu:      HP:4500       Nivel:38       Exp:2640     
+
+Esta especie de cabra alada es bastante fuerte, sus ataques son saltos cortos que quitan
+bastante hp, envia mini demonios al ataque y lanzar bolas de fuego de su boca. Debemos atacarlo
+con los ataques mas poderosos ya sea acumulando poder con el làtigo o con un arma secundaria
+combinada con un spellbook cuando se dispone a mandar a los demonios o a lanzar bolas de fuego,
+y luego escapar.
+después de la batalla nos encontraremos a la izquierda con Lydie:
+
+Juste	Lydie!
+Lydie	Juste!  Sos vos?
+J	Estas bien?  No estas herida?
+L	Estoy bien. Maxim me oculto aca.
+J	...Realmente fue asi?
+L	No esta con vos?
+J	Maxim esta esperando afuera, seguramente.
+L	Juste, que le paso a la persona que me trajo aqui?
+J	Quien te trajo aca? O sea que no sabes?
+L	Antes de que Maxim viniera por mi, mis ojos estuvieron vendadados todo el tiempo.
+J	Realmente...  Bueno, por ahora solo vamonos de aqui.
+L	Okay.
+
+	(Una carcajada, y La Muerte aparece)
+
+D	Asi que ella estuvo escondida aqui...Y esta con su compañerito audaz, en efecto.
+L	Ah!
+J	Lydie!
+
+	(La Muerte toma a Lydie)
+
+D	Me llevare a la chica.
+L	No!  Juste, sàlvame!
+
+	(Desaparece)
+
+J	Maldiciòn! No puedo dejar que se la lleve!
+
+Por ahora no podemos hacer nada, pero ya vamos a tener cara a cara a La Muerte.
+Ve a la izquierda y presiona el switch, sube toma los incrementos de hp y de corazones y luego
+baja. Sigue a la derecha, ten cuidado con estos lagartos ya que son algo agiles. Baja. En la
+unica habitaciòn de la derecha NO HAY NADA ya que es una de esas raras(tiene un corazòn con el
+numero 02468, casi como mi codigo postal), sigue bajando. Llegaras a una parte donde hay
+lagartos, sigue a la derecha hasta el fondo para tomar un collectible, y luego regresa para ir
+hacia abajo. A la derecha nos enfrentaremos con
+
+Minotaur Another    HP: 4200       Nivel:42       Exp: 3228    
+
+Este monstruo lo ùnico que hace es tratar de golpeàrte con su bola, debes golpearlo
+constantemente, y debes tener cuidado para esquivarlo cuando este muy cerca tuyo, ya que
+cualquier contacto y perderas mucha energia. Como premio a la derecha te espera un nuevo làtigo,
+que es mas poderoso pero si lo comparamos golpeando sin acumular energia.
+En la direcciòn que estas dirìgete bien a la izquierda para salvar el juego.
+Ahora vamos a ir al portal, para ir al 2do castillo, que se encuentra justo antes de la
+habitaciòn en donde hablamos con Lydie.
+
+Castillo 2:
+
+Y nos dirigiremos al mismo lugar en donde vencimos al minotauro para enfrentarnos a otro
+minotauro bastante parecido(en el camino toma la chaqueta y las dos pociones).
+
+Minotauro     HP: 1920       Nivel:20      Exp: 339       
+
+Èste es menos percistente pero mas agil, en vez de atacarte con una bola lo hace con un hacha y
+ademas va a querer atropellarte. Como tiene poca energia atacalo continùamente y caera en pocos
+golpes. Pero lo mas importante y motivo por el cual nos molestamos en volver al primer castillo
+(ya que debemos volver luego de esto al 1ero)es lo que se encuentra a la derecha, ademas de un
+incremento de HP, el spellbook del viento(por favor probalo con los puñetazos porque esta
+buenisimo), que es el segundo spellbook mas poderoso.
+Regresa al portal para ir al 1er castillo.
+
+Castillo 1:
+
+De aqui debemos ir al sur, y me refiero bien al sur. Estamos en la sala del portal, hace dos
+habitaciones a la izquierda y baja, sigue a la derecha y salva el juego, continùa y baja, estas
+en la parte donde hay rayos de sol, baja lo mas que puedas hasta ingresar en otra parte, ve a la
+derecha hasta que puedas bajar y hàzlo. Estamos en otra habitaciòn con rayos de sol, toma el
+ascensor y baja hasta el tope, e ingresa a la pantalla de abajo, en donde hay reptiles, sigue a
+la derecha y baja y en la otra habitaciòn ve tambièn a la derecha y sigue el camino enfrentando
+a los soldados, hasta el final y baja, toma el ascensor y dale hasta el fondo y baja, llegaras
+a una habitaciòn con niebla, handa a la izquierda y baja en la primer plataforma, sigue el
+camino y entra en la abertura de la izquierda y dale hasta el final para llegar a la cueva de
+los esqueletos, baja hasta llegar a otra habitaciòn, yendo a la derecha recorre todo lo mas
+que puedas, para tomar 2 collectibles y una ropa. Regresa y ahora ve la izquierda. Debes
+acomodar los bloques de tal manera para poder continuar, empùja el bloque de abajo justo debajo
+de la plataforma que contiene el segundo para poder subir a esta y empùja ese bloque hacia abajo
+luego empùja el primero hacia la izquierda hasta que caiga y después el segundo ponlo arriba del
+primero para poder subir a el y hacer el doble salto para poder continuar. Toma el incremento
+de corazones, y sigue el camino hasta llegar a una nueva pantalla en donde debemos acomodar
+nuevos bloques. empùja el bloque mas cercano hacia la izquierda pero CASI pegado a la pared y
+luego el bloque de arriba encima del primero para luego poder empujarlo y por ultimo arrojalo,
+para, a su vez, llevarlo hacia la izquierda hasta que nos permita continuar en el camino. Sube
+un par de plataformas y a la izquierda toma el incremento de hp, ahora ve a la izquierda. Sigue
+el ùnico camino que hay hasta llegar a un punto de salvada. continùa el camino y no subas a la
+plataforma que ves para continuar hacia arriba sino sigue hasta el final para luchar vs
+
+Legion Core     HP: 4620      Nivel:43      Exp: 3388   
+
+Bueno, este Legion es muy parecido al anterior, el cambio esta en que al otro debiamos pegarle
+para descascararlo y a èste hay que pegarle hasta que habra su cuerpo y muestre en su interior
+un esqueleto al cual debemos pegarle. Dificultades no hay, mas teniendo pociones. La carasterìstica
+principal de este jefe es que es uno de los mas persistentes.
+Luego de derrotarlo toma el orb para recargar tus energias y en la pròxima habitaciòn de la
+izquierda podras tomar el cristal Sypha, que al equiparlo te fortalece el Mp.
+Regresa a esa plataforma que salteamos hace un ratito y sube. Ve a la derecha y sigue hasta mas
+no poder, te encuentras en una habitaciòn en donde hay un bicho raro en la parte superior de
+esta sala, lo que debes hacer es ir contra el muro de la derecha y saltar y caminar hacia
+adelante aunque no se pueda, ya que el bicho esta imitando nuestros movimientos y al hacer
+esos presionara un switch para quitar el muro. Sigue, obviamente, a la derecha y toma la carta
+hint nº5 y abajo un anillo raro. Regresa y dirìgete a la izquierda, pasando a los esqueletos con
+barriles, hasta llegar a una pantalla en donde hay bloque. Primero correremos a la izquierda
+hasta que se caiga el bloque de la izquierda que se encuentra junto a otro bloque, al mismo ahora
+a la derecha hasta el final de la plataforma pero que no se caiga, pero que este a punto. Luego
+al bloque compañero del anterior lo arrojaremos encima del que habiamos movido y que quede a
+punto de caer a la derecha pero que no lo haga. Y por ultimo al bloque que quedo solo arriba a
+la derecha lo arrojaremos encima de los otros dos, luego al mismo a la derecha y cuando caiga
+nuevamente a la derecha, para poder seguir subiendo en nuestro camino. A la derecha debemos
+tomar la floodkay vigilada por una de esas serpientes esqueletos. Por ahora no subiremos ya que
+ahì nomas quedaremos(compruebalo por ti mismo), por lo tanto regresa hasta el punto de salvada
+(si no te acuerdas, mira el mapa) y luego sal de la cueva de los esqueletos, la puerta de salida
+y en su momento de entrada de esta cueva es un cràneo. De aqui ve a la izquierda hasta llegar a
+la moss grown cave, la reconoceras ya que el enemigo carasterìstico de esta area es una de esas
+especies de hadas que estan en el aire. Sigue el ùnico camino hacia la derecha y arriba hasta
+que en una nueva pantalla veas a una brujita rosa. Sube en la primer plataforma que veas y
+sigue subiendo para tomar una pata de pollo(muy util para la pròxima pelea), en esta parte por
+ahora como habras visto no se puede seguir a la derecha ya que no poseemos la tecnica para saltar
+mas de lo que podemos. Regresa hacia abajo y continùa a la derecha, salva el juego y sigue en
+esta direcciòn y sube lo mas que puedas para descubrir un nuevo portal, tomar un incremento de
+corazones y un ìtem(equipa los mejores ya que tenemos dentro de poco una pelea re-grosa). Ahora
+baja lo mas que puedas hacia la izquierda para tomar un ìtem muy pero muy util ya que esta
+botella sirve para hacernos invensibles algunos segundos, regresa al punto de salvada, de aqui
+sigue a la derecha, baja, sigue y arròjate hacia abajo. Sigue a la izquierda, y baja, ve a la
+izquierda para tomar la carta nº1 y vuelve y sigue a la derecha por el ùnico camino que hay y
+llegaras a una parte en donde te esperan tres hadas, en esta pantalla recorre todo, la primer
+abertura de la derecha es una tienda, y lo que nos interesa se encuentra bien en la parte
+inferior izquierda, aqui usaremos en la estatua la llave que habiamos encontrado para que se
+desagote una parte del castillo a la que antes no podìamos acceder ya que por el contrario nos
+hubieramos ahogado. Ahora regresa al punto de salvada anterior, mira el mapa para llegar mas
+fàcil. De este punto ve a la izquierda y arròjate a la primer abertura que veas en el suelo,
+sigue a la izquierda y vuelve a bajar, ve a la derecha para tomar una pieza de un armadura y
+ahora continùa a la izquierda y baja, debajo de la plataforma hay otra pieza de una armadura,
+equipate lo mejor de lo mejor, sigue a la derecha y continùa el camino esquivando a los enemigos
+ya que debemos luchar contra uno de los jefes posta del juego(prepara algunas pociones)
+
+Juste	Eres tù. Devulveme a Lydie!
+MUERTE	No te preocupes.  Ella esta con el señor Maxim.
+J	Por què?  Lydie estaba contigo!
+M	En la culminaciòn de la construcciòn del castillo, la chica es necesaria.
+J	Que motivo tiene lo que estas haciendo?
+M	Este castillo aun no esta completo. El serà preparado para la resurrecciòn de mi amo.
+	Debemos usar a tu amigo para que la uniòn de los dos castillos sea terminada y asi poder
+        fomar de una vez la forma final del castillo de Dràcula.
+        Esto es neceasrio porque mi señor es un querido amigo.
+J	Maxim es un hombre fuerte!  A el no le haras daño tan facilmente.
+M	El es controlado con el poder del señor Dràcula...  Y, yo conosco de alguna forma ese
+        poder.
+	Si, de alguna forma, la energia de su cuerpo es usada mal, el no aguantarà y el efecto
+        serà...
+J	Tu...  no puedes tomar su vida, no puedes hacer eso!
+M	No interfieras. El alma del señor Maxim esta siendo absorvida por la oscurdad.
+
+	(después de la pelea)
+
+M	Se te hizo tarde. El castillo se ha completado!
+
+DEATH(1)    HP: 3920       Nivel:48     Exp: 4227     
+DEATH(2)    HP: 2800       Nivel:49     Exp: 4406   
+
+En la primer forma se mantendra teletransportandose a cada rato y a la vez nos arrojara mini
+guadañas, que las podemos eliminar golpeandolas, luego de que sufra varios golpes empezara a
+producir rayos laser desde el suelo, son faciles de esquivar porque en el lugar donde Aparecerà
+un rayo comienzan a aparecer, antes, puntos luminosos. Y el ultimo tipo de ataque en esta forma
+es lanzar su guadaña a tamaño original. Después de vencer la primer forma provablemente subiras
+de nivel. La segunda forma tiene la apariencia de una fusion entre una araña y una vibora
+esqueleto, a la que debemos golpearle la cabeza. Una ventaja sobre este enemigo que se puede
+volver un desventaja si no la usas bien es que puedes montarla. Las unicas partes que nos
+causaran daño al menor contacto son la cola y la propia cabeza. Quiza para esta forma conviene
+mas usar el otro làtigo, me refiero al que podemos acumular poder. Con paciencia lo derrotaras.
+Y el premio es nada mas y nada menos que el ala, una reliquia que nos permite, AL PRESIONAR
+ABAJO,ARRIBA Y "A" poder llegara cualquier tipo de altura.
+Bueno, deja de probar la nueva habilidad y vuelve al punto de salvada. De este punto ve a la
+derecha hasta que bajes y sigue a la izquierda y de nuevo baja, para ir a la derecha y
+enfrentarte a
+
+Talos:      HP:4200         Nivel:48          Exp:4227
+
+(antes de combatir se presenta un enemigo bastante grande y te atacara con una espada, pero
+justo antes de que te toque, lo elimina de un solo golpe nuestro contrincante,Talos que es
+el triple mas grande)
+
+Este enemigo es pura apariencia, lo que debes hacer para destruirlo es golpearlo en su pierna
+izquierda. El atacara aplastandote contra la pared o golpeandote con su brazo luego de un
+esfuerzo tremendo para agacharse. Los pasos a seguir para obtener una victoria asegurada son:
+Con el làtigo mas nuevo que tengas golpèalo hasta que te arrincone contra la pared, entonces
+tu salta hacia la puerta izquierda para permanecer ahì hasta que se vaya, luego atacalo a
+distancia con los poderes del libro del viento y cuando se te acabe el MP atacalo con el arma
+secundaria que tengas(espero que tengas muchos coraones). Si esto lo haces continùamente, el
+enemigo caera en un abrir y cerrar de ojos.
+Sigue a la derecha y toma los incrementos de corazones y de HP, continùa hasta el final y usa
+tu nueva habilidad para llegar hasta la parte de arriba de esta pantalla(te aviso que puedes
+combinar luego de usar tu nueva habilidad el salto), sigue a la izquierda, derrota al enemigo
+porque da bastante experiencia, hasta el final para tomar la llave esqueleto. Regresa hasta la
+parte en donde tomaste los incrementos de hp y corazones y haz lo mismo para tomar otro
+incremento de corazones. Ahora vuelve al punto de salvada. Del punto ve a la izquierda hasta que
+puedas subir, hàzlo y luego ve a la derecha, como veras debes usar la nueva habilidad para
+avanzar a la derecha, en los candelabros hay $100 en cada uno, rompe el muro con el làtigo que
+lo puede hacer y avanza y cuando llegues a la pantalla en donde se ve una mujer de fondo,
+dirìgete hacia la izquierda, venciendo al enemigo que da bastante experiencia, sigue hasta
+chocarte la pared y trata de saltarla para ir a un lugar secreto y tomar una reliquia mas. Ahora
+sigue a la izquierda, derrota a los murcielagos subiendo,y en la ultima plataforma se encuentra
+un guante que no nos sirve, luego ve a la derecha y sube en la primer plataforma que veas. Me
+vas a querer matar pero esto lo hicimos para completar mas el mapa ya que debemos volver al
+punto de salvada que quedaba por halla abajo. después de salvar el juego, debemos salir de
+aqui yendo hacia la izquierda hasta mas no poder, luego bajar seguir a la derecha y volver a
+bajar para salir por la izquierda. Luego de salir por la puerta, hacia abajo tenemos la
+habitaciòn en donde se encuentran todos los collectibles que encontramos, ve hacia arriba y
+cuando llegues a una nueva pantalla ve al final de la izquierda y sube, y tambièn ve al final de
+la izquierda para tomar un incremento de corazòn. Ahora ve al final de la derecha y sube, toma
+el collectible y sube en la plataforma que veas, sigue hasta el final para tomar un anillo
+dorado, regresa y dirìgete a la izquierda y baja cuando puedas, para tomar un ìtem y si lo
+deseas comprar algo en la tienda. Regresa y sigue a la izquierda, llegaras a un lugar en donde
+puedes ir a la izquierda o abajo, primero ve abajo y al final del camino toma un collar, luego
+ve a la izquierda (no bajes en la primer abertura que veas ya que es inutil,al menos por ahora)
+lo mas que puedas para tomar dos collectibles, y bajando encontraras de un lado un punto de
+salvada y del otro un incremento de HP. Bueno, cabe destacar que todo esto lo hicimos para,
+ademas de tomar los ìtems, para completar mas el mapa. Ahora REGRESA a la parte en donde se
+encuentra la entrada a la HABITAION DE LOS COLLECTIBLES, pero no entres. Entra a la abertura
+que esta arriba a la izquierda.,para llegar nuevamente a la cueva de los esqueletos. Baja
+matando a los esqueletos con arcos y cuando llegues a una nueva habitaciòn sigue a la izquierda.
+continùa hasta llegar a un punto de salvada (espero que en la parte de ordenar los cajones no
+los ordenes y avances usando tu nueva habilidad), dentro usa tu nueva habilidad para encontrar
+una habitaciòn secreta, y toma el incremento de HP y un ìtem para el MP. Sigue a la izquierda
+y sube a la primer plataforma que veas, luego ve a la izquierda y continùa hasta el final del
+camino para subir a una plataforma(parte nueva en el mapa), rompe el muro con el làtigo
+correspondiente, sigue, a la izquierda salva el juego, sigue hacia arriba, y te encontraras en 
+una parte en donde a la izquierda no puedes, por ahora, ir, a la derecha hay una habitaciòn
+vacia y por lo tanto usa tu nueva habilidad(ya es vieja) combinada con un salto, para saltar la
+unica columna que hay. Luego rompe el muro y toma el incremento de HP, sigue y llegaras a la
+entrada del castillo.(Si ves el mapa 1 puedes observar que esta casi completo).
+Bueno, ahora que estamos bastante avanzados vamos a ir en busca de ìtems que antes no podìamos
+tomar.
+Encaminate hacia la derecha, entrando a Approach of Deplore, hasta toparte con un punto de
+salvada, luego de salvar sube las plataformas mas cercanas de la izquierda, luego ve a la
+derecha, llegaras a una parte donde hay una escalera rota, y ve al sureste, para entrar a otra
+pantalla. Sube ahì nomas y continùa a la derecha, matando a esos odiosos reptiles, y luego sube.
+Ahora tenemos que ir obligadamente a la izquieda y al final del camino debemos subir. Sube en
+la plataforma de la derecha, sigue a la izquierda y sube nuevamente en la primer plataforma que
+se cruce, después ve a la derecha hasta el final pero no entres a la habitaciòn sino sube en las
+plataformas marrones hasta llegar a una nueva pantalla. Ve a la izquierda hasta el final y sube,
+ahora en esta parte debemos encarar para la derecha, matando a los esqueletos, hasta llegar a
+una escalera muy larga. En la que debemos ponernos en el medio y saltar a la parte de la
+izquierda en donde hay unos enanos saltarines, sigue a la izquierda, luego sube, después a la
+derecha y llegaras a otra escalera larga, fìjate que en el medio de esta escalera si miras a la
+izquierda puedes tomar un incremento de corazones. Sigue a la derecha hasta el final para subir
+a la plataforma y tomar, al fin, el Anillo del conde Dràcula, otra de las reliquias. Ahora solo
+nos faltan tres de las 12 reliquias. Ahora regresa hasta la primer escalera larga y sigue a la
+derecha y cuando puedas baja para tomar una pociòn y un antidoto. después de esto regresa a
+la escalera larga y sigue a la derecha hasta el final para tomar, luego de derrotar al enemigo
+un incremento de HP. Ahora que tenemos la llave esqueleto podemos abrir la puerta de la derecha,
+toma la armadura de plata.
+Ahora debemos ir al punto de salvada que esta en la misma linea que nosotros lo mas a la
+izquierda posible, cerca de la entrada, donde hay una parte incompleta. Esta parte antes no la
+habiamos visitado ya que necesitabamos saltar demasiado y no podìamos. En el camino te
+encontraras un incremento de corazones. Cuando llegues usa la habilidad indicada y a la
+izquierda podras ver dos aberturas, en la de abajo encontraras un nuevo làtigo y en la de arriba
+un portal hacia el otro castillo, y ahora en este castillo(2) encontraremos una nueva llave en
+donde tomamos el làtigo en el otro. Por consiguiente vamos a ir a la derecha hasta el final,
+donde hay dos esqueletos fantasmas, y bajar. Ahora ve lo mas a la izquierda posible para salvar
+el juego. De aqui ve tres habitaciones a la derecha, llegaras a una en donde hay dos de esos
+enemigos que su apariencia es un espada suspendida en el aire, entonces vamos a entrar a la
+habitaciòn que se encuentra,dentro de esta parte, al noroeste. Estamos en otra pantalla llena
+de reptiles de todo tipo, lo que debemos hacer es continuar el ùnico camino que hay para tomar
+al final de el un incremento de HP. Ahora vuelve a la habitaciòn anterior y baja a la abertura
+que esta al suroeste, desciende esas plataformas hasta llegar a los candelabros, tenemos dos
+caminos, en el de la derecha encontraremos al final un incremento de HP y a la izquierda un
+collectible mas, en ambas direcciònes vence a los enemigos ya que dan mucha experiencia. Ahora
+vuelve a la habitaciòn anterior a la de los candelabros y entra en la abertura del noreste.
+Sigue el camino hasta que puedas ir para arriba y hàzlo, a la izquierda podras salvar el juego.
+Sube en las plataformas que estan cerca del punto y a la derecha podres tomar la capa negra,un
+ìtem muy bueno que incrementara mucho tu defensa. Regresa a salvar el juego.
+(Un dato interesante es que de acuerdo a la capa que equipes cambiara, segun el color de esta,
+el color del rastro del dash).
+De este punto dirìgete a la derecha en esta linea, sin importar que aparescas en una nueva
+pantalla, hasta mas no poder para tomar una pociòn. Luego ve en esta pantalla a la abertura del
+sureste, llegaras a la escalera larga, entonces en el medio de esta salta a la izquierda y al
+final del camino donde en el otro castillo tomamos el anillo del conde ahora vamos a por un
+casco de vikingo. Luego de equiparlo ve a la escalera larga y continùa a la derecha y toma el
+incremento de corazones que esta "custodìado" por ese enemigo tan singular. Debemos regresar a
+la habitaciòn anterior a la de la escalera larga, y arrojarnos a la abertura del suroeste(ah,
+para completar mas el mapa antes de tirarte a la abertura entra a la sala de al lado a la
+izquierda para enfrentarte a un enemigo comun pero poderoso). Sigue a la derecha para llegar a
+Approach of Deplore. Vence al espiritu gigante y al final baja, entra a la habitaciòn de la
+derecha para tomar un incremento de HP. Sal de esta pequeña sala y handa en la misma linea hacia
+la izquierda(si ves el mapa nos encontramos en el angulo superior derecho de un rectangulo, ve
+a la abertura superior izquierda). Y en esta nueva pantalla toma el collectible que esta bien al
+noroeste. Baja esas plataformas y a la izquierda, toma la mini pociòn que caera y usa el super
+salto para poder avanzar, pero ahì nomas sube a la plataforma que veas ya que hay otro
+collectible, sigue hasta el final a la izquierda arriba para tomar un ìtem importantisimo, las
+Crushing Boots son las botas que al usarlas junto con el super salto(habras observado que Juste
+estrella sus pies contra el techo) podran romper unos bloques especiales que luego veremos. Asi
+que equipalas,aunque sean un poco mas dèbiles.(ESTE ES EL RENGLòn 1000 DE LA guìa!!!)
+Vuelve a la habitaciòn anterior y a la derecha bajando llegaras a una pantalla en done hay una
+lechuza, sigue y baja, continùa hasta llegar a una parte en donde hay murcielagos, baja. Sigue
+un poquito a la izquierda y baja y luego ve a la derecha en donde hay espiritus gigantes y al
+final del camino sube. Ahora ve a la izquierda y sube ahì nomas y luego en esta pantalla handa
+a la derecha hasta el final, venciendo a estos molestos enemigos, y toma el pollo para recuperar
+HP, baja y toma el incremento de corazones que esta sobre el ataud. Vuelve a la parte en donde
+estaban los espiritus gigantes y sigue a la izquierda hasta toparte con una pata de pollo, la
+cual incrementa el HP.(Esta parte es muy buena para subir de nivel matando a los esqueletos
+con làtigos y a las lechuzas).En esta pantalla entra en la abertura superior izquierda, y ve
+hasta el fondo para tomar una pociòn. De aqui ve a la derecha regresando y tìrate a la primer
+abertura que veas, y a la derecha tienes un punto de salvada y a la izquierda, al fin, un jefe
+
+Cyclops      HP:4680         Nivel:49          Exp:4406
+
+A pesar de que es uno de los ultimos jefes que quedan en el juego es bastante sencillo. Para
+vencerlo sin inconvenientes debemos golpearlo con un buen poder cuando estè inactivo y cuando
+comience a moverse debemos realizar un doble salto para evadir su choque, de lo contrario
+notaremos por que es uno de los ultimos jefes, ya que nos quitara demasiada energia. Otro
+ataque que posee es con su martillo gigante, pero por mas que nos golpee nosotros lo acabaremos
+antes. No se si se me fue la mano a mi al realizar esta guìa pero en este momento tengo nivel
+44..... pobre Cyclops ^_^`.
+después de vencerlo ve a la izquierda, toma el incremento de corazones y abre la puerta para
+llegar a la entrada del castillo, en la primer plataforma que puedas subir, sube y ve al final
+a la derecha para tomar un incremento de corazones, ahora dirìgete lo mas a la izquierda
+posible llegando a la puerta de entrada del castillo para tomar una armadura bastante buena.
+ después, fìjate que antes del puente levadizo hay en la parte superior de la pantalla otro
+acceso al castillo al cual ahora podemos valga la redundancia acceder con el super salto, podras
+notar que no puedes seguir subiendo ya que hay unos bloques que te lo impiden. Bueno, por algo
+tomamos anteriormente aquellas botas especiales(crushing boots), equipalas y usalas junto con el
+super salto sobre estos bloques y veras que no son problema, sigue subiendo, toma la pociòn,
+luego el collectible y por ultimo a la derecha otra de las reliquias de Dràcula.
+Estamos en los tramos finales del juego. Nos marcharemos de aqui, mira el mapa y dirìgete al
+portal que se encuentra arriba tuyo, estando en el presiona arriba para ir al castillo 1 y
+después presiona 3 veces abajo para teletransportarte a la torre del castillo. Ahora sal por la
+abertura derecha y ahì nomas saliendo usa el super salto junto con las botas para romper los
+bloques que estan alla arriba, en esta parte nueva toma la pociòn, el pollo, la otra pociòn, el
+collectible, el incremento de HP, los $400 del candelabro y por ultimo, lo mas importante rompe
+la estatua que esta a la izquierda para, a su vez, romper el sello de la puerta de la
+habitaciòn.....(observa el mapa y veras que aparecio en el centro otra parte)Sal de aqui y en la
+escalera alfombrada de naranja ve hacia la derecha bajando y llegaras a Chapel Of The Heretic,
+aqui debes saltar a la plataforma que esta en la misma linea que tu a la derecha y luego seguir
+hasta el final del camino y usar el super salto para poder tomar otra reliquia del famoso conde,
+el OJO. Luego de tienes que ir nuevamente al portal y presiona arriba ya que necesitamos ir al
+castillo 2. Hay que hacer lo mismo, usa el super salto junto con las botas en los bloques de la
+derecha y toma la mejor armadura del juego que esta a la izquierda y luego a la derecha los dos
+ìtems que te permiten ser invisible por unos segundos, el collectible y el incremento de
+corazones. Vuelve a la escalera alfombrada y sigue a la derecha abajo, como antes, y abre la
+puerta naranja, en la misma linea salta a la plataforma de la derecha para al final del camino
+tomar una carta y un incremento de HP, regresa a la entrada de la pantalla, sube lo mas que
+puedas para tomar una pociòn, y ahora ve un poquito mas abajo de la plataforma derecha y salta a
+la pequeña plataforma que esta debajo de esta ultima para tomar un incremento de corazones, y
+luego situate justo antes de que puedas descender en las ultimas plataformas del la derecha y
+sube para tomar otro collectible. Mira el mapa y dirìgete al punto de salvada de abajo, si,
+es ese que queda bastante lejos no te estas equivocando. (Durante el camino procura
+visitar todos los lugares para completar mas el mapa, y toma la pociòn que esta por ahì). Bueno,
+llegamos pero nuestra intenciòn no era solamente salvar el juego sino algo muchisimo mas
+importante, dentro de este punto equipa el làtigo que puede romper muros y carga energia y rompe
+los ladrillos de la derecha para que?, para tomar la ultima reliquia el CORAZòn de Dràcula.
+después de esto vamos a ir por dos collectibles que creo que no los tomamos anteriormente, 
+mirando el mapa al salir del punto nos encontramos en el angulo inferior derecho de un
+rectangulo en forma horizontal, y al lado a la izquierda tambièn hay un rectancgulo pero en
+forma vertical, bueno, nosotros debemos ir al angulo inferior derecho de este ùltimo para tomar
+esos collectibles que son una radio antigua y una silla.
+Ahora estamos en condiciones de ir a la pelea final, pero no lo vamos a hacer porque nos faltan
+algunos collectibles y el ultimo libro, y queremos terminar al 100% el juego. Asi que vuelve al
+punto que tenìa el corazon del conde y baja ahì nomas a la izquierda, sigue a la izquierda, baja
+ahora a la derecha, luego nuevamente a la izquierda, baja y a la derecha, vuelve a bajar y
+haz lo mismo, derecha y bajar. Si ves el mapa estamos en una parte nueva, sigue el ùnico camino
+que hay, toma si quieres el antidoto,y cuando puedas optar por bajar o seguir a la izquierda,
+sigue a la izq y salta contra la pared para encontrar un sector secreto y tomar un incremento de
+HP, ahora si, bajay al final del camino en donde hay una puerta toma el ìtem y entra. Salta el
+muro, sigue a la izquierda y baja, sigue el largo camino a la izquierda hasta entrar a una
+purta. De aqui debemos ir al punto de salvada que esta al suroeste(cueva de los esqueletos).
+Cuando estes dentro de el, salva el juego y luego usa el super salto para llegar a una parte
+secreta y tomar el ultimo y mas poderoso libro, Summon Book y uno de los ultimos collectibles.
+Que estas esperando?, prueba el nuevo poder. Para completar aun mas el mapa sal por el lado
+izquierdo y sigue hasta la entrada del castillo(guìate mirando el mapa) y en el camino toma la
+gorra, la pociòn, salva el juego,otra pociòn, el anteultimo collectible, tambièn hay un portal.
+Cuando llegues a la entrada dirìgete a la derecha hasta entrar a un punto de salvada, salva y ve
+hacia (mirando el mapa) el centro del mapa, y veras que la conpuerta de la batalla final se
+abrirà pero no entres, salva el juego en el punto de la izquierda, después de esto sigue hasta
+el final de la derecha y sigue el camino, tomando una armadura que no sirve y un incremento de
+corazones hasta llegar a una pantalla en la que hay un ascensor, y tienes que entrar a la
+abertura superior izquierda, tomar la armadura del sol e ir al castillo 1 por el portal, al
+aparecer en este castillo toma la armadura de la luna, y dirìgete a la conpuerta de la batalla
+final para tomar el ultimo collectible que se encuentra sobre ella. Salva el juego a la
+izquierda. Bueno, tenemos todos los mejores ìtems, todos los spellbooks, todas las reliquias y
+todos los collectibles(si quieres ve a la habitaciòn de estos ultimos para ver como quedo
+decorada), es hora de la tan esperada batalla final. Aqui es donde debemos decidir que final
+queremos ver, ya que hay tres distintos:
+
+1)Castillo 2. Si no te equipas los brazaletes de Maxim y Juste(azul y rojo), enfrentaras a Maxim
+y cuando lo derrotes el castillo se desitegrara con tus amigos dentro.
+
+Juste	     Espera!
+Maxim	     Juste...  eres tu.
+J	     Lydie! Te encuentras bien?
+L	     ......
+J	     Ella esta inconciente. Aun estoy a tiempo. Maxim!, te quedas quieto, acaso no eres
+             tù?
+M	     Quiza. Yo sabia que esto iba a pasar...
+	     Por favor...  Matame!
+J	     De que estas hablando? Deseas algo asi...
+M            Ella no esta bien. Yo no puedo controlar mis impulsos!
+J	     Yo...  Yo no puedo hacerlo...
+M(poseido)   Entonces permìteme el honor. Preparate!
+
+(después de la pelea, claro, si la ganas)
+
+Maxim	Gracias, Juste. Dame tu mano... te estoy muy agradecido...
+J	Maxim!
+M	Yo solo queria liberarte de tu destino
+J	Esta bien...  No hables mas...
+M	Por favor cuida a Lydie...
+J	Maxim!
+
+
+2)Castillo 1. Si equipas o no los brazaletes de Maxim y Juste(azul y rojo), enfrentaras a
+Maxim y cuando lo derrotes el castillo se desintegrara pero pudiste rescatar a Lydie.
+(Tan malo no esta).
+
+
+Juste	     Espera!
+Maxim	     Juste...  eres tu.
+J	     Lydie! Te encuentras bien?
+L	     ......
+J	     Ella esta inconciente. Aun estoy a tiempo. Maxim!, te quedas quieto, acaso no eres
+             tù?
+M	     Quizà. Yo sabia que esto iba a pasar...
+	     Por favor...  Matame!
+J	     De que estas hablando? Deseas algo asi...
+M            Ella no esta bien. Yo no puedo controlar mis impulsos!
+J	     Yo...  Yo no puedo hacerlo...
+M(poseido)   Entonces permìteme el honor. Prepàrate!
+
+(después de la pelea, claro, si la ganas)
+
+Maxim	Gracias, Juste. Dame tu mano... te estoy muy agradecido...
+J	Maxim!
+M	Yo solo queria liberarte de tu destino
+J	Esta bien...  No hables mas...
+M	Por favor cuida a Lydie...
+J	Maxim!
+
+	(El castillo desaparece)
+
+Lydie	Ungh...
+J	Ah, estas despierta.
+L	Nosotros estamos... a salvo?
+J	Si.
+L	Oh... Dònde esta Maxim?
+J	Maxim...  el...  ...
+L	Juste...  esta bien, no necesitas decìrmelo.
+J	Yo...  Yo...
+L	No comprendo muy bien que estaba haciendo en medio de todo esto...  Pero, lo que se
+        es que arriesgaste tu vida para salvarnos. No debes sentirte culpable por lo sucedido,
+        sabemos que no tienes la culpa.
+J	Tal vez tengas razòn.... El, verdaderamente era un hombre.
+L	Vàmonos. serà mejor que descances y que luego de un tiempo me cuentes toda la historia.
+J	Estas bien...  De acuerdo, vamos, Lydie!
+
+
+3)Castillo 2. Si equipas tu brazalete y el de Maxim enfrentaras a este ùltimo y
+cuando lo derrotes, Aparecerà Dràcula que al vencerlo salvaras tanto a Maxim como a Lydie.
+
+Juste	      Lydie!
+Lydie	      ......
+J	      La respiraciòn de ella es muy dèbil, pero...  Maldiciòn! serà demasiado tarde?
+M(poseido)    Bienvenido, Juste. Llegas tarde.
+J	      Maxim...
+M(poseido)    Maxim?  Ah, si te refieres a tu amigo, el esta muerto. Gracias a la chica, pude
+              incrementar mi fuerza.
+J	      Bastardo.  No puedo perdonarte esto!
+M(poseido)    A mi no me importa. Eres mi enemigo, a pesar de todo.
+
+(después de la pelea)
+
+Maxim	      Augh.  Ese... ese brazalete... lo usaste, después de todo...
+J	      Maxim?  sos vos?
+M(poseido)    Por que el esta volviendo? Deberia estar muerto!
+J	      Recuerda, Maxim! Tu no eres asi!
+M	      Te... te encuentras bien. Comparado a nuestro entrenamiento... este no es un buen
+              negocio, no?
+M(poseido)    Por que? Por que no puedo controlar mi cuerpo?
+M	      No puedo permitirte controlarme. Juste! Termina con esto ahora!
+
+(Las reliquias de Dràcula comienzan a flotan en el aire)
+
+M             Uh... esta intensa energia...
+J             La...  las reliquias!
+M(poseido)    Esta energia debe ser suficiente como para... No necesito màs este cuerpo. Puedes
+              quedartelo!
+M	      Argh!
+
+	(Maxim queda inconciente, y el fantasma de Dràcula aparece)
+
+DP	Reconosco que, mi fuerza esta inestable. Pero, si bebo tu sangre, puedo alcanzar mi
+        maximo poder.
+J	Crees que puedes?  No subestimes a un Belmont.
+DP	Bien, comenzamos? La batalla comienza.
+
+	(después de la pelea)
+
+DP	Ahh!
+	Èste es el poder de los Belmonts?
+J	Finalmente te separaste de Maxim, eres mi peor enemigo.
+DP	Yo morire pero...
+	Sin embargo, ante la presencia de este maldito poder, tu y tus familiares deberan ser
+        cazadores por toda la eternidad. Y aun estando muerto, puedo hallar placer en esta
+        realidad.
+
+	(El castillo desaparece)
+
+M	... Donde... Donde estamos?
+J	Maxim! estas despierto.
+M	Yo sobrevivì?
+J	Tu fuerza es demasiada como para rendirte.
+M	Mi fuerza no... Mejor dicho, la tuya y la de Lydie.  Ah! y Lydie? Ella se salvo?
+J	Ella permanece inconciente, pero desde que Dràcula fue destruido, las heridas sobre su
+        cuello estan desapareciendo.
+	Su color vuelve a ser el normal, y en poco tiempo despertara.
+M	Oh...  Juste...  Disculpame.
+J	Todo termino , y por suerte estamos bien.  No necesitas explicar nada.
+M	......  Gracias...
+L	Ungh...
+J	Lydie esta volviendo en si.
+L	Oh...  Juste.  Dònde estoy?  Mi cuerpo...  Maxim... succionando sangre...
+J	Jajaja, claro, estabas teniendo una pesadilla. fìjate, mira tu cuello.
+L	...... No es nada... Solo era un sueño...
+M	Hey!  La verdad es que...
+J	Shh!  Tranquilìzate!
+L	Oh?  Maxim, volviste!
+M	Bien, ahora...
+J	Si, Maxim volvio. El provablemente estè muy cansado del viaje, por que no hablamos de
+        todo esto con mas calma en casa?
+M	No. yo...
+J	Todo bien, Maxim?  No ha sucedido nada!  Todo esta muy bien, no es asi?
+M	Vos crees que yo me voy a quedar asi?...Esto es tìpico, siempre tomas las cosas a
+        la ligera!
+J	Què estas diciendo?
+L	Detènganse!
+M	......
+L	......
+L	Suficiente, ustedes dos! siempre estan peleando después de cada encuentro nuestro?
+M	La realidad es , Lydie...
+L	Escucharè tus razones luego de llegar a casa.
+	Y entonces, los dos hablaran detenidamente de las cosas extrañas que han pasado.
+J	Esta bien, Maxim.
+M	... De acuerdo...
+L	Jajaja. Todo ha pasado, pero lo importante es que los tres permanecimos unidos o no?
+J	Eso es cierto.
+M	Si.
+
+De todas maneras:
+
+Maxim:      HP:4800         Nivel:46          Exp: -
+
+La mejor estrategia para este digno rival es atacarlo desde lejos, mas o menos lo que el mismo
+hace. Tiene 5 posibles ataques:
+-Puede lanzar sobre ti muuchisimas copias de el. Puedes destruir cada una de un solo golpe, o
+bien esquivarlas.
+-Lanza una especie de estrella que se comporta como boomerang. Hay que esquivarla.
+-Salta bastante alto y cae de punta sobre ti. Puedes esquivarlo o atacarlo antes de que el lo
+haga.
+-Comienza a tirarte muchos puñetazos a la vez, muy parecido a lo que podemos hacer con el poder
+del libro del viento combinado con el puño. Conviene pegarle de lejos o saltarlo y pegarle por
+detras.
+-Crea un doble al cual no le podemos pegar pero el si a nosotros y nos atacaran los dos. Hay que
+pegarle al original hasta que se ùnan.
+Se nota que es un enemigo poderoso, pero como siempre algun punto dèbil tiene. Yo recomiendo
+tener como sub-arma al Puño, ya que al combinarla con el libro del viento realizaremos,en mi
+opiniòn, el mas efectivo ataque del juego. Su dèbilidad consiste en que al golpearlo unas 4 o 5
+veces seguidas(sin que el te toque), el quedara inconciente por unos 5 segundos los cuales nos
+permiten tanto atacarlo con todo, como recuperarnos completamente. Entonces al realizar
+constantemente el ataque con la combinaciòn anteriormente dicha lo dejaremos inconciente a cada
+rato y podremos recargar nuestro MP, asi no tendras ningùn problema en derrotarlo.
+
+Dràcula Phantom:     HP:2250         Nivel:52          Exp: -
+
+Constantemente esta teletransportandose luego de hacer un ataque. Estos pueden ser dos, que
+lance pequeños meteoritos, los cuales los puedes esquivar realizando el doble salto o que tire
+tres pequeñas bolas de fuego que las puedes eliminar golpeàndolas. El punto dèbil de este
+idiota es su cabeza, me parece conveniente que equipes el làtigo capaz de romper muros para
+romperle la cabeza, esquiva su ataque y cuando desaparezca comienza a cargar poder y cuando
+aparezca ya sabes lo que tienes que hacer.
+
+Dràcula forma original:     HP:6666         Nivel:55          Exp: -
+
+Uh, que asco. Bueno la descripciòn de este sujeto es bastante rara, es un cràneo gigante de
+Dràcula(por los colmillos)que esta roto y dentro de el hay un solo ojo pegado a un
+cerebro-corazon que ademas le sale por debajo una cola con tentaculos. No te dejes intimidar por
+su apariencia. comenzarà atacandote con un "terrible" rayo laser que sale desde su ojo, es fàcil
+agachate y listo, y luego buscara golpeàrte con su mevediza cola. SI, SI esos son todos sus
+ataques, no era pura apariencia?. Lo ùnico que tenias que hacer era golpearlo. 
+
+                                          FIN
+
+Recien ahora creo darme cuenta el porque de la existencia en el castillo de las habitaciones
+vacias con numeros extraños, se deben a que de acuerdo a condiciones que segun cumplas o no
+habra respectivamente una tienda o no.
+------------------------------------------------------------------------------------------------
+    *******
+ 5)*Tiendas*
+    *******
+
+La primera vez que visites una tienda habra un pequeño dìalogo con el vendedor:
+
+V	Oh!  Bienvenido!
+Juste	Que  estas haciendo en un lugar como èste?
+V	Bueno, usted sabe...soy un comerciante que viaja. Mientras lo hacia, me perdidi en la
+        neblina y termine enfrente de este castillo!
+J	Pero abres la tienda en un lugar como èste...
+V	Estuve tratando de buscar otro camino, pero no puedo salir de aqui. No tengo otra opcion
+        mas que levantar mi tienda aqui.. Sino que hago, tu sabes?.
+	Bueno, puedo ayudarlo?
+
+Si vuelves luego de esto:
+
+V	Hm?  te olvidaste algo?
+
+Si te lo encuentras en otro momento:
+
+V	Nos vemos de nuevo. Estoy contento de verlo bien. Que puedo hacer por usted?
+
+()=castillo
+
+////////////////////
+//Entrance (1 y 2)//
+////////////////////
+
+*Condicion: Debes tener nivel 50 o mas.
+
+Nombre:          Precio:
+
+-Potion           80
+-Hi Potion        200
+-X-Potion         800
+-Mana Prism       250
+-Hi Mana Prism    1000
+-Antidote         20
+-Uncurse          20
+-Invincible Pot   10000
+-Platina Crown    9999
+-Crimson Silk Hat 9800
+-Platina Shoes    5000
+-Infinite Shoes   12000
+
+
+/////////////////////////
+//Castle's Treasury (1)//
+/////////////////////////
+
+Sin condiciòn
+
+Nombre:          Precio:
+           
+-Potion           80
+-Hi Potion        200
+-Antidote         20
+-Uncurse          20
+-Bangle           550
+-Armet            1800
+-Velvet Mantle    1350
+-Heavy Armor      2000
+-Barrel Helmet    2300
+-Morion           3000
+-Bloody Glove      2100
+-Greaves          1700
+-Cabaset          3800
+-Silver Boots     2800
+-Magical Necklace 5000
+
+/////////////////////////
+//Castle's Treasury (2)//
+/////////////////////////
+
+Sin condiciòn
+
+Nombre:          Precio:
+
+-Potion           80
+-Antidote         20
+-Uncurse          20
+-Rubber Plate     250
+-Plate Coat       800
+-Casual Clothes   98
+-Cross Helmet     160
+-Leather Greaves  140
+-Castle Map 2     105
+
+
+///////////////////////
+//Moss-Grown Cave (1)//
+///////////////////////
+
+Condiciòn: Debes tener un nivel bastante alto.
+
+Nombre:          Precio:
+
+-Potion           80
+-Hi Potion        200
+-Antidote         20
+-Uncurse          20
+-Velvet Mantle    1350
+-Heavy Armor      2000
+-Barrel Helmet    2300
+-Morion           3000
+-Bloody Glove     2100
+-Greaves          1700
+-Cabaset          3800
+-Silver Boots     2800
+-Battle Armor     6000
+-Lobster Tail Pot 4400
+-Ceramic Mail     15000
+
+
+//////////////////////
+//Moss-Grown Cave(2)//
+//////////////////////
+
+Sin condiciòn
+
+Nombre:          Precio:
+
+-Potion           80
+-Antidote         20
+-Uncurse          20
+-Rubber Plate     250
+-Plate Coat       800
+-Casual Clothes   98
+-Cross Helmet     160
+-Leather Greaves  140
+-T-Shirt          199
+-Sallet           340
+
+
+///////////////////////
+//Clockwork Tower (2)//
+///////////////////////
+
+Condiciòn: Debes poseer el ìtem Midday Constellation.
+
+Nombre:          Precio:
+
+-Potion           80
+-Hi Potion        200
+-Antidote         20
+-Uncurse          20
+-Plate Coat       800
+-T-Shirt          199
+-Sallet           340
+-Cuirass Armor    1200
+-Lamellar Coat    1005
+-Corinthian Helm  750
+-Pilos            550
+-Bangle           550
+-Armet            1800
+-Velvet Mantle    1350
+-Mana Prism       250
+
+
+////////////////////
+//Castle Tower (1)//
+////////////////////
+
+Condiciòn: Debes tener un numero bastante alto de corazones.
+
+Nombre:          Precio:
+
+-Potion           80
+-Hi Potion        200
+-Antidote         20
+-Uncurse          20
+-Lamellar Coat    1005
+-Pilos            1050
+-Bangle           550
+-Armet            1800
+-Velvet Mantle    1350
+-Heavy Armor      2000
+-Barrel Helmet    2300
+-Morion           3000
+-Bloody Glove     2100
+-Greaves          1700
+-Aurora Ring      5000
+
+
+////////////////////
+//Castle Tower (2)//
+////////////////////
+
+Condiciòn: Debes tener gran cantidad de corazones.
+
+Nombre:         Precio:
+
+-Potion           80
+-Antidote         20
+-Uncurse          20
+-Rubber Plate     250
+-Plate Coat       800
+-Casual Clothes   98
+-Cross Helmet     160
+-T-Shirt          199
+-Sallet           340
+-Cuirass Armor    1200
+-Lamellar Coat    1005
+-Corinthian Helm  750
+-Pilos            1050
+-Bangle           550
+-Nova Ring        5000
+-----------------------------------------------------------------------------------------------
+   ************
+6)*EQUIPAMIENTO*
+   ************
+
+-WHIPS(làtigos)
+***************
+Crash Stone        -> STR -5, Manten presionado B para cargar poder.
+Circle of Energy   -> Manten presionado B+abajo para realizar un ataque circular.
+Green Stone        -> STR +2, Daño elemental viento.
+Blue Stone         -> STR +2, Daño elemental hielo.
+Red Stone          -> STR +2, Daño elemental fuego.
+Yellow Stone       -> STR +2, Daño elemental trueno.
+Christopher's Soul -> STR +5, Ataque de proyectil.
+Attack Steel       -> STR +10
+Attack Platina     -> STR +20
+
+-BODY(torso)
+***************
+Casual Clothes     -> DEF +1, INT +5
+Thin Clothes       -> DEF +2, INT +5
+T-Shirt            -> DEF +3, INT +5
+Leather Armor      -> DEF +4
+Rubber Plate       -> DEF +6
+Field Armor        -> DEF +8
+Plate Coat         -> DEF +12
+Cross Armor        -> DEF +14
+Thin Robe          -> DEF +15, INT +5
+Healing Mail       -> DEF +15, Llena el HP aun cuando no lo tengas.
+Stylish Clothes    -> DEF +18, INT +6
+Bronze Armor       -> DEF +18
+Attractive Clothes -> DEF +20, INT +7
+Hard Leather Armor -> DEF +20
+Cuirass Armor      -> DEF +22
+Padded Armor       -> DEF +23
+Buff Coat          -> DEF +25
+Parade Armor       -> DEF +26
+Chain Mail         -> DEF +28
+Lamellar Coat      -> DEF +29, INT +7
+Heal Walker        -> DEF +30, Llena el HP cuando caminas.
+Blizzard Robe      -> DEF +30, INT +8, Resistente al hielo.
+Scale Armor        -> DEF +30
+Mystic Robe        -> DEF +35, INT +8
+Guardìan Armor     -> DEF +36
+Flame Armor        -> DEF +36, Resistente al fuego.
+Solar Armor        -> DEF +40 (+80 en Omote Castle).
+Luna Armor         -> DEF +40 (+80 en Ura Castle).
+Brigandine         -> DEF +40
+Noble Clothes      -> DEF +41, INT +8
+Thunder Vestment   -> DEF +44, INT +9, Resistente al trueno.
+Ancient Armor      -> DEF +45
+Ancient Robe       -> DEF +48, INT +10
+Heavy Armor        -> DEF +48
+Combat Suit        -> STR +8, DEF +46, INT +9
+Plate Armor        -> DEF +52
+Double Mail        -> DEF +55
+Battle Armor       -> DEF +62
+Magical Armor      -> DEF +64, Los Spells consumen menos MP.
+Silver Armor       -> DEF +75
+Kaiser Mail        -> STR +5, DEF +75, INT +5, LCK +5
+Ceramic Mail       -> DEF +90
+
+-GOODS(posesiones)
+*****************
+Juste's Bracelet   -> Equipo inicial.
+Dark Glasses       -> INT +2, LCK +1, Ademas puedes ver un poco mas en la oscuridad.
+Maxim's Bracelet   -> Abre puertas anaranjadas fosforecentes.
+Silk Cape          -> DEF +2
+Velvet Mantle      -> DEF +3
+Verdant Mantle     -> DEF +5
+Squall Mantle      -> DEF +8, Resistente al viento.
+Crimson Mantle     -> DEF +12, LCK +3
+Shinobi Mantle     -> DEF +15, LCK +5
+Midnight Cloak     -> DEF +18, LCK +8
+Wrist Band         -> DEF +2
+Bangle             -> DEF +3
+Kaiser Knuckle     -> STR +3, DEF +3
+Silver Bracelet    -> DEF +10
+Crest Bracelet     -> DEF +15
+Pendant            -> DEF +1
+Charm              -> LCK +10
+Gold Necklace      -> STR +3
+Magical Necklace   -> INT +5
+Medusa Pendant     -> Gran inmunidad frente al estado de piedra.
+Heart Choker       -> Permite usar menos cantidad de corazones en los ataques.
+Greed Necklace     -> Puedes cambiarlo por mucho oro.
+Mystic Broach      -> INT +15
+Sypha's Crystal    -> Recupera MP facilmente.
+Mirror Pendant     -> Gran inmunidad al estado de envenenamiento.
+Lucky Ring         -> LCK +20
+Purifying Ring     -> Gran inmunidad al estado Curse.
+Rare Ring          -> Cambialo por plata.
+Chaos Ring         -> Usa 5 corazones para usar el poder del agua bendita.
+Nova Ring          -> Usa 8 corazones para usar al maximo el poder de la cruz.
+Logos Ring         -> Usa 2 corazones para lanzar tres cuchillos.
+Heaven's Ring      -> Usa 6 corazones para arrojar un hacha de mayor tamaño.
+Aurora Ring        -> Usa 10 corazones wider Fist.
+Earth Ring         -> Usa 5 corazones para realizar un escudo con la biblia .
+
+-HEAD(cabeza)
+****************
+Bandanna           -> DEF +1
+Turban             -> DEF +2
+Circlet            -> DEF +3
+Leather Cap        -> DEF +4
+Cross Helmet       -> DEF +5
+Leather Helmet     -> DEF +6
+Sallet             -> DEF +7
+Bicoket            -> DEF +8
+Corinthian Helmet  -> DEF +9
+Face Guard         -> DEF +10
+Pilos              -> DEF +11
+Burgeonet          -> DEF +12
+Barbutte           -> DEF +13
+Guardìan Helm      -> DEF +4 (+14 junto con la Guardìan Armor).
+Armet              -> DEF +15
+Bascinet           -> DEF +16
+Silk Hat           -> DEF +17
+Barrel Helm        -> DEF +18
+Morion             -> DEF +19
+Kettle Hat         -> DEF +20
+Iron Helm          -> DEF +21
+Full Helm          -> DEF +22
+Cabaset            -> DEF +23
+Lobster Tail Pot   -> DEF +24
+Crimson Silk Hat   -> DEF +25, INT +5
+Silver Tiara       -> DEF +25
+Steel Helmet       -> DEF +26
+Viking Helm        -> DEF +27
+Golden Crown       -> DEF +28
+Platina Crown      -> DEF +30
+
+-HANDS(manos)
+*****************
+Leather Glove      -> DEF +2
+Gauntlet           -> DEF +4
+Glove              -> DEF +7
+Hard Leather Glove -> DEF +10
+Guardìan Glove     -> DEF +4 (+14 junto con la Guardìan Armor).
+Arm Guard          -> DEF +18
+Arm Plate          -> DEF +21
+Bloodied Glove     -> DEF +25
+Steel Gauntlet     -> DEF +28
+
+-LEGS(piernas)
+*****************
+Pulverising Boots  -> DEF +15, Rompe bloques al hacer sobre estos abajo,arriba y salto.
+Leather Boots      -> DEF +2
+Leather Greaves    -> DEF +3
+Foot Guarder       -> DEF +5
+Bronze Boots       -> DEF +6
+Guardìan Boots     -> DEF +8 (+14 junto con la Guardìan Armor).
+Iron Boots         -> DEF +9
+Greaves            -> DEF +12
+Leggings           -> DEF +16
+Silver Boots       -> DEF +20
+Levitation Boots   -> Por un pequeño periodo de tiempo Juste puede permanecer en el aire.
+Platina Shoes      -> DEF +25
+Infinite Shoes     -> Permite realizar el doble salto.
+----------------------------------------------------------------------------------------------
+   *****
+7)*ìtems*
+   *****
+
+-Antidote: Cura el veneno.
+
+-Castle Map 1: Permite ver mas areas del castillo.
+
+-Castle Map 2: Permite ver mas areas del castillo.
+
+-Castle Map 3: Permite ver mas areas del castillo.
+
+-dìamond: Puedes venderlo por 1000G.
+
+-Floodgate Key: Al ubicarla en una estatua especial permite desidratar un area del castillo.
+
+-Hi Potion: Recobra 150 HP.
+
+-Hint Card 1: Cuando la ves en la lista de los ìtems te da una pista.
+
+-Hint Card 2: Cuando la ves en la lista de los ìtems te da una pista.
+
+-Hint Card 3: Cuando la ves en la lista de los ìtems te da una pista.
+
+-Hint Card 4: Cuando la ves en la lista de los ìtems te da una pista.
+
+-Hint Card 5: Cuando la ves en la lista de los ìtems te da una pista.
+
+-Hint Card 6: Cuando la ves en la lista de los ìtems te da una pista.
+
+-Hyper Mana Prism: Recobra 100 MP.
+
+-Invincible Pot: Permite invisibilidad por un corto periodo de tiempo.
+
+-Large Meat: Recobra 200 HP.
+
+-Lure Key: Permite abrir las puertas rainbow colored.
+
+-Mana Prism: Recobra 20 MP.
+
+-Meat: Recobra 100 HP.
+
+-Midday Constellation: azar
+
+-Opal: Vendelo por 125G.
+
+-Potion: Recobra 70 HP.
+
+-Ruby: Vendelo por 600G.
+
+-Sapphire: Vendelo por 500G.
+
+-Skull Key: Permite abrir las puertas con calaveras.
+
+-Turquoise: Al venderlo puedes cobrar 200G.
+
+-Uncurse: Cura el estado Curse.
+
+-X-Potion: Recobra todo el HP.
+
+----------------------------------------------------------------------------------------------
+   ************
+8)*Magic Spells*
+   ************
+
+**CASTILLO 1**
+
+-Libro del Fuego(rojo)
+Lugar: Corridor of Marble.
+descripciòn: Adhieres a tu sub-arma el poder del fuego.
+
+-Libro del hielo(azul)
+Found: Corridor of Marble.
+descripciòn: Adhieres a tu sub-arma el poder del hielo.
+
+-Libro del Trueno(amarillo)
+Found: Clockwork Tower.
+descripciòn: Adhieres a tu sub-arma el poder del trueno.
+
+**CASTILLO 2**
+
+-Libro del viento(verde)
+Lugar: Castle Tower.
+descripciòn: Adhieres a tu sub-arma el poder del vieto.
+
+-Libro de invocaciones(gris)
+Lugar: Cave of Skeletons.
+Descripciòn: Adhieres a tu sub-arma el poder de la invocaciòn de criaturas.
+
+
+               **COMBINACIONES DE LOS SPELLBOOKS CON LAS SUB-ARMAS**
+
+
+                              ///Libro del Fuego///
+
+-Hacha: Produce un ataque circular con dos dragones de fuego.
+
+-Cruz: Lanzaras una cruz de fuego que, si hay un enemigo en la pantalla, se convertira en una
+bola de fuego que lo encerrara y por ende lo destruira. Si no hay enemigos en pantalla lo que
+puedes hacer es pegarle a la cruz de fuego y explotara lanzando sus restos de fuego hacia todas
+las direcciònes.
+
+-Cuchillo: Juste se elevarà en el aire rodeado por cuchillos y se desprendera de el un bola de
+          fuego que recorrera casi toda la pantalla.
+
+-Puños: Produce un ataque frontal con 4 bolas de fuego.
+
+-Biblia: Aparecerà un libro,biblico, que provocara un remolino de fuego por muy poco tiempo.
+
+-Agua Bendita: Lanzas una bola de fuego que recorrera por unos segundos los extremos de la
+pantalla.
+
+
+                              ///Libro del Hielo///
+
+-Hacha: Caera un pedazo de hielo bastante grande sobre el enemigo.
+
+-Cruz: Aparecerà una estrella de hielo gigante sobre ti y cuando estes cerca de un enemigo esta
+      lo atacara de apoco.
+
+-Cuchillos: Lanzas misiles de hielo capaces de buscar al enemigo.
+
+-Puños: Juste se deslizara hacia adelante lanzando un puñetazo congelado.
+
+-Biblia: Juste se elevarà un poco y lanzarà a sus lados llamas azules.
+
+-Agua Bendita: Se uniràn tres bolques de hielo encima de un enemigo cubriendole todo el cuerpo.
+
+                             ///Libro del Trueno///
+
+-Hacha: Del cuerpo de Juste se liberaràn rayos en todas las direcciònes.
+
+-Cruz: Juste se elevarà y serà envuelto en un aura celeste la cual estara rodeada por cruces
+gigantes.
+
+-Cuchillos: Lanzaràs hacia arriba muchas estrellas azules que luego caeràn sobre ti.
+
+-Puños: Juste acumularà electricidad y luego lanzarà tres rayos hacia adelante.
+
+-Biblia: Apareceràn dos estrellas azules que se comportaràn como engranes entre si, formando
+        un escudo, que al chocarlas contra enemigos cada vez se van haciendo mas pequeñas hasta
+        desaparecer.
+
+-Agua Bendita: Produciras un rayo que va desde el techo al suelo y se movera eliminando todo lo
+que toque.
+                             ///Libro del Viento///
+
+-Hacha: Un circulo de hachas girarà alrededor de Juste.
+
+-Cruz: Produciràs un circulo de cruces, las cuales van desapareciendo, si y solo si (como
+dice un profesor de logica mio), estas golpeen algo.
+
+-Cuchillos: Juste comenzarà a lanzar rapidamente muchisimos cuchillos a la vez.
+
+-Puños: Juste lanzarà de sus manos una especie de poder al estilo dragon ball.
+
+-Biblia: Te rodearà un circulo compuesto por libros biblicos.
+
+-Agua Bendita: Produciràs una lluvia de agua bendita la cual obviamente ocupa toda la pantalla.
+
+
+                                ///Summon Book///
+
+-Hacha: Juste se convertirà en una especie de gargola que lanzarà alas por todas partes.
+
+-Cruz: Aparecerà un Grim Reaper y lanzarà meteoritos por toda la pantalla.
+
+-Cuchillos: Aparecerà un pajaro gigante violeta(muy parecido al fenix), el cual abrirà sus alas
+            y lanzarà una lluvia de plumas.
+
+-Puños: Aparecerà una criatura de piedra gigante(familiar del buda)la cual producirà puños por
+        toda la pantalla.
+
+-Biblia: Aparecerà un hada la cual se quedarà al lado de nosotros y cuando vea a algùn enemigo
+         lo atacara con un martillo gigante.
+
+-Agua Bendita: Un angel aparecerà y esparcirà por toda la pantalla agua bedita.
+
+-----------------------------------------------------------------------------------------------
+   *********
+9)*Reliquias*
+   *********
+
+-Dràcula's Eye
+descripciòn: Protege contra el estado Curse.
+
+-Dràcula's Fang
+descripciòn: Incrementa la defensa(+10).
+
+-Dràcula's Fingernail
+descripciòn: Incrementa la fuerza(+10).
+
+-Dràcula's Heart
+descripciòn: Proteje contra el estado de piedra.
+
+-Dràcula's Rib
+descripciòn: Proteje contra el estado del veneno.
+
+-Dràcula's Ring
+descripciòn: Incrementa la suerte(+10).
+
+-Fairy Journal
+descripciòn: Permite ver el nombre del enemigo que estes atacando.
+
+-Goblin Book
+descripciòn: Destrabas la enciclopedìa de monstruos que esta en la secciòn secreta del menù.
+
+-Griffin's Wing
+descripciòn: Permite realizar el salto mas capo(abajo, arriba + A).
+
+-Lizard Tail
+descripciòn: Permite deslizarte por el suelo(abajo + A).
+
+-Soul Orb
+descripciòn: Permite ver la cantidad de hp que le quitas a los enemigos cuando los golpeas y
+vice versa.
+
+-Sylph Feather
+descripciòn: Permite el doble salto.
+
+-----------------------------------------------------------------------------------------------
+    ************
+10)*Collectibles*
+    ************
+
+**EN EL CASTILLO 1**
+
+-Chair
+Lugar: Castle's Treasury
+
+-Deer Mount
+Lugar: Cave of Skeletons
+
+-Gold Candlestick Holder
+Lugar: Castle Tower
+
+-Gold OrNombrent
+Lugar: Corridor in the Air
+
+-Invitation Cat
+Lugar: Clockwork Tower
+
+-Gramophone
+Lugar: Cave of Skeletons
+
+-Evil Picture
+Lugar: Castle Tower
+
+-Fancy Table
+Lugar: Clockwork Tower
+
+-Mirror
+Lugar: Moss-Grown Cave
+
+-Side Table
+Lugar: Cave of Skeletons
+
+-Silver Or Nombrent
+Lugar: Corridor in the Air
+
+-Tea Cup
+Lugar: Castle's Treasury
+
+-Teapot
+Lugar: Castle's Treasury
+
+-Wise Man's Sculpture
+Lugar: Moss-Grown Cave
+
+-Wonderful Chandelier
+Lugar: Castle Tower
+
+**EN EL CASTILLO 2**
+
+-Devil Vase
+Lugar: Cave of Skeletons
+
+-Goddess Sculpture
+Lugar: Approach of Deplore
+
+-Hero's Sculpture
+Lugar: Chapel of the Heretic
+
+-King Size Bed
+Lugar: Corridor in the Air
+
+-Large Clock
+Lugar: Clockwork Tower
+
+-Old Radio
+Lugar: Corridor in the Air
+
+-Pretty Vase
+Lugar: Entrance
+
+-Raccoon OrNombrent
+Lugar: Clockwork Tower
+
+-Silk Curtain
+Lugar: Room of Illusion
+
+-Silver Candlestick Holder
+Lugar: Approach of Deplore
+
+-Used Vase
+Lugar: Entrance
+
+-Vibrating Chair
+Lugar: Corridor in the Air
+
+-Wine Glass
+Lugar: Castle Tower
+
+-----------------------------------------------------------------------------------------------
+    ********
+11)*Enemigos*
+    ********
+
+(azar= puede o no dar un ìtem cualquiera)
+
+-Arabahaki
+HP: 13
+Exp: 113
+ìtem que puede dar: Gold Necklace
+
+-Archer Skeleton
+HP: 84
+Exp: 81
+Resistente a: Hielo
+ìtem que puede dar: Pocion, Glove
+
+-Armor Fleaman
+HP: 20
+Exp: 55
+Resistente a: Fuego
+dèbil a: Trueno
+ìtem que puede dar: $25, flame armor
+
+-Armor Knight
+HP: 32
+Exp: 11
+dèbil a: Trueno
+ìtem que puede dar: Pocion
+
+Axe Armor
+HP: 80
+Exp: 62
+Resistente a: Fire
+dèbil a: Trueno
+ìtem que puede dar: azar
+
+-Axe Armor II
+HP: 192
+Exp: 165
+dèbil a: Trueno
+ìtem que puede dar: Kettle Hat
+
+-Balloon
+HP: 12
+Exp: 55
+dèbil a: Viento
+ìtem que puede dar: $5
+
+-Bat
+HP: 1
+Exp: 5
+ìtem que puede dar: $1
+
+-Big Balloon
+HP: 30
+Exp: 62
+dèbil a: Viento
+ìtem que puede dar: azar
+
+-Big Skeleton
+HP: 120
+Exp: 22
+dèbil a: Fuego
+ìtem que puede dar: $25
+
+-Big Spirit
+HP: 33
+Exp: 12
+dèbil a: Fuego
+ìtem que puede dar: $25
+
+-Blaze Master
+HP: 280
+Exp: 314
+ìtem que puede dar: Steel Helmet
+
+-Bomb Armor
+HP: 96
+Exp: 71
+dèbil a: Trueno
+ìtem que puede dar: $5
+
+-Bone Head
+HP: 48
+Exp: 11
+Resistente a: Fuego
+ìtem que puede dar: $1, $5
+
+-Bone Naga
+HP: 160
+Exp: 91
+ìtem que puede dar: azar
+
+-Bone Skewer
+HP: 72
+Exp: 441
+dèbil a: Viento
+ìtem que puede dar: $250, $400
+
+-Bronze Guard
+HP: 112
+Exp: 179
+ìtem que puede dar: azar
+
+-Disk Armor
+HP: 156
+Exp: 102
+dèbil a: Trueno
+ìtem que puede dar: azar
+
+-Disk Armor II
+HP: 280
+Exp: 143
+dèbil a: Trueno
+ìtem que puede dar: Pocion
+
+-Ectoplasm
+HP: 9
+Exp: 13
+ìtem que puede dar: azar
+
+-Feather Demon
+HP: 272
+Exp: 150
+Resistente a: Viento
+ìtem que puede dar: azar
+
+-Fishman
+HP: 160
+Exp: 102
+Resistente a: Fuego
+dèbil a: Hielo
+ìtem que puede dar: azar
+
+-Fleaman
+HP: 3
+Exp: 7
+ìtem que puede dar: $1, $5
+
+-Flying Skeleton
+HP: 12
+Exp: 13
+Resistente a: Viento
+ìtem que puede dar: $5, Manta Crimson
+
+-Gate Guard
+HP: 640
+Exp: 39
+ìtem que puede dar: azar
+
+-Glass Skeleton
+HP: 56
+Exp: 334
+Resistente a: Hielo
+ìtem que puede dar: $250, Ruby
+
+-Gold Head
+HP: 13
+Exp: 55
+Resistente a: Trueno
+ìtem que puede dar: azar
+
+-Gorgon
+HP: 420
+Exp: 295
+Resistente a: Trueno
+ìtem que puede dar: Double Mail
+
+-Hammer-Hammer
+HP: 1400
+Exp: 375
+ìtem que puede dar: azar
+
+-Harpy
+HP: 192
+Exp: 125
+Resistente a: Viento
+dèbil a: Hielo
+ìtem que puede dar: azar
+
+-Lizardman
+HP: 48
+Exp: 17
+dèbil a: Hielo
+ìtem que puede dar: Pocion, Plate Coat
+
+-Mastery Sword
+HP: 280
+Exp: 419
+dèbil a: Hielo
+ìtem que puede dar: azar
+
+-Meal Flower
+HP: 96
+Exp: 55
+dèbil a: Fuego, Hielo
+ìtem que puede dar: Pocion, Mirror Pendant
+
+-Medusa Head
+HP: 1
+Exp: 5
+Resistente a: Trueno
+ìtem que puede dar: Pendant
+
+-Melty Zombie
+HP: 192
+Exp: 193
+dèbil a: Hielo,Viento
+ìtem que puede dar: Uncurse
+
+-Merman
+HP: 160
+Exp: 102
+Resistente a: Fuego
+dèbil a: Hielo
+ìtem que puede dar: Pocion
+
+-Mimic
+HP: 112
+Exp: 91
+dèbil a: Hielo
+ìtem que puede dar: azar
+
+-Ou
+HP: 160
+Exp: 102
+ìtem que puede dar: Meat
+
+-Owl
+HP: 252
+Exp: 397
+Resistente a: Viento
+ìtem que puede dar: Large Meat
+
+-Peeping Eye
+HP: 51
+Exp: 17
+ìtem que puede dar: Pocion
+
+-Picture
+HP: 320
+Exp: 375
+Resistente a: Fuego
+dèbil a: Hielo
+ìtem que puede dar: dìamond
+
+-Pike Master
+HP: 1800
+Exp: 537
+ìtem que puede dar: azar
+
+-Poison Lizard
+HP: 240
+Exp: 242
+dèbil a: Hielo
+ìtem que puede dar: Large Meat, Heavy Armor
+
+-Rare Ghost
+HP: 2
+Exp: 334
+ìtem que puede dar: azar
+
+-Red Skeleton
+HP: 6
+Exp: 0
+Resistente a: Fuego
+ìtem que puede dar: azar
+
+-Ruler Sword
+HP: 240
+Exp: 102
+Resistente a: Trueno, Viento
+dèbil a: Hielo
+ìtem que puede dar: azar
+
+-Ruler Sword LV2
+HP: 320
+Exp: 113
+Resistente a: Trueno, Viento
+dèbil a: Hielo
+ìtem que puede dar: azar
+
+-Ruler Sword LV3
+HP: 384
+Exp: 209
+Resistente a: Trueno, Viento
+dèbil a: Hielo
+ìtem que puede dar: azar
+
+-Scale Armor
+HP: 800
+Exp: 165
+ìtem que puede dar: azar
+
+-Scarecrow
+HP: 12
+Exp: 47
+dèbil a: Fuego
+ìtem que puede dar: $5, Gauntlet
+
+-Screw Dragon
+HP: 204
+Exp: 17
+ìtem que puede dar: azar
+
+-Simon
+HP: 360
+Exp: 488
+dèbil a: Fuego
+ìtem que puede dar: Pocion, Midday Constellation
+
+-Siren
+HP: 80
+Exp: 71
+ìtem que puede dar:azar
+
+Skeleton
+HP: 3
+Exp: 7
+ìtem que puede dar: $5, $25
+
+-Skeleton Ape
+HP: 51
+Exp: 39
+ìtem que puede dar: $25, Hard Leather Armor
+
+Skeleton Blaze
+HP: 64
+Exp: 22
+ìtem que puede dar: $25
+
+-Skeleton Frail
+HP: 51
+Exp: 27
+dèbil a: Trueno
+ìtem que puede dar: $25
+
+-Skeleton Liquid
+HP: 38
+Exp: 179
+dèbil a: Trueno
+ìtem que puede dar: Antidoto
+
+-Skeleton Mirror
+HP: 160
+Exp: 91
+ìtem que puede dar:azar
+
+-Skeleton Rib
+HP: 51
+Exp: 33
+ìtem que puede dar: Uncurse
+
+-Skeleton Soldier
+HP: 32
+Exp: 9
+ìtem que puede dar: azar
+
+-Skeleton Spear
+HP: 51
+Exp: 33
+ìtem que puede dar: $25
+
+-Skeleton Spider
+HP: 400
+Exp: 47
+ìtem que puede dar: azar
+
+-Slime
+HP: 32
+Exp: 9
+ìtem que puede dar: azar
+
+-Small Devil
+HP: 64
+Exp: 49
+ìtem que puede dar: Uncurse, Turquoise
+
+-Small Slime
+HP: 3
+Exp: 5
+ìtem que puede dar: $1
+
+-Specter
+HP: 96
+Exp: 165
+ìtem que puede dar: azar
+
+-Spider Skeleton
+HP: 1400
+Exp: 314
+ìtem que puede dar: azar
+
+-Spirit
+HP: 4
+Exp: 11
+dèbil a: Fuego
+ìtem que puede dar: azar
+
+-Spligun
+HP: 280
+Exp: 354
+dèbil a: Viento
+ìtem que puede dar: $100
+
+-Stone Armor
+HP: 48
+Exp: 13
+Resistente a: Hielo
+dèbil a: Trueno
+ìtem que puede dar: Potion
+
+-Sylph
+HP: 320
+Exp: 375
+ìtem que puede dar: Hi Mana Prism, Silver Tiara
+
+-Throw Master
+HP: 51
+Exp: 39
+ìtem que puede dar: Antidote, Bronze Boots
+
+-Transparent Skeleton
+HP: 72
+Exp: 419
+Resistente a: Trueno
+ìtem que puede dar: $400, Ancient Robe
+
+-Victory Armor
+HP: 280
+Exp: 375
+Resistente a: Fuego
+dèbil a: Trueno
+ìtem que puede dar: $400
+
+-White Dragon
+HP: 96
+Exp: 12
+ìtem que puede dar: azar
+
+-Witch
+HP: 80
+Exp: 71
+Resistente a: Hielo
+dèbil a: Fuego
+ìtem que puede dar: azar
+
+-Zombie
+HP: 2
+dèbil a: Fuego
+Exp: 5
+ìtem que puede dar: Casual Clothes
+
+-----------------------------------------------------------------------------------------------
+
+    ********
+12)*SECRETOS*
+    ********
+				*MODO BOSS RUSH*
+
+Para destrabar este modo debes dar vuelta el juego al menos en la condicion minima, es decir sin
+las reliquias. Este modo consiste en ir enfrentando uno tras otro a algunos(no todos) los jefes
+(alrededor de 8)del juego.
+
+		               *JUGAR COMO MAXIM*
+
+Para jugar como Maxim en primer lugar debes dar vuelta el juego, y luego comenzar uno nuevo
+con el nombre "MAXIM". Cabe destacar que no solo cambia el personaje sino que tambièn sus
+habilidades pero al jugar con Maxim no podras ver algun final.
+
+			       *JUGAR COMO SIMON*
+
+Si, se puede. Realmente este tipo de secretos completa a este juegazo. Antes de poder jugar como
+Simon debes tener el modo Boss Rush destrabado. Resetea el juego y cuando aparezca en la
+pantalla el logo de Konami debes presionar los siguientes comandos:
+Arriba, Arriba, Abajo, Abajo, Izquierda, Derecha, Izquierda, Derecha, B, A.
+Lo malo de esto es que no puedes comenzar el juego con Simon, solo podras jugar con el en ese
+modo.
+		                *MODO DIFICIL*
+
+Para jugar en este modo debes comenzar un nuevo juego con el nombre "HARDGAME".
+
+		            *JUGAR SIN SPELLBOOKS*(esta es la linea 2500 de la guìa)
+
+Para jugar en este modo debes comenzar un nuevo juego con el nombre "NO MAGIC".
+
+		            *COLLECTIBLES SECRETOS*
+
+Cuando consigues todos los collectibles del juego se agregaran algunos mas a la lista.
+
+		            *ENCICLOPEDIA SECRETA*
+
+Para obtener la enciclopedìa que contiene los datos de los monstruos que vas matando, debes
+conseguir la reliquia Monster Tome.
+
+			         *SOUND TEST*
+
+Para destrabar esta interesante opcion para escuchar todos los sonidos del juego debes derrotar
+a Dràcula Phantom y asi completar al 100% el juego.
+
+-----------------------------------------------------------------------------------------------
+    ***************
+13)*AGRADECIMIENTOS*
+    ***************
+*Companias:
+- KONAMI, por todos los castlevanias.
+*Gente:
+- URIEL LAURITO, yo.
+*Webs:
+- MEMBRES.LYCOS.FR/CASTLEVANIA18,por ser esta guìa hecha web.
+- GAMEFAQS.COM, por contener esta guìa.
+*Otros:
+-UNLU(universidad a la que voy, al menos por este año), por prestarme su PC para subir esta guìa.
+-A77aque, Rata Blanca, Bersuit Vergarabat, Los Redondos, Los Piojos, Charly ,No Doubt, Queen,
+Guns`n Roses, Eminem, por entretenerme aun mas mientras hacìa esta guìa.
+-Todos los que lean esta guìa.
+-----------------------------------------------------------------------------------------------
+    *********
+14)*DESPEDIDA*
+    *********
+
+Bueno, como dice el de la Bersuit, llego el momento no..
+Supongo que èsta fue mi primer y ùltima guìa, ya que no creo que tenga ganas de hacer algun dìa
+otra màs, sinceramente èsta la hice porque ademas de que este juego me encanto(como todos los
+castlevanias, ya di vuelta 12) y ya habia hecho una pàgina web de el, queria tener la
+experiencia de hacer una.
+No se como les habra parecido pero por ser mi primer guìa creo que es bastante buena.
+Empecè a hacer este trabajo después de un año del lanzamiento del juego y no antes, aunque la
+rom yo ya la tenìa de antes de que lo lanzaran, porque nunca pense, hasta hace tres meses, en
+hacerlo. Cabe destacar que la pàgina dedicada a este juego (membres.lycos.fr/castlevania18)la
+subi a fines del año pasado, o sea que no tenìa mucho sentido hacer una guìa de este juego luego
+de esto, pero la hice por eso mismo porque este juegazo lo conocìa demasiado.
+Si queres contactarte conmigo por algo relacionado a esta guìa hàzlo a UIL18@HOTMAIL.COM y
+si algun dìa pensas en hacer una guìa no lo dudes ya que es algo muy entretenido.
+
+                                          CHAU!!!!!
+-----------------------------------------------------------------------------------------------

@@ -1,0 +1,576 @@
+0x0F7,"Restores some HP.\n
+"
+0x0F8,"Restores a large amount of HP.\n
+"
+0x0F9,"Restores all HP.\n
+"
+0x0FA,"Restores some MP.\n
+"
+0x0FB,"Restores a large amount of MP.\n
+"
+0x0FC,"Restores some HP.\n
+"
+0x0FD,"Restores a large amount of HP.\n
+"
+0x0FE,"Counteracts the effects of poison.\n
+"
+0x0FF,"Counteracts the effects of curses.\n
+"
+0x100,"Contains medicine that makes you\n
+invincible at a set time.\n
+"
+0x101,"Opens the door that gives off\n
+a golden hue.\n
+"
+0x102,"Opens doors marked with a skull \n
+design.\n
+"
+0x103,"Enter the lion's cross in the \n
+cavern.\n
+"
+0x104,"One portion of the castle's \n
+floor plan is written on it.\n
+"
+0x105,"One portion of the castle's \n
+floor plan is written on it.\n
+"
+0x106,"One portion of the castle's \n
+floor plan is written on it.\n
+"
+0x107,"Somewhere there exists a mechanism \n
+for draining the caves.\n
+"
+0x108,"The eyes of the goddess statue\n
+point to a secret passage.\n
+"
+0x109,"Kneel before the round gate\n
+to be taken to a different place. \n
+"
+0x10A,"Some spells can be cast\n
+multiple times.\n
+"
+0x10B,"They say there is a book with\n
+the power to summon monsters.\n
+"
+0x10C,"The red book and the Dagger\n
+share a secret.\n
+"
+0x10D,"It cannot be seen at night.\n
+"
+0x10E,"A white jewel.\n
+"
+0x10F,"A blue−green jewel.\n
+"
+0x110,"A valuable blue jewel.\n
+"
+0x111,"A valuable red jewel.\n
+"
+0x112,"An extremely valuable jewel.\n
+"
+0x113,"By holding ATTACK down, a ""charged \n
+attack"" can break some walls.\n
+"
+0x114,"Adds a steel ball to the tip of a \n
+whip.\n
+"
+0x115,"Adds a platinum ball to the tip of \n
+a whip.\n
+"
+0x116,"Holding the ATTACK button down \n
+causes user's whip to swing around.\n
+"
+0x117,"Causes bullets to fire from whip's \n
+tip only when user's HP is max.\n
+"
+0x118,"Adds fire to attacks made with a \n
+whip.\n
+"
+0x119,"Adds ice to attacks made with a \n
+whip.\n
+"
+0x11A,"Adds lightning to attacks made with a\n
+whip.\n
+"
+0x11B,"Adds wind to attacks made with a \n
+whip.\n
+"
+0x11C,"Easily maneuvered armor made from \n
+tanned hides.\n
+"
+0x11D,"Armor made from a rubber−like, \n
+soft material.\n
+"
+0x11E,"Armor woven from long blades of \n
+grass. Surprisingly sturdy.\n
+"
+0x11F,"Long metal armor coat that protects \n
+its user above the knees.\n
+"
+0x120,"Armor made of cloth.\n
+"
+0x121,"Armor made of bronze.\n
+"
+0x122,"Layered leather armor, hardened \n
+with wax.\n
+"
+0x123,"Armor made from fabric treated with \n
+a special liquid.\n
+"
+0x124,"Leather armor into which metal \n
+pieces have been sewn.\n
+"
+0x125,"A fashionable coat.\n
+"
+0x126,"Gaudily decorated armor. Some \n
+people find it appealing.\n
+"
+0x127,"Armor made up of chain netting.\n
+"
+0x128,"Armor made up of layered metal \n
+scales.\n
+"
+0x129,"When standing still, this armor \n
+restores its user's HP slowly.\n
+"
+0x12A,"The body of Guardian Armor.\n
+"
+0x12B,"Armor with a high resistance to \n
+fire.\n
+"
+0x12C,"Armor made from a combination of \n
+wood and metal.\n
+"
+0x12D,"Legend has it that this armor was \n
+worn by ancient gods.\n
+"
+0x12E,"This armor looks extremely heavy.\n
+"
+0x12F,"Armor made entirely of metal and \n
+thus extremely heavy.\n
+"
+0x130,"Double−layered armor.\n
+"
+0x131,"Armor affected by the Sun.\n
+"
+0x132,"Armor affected by the Moon.\n
+"
+0x133,"Armor designed for easy \n
+maneuverability during battles.\n
+"
+0x134,"This armor restores its user's \n
+HP when in motion.\n
+"
+0x135,"Armor forged of silver.\n
+"
+0x136,"Armor crafted from a material that \n
+modern alchemists can't comprehend.\n
+"
+0x137,"This armor affects its user's spirit.\n
+MP consumption rate is reduced.\n
+"
+0x138,"Armor said to have been worn by \n
+emperors.\n
+"
+0x139,"Clothes usually worn by city folk.\n
+"
+0x13A,"Thin garments that are extremely \n
+comfortable in hot weather.\n
+"
+0x13B,"A bit on the casual side, but \n
+looks fashionable on some.\n
+"
+0x13C,"Robe made from pieces of thin \n
+cloth and is light as a feather.\n
+"
+0x13D,"Beautifully embroidered clothing.\n
+"
+0x13E,"Designed to allow for the easy \n
+dodging of attacks.\n
+"
+0x13F,"It appears to be a normal coat,\n
+but metal has been woven into it.\n
+"
+0x140,"Robe with a high resistance to ice.\n
+"
+0x141,"An elegant robe suitable to \n
+nobility.\n
+"
+0x142,"A robe with strange hidden powers. \n
+Increases its user's INT.\n
+"
+0x143,"Robe with a high resistance to\n
+lightning.\n
+"
+0x144,"Battle wear. Certain areas are \n
+reinforced for added protection.\n
+"
+0x145,"This robe is rumored to have once \n
+been worn by a great wise man.\n
+"
+0x146,"Juste has grown attached to this \n
+bracelet and always wears it.\n
+"
+0x147,"Gives user the ability to see in \n
+the dark to a certain degree.\n
+"
+0x148,"Given to Juste by Maxim as a \n
+memento.\n
+"
+0x149,"Used with HIGH JUMP, it's possible \n
+to smash through some ceilings.\n
+"
+0x14A,"A stylish bandana.\n
+"
+0x14B,"Turbans are a big hit in areas of \n
+the world with hot climates.\n
+"
+0x14C,"A simple circlet.\n
+"
+0x14D,"A hat made of leather.\n
+"
+0x14E,"A helmet made from extremely \n
+hardened cloth.\n
+"
+0x14F,"A helmet made of leather.\n
+"
+0x150,"A helmet with strong medals\n
+embedded in its frame.\n
+"
+0x151,"A metal helmet that protects the \n
+top of its user's head.\n
+"
+0x152,"A Corinthian−style helmet.\n
+"
+0x153,"An item designed to protect its \n
+user's face.\n
+"
+0x154,"A helmet from a faraway land.\n
+"
+0x155,"A helmet woven from thin strips of \n
+metal.\n
+"
+0x156,"A helmet with an attached \n
+face guard.\n
+"
+0x157,"The head of Guardian Armor.\n
+"
+0x158,"A helmet fashioned to protect the \n
+back of its user's head.\n
+"
+0x159,"A helmet made of chain netting.\n
+"
+0x15A,"User appears dapper in this hat.\n
+"
+0x15B,"A tube−shaped helmet.\n
+"
+0x15C,"A helmet with an attached \n
+neckguard for safety.\n
+"
+0x15D,"A kettle−shaped helmet.\n
+"
+0x15E,"A helmet made of iron.\n
+"
+0x15F,"A helmet that covers the user's \n
+head all the way to the neck.\n
+"
+0x160,"A helmet with ear guards. Wearing \n
+this helmet reduces hearing.\n
+"
+0x161,"A helmet resembling an upside−down \n
+pot.\n
+"
+0x162,"A tiara crafted from silver.\n
+"
+0x163,"A helmet made of steel.\n
+"
+0x164,"A helmet often used by the Vikings.\n
+"
+0x165,"A headband made of gold.\n
+"
+0x166,"A crown made of platinum.\n
+"
+0x167,"A semi−dressy crimson silk hat.\n
+"
+0x168,"Gloves made of leather. Warm.\n
+"
+0x169,"Gauntlets are armor for the \n
+hands.\n
+"
+0x16A,"A cushioned glove that protects its \n
+user's hands.\n
+"
+0x16B,"Gloves made of hardened leather.\n
+"
+0x16C,"The arm of Guardian Armor.\n
+"
+0x16D,"Good protection for the entire arm,\n
+but arms get a bit sweaty.\n
+"
+0x16E,"Armor for the arm made entirely of \n
+metal.\n
+"
+0x16F,"A glove soaked with much blood.\n
+"
+0x170,"A glove made of steel.\n
+"
+0x171,"Boots made of leather. Quite \n
+comfortable.\n
+"
+0x172,"Protective footwear made from \n
+leather. Also protects the shins.\n
+"
+0x173,"Shoes designed for extra\n
+ankle protection.\n
+"
+0x174,"Boots made of bronze.\n
+"
+0x175,"The legs of Guardian Armor.\n
+"
+0x176,"Boots made of iron. Cold in the \n
+wintertime.\n
+"
+0x177,"Armored trousers strengthened with\n
+metal plates.\n
+"
+0x178,"The front sides of these boots are \n
+strengthened with metal plates. \n
+"
+0x179,"Boots made of silver.\n
+"
+0x17A,"Boots that defy the laws of \n
+gravity.\n
+"
+0x17B,"Shoes made of platinum. Extremely \n
+valuable.\n
+"
+0x17C,"These boots make infinite jumps \n
+possible.\n
+"
+0x17D,"A cloak made from fine silk \n
+and is extremely light.\n
+"
+0x17E,"A cloak made of velvet.\n
+"
+0x17F,"A bright green cloak.\n
+"
+0x180,"A cloak with a high resistance to \n
+wind.\n
+"
+0x181,"A cloak that is red as blood.\n
+"
+0x182,"An assassin's cloak from the gold \n
+country.\n
+"
+0x183,"A pitch−black cloak that creates an \n
+air of darkness around its user.\n
+"
+0x184,"Offers an excellent source of \n
+support.\n
+"
+0x185,"A wrist protector.\n
+"
+0x186,"It is said that this knuckle band \n
+was once used by emperors. \n
+"
+0x187,"A bangle made of silver.\n
+"
+0x188,"Some kind of crest is etched into \n
+this bracelet.\n
+"
+0x189,"The kind of charm you can purchase \n
+anywhere.\n
+"
+0x18A,"This charm increases its user's LCK. \n
+You are not allowed to look inside it.\n
+"
+0x18B,"A necklace made of gold. A bit on \n
+the flashy side.\n
+"
+0x18C,"This magical necklace makes its \n
+user wiser.\n
+"
+0x18D,"This pendant increases its user's \n
+resistance to petrification.\n
+"
+0x18E,"Heart−shaped choker. Increases \n
+the appearance rate of BIG HEARTS.\n
+"
+0x18F,"This amulet increases its user's \n
+luck in finding money.\n
+"
+0x190,"This brooch makes its user much\n
+wiser.\n
+"
+0x191,"Speeds up the rate at which MP are \n
+restored.\n
+"
+0x192,"This pendant increases its user's \n
+resistance to poison.\n
+"
+0x193,"Increases its user's LCK.\n
+"
+0x194,"This ring's holy powers make it\n
+hard for curses to be cast on user.\n
+"
+0x195,"Increases the appearance rate of \n
+rare items.\n
+"
+0x196,"Increases the strength of Holy \n
+Water.\n
+"
+0x197,"Increases the strength of the \n
+Cross.\n
+"
+0x198,"Increases the strength of the \n
+Knife.\n
+"
+0x199,"Increases the strength of the Axe.\n
+"
+0x19A,"Increases the strength of the \n
+Sacred Fist.\n
+"
+0x19B,"Increases the strength of the Holy \n
+Book.\n
+"
+0x19C,"When combined with a subweapon, \n
+user can cast many fire spells.\n
+"
+0x19D,"When combined with a subweapon, \n
+user can cast many ice spells.\n
+"
+0x19E,"When combined with a subweapon, \n
+user can cast many lightning spells.\n
+"
+0x19F,"When combined with a subweapon, \n
+user can cast many wind spells.\n
+"
+0x1A0,"When combined with a subweapon, \n
+user can summon many monsters.\n
+"
+0x1A1,"By pressing DOWN + JUMP, user \n
+may SLIDE.\n
+"
+0x1A2,"While in midair, user may perform \n
+an additional JUMP. \n
+"
+0x1A3,"By pressing DOWN/UP + JUMP, the \n
+user may perform a HIGH JUMP.\n
+"
+0x1A4,"Allows user to recognize how much \n
+damage an enemy has received.\n
+"
+0x1A5,"Allows user to recognize the names \n
+of his enemies.\n
+"
+0x1A6,"Allows user to see the data of \n
+monsters he has met.\n
+"
+0x1A7,"One of Dracula's bodily remains.  \n
+Has the power to negate curses.\n
+"
+0x1A8,"One of Dracula's bodily remains. Has   \n
+the power to negate petrification.\n
+"
+0x1A9,"One of Dracula's bodily remains. Has    \n
+the power to negate poison. \n
+"
+0x1AA,"One of Dracula's bodily remains.  \n
+Increases STR.\n
+"
+0x1AB,"One of Dracula's bodily remains.  \n
+Increases DEF.\n
+"
+0x1AC,"One of Dracula's worldly \n
+possessions. Increases LCK.\n
+"
+0x1AD,"Said to have been used by royalty. \n
+It has an interesting history.\n
+"
+0x1AE,"Bought the morning your granddad \n
+was born. Still keeps perfect time.\n
+"
+0x1AF,"A very sturdy bookshelf. And it's \n
+earthquake−proof.\n
+"
+0x1B0,"Radio prototype received directly\n
+from the great inventor himself.\n
+"
+0x1B1,"This pure silver dinner set radiates \n
+elegance.\n
+"
+0x1B2,"Crafted out of a 1000 year old \n
+cedar tree.\n
+"
+0x1B3,"A wooden chair of excellent \n
+workmanship.\n
+"
+0x1B4,"This relaxing chair offers up \n
+gentle creaks as it rocks.\n
+"
+0x1B5,"Made of the finest silks and milky to \n
+the touch. \n
+"
+0x1B6,"The most valuable objects are those \n
+whose value is difficult to guess.\n
+"
+0x1B7,"Staring at this urn tends to induce\n
+sneezing.\n
+"
+0x1B8,"A pretty vase brimming with \n
+artificial flowers.\n
+"
+0x1B9,"Side tables add a nice accent to\n
+any room.\n
+"
+0x1BA,"With a sip of tea from this cup,\n
+you can join our clan.\n
+"
+0x1BB,"Has the power to make teas taste \n
+better than they really are.\n
+"
+0x1BC,"A beautiful wine glass for elegant \n
+evenings with friends.\n
+"
+0x1BD,"A hero immortalized forever. \n
+Someday, that will be me...\n
+"
+0x1BE,"Statue of a goddess. Goddesses \n
+are so beautiful, aren't they? \n
+"
+0x1BF,"Statue of a smug−looking old man.\n
+"
+0x1C0,"A superb piece of art by an obviously \n
+skilled raccoon figurine craftsman. \n
+"
+0x1C1,"An statue that helps bring in \n
+money. Effectiveness unknown.\n
+"
+0x1C2,"A machine that emits sound. Analog \n
+is great, isn't it...\n
+"
+0x1C3,"Symbol of the rich. I feel as if \n
+I'm being watched.\n
+"
+0x1C4,"A silver candlestick for elegant \n
+evenings with friends.\n
+"
+0x1C5,"A gold candlestick for elegant \n
+evenings with friends.\n
+"
+0x1C6,"The inscription reads: ""Candlelight \n
+makes any cooking look edible.""\n
+"
+0x1C7,"The inscription reads:""Candlelight makes \n
+your girlfriend like you more.""\n
+"
+0x1C8,"Take a peek at it and you feel as \n
+if someone were there...\n
+"
+0x1C9,"Seems out of place in this castle.\n
+"
+0x1CA,"Manufactured by the only trusted \n
+and true name in beds, ""FUTON.""\n
+"
+0x1CB,"Ease your worries about having too \n
+many clothes, too little space. \n
+"

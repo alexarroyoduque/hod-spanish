@@ -1,0 +1,307 @@
+                  Castlevania: Concerto of Midnight Sun
+                     キャッスルヴァニア：白夜の協奏曲
+
+                 Inventory Translation Guide  Version 1.0
+           Written by AstroBlue (tetsuwan_blue(at)yahoo.com.au)
+
+                      Last Updated: June 19th, 2002
+
+******************************************************************************
+This FAQ uses Shift-JIS encoding to display Japanese kana (characters).
+Browsers such as Mozilla Firefox (www.mozilla.org/products/firefox) support
+CJK encoding inherently, but common browsers such as MS Internet Explorer
+require you to update your system (windowsupdate.microsoft.com). Otherwise,
+I recommend you download a Japanese-English word processor called JWPce.
+It is available from: http://www.physics.ucla.edu/~grosenth/jwpce.html
+******************************************************************************
+
+Hopefully this Inventory Translation Guide will assist those of you that
+cannot wait until September '02 to play this fine gem of a game. It truly
+incorporates some of the best elements of both Symphony of the Night and
+Circle of the Moon. Pity about its music and its use of bright colours :/
+
+Note that this game is also know as White Night Concerto (an overly literal
+translation) and its English name, Harmony of Dissonance.
+
+
+C O N T E N T S
+***************
+1)EQUIPMENT
+2)ITEMS
+3)SPELL BOOKS
+4)RELICS
+5)THANKS TO
+
+
+
+==============================================================================
+1)EQUIPMENT
+==============================================================================
+
+ WHIPS
+-=-=-=-
+クラッシュスターン　 - Crash Stone        - STR -5, Hold B to charge Crash.
+サークルオブエナジー - Circle of Energy   - Hold down B for spinning attack.
+グリーンストーン　　 - Green Stone        - STR +2, Wind elemental damage.
+ブルーストーン　　　 - Blue Stone         - STR +2, Ice elemental damage.
+レッドストーン　　　 - Red Stone          - STR +2, Fire elemental damage.
+イエローストーン　　 - Yellow Stone       - STR +2, Thunder elemental damage.
+クリストファーソウル - Christopher's Soul - STR +5, projectile attack.
+アタックスチール　　 - Attack Steel       - STR +10
+アタックプラチナ　　 - Attack Platinum    - STR +20
+
+ BODY
+-=-=-=-
+ふだんぎ　　　　　　 - Casual Clothes     - DEF +1, INT +5
+うすでのふく　　　　 - Thin Clothes       - DEF +2, INT +5
+Ｔシャツ　　　　　　 - T-Shirt            - DEF +3, INT +5
+レザーアーマー　　　 - Leather Armor      - DEF +4
+ラバーパレート　　　 - Rubber Plate       - DEF +6
+フィールドアーマー　 - Field Armor        - DEF +8
+プレートコート　　　 - Plate Coat         - DEF +12
+クロスアーマー　　　 - Cloth Armor        - DEF +14
+うすでのローブ　　　 - Thin Robe          - DEF +15, INT +5
+ヒーリングメイル　　 - Healing Mail       - DEF +15, restore HP when still.
+きれいなふく　　　　 - Stylish Clothes    - DEF +18, INT +6
+ブロンズアーマー　　 - Bronze Armor       - DEF +18
+みかわしのふく　　　 - Attractive Clothes - DEF +20, INT +7
+ハードレザーアーマー - Hard Leather Armor - DEF +20
+キュイラッサアーマー - Cuirass Armor      - DEF +22
+パッデドアーマー　　 - Padded Armor       - DEF +23
+バフコート　　　　　 - Buff Coat          - DEF +25
+パレードアーマー　　 - Parade Armor       - DEF +26
+チェインメイル　　　 - Chain Mail         - DEF +28
+ラメールコート　　　 - Lamellar Coat      - DEF +29, INT +7
+ヒールウォーカー　　 - Heal Walker        - DEF +30, restore HP when walking.
+ブリザードローブ　　 - Blizzard Robe      - DEF +30, INT +8, Ice resistance.
+スケイルアーマー　　 - Scale Armor        - DEF +30
+ミスティックローブ　 - Mystic Robe        - DEF +35, INT +8
+ガーディアンアーマー - Guardian Armor     - DEF +36
+フレイムアーマー　　 - Flame Armor        - DEF +36, Fire resistance.
+たいようのよろい　　 - Solar Armor        - DEF +40 (+80 in Omote Castle).
+つきのよろい　　　　 - Luna Armor         - DEF +40 (+80 in Ura Castle).
+ブリガンディ　　　　 - Brigandine         - DEF +40
+きぞくのふく　　　　 - Noble Clothes      - DEF +41, INT +8
+いかづさのほうい　　 - Thunder Vestment   - DEF +44, INT +9, Thunder resist.
+にしえのよろい　　　 - Ancient Armor      - DEF +45
+いにしえのローブ　　 - Ancient Robe       - DEF +48, INT +10
+ヘビーアーマー　　　 - Heavy Armor        - DEF +48
+コンバットスーツ　　 - Combat Suit        - STR +8, DEF +46, INT +9
+プレートアーマー　　 - Plate Armor        - DEF +52
+ダブルメイル　　　　 - Double Mail        - DEF +55
+バトルアーマー　　　 - Battle Armor       - DEF +62
+マジカルアーマー　　 - Magical Armor      - DEF +64, Spells use less MP.
+シルバーアーマー　　 - Silver Armor       - DEF +75
+カイザーマイル　　　 - Kaiser Mail        - STR +5, DEF +75, INT +5, LCK +5
+セラミックメイル　　 - Ceramic Mail       - DEF +90
+
+ GOODS
+-=-=-=-
+ジュストのうでわ　　 - Juste's Bracelet   - Initial equip.
+やみよのメガネ　　　 - Dark Glasses       - INT +2, LCK +1, see in dark better
+マクシームのうでわ　 - Maxim's Bracelet   - Open's yellow flashing doors.
+きぬのケープ　　　　 - Silk Cape          - DEF +2
+ビロードのマント　　 - Velvet Mantle      - DEF +3
+しんりょくのマント　 - Verdant Mantle     - DEF +5
+しっぷうのマント　　 - Squall Mantle      - DEF +8, Wind resistance.
+しんくのマント　　　 - Crimson Mantle     - DEF +12, LCK +3
+しのびのマント　　　 - Shinobi Mantle     - DEF +15, LCK +5
+しっこくのクローク　 - Midnight Cloak     - DEF +18, LCK +8
+リストバンド　　　　 - Wrist Band         - DEF +2
+バングル　　　　　　 - Bangle             - DEF +3
+カイザーナックル　　 - Kaiser Knuckle     - STR +3, DEF +3
+ぎんのうでわ　　　　 - Silver Bracelet    - DEF +10
+もんしょうのうでわ　 - Crest Bracelet     - DEF +15
+ペンダント　　　　　 - Pendant            - DEF +1
+おまもり　　　　　　 - Charm              - LCK +10
+きんのネックレス　　 - Gold Necklace      - STR +3
+マジカルネックラス　 - Magical Necklace   - INT +5
+メドゥーサパダント　 - Medusa Pendant     - Greater resistance to Stone.
+ハートチョーカー　　 - Heart Choker       - Large Hearts more common.
+ごうよくのくびかざり - Greed Necklace     - Receive greater amounts of Gold.
+ミスティックブローチ - Mystic Broach      - INT +15
+サイファのすいしょう - Sypha's Crystal    - Recover MP faster.
+ミラーペンダント　　 - Mirror Pendant     - Greater resistance to Poison.
+ラッキーラング　　　 - Lucky Ring         - LCK +20
+せいなるゆびわ　　　 - Purifying Ring     - Greater resistance to Curse.
+レアリング　　　　　 - Rare Ring          - Rare Items dropped more often.
+カオスリング　　　　 - Chaos Ring         - Use 5 Hearts for power Holy Water.
+ノヴァリング　　　　 - Nova Ring          - Use 8 Hearts to throw fast Cross.
+ロゴスッリング　　　 - Logos Ring         - Use 2 Hearts to throw 3 Knives.
+ヘブンズリング　　　 - Heaven's Ring      - Use 6 Hearts to throw big Axe.
+オーロラリング　　　 - Aurora Ring        - Use 10 Hearts to use wider Fist.
+アースリング　　　　 - Earth Ring         - Use 5 Hearts for shielding Bible.
+
+ HEAD
+-=-=-=-
+バンダナ　　　　　　 - Bandanna           - DEF +1
+ターバン　　　　　　 - Turban             - DEF +2
+サークレット　　　　 - Circlet            - DEF +3
+かわのぼうし　　　　 - Leather Cap        - DEF +4
+クロスヘルメット　　 - Cloth Helmet       - DEF +5
+レザーヘルメット　　 - Leather Helmet     - DEF +6
+サレット　　　　　　 - Sallet             - DEF +7
+ビコケット　　　　　 - Bicoket            - DEF +8
+コリントしきかぶと　 - Corinthian Helmet  - DEF +9
+フェイスガード　　　 - Face Guard         - DEF +10
+ピロス　　　　　　　 - Pilos              - DEF +11
+バゴネット　　　　　 - Burgeonet          - DEF +12
+バービュート　　　　 - Barbutte           - DEF +13
+ガーディアンヘルム　 - Guardian Helm      - DEF +4 (+14 with Guardian Armor).
+アーメット　　　　　 - Armet              - DEF +15
+バシネット　　　　　 - Bascinet           - DEF +16
+シルクハット　　　　 - Silk Hat           - DEF +17
+バレルヘルム　　　　 - Barrel Helm        - DEF +18
+モリオン　　　　　　 - Morion             - DEF +19
+ケトルハット　　　　 - Kettle Hat         - DEF +20
+アイアンヘルム　　　 - Iron Helm          - DEF +21
+フルヘルム　　　　　 - Full Helm          - DEF +22
+カバセット　　　　　 - Cabaset            - DEF +23
+ロブスタテイルポット - Lobster Tail Pot   - DEF +24
+しんくのシルクハット - Crimson Silk Hat   - DEF +25, INT +5
+シルバーティアラ　　 - Silver Tiara       - DEF +25
+はがねのかぶと　　　 - Steel Helmet       - DEF +26
+ヴァイキングヘルム　 - Viking Helm        - DEF +27
+こんじきのとうかん　 - Golden Crown       - DEF +28
+プラチナクラウン　　 - Platina Crown      - DEF +30
+
+ HANDS
+-=-=-=-
+かわのてぶくろ　　　 - Leather Glove      - DEF +2
+ガントレット　　　　 - Gauntlet           - DEF +4
+グローブ　　　　　　 - Glove              - DEF +7
+ハードレザーグラブ　 - Hard Leather Glove - DEF +10
+ガーディアングラブ　 - Guardian Glove     - DEF +4 (+14 with Guardian Armor).
+アームガード　　　　 - Arm Guard          - DEF +18
+アームプレート　　　 - Arm Plate          - DEF +21
+ちぞめのグローブ　　 - Bloodied Glove     - DEF +25
+はがねのこて　　　　 - Steel Gauntlet     - DEF +28
+
+ LEGS
+-=-=-=-
+ふんさいブーツ　　　 - Pulverising Boots  - DEF +15, break blocks w/High Jump.
+レザーブーツ　　　　 - Leather Boots      - DEF +2
+かわのすねあて　　　 - Leather Greaves    - DEF +3
+フットガーダー　　　 - Foot Guarder       - DEF +5
+ブロンズブーツ　　　 - Bronze Boots       - DEF +6
+ガーディアンブーツ　 - Guardian Boots     - DEF +8 (+14 with Guardian Armor).
+アィアンブーツ　　　 - Iron Boots         - DEF +9
+グレイブス　　　　　 - Greaves            - DEF +12
+レギングス　　　　　 - Leggings           - DEF +16
+シルバーブーツ　　　 - Silver Boots       - DEF +20
+レビテーションブーツ - Levitation Boots   - Allows Juste to levitate.
+プラチナシューズ　　 - Platina Shoes      - DEF +25
+むげんのシューズ　　 - Infinite Shoes     - Double Jump endlessly in air.
+
+
+==============================================================================
+2)ITEMS
+==============================================================================
+
+ポーション　　　　　 - Potion             - Recover 70 HP.
+ハイポーション　　　 - Hi-Potion          - Recover 150 HP.
+エクスポーション　　 - X-Potion           - Recover all HP.
+マナプリズム　　　　 - Mana Prism         - Recover 20 MP.
+ハイマナプリズム　　 - Hi-Mana Prism      - Recover 100 MP.
+にく　　　　　　　　 - Meat               - Recover 100 HP.
+おおきいにく　　　　 - Large Meat         - Recover 200 HP.
+アンチドゥテ　　　　 - Antidote           - Remove Poison.
+アンカース　　　　　 - Uncurse            - Remove Curse.
+むてきのつぼ　　　　 - Invincible Pot     - Become Invincible temporarily.
+いざないのカギ　　　 - Invitation Key     - Opens rainbow doors.
+ドクロのカギ　　　　 - Skull Key          - Opens skull doors.
+すいもんのカギ　　　 - Sluice Key         - Opens sluice near Death's Lair.
+しろのちず１　　　　 - Castle Map 1       - Map of the Castle's west wing.
+しろのちず２　　　　 - Castle Map 2       - Map of the Castle's middle.
+しろのちず３　　　　 - Castle Map 3       - Map of the Castle's east wing.
+ヒントカード１　　　 - Hint Card 1        - Displays play hint.
+ヒントカード２　　　 - Hint Card 2        - Displays play hint.
+ヒントカード３　　　 - Hint Card 3        - Displays play hint.
+ヒントカード４　　　 - Hint Card 4        - Displays play hint.
+ヒントカード５　　　 - Hint Card 5        - Displays play hint.
+ヒントカード６　　　 - Hint Card 6        - Displays play hint.
+まひるのせいざ　　　 - Midday Constellat. - "Shines, without anyone noticing."
+オパール　　　　　　 - Opal               - Sell for 125 Gold.
+ターコイズ　　　　　 - Turquoise          - Sell for 200 Gold.
+サファイア　　　　　 - Sapphire           - Sell for 500 Gold.
+ルビー　　　　　　　 - Ruby               - Sell for 600 Gold.
+ダイアモンド　　　　 - Diamond            - Sell for 1000 Gold.
+
+
+==============================================================================
+3)SPELL BOOKS
+==============================================================================
+
+ほのおのまどうしょ　 - Fire Spell Book    - Use Fire Magic with Sub-Weapons.
+こおりのまどうしょ　 - Ice Spell Book     - Use Ice Magic with Sub-Weapons.
+いかづちのまどうしょ - Thunder Spell Book - Use Thunder Magic with Sub-Weapons
+しっぷうのまどうしょ - Wind Spell Book    - Use Item Crush with Sub-Weapons.
+しょうかんのしょ　　 - Summon Book        - Summon Monsters with Sub-Weapons.
+
+
+==============================================================================
+4)RELICS
+==============================================================================
+
+やもりのしっぽ　　　 - Gecko Tail         - Hold down and press A to slide.
+シルフのはね　　　　 - Silph Feather      - Double Jump.
+グリフォンのつばさ　 - Griffin Wings      - Press down then up & A to Hi-Jump.
+たましいのオーブ　　 - Spirit Orb         - Show enemy damage.
+ようせいのしょ　　　 - Fairy Scroll       - Show enemy names.
+まものずかん　　　　 - Monster Tome       - Unlocks Encyclopedia.
+ドラキュラの目　　　 - Dracula's Eye      - Prevents Curse.
+ドラキュラのしんぞう - Dracula's Heart    - Prevents Stone.
+ドラキュラのアバラ　 - Dracula's Ribs     - Prevents Poison.
+ドラキュラのツメ　　 - Dracula's Nail     - STR +10
+ドラキュラのキバ　　 - Dracula's Fang     - DEF +10
+ドラキュラのゆびわ　 - Dracula's Ring     - LCK +10
+
+
+==============================================================================
+5)THANKS TO
+==============================================================================
+
+Manuel Pazos for giving me many screenshots of the all the items I was
+missing, and for information about the Dark Glasses, Solar and Luna Armors.
+
+Demajen for a couple of tidbits of information and for providing the names of
+some of the equips, items, etc. that I didn't have.
+
+Robert Duncan for a correction on the use of the Greed Necklace, and for the
+use of the Logos Ring... which led to the discovery of what the other five
+rings did ^_^
+
+Shdwrlm3 for helping me find the correct translations for some of the more
+obscure medieval helmets. Namely the Caboset and Pilos.
+
+Zach Keene for helping me find the Battle Armor.
+Check out his C:CoMS FAQ/Walkthrough at: www.geocities.com/arcanelore2001/
+
+Chris Judah for spotting an error.
+
+The "Oxford Starter Japanese Dictionary" (ISBN 0-19-860197-2) as it's such a
+great reference book for translating Japanese into English. And it uses Kana
+Script, not Romaji (which is the devil).
+
+
+******************************************************************************
+
+ LEGAL SECTION
+-=-=-=-=-=-=-=-
+No material from this FAQ may be paraphrased, copied, changed or re-formatted
+without my permission. It may only be posted on GameFAQs (www.gamefaqs.com).
+
+Under no circumstances may this FAQ be posted on Cheat Code Central.
+
+This document was written exclusively for use on the internet. It is
+not intended to be used in any way that is profitable for anyone other
+than the author. It is not to be reproduced in any way without express
+written permission from the author.
+
+More information on copyright laws can be found at the copyright section of
+the official Library of Congress web site. (http://www.loc.gov/copyright).
+
+Castlevania and related characters are trademarks of KONAMI Co.
+
+______________________________________________________________________________
+                                               (c) Copyright 2002  AstroBlue

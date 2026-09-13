@@ -1,0 +1,189 @@
+0x249,$1
+0x24A,$5
+0x24B,$25
+0x24C,$100
+0x24D,$250
+0x24E,$400
+0x24F,$2000
+0x250," Save? \n
+"
+0x251," Yes \n
+"
+0x252," N o \n
+"
+0x253,"??????????\n
+"
+0x254,"Change equipped items.\n
+"
+0x255,"Examine or use items.\n
+"
+0x256,"Select Spell Book.\n
+"
+0x257,"Switch Magic Item effects on/off.\n
+"
+0x258,"Change button configuration.\n
+"
+0x259,"???\n
+"
+0x25A,"Quick Save\n
+"
+0x25B,"This function cannot be used until \n
+the game has been saved.\n
+"
+0x25C,"Quick Save now, OK?\n
+"
+0x25D,"−−−\n
+"
+0x25E,"Do not equip item.\n
+"
+0x25F,"Item is not equipped.\n
+"
+0x260,"Pressing SELECT will \n
+reset the system settings.\n
+"
+0x261,"Control settings are \n
+conflicting!\n
+"
+0x262,"You can view data on all defeated \n
+enemies.\n
+"
+0x263,"You can view data on all furniture \n
+picked up.\n
+"
+0x264,"You can listen to BGM and \n
+sound effects.\n
+"
+0x265," was used\n
+"
+0x266,"Held Maxim's Bracelet above head.\n
+"
+0x267,"Immense water drained away somewhere.\n
+"
+0x268,"Start game.\n
+"
+0x269,"Change name.\n
+"
+0x26A,"Change location of saved game data.\n
+"
+0x26B,"Delete data.\n
+"
+0x26C,"Select data you wish to copy.\n
+"
+0x26D,"Select location for copied data.\n
+"
+0x26E,"Select saved data you wish to delete.\n
+"
+0x26F,"Start game from the beginning. \n
+"
+0x270,"Continue game.\n
+"
+0x271,"Select game data you wish to change.\n
+"
+0x272,"It is locked.\n
+"
+0x273,"It is sealed.\n
+"
+0x274,"It is locked with a magic spell. \n
+"
+0x275,"magic item \n
+"
+0x276,"weapon \n
+"
+0x277,"magic scroll \n
+"
+0x278,"Obtained \n
+"
+0x279,"You can listen to the BGM \n
+used in the game. \n
+"
+0x27A,"You can listen to the sound \n
+effects used in the game.\n
+"
+0x27B,   
+0x27C,"A passage somewhere has opened.\n
+"
+0x27D,"Dracula's remains are glowing.\n
+"
+0x27E,"It is not possible to quick save\n
+right now.\n
+"
+0x27F,"You can hear machines moving above.\n
+"
+0x280,Merchant
+0x281,"{PORTRAIT 0x0000}{NAME 0x0280}
+Welcome.\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
+?!\n
+Why do you have a shop\n
+in a place like this?\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0000}{NAME 0x0280}
+Well, being the wandering\n
+merchant that I am, \n
+during my travels...\n
+{WAITINPUT}{SAMECHAR}
+I was suddenly swallowed\n
+up by a dense fog... and \n
+ended up here.\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
+Still, there is no need \n
+for you to set up shop\n
+in a place like this... \n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0000}{NAME 0x0280}
+At first, I spent some\n
+time looking for an exit.\n
+I couldn't find one, so...\n
+{WAITINPUT}{SAMECHAR}
+without other options,\n
+I opened up for business\n
+right here...\n
+{WAITINPUT}{SAMECHAR}
+So what can I do for you?\n
+{WAITINPUT}{NEWCHAR}"
+0x282,"{PORTRAIT 0x0000}{NAME 0x0280}
+So we meet again. Glad to\n
+see you looking well.\n
+What can I do for you?\n
+{WAITINPUT}{NEWCHAR}"
+0x283,"{PORTRAIT 0x0000}{NAME 0x0280}
+Oh? Did you forget\n
+something?\n
+{WAITINPUT}{NEWCHAR}"
+0x284,"Please purchase something from me. \n
+You do have money, don't you?\n
+"
+0x285,"If you show me something of value, \n
+I may trade a bit of coin for it.\n
+"
+0x286,"So, are you done with your business \n
+with me?\n
+"
+0x287,"{PORTRAIT 0x0001}{NAME 0x0000}
+Whoa, what a nice room. \n
+Maybe a bit tasteless.\n
+Perhaps some furniture...\n
+{WAITINPUT}{SAMECHAR}
+Okay, I guess I'll try \n
+putting this down right \n
+here!\n
+{WAITINPUT}{NEWCHAR}"
+0x288,"{PORTRAIT 0x0001}{NAME 0x0000}
+Whoa, what a nice room. \n
+Maybe a bit tasteless.\n
+Perhaps some furniture...\n
+{WAITINPUT}{NEWCHAR}"
+0x289,"Putting some furniture\n
+"
+0x28A,"{PORTRAIT 0x0001}{NAME 0x0000}
+For some reason, things \n
+look a bit different than\n
+they did before...\n
+{WAITINPUT}{NEWCHAR}"
+0x28B,"{PORTRAIT 0x0001}{NAME 0x0000}
+This is the same place I \n
+was before, but the aura \n
+about it has changed.\n
+{WAITINPUT}{SAMECHAR}
+Now I see.  This is what \n
+Death meant when he said\n
+there were two castles.\n
+{WAITINPUT}{NEWCHAR}"

@@ -1,0 +1,1075 @@
+                             .
+                            / \
+                            \ /
+                            | |                                         
+                       |\___/ \___/|                                 _
+      __    _          | ___   ___ |                                //
+     /_ \/\//          |/   \ /   \|          _                   /\¯
+    // \ /\/             _  | |  __          // __            _   \/
+   ||  //      /\      /\ | | | | /   /\    / \ \ \   /\   /\/_\  ||   /\
+   ||  \\     //\\    //\/  | | |/   | _\   \ | | |  //\\  | / \\ ||  //\\
+   ||   \\   ||  ||   \\/\  | | ||   || \\  | | | | ||  || ||  || || ||  ||
+   ||    \\  ||  ||    \ |  | | ||   ||_//  | | | | ||  || ||  || || ||  ||
+   ||     \\ ||  ||  // ||  | | || _ |  / _ | \/ /  ||  || ||  || || ||  ||
+    \\    //  \\/ |  \\//   | | |\//  \ \// |   /    \\/ | ||  || ||  \\/ |
+     \\__//__  \/\/   \/    | |  \/    \_/   \_/      \/\/ \/  \/ \/   \/\/
+      \_____/              _| |_
+                           \   /  H A R M O N Y   O F   D I S S O N A N C E 
+                            \_/
+
+
+
+                       CASTLEVANIA: HARMONY OF DISSONANCE
+                                   ITEM LIST
+
+                                  Version 1.0
+
+                       For the Nintendo Game Boy Advance
+
+                            Author: Efrem Orizzonte
+
+
+==============================================================================
+COPYRIGHT AND DISCLAIMER
+==============================================================================
+
+This document is (c)2002 Efrem Orizzonte. It cannot be reproduced, be it 
+partially or entirely, without the author's explicit permission. Publishing of 
+it on any Web site without the author's permission is illegal, as is using it 
+in any form to make profit. This document is for private use only, and it is 
+not to be sold for cash.
+
+The author of this document is not an English-speaking person, so please be 
+comprehensive if you find any mistakes in the document. If you have 
+suggestions, corrections, questions, or comments that may be useful and that 
+are pertinent to the subject of this document, please send an e-mail to the 
+following address: 
+
+                          efroriz at hotmail dot com
+
+You are advised not to send in any spams or advertisements. Whether your 
+contribution is worthy of being added to the document is up to the author's 
+decision. If you contribution is useful, it will be inserted in the subsequent 
+update to the document, and you will be given full credit for it.
+
+
+==============================================================================
+ITEM LIST
+==============================================================================
+
+This document presents you a complete list of all the items you can find in 
+the game, arranged by type. These include equipment, expendable items, 
+rarities, relics, and collectibles for decorating Juste's Room in the Castle 
+Treasury.
+
+Items are listed as they are in the game menu. The order in which defensive 
+items are arranged goes like this: first come all the items that increase 
+Defense only, listed in order of increasing protection, then come those that 
+increase Defense as well as other stats. That's why you'll find some less 
+defensive items listed after the most powerful armors. 
+
+Note that I've not described each item in detail. I did this for two simple 
+reasons: first, the in-game explanation tells about all there is to say, and 
+second, each effect can be easily verified by the player.
+
+For every item, you'll find info about where it can be found or bought, or 
+what monsters may drop it. This doesn't apply to healing items, which can be 
+found in many places, or bought from the Merchant.
+
+
+    _____________
+___/Whip upgrades\____________________________________________________________
+------------------------------------------------------------------------------
+
+Crushing Stone: Str -5
+By holding ATTACK down, a "charged attack" can break some walls.
+Find: Clock Tower B
+
+Steel Tip: Str +10
+Adds a steel ball to the tip of a whip.
+Find: Castle Top Floor A
+
+Platinum Tip: Str +20
+Adds a platinum ball to the tip of a whip.
+Find: Entrance A
+
+Energy Circle
+Holding the ATTACK button down causes user's whip to spin around.
+Find: Shrine of the Apostates A
+
+Bullet Tip: Str +5
+Causes bullets to fire from whip's tip only when user's HP is max.
+Find: Skeleton Cave B
+
+Red Stone: Str +2
+Adds fire to attacks made with a whip.
+Find: Marble Corridor A
+
+Blue Stone: Str +2
+Adds ice to attacks made with a whip.
+Find: Aqueduct of Dragons A
+
+Yellow Stone: Str +2
+Adds lightning to attacks made with a whip.
+Find: Luminous Cavern B
+
+Green Stone: Str +2
+Adds wind to attacks made with a whip.
+Find: Clock Tower A
+
+
+    __________
+___/Body Armor\_______________________________________________________________
+------------------------------------------------------------------------------
+
+Leather Armor: Def +4
+Easily maneuvered armor made from tanned hides.
+Find: Entrance A
+
+Rubber Armor: Def +6
+Armor made from a rubber-like, soft material.
+Price: 250
+Buy: Castle Treasury B, Castle Top Floor B, Luminous Cavern B
+Drop: Bone Soldier
+
+Field Armor: Def +8
+Armor woven from long blades of grass. Surprisingly sturdy.
+Drop: Armor Knight
+
+Plate Coat: Def +12
+Long metal armor coat that protects its user above the knees.
+Price: 800
+Buy: Clock Tower A&B, Castle Treasury B, Luminous Cavern B, Castle Top Floor B
+Drop: Lizard Man
+
+Cloth Tunic: Def +14
+Armor made of cloth.
+Find: Castle Treasury B
+
+Bronze Armor: Def +18
+Armor made of bronze.
+Drop: Skeleton Rib
+
+Rock Leather: Def +20
+Layered leather armor, hardened with wax.
+Drop: Skeleton Ape
+
+Cuirass Armor: Def +22
+Armor made from fabric treated with a special liquid.
+Price: 1200
+Buy: Clock Tower A&B, Castle Top Floor B
+Drop: Big Balloon
+
+Padded Armor: Def +23
+Leather armor into which metal pieces have been sewn.
+Find: Castle Treasury B
+
+Puff Coat: Def +25
+A fashionable coat.
+Drop: Ruler Sword
+
+Parade Armor: Def +26
+Gaudily decorated armor. Some people find it appealing.
+Drop: Fishman
+
+Chain Mail: Def +28
+Armor made up of chain nettings.
+Drop: Ruler Sword Lv2
+
+Scale Armor: Def +30
+Armor made up of layered metal scales.
+Find: Clock Tower A
+
+Healing Mail: Def +15
+When standing still, this armor restores its user's HP slowly.
+Find: Clock Tower B
+
+Guardian Armor: Def +36
+The body of Guardian Armor.
+Find: Clock Tower A
+
+Fire Mail: Def +36
+Armor with a high resistance to fire.
+Drop: Fleaman Armor
+
+Brigandine: Def +40
+Armor made from a combination of wood and metal.
+Drop: Mimic
+
+Ancient Armor: Def +45
+Legend has it that this armor was worn by ancient gods.
+Drop: Axe Armor Lv2
+
+Heavy Armor: Def +48
+This armor looks extremely heavy.
+Price: 2000
+Buy: Castle Treasury A, Luminous Cavern A, Castle Top Floor A
+Drop: Poison Lizard
+
+
+Plate Mail: Def +52
+Armor made entirely of metal and thus extremely heavy.
+Find: Castle Treasury A
+
+Double Mail: Def +55
+Double-layered armor.
+Drop: Gorgon
+
+Sun Armor: Def +40 (B)/+80 (A)
+Armor affected by the Sun.
+Find: Castle Treasury B
+
+Moon Armor: Def +40 (A)/+80 (B)
+Armor affected by the Moon.
+Find: Castle Treasury A
+
+Battle Armor: Def +62
+Armor designed for easy maneuverability during battles.
+Price: 6000
+Buy: Luminous Cavern A
+Drop: Master Lizard
+
+Walk Armor: Def +30
+This armor restores its user's HP when in motion.
+Find: Luminous Cavern B
+
+Silver Armor: Def +75
+Armor forged of silver.
+Find: Castle Top Floor A
+
+Magical Armor: Def +64
+This armor affects its user's spirit. MP consumption rate is reduced.
+Find: Entrance A
+
+Ceramic Mail: Def +90
+Armor crafted from a material that modern alchemists can't comprehend.
+Price: 15000
+Buy: Luminous Cavern A
+
+Kaiser Mail: Str +5, Def +75, Int +5, Lck +5
+Armor said to have been worn by emperors.
+Find: Castle Top Floor B
+
+Casual Wear: Def+1, Int+5
+Clothes usually worn by city folks.
+Price: 98
+Buy: Castle Treasury B, Luminous Cavern B
+Drop: Zombie
+
+Summer Clothes: Def +2, Int +5
+Thin garments that are extremely comfortable in hot weather.
+Find: Marble Corridor A
+
+T-Shirt: Def +3, Int +5
+A bit on the casual side, but looks fashionable on some.
+Price: 199
+Buy: Clock Tower A&B, Castle Top Floor B, Luminous Cavern B
+
+Thin Robe: Def +15, Int +5
+Robe made from pieces of thin cloth and is light as a feather.
+Drop: Ectoplasm
+
+Fancy Clothes: Def +18, Int +6
+Beautifully embroidered clothes.
+Find: The Wailing Way A
+
+Loose Clothing: Def +20, Int +7
+Designed to allow for the easy dodging of attacks.
+Drop: Witch
+
+Ramail Coat: Def +29, Int +7
+It appears to be a normal coat, but metal has been woven into it.
+Price: 1005
+Buy: Clock Tower A&B, Castle Top Floor A&B
+Drop: Feather Demon
+
+Blizzard Robe: Def +30, Int +8
+Robe with a high resistance to ice.
+Find: Sky Walkway B
+
+Noble Robe: Def +41, Int +8
+An elegant robe suitable to nobility.
+Drop: 0
+
+Mystical Robe: Def +35, Int +8
+A robe with strange hidden powers. Increases its user's INT.
+Find: Castle Top Floor B
+
+Lightning Robe: Def +44, Int +9
+Robe with a high resistance to lightning.
+Find: Skeleton Cave A
+
+War Fatigues: Str +8, Def +46, Int +9
+Battle Wear. Certain areas are reinforced for added protection.
+Find: Entrance B
+
+Ancient Robe: Def +48, Int +10
+This robe is rumored to have once been worn by a great wise man.
+Drop: Clear Bone
+
+
+    _________
+___/Head Gear\________________________________________________________________
+------------------------------------------------------------------------------
+
+Fancy Bandana: Def +1
+A stylish bandana.
+Find: Room of illusion A
+
+Sturdy Turban: Def +2
+Turbans are a big hit in areas of the world with hot climates.
+Drop: Slime
+
+Plain Circlet: Def +3
+A simple circlet.
+Drop: Rock Armor
+
+Leather Cap: Def +4
+A cap made of leather.
+Find: Skeleton Cave B
+
+Cloth Helmet: Def +3
+A helmet made from extremely hardened cloth.
+Price: 160
+Buy: Castle Treeasury B, Luminous Cavern B, Castle Top Floor B
+Drop: Skeleton Flail, Disc Armor
+
+Leather Helmet: Def +6
+A helmet made of leather.
+Drop: Skeleton Spear
+
+Sallet: Def +7
+A helmet with strong medals embedded in its frame.
+Price: 340
+Buy: Clock Tower A&B, Luminous Cavern B, Castle Top Floor B
+
+Bicocette: Def +8
+A metal helmet that protects the top of its user's head.
+Drop: Skeleton Spider
+
+Greek Helm: Def +9
+A Corinthian-style helmet.
+Price: 750
+Buy: Clock Tower A&B, Castle Top Floor B
+Drop: Ruler Sword
+
+Face-guard: Def +10
+An item designed to protect its user's face.
+Find: Sky Walkway A
+
+Piros Helm: Def +11
+A helmet from a faraway land.
+Price: 1050
+Buy: Clock Tower A&B, Castle Top Floor A&B
+Drop: Merman
+
+Bagonette: Def +12
+A helmet woven from thin strips of metal.
+Find: Clock Tower A
+
+Barbuta: Def +13
+A helmet with an attached face guard.
+Drop: Feather Demon
+
+Guardian Helm: Def +14
+The head of Guardian Armor.
+Find: Clock Tower A
+
+Armet: Def +15
+A helmet fashioned to protect the back of its user's head.
+Price: 1800
+Buy: Clock Tower A&B, Castle Treasury A, Castle Top Floor A
+Drop: White Dragon Lv3
+
+Bascinet: Def +16
+A helmet made of chain netting.
+Drop: Harpy
+
+Silk Hat: Def +17
+User appears dapper in this hat.
+Drop: Skeleton Mirror
+
+Barrel Helmet: Def +18
+A tube-shaped helmet.
+Price: 2300
+Buy: Castle Treasury A, Luminous Cavern A, Castle Top Floor A
+
+Morion: Def +19
+A helmet with an attached neckguard for safety.
+Price: 3000
+Buy: Castle Treasury A, Luminous Cavern A, Castle Top Floor A
+
+Kettle Hat: Def +20
+A kettle-shaped helmet.
+Drop: Axe Armor Lv2
+
+Iron Helmet: Def +21
+A helmet made of iron.
+Drop: Melty Zombie
+
+Full Helmet: Def +22
+A helmet that covers the user's head all the way to the neck.
+Find: Luminous Cavern A
+
+Cabacete: Def +23
+A helmet with ear guards. Wearing this helmet reduces hearing.
+Price: 3800
+Buy: Castle Treasury A, Luminous Cavern A
+
+Pot Helm: Def +24
+A helmet resembling an upside-down pot.
+Price: 4400
+Buy: Luminous Cavern A
+
+Silver Tiara: Def +25
+A tiara crafted from silver.
+Drop: Sylph
+
+Steel Helmet: Def +26
+A helmet made of steel.
+Drop: Blaze Master
+
+Viking Helm: Def +27
+A helmet often used by the Vikings.
+Find: Marble Corridor B
+
+Gold Headband: Def +28
+A headband made of gold.
+Drop: Pike Master
+
+Platinum Crown: Def +30
+A crown made of platinum.
+Price: 9999
+Buy: Entrance A&B
+
+Red Silk Hat: Def +25, Int +5
+A semi-dressy crimson silk hat.
+Price: 9800
+Buy: Entrance A&B
+
+
+    ______
+___/Gloves\___________________________________________________________________
+------------------------------------------------------------------------------
+
+Leather Gloves: Def +2
+Gloves made of leather. Warm.
+Find: Marble Corridor A
+
+Gauntlets: Def +4
+Gauntlets are armor for the hands.
+Drop: Scarecrow
+
+Gloves: Def +7
+A cushioned glove that protects its user's hand.
+Drop: Bone Archer
+
+Hard Gloves: Def +10
+Gloves made of hardened leather.
+Find: Aqueduct of Dragons A
+
+Guardian Glove: Def +14
+The arm of Guardian Armor.
+Find: Clock Tower A
+
+Arm Guards: Def +18
+Good protection for the entire arm, but arms get a bit sweaty.
+Drop: Ruler Sword Lv2
+
+Arm Plates: Def +21
+Armor for the arm made entirely of metal.
+Find: Luminous Cavern A
+
+Bloody Glove: Def +25
+A glove soaked with much blood.
+Price: 2100
+Buy: Castle Treasury A, Luminous Cavern A, Castle Top Floor A
+
+Steel Glove: Def +28
+A glove made of steel.
+Drop: Spriggan
+
+
+    ________
+___/Footwear\_________________________________________________________________
+------------------------------------------------------------------------------
+
+Leather Boots: Def +2
+Boots made of leather. Quite conmfortable.
+Find: Entrance A
+
+Shin Guards: Def +1
+Protective footwear made from leather. Also protects the shins.
+Price: 140
+Buy: Castle Treasury B, Luminous Cavern B, Castle Top Floor B
+Drop: Peeeping Eye
+
+Ankle Guards: Def +5
+Shoes designed for extra ankle protection.
+Skeleton Cave B
+
+Bronze Boots: Def +6
+Boots made of bronze.
+Drop: Bone Thrower
+
+Guardian Boots: Def +8
+The legs of Guardian Armor.
+Find: Clock Tower A
+
+Iron Boots: Def +9
+Boots made of iron. Cold in the wintertime.
+Drop: Axe Armor
+
+Greaves: Def +12
+Armored trousers strengthened with metal plates.
+Price: 1700
+Buy: Castle Treasury A, Luminous Cavern A, Castle Top Floor A
+
+Leggings: Def +16
+The front sides of these boots are strengthened with metal plates.
+Find: Luminous Cavern A
+
+Silver Boots: Def +20
+Boots made of silver.
+Price: 2800
+Buy: Castle Treasury A, Luminous Cavern A
+
+Floating Boots
+Boots that defy the laws of gravity.
+Drop: Pike Master
+
+Platinum Shoes: Def +25
+Shoes made of platinum. Extremely valuable.
+Price: 5000
+Buy: Entrance A&B
+
+Infinite Boots
+These boots make infinite jumps possible.
+Price: 12000
+Buy: Entrance A&B
+
+
+    ______
+___/Cloaks\___________________________________________________________________
+------------------------------------------------------------------------------
+
+Silk Cloak: Def +2
+A cloak made from fine silk and is extremely light.
+Find: The Wailing Way A
+
+Velvet Cloak: Def +3
+A cloak made of velvet.
+Price: 1350
+Buy: Clock Tower A&B, Castle Treasury A, Castle Top Floor A, Luminous Cavern A 
+Drop: Bone Liquid
+
+Emerald Cloak: Def +5
+A bright green cloak.
+Find: Chapel of Dissonance A
+
+Wind Cloak: Def +12
+A cloak with a high resistance to wind.
+Find: Clock Tower B
+
+Crimson Cloak: Def +12, Lck +3
+A cloak that is red as blood.
+Drop: Flying Bone
+
+Ninja Cloak: Def +15, Lck +5
+An assassin's cloak from the gold country.
+Drop: Victory Armor
+
+Twilight Cloak: Def +18, Lck +8
+A pitch-black cloak that creates an air of darkness around its user.
+Find: Marble Corridor A
+
+
+    _________
+___/Bracelets\________________________________________________________________
+------------------------------------------------------------------------------
+
+Wristband: Def +2
+Offers an excellent source of support.
+Find: Castle Treasury B
+
+Bangle: Def +3
+A wrist protector.
+Price: 550
+Buy: Clock Tower A&B, Castle Treasury A, Castle Top Floor A&B   
+Drop: Axe Armor
+
+Kaiser Knuckle: Str +3, Def +3
+It is said that this knuckle band was once used by emperors.
+Find: Clock Tower B
+
+Silver Bangle: Def +20
+A bangle made of silver.
+Drop: Gorgon
+
+Crested Band: Def +15
+Some kind of crest is etched into this bracelet.
+Drop: Hammer-Hammer
+
+
+    ________
+___/Pendants\_________________________________________________________________
+------------------------------------------------------------------------------
+
+Pendant: Def +1
+The kind of charm you can purchase anywhere.
+Drop: Medusa Head
+
+Lucky Charm: Lck +10
+This charm increases its user's LCK. You are not allowed to look inside it.
+Find: Room of Illusion A
+
+Gold Necklace: Def +3
+A necklace made of gold. A bit on the flashy side.
+Drop: Arabaki
+
+Magic Necklace: Int +5
+This magical necklace makes its user wiser.
+Price: 5000
+Buy: Castle Treasury A
+Drop: Arthro Skeleton
+
+Medusa Pendant
+This pendant increases its user's resistance to petrification.
+Drop: Gold Medusa
+
+Heart Chocker
+Heart-shaped chocker. Increases the appearance rate of BIG HEARTS.
+Find: Clock Tower B
+
+Greed Amulet
+This amulet increases its user's luck in finding money.
+Find: Castle Treasury A
+
+Mystic Brooch: Int +15
+This brooch makes its user much wiser.
+Drop: Rare Ghost
+
+Cipher's Charm
+Speeds up the rate at which MP are restored.
+Find: Skeleton Cave A
+
+Mirror Pendant
+This pendant increases its user's resistance to poison.
+Drop: Man-Eater
+
+
+    _____
+___/Rings\____________________________________________________________________
+------------------------------------------------------------------------------
+
+Lucky Ring: Lck +20
+Increases it user's LCK.
+Find: Clock Tower B
+Drop: Rare Ghost
+
+Holy Ring
+This ring's holy powers make it hard for curses to be cast on user.
+Find: Castle Treasury A
+
+Rare Ring
+Increases the appearance rate of rare items.
+Find: Skeleton Cave A
+
+Chaos Ring
+Increases the strenght of Holy Water.
+Find: Sky Walkway A
+
+Nova Ring
+Increases the strength of the Cross.
+Price: 5000
+Buy: Castle Top Floor B
+
+Logoth's Ring
+Increases the strength of the Knife.
+Find: The Wailing Way A
+
+Heaven's Ring
+Increases the strength of the Axe.
+Find: Castle Treasury A
+
+Aurora Ring
+Increases the strength of the Sacred Fist.
+Price: 5000
+Buy: Castle Top Floor A
+
+Earth Ring
+Increases the strength of the Holy Book.
+Find: Aqueduct of Dragons B
+
+
+    _____________
+___/Special Items\____________________________________________________________
+------------------------------------------------------------------------------
+
+JB's Bracelet
+Juste has grown attached to this bracelet and always wears it.
+Find: You start the game with it.
+
+Night Goggles: Int+2, Lck+1
+Gives user the ability to see in the dark to a certain degree.
+Find: Sky Walkway A
+
+MK's Bracelet
+Given to Juste by Maxim as a memento.
+Find: Sky Walkway A
+
+Crush Boots: Def +15
+Used with HIGH JUMP, it's possible to smash through some ceilings.
+Find: The Wailing Way B
+
+
+    _____
+___/Items\____________________________________________________________________
+------------------------------------------------------------------------------
+
+Potion
+Restores some HP.
+Price: 80
+
+High Potion
+Restores a large amount of HP.
+Price: 200
+
+Elixir
+Restores all HP.
+Price: 800
+
+Mana Prism
+Restores some MP.
+Price: 250
+
+Big Mana Prism
+Restores a large amount of MP.
+Price: 1000
+
+Drumstick
+Restores some HP.
+
+Turkey
+Restores a large amount of HP.
+
+Anti-Venom
+Counteracts the effects of poison.
+Price: 20
+
+Uncurse Potion
+Counteracts the effects of curses.
+Price: 20
+
+Medicine Jar
+Contains medicine that makes you invincible at a set time.
+Price: 10000
+
+Lure Key
+Opens the door that gives off a golden hue.
+Find: Entrance B
+
+Skull Key
+Opens doors marked with a skull design.
+Find: Luminous Cavern A
+
+Floodgate Key
+Enter the lion's cross in the cavern.
+Find: Skeleton Cave A
+
+Castle Map 1
+One portion of the castle's floor plan is written on it.
+Find: Marble Corridor A
+
+Castle Map 2
+One portion of the castle's floor plan is written on it.
+Price: 105
+Buy: Castle Treasury B
+
+Castle Map 3
+One portion of the castle's floor plan is written on it.
+Clock Tower A
+
+Hint Card 1
+Somewhere there exists a mechanism for draining the caves.
+Find: Luminous Cavern A
+
+Hint Card 2
+The eyes of the goddess statue point to a secret passage.
+Find: Sky Walkway A
+
+Hint Card 3
+Kneel before the round gate to be taken to a different place.
+Find: Castle Top Floor A
+
+Hint Card 4
+Some spells can be cast multiple times.
+Find: Clock Tower A
+
+Hint Card 5
+They say there is a book with the power to summon monsters.
+Find: Skeleton Cave A
+
+Hint Card 6
+The red book and the Dagger share a secret.
+Find: Chapel of Dissonance B
+
+Noon Star
+It cannot be seen at night.
+Drop: Specter, Simon Wraith
+
+Opal
+A white jewel.
+Sell: 125
+
+Turquoise
+A blue-green jewel.
+Sell: 200
+
+Sapphire
+A valuable blue jewel.
+Sell: 500
+
+Ruby
+A valuable red jewel.
+Sell: 600
+
+Diamond
+An extremely valuable jewel.
+Sell: 1000
+
+
+    __________
+___/Spellbooks\_______________________________________________________________
+------------------------------------------------------------------------------
+
+Fire Book
+When combined with a subweapon, user may cast many fire spells.
+Find: Marble Corridor A
+
+Ice Book
+When combined with a subweapon, user can cast many ice spells.
+Find: Marble Corridor A
+
+Bolt Book
+When combined with a subweapon, user may cast many lightning spells.
+Find: Clock Tower A
+
+Wind Book
+When combined with a subweapon, user can cast many wind spells.
+Find: Castle Top Floor B
+
+Summoning Tome
+When combined with a subweapon, user may summon many monsters.
+Find: Skeleton Cave B
+
+
+    ______
+___/Relics\___________________________________________________________________
+------------------------------------------------------------------------------
+
+Lizard Tail
+By pressing DOWN + JUMP, user may SLIDE.
+Find: Shrine of the Apostates A
+
+Sylph Feather
+While in midair, user may perform an additional JUMP.
+Find: Skeleton Cave B
+
+Griffin's Wing
+By pressing DOWN/UP + JUMP, the user may perform a HIGH JUMP.
+Find: Luminous Cavern A
+
+Soul Orb
+Allows user to recognize how much damage an enemy has received.
+Find: Entrance A
+
+Fairy Journal
+Allows user to recognize the names of his enemies.
+Find: Marble Corridor A
+
+Monster Tome
+Allows user to see the data of monsters he has met.
+Find: The Wailing Way A
+
+Eye of Vlad
+One of Dracula's bodily remains. Has the power to negate curse.
+Find: Chapel of Dissonance A
+
+Heart of Vlad
+One of Dracula's bodily remains. Has the power to negate petrification.
+Find: Sky Walkway B
+
+Rib of Vlad
+One of Dracula's bodily remains. Has the power to negate poison.
+Find: Entrance B
+
+Nail of Vlad
+One of Dracula's bodily remains. Increases STR.
+Find: Aqueduct of Dragons A
+
+Fang of Vlad
+One of Dracula's bodily remains. Increases DEF.
+Find: Clock Tower A
+
+Vlad's Ring
+One of Dracula's worldly possessions. Increases LCK.
+Find: Marble Corridor A
+
+
+    ____________
+___/Collectibles\_____________________________________________________________
+------------------------------------------------------------------------------
+
+Chandelier
+Said to have been used by royalty. It has an interesting history.
+Find: Castle Treasury A
+
+Tall Clock
+Bought the morning your granddad was born. Still keeps perfect time.
+Find: Clock Tower B
+
+Bookshelf
+A very sturdy bookshelf. And it's earthquake-proof.
+Find: Skeleton Cave A
+
+Old radio
+Radio prototype received directly from the great inventor himself.
+Find: Sky Walkway B
+
+Silver Dishes
+This pure silver dinner set radiates elegance.
+Find: Luminous Cavern B
+
+Antique Table
+Crafted out of a 1000 year old cedar tree.
+Find: Clock Tower A
+
+Chair
+A wooden chair of excellent workmanship.
+Find: Castle Treasury B 
+
+Rocking Chair
+This relaxing chair offers up gentle creaks as it rocks.
+Find: Sky Walkway B
+
+Silk Curtain
+Made of the finest silk and milky to the touch.
+Find: Room of Illusion B
+
+Ancient Urn
+The most valuable objects are those whose value is difficult to guess.
+Find: Entrance B
+
+Wizard's Urn
+Staring at this urn tends to induce sneezing.
+Find: Skeleton Cave B
+
+Pretty Vase
+A pretty vase brimming with artificial flowers.
+Find: Entrance B
+
+Side Table
+Side tables add a nice accent to any room.
+Find: Skeleton Cave B
+
+Teacup
+With a sip of tea from this cup, you can join our clan.
+Find: Castle Treasury A
+
+Teapot
+Has the power to make teas taste better than they really are.
+Find: Castle Treasury A
+
+Wine Glass
+A beautiful wine glass for elegant evenings with friends.
+Find: Castle Top Floor B
+
+Hero Statue
+A hero immortalized forever. Someday, that will be me...
+Find: Chapel of Dissonance B
+
+Smiling Statue
+Statue of a goddess. Goddesses are so beautiful, aren't they?
+Find: The Wailing Way B
+
+Sage Statue
+Statue of a smug-looking old man.
+Find: Luminous Cavern B
+
+Raccoon Figure
+A superb piece of art by an obviously skilled raccoon figurine craftsman.
+Find: Clock Tower B
+
+Lucky Cat
+An statue that helps bring in money. Effectiveness unknown.
+Find: Clock Tower A
+
+Phonograph
+A machine that emits sound. Analog is great, isn't it...
+Find: Skeleton Cave A
+
+Stuffed Stag
+Symbol of the rich. I feel as I'm being watched.
+Find: Skeleton Cave B
+
+Candleholder
+A silver candlestick for elegant evenings with friends.
+Find: The Wailing Way B
+
+Candlestick
+A gold candlestick for elegant evenings with friends.
+Find: Castle Top Floor A
+
+Silver Trinket
+The inscription reads: "Candlelight makes any cooking look edible".
+Find: Sky Walkway A
+
+Gold Trinket
+The inscription reads: "Candlelight makes your girlfriend like you more".
+Find: Sky Walkway A
+
+Strange Mirror
+Take a peek at it and you feel as if someone were there...
+Find: Luminous Cavern B
+
+Castle Drawing
+Seems out of place in this castle.
+Find: Castle Top Floor A
+
+King-size Bed
+Manufactured by the only trusted and true name in beds, "FUTON".
+Find: Sky Walkway B
+
+Closet
+Ease your worries about having too many clothes, too little space.
+Find: Castle Treasury A
+
+
+==============================================================================
+CREDITS
+==============================================================================
+
+My thanks go to...
+
+Konami Computer Entertainment for another great Castlevania game. They 
+couldn't resist the temptation to milk out the Symphony of the Night success, 
+but the final result is quite remarkable, albeit less addictive than Circle of 
+the Moon.
+
+Zach Keene for another excellent Castlevania FAQ. It helped me found out some 
+secrets, and its Mechanics section simply deserves to be read.
+
+Demajen for his good Heretic's Grave Web site. It provided detailed maps and 
+monster lists to help me clear up mistakes.
+
+You, for reading my FAQ. I hope you enjoyed it, but most of all, I hope it was 
+useful to you. Thank you!
+
+
+
+
+
+                  ~ Castlevania: Harmony of Dissonance FAQ ~
+                       Copyright Efrem Orizzonte 2002
+
