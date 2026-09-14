@@ -20,9 +20,9 @@
 invencibilidad temporal.\n
 "
 0x101,"Abre la puerta con brillo\n
-dorado.\n
+arcoiris.\n
 "
-0x102,"Abre puertas con simbolo de calavera.\n
+0x102,"Abre puertas calavera (verdes).\n
 "
 0x103,"Entra la cruz del leon en la cueva.\n
 "
@@ -35,11 +35,11 @@ del castillo.\n
 0x106,"Contiene parte del plano\n
 del castillo.\n
 "
-0x107,"Existe un mecanismo para\n
-drenar las cuevas.\n
+0x107,"Drena las cuevas en la\n
+cabeza de leon con la llave\n
 "
-0x108,"Los ojos de la diosa\n
-indican un pasaje secreto.\n
+0x108,"La diosa del acueducto\n
+indica un pasaje secreto.\n
 "
 0x109,"Arrodillate ante la puerta\n
 redonda para ir a otro lugar.\n
@@ -204,8 +204,8 @@ brazalete y siempre lo usa.\n
 0x147,"Permite ver en la oscuridad\n
 hasta cierto punto.\n
 "
-0x148,"Maxim se lo dio a Juste\n
-como recuerdo.\n
+0x148,"Recuerdo de Maxim\n
+, abre puerta ambar.\n
 "
 0x149,"Con HIGH JUMP, es posible\n
 romper algunos techos.\n
