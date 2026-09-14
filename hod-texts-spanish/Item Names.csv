@@ -1,6 +1,6 @@
-0x022,"Pocion\n
+0x022,"Poción\n
 "
-0x023,"Pocion Mayor\n
+0x023,"Poción Mayor\n
 "
 0x024,"Elixir\n
 "
@@ -14,13 +14,13 @@
 "
 0x029,"Antiveneno\n
 "
-0x02A,"Pocion Bendita\n
+0x02A,"Poción Bendita\n
 "
 0x02B,"Frasco Cura\n
 "
 0x02C,"Llave Reclamo\n
 "
-0x02D,"Llave Craneo\n
+0x02D,"Llave Cráneo\n
 "
 0x02E,"Llave Presa\n
 "
@@ -44,13 +44,13 @@
 "
 0x038,"Estrella Cenit\n
 "
-0x039,"Opalo\n
+0x039,"Ópalo\n
 "
 0x03A,"Turquesa\n
 "
 0x03B,"Zafiro\n
 "
-0x03C,"Rubi\n
+0x03C,"Rubí\n
 "
 0x03D,"Diamante\n
 "
@@ -60,7 +60,7 @@
 "
 0x040,"Punta Platino\n
 "
-0x041,"Circulo Poder\n
+0x041,"Círculo Poder\n
 "
 0x042,"Alma Christopher\n
 "
@@ -80,7 +80,7 @@
 "
 0x04A,"Abrigo Placas\n
 "
-0x04B,"Tunica Tela\n
+0x04B,"Túnica Tela\n
 "
 0x04C,"Armadura Bronce\n
 "
@@ -120,13 +120,13 @@
 "
 0x05E,"Armadura Lucha\n
 "
-0x05F,"Armadura Movil\n
+0x05F,"Armadura Móvil\n
 "
 0x060,"Armadura Plata\n
 "
-0x061,"Cota Ceramica\n
+0x061,"Cota Cerámica\n
 "
-0x062,"Armadura Magica\n
+0x062,"Armadura Mágica\n
 "
 0x063,"Cota Kaiser\n
 "
@@ -136,7 +136,7 @@
 "
 0x066,"Camiseta\n
 "
-0x067,"Tunica Fina\n
+0x067,"Túnica Fina\n
 "
 0x068,"Ropa Elegante\n
 "
@@ -144,17 +144,17 @@
 "
 0x06A,"Abrigo Ramail\n
 "
-0x06B,"Tunica Nieve\n
+0x06B,"Túnica Nieve\n
 "
-0x06C,"Tunica Noble \n
+0x06C,"Túnica Noble \n
 "
-0x06D,"Tunica Mistica\n
+0x06D,"Túnica Mística\n
 "
-0x06E,"Tunica Rayo\n
+0x06E,"Túnica Rayo\n
 "
 0x06F,"Traje Guerra\n
 "
-0x070,"Tunica Vieja\n
+0x070,"Túnica Vieja\n
 "
 0x071,"Brazalete JB\n
 "
@@ -274,7 +274,7 @@
 "
 0x0AB,"Capa Viento\n
 "
-0x0AC,"Capa Carmesi\n
+0x0AC,"Capa Carmesí\n
 "
 0x0AD,"Capa Ninja\n
 "
@@ -296,15 +296,15 @@
 "
 0x0B6,"Collar Oro\n
 "
-0x0B7,"Collar Magico\n
+0x0B7,"Collar Mágico\n
 "
 0x0B8,"Colgante Medusa\n
 "
-0x0B9,"Collar Corazon\n
+0x0B9,"Collar Corazón\n
 "
 0x0BA,"Amuleto Codicia\n
 "
-0x0BB,"Broche Mistico\n
+0x0BB,"Broche Místico\n
 "
 0x0BC,"Cristal de Sypha\n
 "
@@ -352,7 +352,7 @@
 "
 0x0D2,"Ojo de Vlad\n
 "
-0x0D3,"Corazon de Vlad\n
+0x0D3,"Corazón de Vlad\n
 "
 0x0D4,"Costilla Vlad\n
 "
@@ -366,7 +366,7 @@
 "
 0x0D9,"Reloj Alto\n
 "
-0x0DA,"Estanteria\n
+0x0DA,"Estantería\n
 "
 0x0DB,"Radio Viejo\n
 "
@@ -384,7 +384,7 @@
 "
 0x0E2,"Urna Mago\n
 "
-0x0E3,"Jarron Bonito\n
+0x0E3,"Jarrón Bonito\n
 "
 0x0E4,"Mesa Lateral\n
 "
@@ -394,7 +394,7 @@
 "
 0x0E7,"Copa Vino\n
 "
-0x0E8,"Estatua Heroe\n
+0x0E8,"Estatua Héroe\n
 "
 0x0E9,"Estatua Sonrisa\n
 "
@@ -404,7 +404,7 @@
 "
 0x0EC,"Gato Suerte\n
 "
-0x0ED,"Fonografo\n
+0x0ED,"Fonógrafo\n
 "
 0x0EE,"Ciervo Peluche\n
 "

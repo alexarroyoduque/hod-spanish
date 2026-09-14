@@ -20,11 +20,11 @@
 invencibilidad temporal.\n
 "
 0x101,"Abre la puerta con brillo\n
-arcoiris.\n
+arcoíris.\n
 "
 0x102,"Abre puertas calavera (verdes).\n
 "
-0x103,"Entra la cruz del leon en la cueva.\n
+0x103,"Entra la cruz del león en la cueva.\n
 "
 0x104,"Contiene parte del plano\n
 del castillo.\n
@@ -36,12 +36,12 @@ del castillo.\n
 del castillo.\n
 "
 0x107,"Drena las cuevas en la\n
-cabeza de leon con la llave\n
+cabeza de león con la llave\n
 "
 0x108,"La diosa del acueducto\n
 indica un pasaje secreto.\n
 "
-0x109,"Arrodillate ante la puerta\n
+0x109,"Arrodíllate ante la puerta\n
 redonda para ir a otro lugar.\n
 "
 0x10A,"Algunos hechizos se lanzan\n
@@ -78,7 +78,7 @@ a la punta del latigo.\n
 el latigo del usuario.\n
 "
 0x117,"Dispara balas desde el\n
-latigo solo con HP al maximo.\n
+latigo solo con HP al máximo.\n
 "
 0x118,"Agrega fuego a los ataques del latigo.\n
 "
@@ -88,7 +88,7 @@ latigo solo con HP al maximo.\n
 "
 0x11B,"Agrega viento a los ataques del latigo.\n
 "
-0x11C,"Armadura facil de mover,\n
+0x11C,"Armadura fácil de mover,\n
 hecha de piel curtida.\n
 "
 0x11D,"Armadura hecha de un\n
@@ -108,7 +108,7 @@ protege sobre las rodillas.\n
 endurecida con cera.\n
 "
 0x123,"Armadura de tela tratada\n
-con un liquido especial.\n
+con un líquido especial.\n
 "
 0x124,"Armadura de cuero con\n
 piezas de metal cosidas.\n
@@ -157,22 +157,22 @@ cuando el usuario se mueve.\n
 0x135,"Armadura forjada en plata.\n
 "
 0x136,"Armadura hecha de un material\n
-que ningun alquimista entiende.\n
+que ningún alquimista entiende.\n
 "
-0x137,"Esta armadura afecta el espiritu.\n
+0x137,"Esta armadura afecta el espíritu.\n
 Reduce el consumo de MP.\n
 "
 0x138,"Se dice que la usaron emperadores.\n
 "
 0x139,"Ropa que usa la gente de ciudad.\n
 "
-0x13A,"Prendas finas, muy comodas\n
+0x13A,"Prendas finas, muy cómodas\n
 en climas calurosos.\n
 "
 0x13B,"Algo informal, pero le queda\n
 elegante a algunos.\n
 "
-0x13C,"Tunica de tela fina, ligera\n
+0x13C,"Túnica de tela fina, ligera\n
 como una pluma.\n
 "
 0x13D,"Ropa bellamente bordada.\n
@@ -183,17 +183,17 @@ ataques con facilidad.\n
 0x13F,"Parece un abrigo normal, pero\n
 tiene metal tejido en su interior.\n
 "
-0x140,"Tunica con alta resistencia al hielo.\n
+0x140,"Túnica con alta resistencia al hielo.\n
 "
-0x141,"Una elegante tunica para nobles.\n
+0x141,"Una elegante túnica para nobles.\n
 "
-0x142,"Tunica con poderes ocultos.\n
+0x142,"Túnica con poderes ocultos.\n
 Aumenta el INT del usuario.\n
 "
-0x143,"Tunica con resistencia al rayo.\n
+0x143,"Túnica con resistencia al rayo.\n
 "
 0x144,"Ropa de batalla. Refuerza\n
-ciertas zonas para mas proteccion.\n
+ciertas zonas para más protección.\n
 "
 0x145,"Se dice que la uso un\n
 gran sabio en el pasado.\n
@@ -205,7 +205,7 @@ brazalete y siempre lo usa.\n
 hasta cierto punto.\n
 "
 0x148,"Recuerdo de Maxim\n
-, abre puerta ambar.\n
+, abre puerta ámbar.\n
 "
 0x149,"Con HIGH JUMP, es posible\n
 romper algunos techos.\n
@@ -213,7 +213,7 @@ romper algunos techos.\n
 0x14A,"Una bandana con estilo.\n
 "
 0x14B,"Los turbantes triunfan en\n
-zonas de clima calido.\n
+zonas de clima cálido.\n
 "
 0x14C,"Una diadema simple.\n
 "
@@ -264,10 +264,10 @@ de nuca incluido.\n
 hasta el cuello.\n
 "
 0x160,"Casco con orejeras. Reduce\n
-la audicion del usuario.\n
+la audición del usuario.\n
 "
 0x161,"Un casco con forma de olla\n
-puesta al reves.\n
+puesta al revés.\n
 "
 0x162,"Una tiara hecha de plata.\n
 "
@@ -279,7 +279,7 @@ puesta al reves.\n
 "
 0x166,"Una corona hecha de platino.\n
 "
-0x167,"Un sombrero carmesi semi formal.\n
+0x167,"Un sombrero carmesí semi formal.\n
 "
 0x168,"Guantes de cuero. Abrigan.\n
 "
@@ -292,7 +292,7 @@ protege las manos.\n
 "
 0x16C,"El brazo de Armadura Guarda.\n
 "
-0x16D,"Buena proteccion para el brazo,\n
+0x16D,"Buena protección para el brazo,\n
 pero sudan un poco.\n
 "
 0x16E,"Armadura de brazo hecha\n
@@ -302,30 +302,30 @@ enteramente de metal.\n
 "
 0x170,"Un guante hecho de acero.\n
 "
-0x171,"Botas de cuero. Muy comodas.\n
+0x171,"Botas de cuero. Muy cómodas.\n
 "
 0x172,"Calzado protector de cuero.\n
-Tambien protege las espinillas.\n
+También protege las espinillas.\n
 "
 0x173,"Zapatos pensados para\n
-proteger mas los tobillos.\n
+proteger más los tobillos.\n
 "
 0x174,"Botas hechas de bronce.\n
 "
 0x175,"Las piernas de Armadura Guarda.\n
 "
-0x176,"Botas de hierro. Frias\n
-en epoca de invierno.\n
+0x176,"Botas de hierro. Frías\n
+en época de invierno.\n
 "
 0x177,"Pantalones reforzados con\n
 placas de metal.\n
 "
-0x178,"El frente de estas botas esta\n
+0x178,"El frente de estas botas está\n
 reforzado con placas de metal.\n
 "
 0x179,"Botas hechas de plata.\n
 "
-0x17A,"Botas que desafian las\n
+0x17A,"Botas que desafían las\n
 leyes de la gravedad.\n
 "
 0x17B,"Zapatos de platino.\n
@@ -345,7 +345,7 @@ extremadamente ligera.\n
 0x181,"Una capa roja como la sangre.\n
 "
 0x182,"Capa de asesino del\n
-pais dorado.\n
+país dorado.\n
 "
 0x183,"Capa negra que crea un aura\n
 de oscuridad en su portador.\n
@@ -360,35 +360,35 @@ usaron este brazalete.\n
 0x187,"Una argolla hecha de plata.\n
 "
 0x188,"Este brazalete tiene\n
-grabado algun tipo de blason.\n
+grabado algún tipo de blasón.\n
 "
 0x189,"El amuleto que se compra\n
 en cualquier lugar.\n
 "
 0x18A,"Aumenta el LCK del usuario.\n
-No esta permitido mirar dentro.\n
+No está permitido mirar dentro.\n
 "
 0x18B,"Un collar de oro.\n
 Algo llamativo.\n
 "
-0x18C,"Este collar magico vuelve\n
-mas sabio a su usuario.\n
+0x18C,"Este collar mágico vuelve\n
+más sabio a su usuario.\n
 "
 0x18D,"Este colgante aumenta la\n
-resistencia a la petrificacion.\n
+resistencia a la petrificación.\n
 "
-0x18E,"Collar con forma de corazon.\n
-Aumenta la aparicion de\n
+0x18E,"Collar con forma de corazón.\n
+Aumenta la aparición de\n
 CORAZONES GRANDES.\n
 "
 0x18F,"Este amuleto aumenta la\n
 suerte al encontrar dinero.\n
 "
 0x190,"Este broche vuelve\n
-mas sabio a su usuario.\n
+más sabio a su usuario.\n
 "
 0x191,"Acelera la velocidad de\n
-recuperacion de MP.\n
+recuperación de MP.\n
 "
 0x192,"Este colgante aumenta la\n
 resistencia al veneno.\n
@@ -398,7 +398,7 @@ resistencia al veneno.\n
 0x194,"El poder sagrado de este anillo\n
 evita que le lancen maldiciones.\n
 "
-0x195,"Aumenta la aparicion de\n
+0x195,"Aumenta la aparición de\n
 objetos raros.\n
 "
 0x196,"Aumenta la fuerza del Agua Bendita.\n
@@ -436,7 +436,7 @@ JUMP adicional.\n
 0x1A3,"Presiona DOWN/UP + JUMP para\n
 hacer un HIGH JUMP.\n
 "
-0x1A4,"Permite ver cuanto dano ha\n
+0x1A4,"Permite ver cuánto daño ha\n
 recibido un enemigo.\n
 "
 0x1A5,"Permite ver los nombres\n
@@ -445,31 +445,31 @@ de sus enemigos.\n
 0x1A6,"Permite ver los datos de\n
 monstruos ya encontrados.\n
 "
-0x1A7,"Resto del cuerpo de Dracula.\n
+0x1A7,"Resto del cuerpo de Drácula.\n
 Tiene el poder de anular maldiciones.\n
 "
-0x1A8,"Resto del cuerpo de Dracula.\n
-Anula la petrificacion.\n
+0x1A8,"Resto del cuerpo de Drácula.\n
+Anula la petrificación.\n
 "
-0x1A9,"Resto del cuerpo de Dracula.\n
+0x1A9,"Resto del cuerpo de Drácula.\n
 Anula el veneno.\n
 "
-0x1AA,"Resto del cuerpo de Dracula.\n
+0x1AA,"Resto del cuerpo de Drácula.\n
 Aumenta el STR.\n
 "
-0x1AB,"Resto del cuerpo de Dracula.\n
+0x1AB,"Resto del cuerpo de Drácula.\n
 Aumenta el DEF.\n
 "
-0x1AC,"Pertenencia de Dracula.\n
+0x1AC,"Pertenencia de Drácula.\n
 Aumenta el LCK.\n
 "
 0x1AD,"Se dice que lo uso la realeza.\n
 Tiene una historia interesante.\n
 "
-0x1AE,"Comprado el dia que nacio tu\n
-abuelo. Aun marca la hora exacta.\n
+0x1AE,"Comprado el día que nació tu\n
+abuelo. Aún marca la hora exacta.\n
 "
-0x1AF,"Una estanteria muy resistente.\n
+0x1AF,"Una estantería muy resistente.\n
 Y a prueba de terremotos.\n
 "
 0x1B0,"Prototipo de radio recibido\n
@@ -489,45 +489,45 @@ suavemente al mecerse.\n
 0x1B5,"Hecho de finas sedas,\n
 suave al tacto.\n
 "
-0x1B6,"Los objetos mas valiosos son\n
-los dificiles de valorar.\n
+0x1B6,"Los objetos más valiosos son\n
+los difíciles de valorar.\n
 "
 0x1B7,"Mirar fijamente esta urna\n
 provoca estornudos.\n
 "
-0x1B8,"Un jarron bonito lleno de\n
+0x1B8,"Un jarrón bonito lleno de\n
 flores artificiales.\n
 "
 0x1B9,"Las mesas laterales dan un\n
 toque agradable a cualquier sala.\n
 "
-0x1BA,"Con un sorbo de te de esta\n
+0x1BA,"Con un sorbo de té de esta\n
 taza, puedes unirte a nuestro clan.\n
 "
 0x1BB,"Tiene el poder de mejorar\n
-el sabor del te.\n
+el sabor del té.\n
 "
 0x1BC,"Una hermosa copa de vino para\n
 veladas elegantes con amigos.\n
 "
-0x1BD,"Un heroe inmortalizado por siempre.\n
-Algun dia, sere yo...\n
+0x1BD,"Un héroe inmortalizado por siempre.\n
+Algún día, seré yo...\n
 "
 0x1BE,"Estatua de una diosa.\n
 Las diosas son hermosas, verdad?\n
 "
-0x1BF,"Estatua de un anciano engreido.\n
+0x1BF,"Estatua de un anciano engreído.\n
 "
 0x1C0,"Una gran obra de arte hecha\n
-por un habil artesano mapache.\n
+por un hábil artesano mapache.\n
 "
 0x1C1,"Una estatua que atrae dinero.\n
 Efectividad desconocida.\n
 "
-0x1C2,"Una maquina que emite sonido.\n
-El analogico es genial, no?\n
+0x1C2,"Una máquina que emite sonido.\n
+El analógico es genial, no?\n
 "
-0x1C3,"Simbolo de los ricos.\n
+0x1C3,"Símbolo de los ricos.\n
 Siento que me observan.\n
 "
 0x1C4,"Una palmatoria de plata\n
@@ -536,20 +536,20 @@ para veladas con amigos.\n
 0x1C5,"Una palmatoria de oro\n
 para veladas con amigos.\n
 "
-0x1C6,"La inscripcion dice que la\n
+0x1C6,"La inscripción dice que la\n
 luz de vela hace ver rica la comida.\n
 "
-0x1C7,"La inscripcion dice que la\n
-luz de vela te hace mas\n
+0x1C7,"La inscripción dice que la\n
+luz de vela te hace más\n
 atractivo para tu pareja.\n
 "
 0x1C8,"Si te asomas, sientes que\n
-alguien esta ahi...\n
+alguien está ahí...\n
 "
 0x1C9,"Parece fuera de lugar en este castillo.\n
 "
-0x1CA,"Fabricado por la unica marca\n
-de confianza en camas: FUTON.\n
+0x1CA,"Fabricado por la única marca\n
+de confianza en camas: FUTÓN.\n
 "
 0x1CB,"Para quienes tienen mucha ropa\n
 y poco espacio.\n

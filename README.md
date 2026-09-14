@@ -44,15 +44,17 @@ Todos los archivos traducibles de `references/hod-texts-original/` están traduc
 | Events.csv | Diálogos de la historia principal | Traducido |
 | Music Names.csv | Títulos de pistas (sound test) | Sin traducir (títulos propios/artísticos) |
 
-Validado: número de entradas idéntico al original en los 7 archivos, ausencia total de caracteres no soportados por la fuente del juego, control markers (`{WAITINPUT}`, `{NAMEINSERT}`, etc.) preservados y sin restos de texto en inglés.
+Validado: número de entradas idéntico al original en los 7 archivos, control markers (`{WAITINPUT}`, `{NAMEINSERT}`, etc.) preservados y sin restos de texto en inglés. Pendiente: revisión ortográfica para añadir tildes, eñe y signos de apertura ahora que la fuente del juego los soporta (ver Limitaciones conocidas).
 
 ## Limitaciones conocidas
 
-- La fuente del juego no soporta tildes ni eñe, ni en mayúscula ni en minúscula (á,é,í,ó,ú,ñ,ü,Á,É,Í,Ó,Ú,Ñ,Ü), ni los signos `¿`/`¡`. Todo el texto se ha adaptado para evitarlos sin recurrir a sustituciones mecánicas que generen palabras incorrectas.
 - Cada campo tiene un límite de longitud distinto según el archivo (14 caracteres en nombres de objeto/personaje, 16 en nombres de enemigo, ~37-40 en diálogos/descripciones, 23 en títulos de pista), heredado del tamaño de caja original del juego.
+- La fuente del juego ya soporta tildes, eñe (á,é,í,ó,ú,ñ,ü,Á,É,Í,Ó,Ú,Ñ,Ü) y los signos `¿`/`¡`. Parte del texto traducido antes de esta confirmación todavía carece de tildes/eñe/signos de apertura por la restricción previa; está pendiente una revisión para corregir la ortografía.
 
 ## Credits
-- [LagoLunatic, DSVania creator](https://www.romhacking.net/community/4318)
+- -SuXei999- testing
+- **leomontenegro6 y las personas que participaron en `chod-traducao-ptbr`**, cuyo trabajo previo sobre la traducción brasileña, las fuentes y la codificación de HoD fue una referencia fundamental para orientar esta implementación española.
+- [LagoLunatic, DSVania Edit creator](https://www.romhacking.net/community/4318)
 - [Efrem Orizzonte, item list](https://gamefaqs.gamespot.com/gba/554981-castlevania-harmony-of-dissonance/faqs/19328)
 - [Uriel Laurito, spanish translation](https://gamefaqs.gamespot.com/gba/554981-castlevania-harmony-of-dissonance/faqs/24513)
 - [BFrayne, translation guide](https://gamefaqs.gamespot.com/gba/554981-castlevania-harmony-of-dissonance/faqs/17572)

@@ -7,7 +7,7 @@
 0x24F,$2000
 0x250," Guardar? \n
 "
-0x251," Si \n
+0x251," Sí \n
 "
 0x252," No \n
 "
@@ -19,18 +19,18 @@
 "
 0x256,"Elegir Libro de Hechizos.\n
 "
-0x257,"Activar/desactivar objetos magicos.\n
+0x257,"Activar/desactivar objetos mágicos.\n
 "
-0x258,"Cambiar configuracion de botones.\n
+0x258,"Cambiar configuración de botones.\n
 "
 0x259,"???\n
 "
-0x25A,"Guardado Rapido\n
+0x25A,"Guardado Rápido\n
 "
-0x25B,"Esta funcion no se puede usar\n
+0x25B,"Esta función no se puede usar\n
 hasta guardar la partida.\n
 "
-0x25C,"Guardado rapido ahora?\n
+0x25C,"Guardado rápido ahora?\n
 "
 0x25D,"−−−\n
 "
@@ -39,9 +39,9 @@ hasta guardar la partida.\n
 0x25F,"Objeto no equipado.\n
 "
 0x260,"Al presionar SELECT se\n
-reiniciaran los ajustes.\n
+reiniciarán los ajustes.\n
 "
-0x261,"Los controles estan\n
+0x261,"Los controles están\n
 en conflicto!\n
 "
 0x262,"Puedes ver los datos de todos\n
@@ -50,7 +50,7 @@ los enemigos derrotados.\n
 0x263,"Puedes ver los datos de todos\n
 los muebles conseguidos.\n
 "
-0x264,"Puedes escuchar la musica y\n
+0x264,"Puedes escuchar la música y\n
 los efectos de sonido.\n
 "
 0x265," fue usado\n
@@ -58,19 +58,19 @@ los efectos de sonido.\n
 0x266,"Alzaste el Brazalete de Maxim.\n
 "
 0x267,"Una gran masa de agua\n
-se dreno en algun lugar.\n
+se drenó en algún lugar.\n
 "
 0x268,"Iniciar partida.\n
 "
 0x269,"Cambiar nombre.\n
 "
-0x26A,"Cambiar ubicacion de la partida.\n
+0x26A,"Cambiar ubicación de la partida.\n
 "
 0x26B,"Borrar datos.\n
 "
 0x26C,"Selecciona los datos a copiar.\n
 "
-0x26D,"Selecciona ubicacion para copiar.\n
+0x26D,"Selecciona ubicación para copiar.\n
 "
 0x26E,"Selecciona los datos a borrar.\n
 "
@@ -80,42 +80,42 @@ se dreno en algun lugar.\n
 "
 0x271,"Selecciona los datos a cambiar.\n
 "
-0x272,"Esta cerrado.\n
+0x272,"Está cerrado.\n
 "
-0x273,"Esta sellado.\n
+0x273,"Está sellado.\n
 "
-0x274,"Esta cerrado con magia. \n
+0x274,"Está cerrado con magia. \n
 "
-0x275,"objeto magico \n
+0x275,"objeto mágico \n
 "
 0x276,"arma \n
 "
-0x277,"pergamino magico \n
+0x277,"pergamino mágico \n
 "
 0x278,"Obtenido \n
 "
-0x279,"Puedes escuchar la musica\n
+0x279,"Puedes escuchar la música\n
 usada en el juego.\n
 "
 0x27A,"Puedes escuchar los efectos\n
 de sonido usados en el juego.\n
 "
 0x27B,   
-0x27C,"Se abrio un pasadizo en algun lugar.\n
+0x27C,"Se abrió un pasadizo en algún lugar.\n
 "
-0x27D,"Los restos de Dracula brillan.\n
+0x27D,"Los restos de Drácula brillan.\n
 "
-0x27E,"No es posible guardar rapido\n
+0x27E,"No es posible guardar rápido\n
 en este momento.\n
 "
-0x27F,"Se oyen maquinas moverse arriba.\n
+0x27F,"Se oyen máquinas moverse arriba.\n
 "
 0x280,Mercader
 0x281,"{PORTRAIT 0x0000}{NAME 0x0280}
 Bienvenido.\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
-Que?!\n
-Por que tienes una tienda\n
+Qué?!\n
+Por qué tienes una tienda\n
 en un lugar como este?\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0000}{NAME 0x0280}
 Bueno, siendo el mercader\n
@@ -124,26 +124,26 @@ durante mis viajes...\n
 {WAITINPUT}{SAMECHAR}
 de repente fui tragado\n
 por una densa niebla... y\n
-termine aqui.\n
+terminé aquí.\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
-Aun asi, no hace falta que\n
+Aun así, no hace falta que\n
 pongas una tienda\n
 en un lugar como este...\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0000}{NAME 0x0280}
-Al principio, pase un rato\n
+Al principio, pasé un rato\n
 buscando una salida.\n
-No encontre ninguna, asi que...\n
+No encontré ninguna, así que...\n
 {WAITINPUT}{SAMECHAR}
 sin otras opciones,\n
-abri mi negocio\n
-justo aqui...\n
+abrí mi negocio\n
+justo aquí...\n
 {WAITINPUT}{SAMECHAR}
-Entonces, en que puedo ayudarte?\n
+Entonces, en qué puedo ayudarte?\n
 {WAITINPUT}{NEWCHAR}"
 0x282,"{PORTRAIT 0x0000}{NAME 0x0280}
 Nos volvemos a ver. Me alegra\n
 verte con buen aspecto.\n
-En que puedo ayudarte?\n
+En qué puedo ayudarte?\n
 {WAITINPUT}{NEWCHAR}"
 0x283,"{PORTRAIT 0x0000}{NAME 0x0280}
 Oh? Olvidaste\n
@@ -159,23 +159,23 @@ puedo darte monedas a cambio.\n
 conmigo?\n
 "
 0x287,"{PORTRAIT 0x0001}{NAME 0x0000}
-Vaya, que buena habitacion.\n
+Vaya, qué buena habitación.\n
 Le falta algo de estilo.\n
 Tal vez algunos muebles...\n
 {WAITINPUT}{SAMECHAR}
-Bien, creo que probare\n
+Bien, creo que probaré\n
 poner esto justo\n
-aqui!\n
+aquí!\n
 {WAITINPUT}{NEWCHAR}"
 0x288,"{PORTRAIT 0x0001}{NAME 0x0000}
-Vaya, que buena habitacion.\n
+Vaya, qué buena habitación.\n
 Le falta algo de estilo.\n
 Tal vez algunos muebles...\n
 {WAITINPUT}{NEWCHAR}"
 0x289,"Colocando muebles\n
 "
 0x28A,"{PORTRAIT 0x0001}{NAME 0x0000}
-Por alguna razon, las cosas\n
+Por alguna razón, las cosas\n
 se ven un poco diferentes\n
 de como eran antes...\n
 {WAITINPUT}{NEWCHAR}"
@@ -185,6 +185,6 @@ donde estuve, pero el aura\n
 ha cambiado.\n
 {WAITINPUT}{SAMECHAR}
 Ya veo. Esto es a lo que\n
-se referia Muerte cuando dijo\n
-que habia dos castillos.\n
+se refería Muerte cuando dijo\n
+que había dos castillos.\n
 {WAITINPUT}{NEWCHAR}"
