@@ -6,6 +6,8 @@ Parche de traducción del videojuego Castlevania: Harmony of Dissonance al espa�
 
 El parche solo altera los textos, no cambia gráficos por lo que textos que haya en forma de imágenes se mantienen. Esto se ha hecho así para que la traducción pueda combinarse con otros parches de mejora visual.
 
+- Se han agregado algunas descripciones que ayudan más al jugador en llaves y pistas.
+
 ## ¿Cómo aplicar el parche?
 
 - Disponer de una (ROM) USA de Castlevania: Harmony of Dissonance. 

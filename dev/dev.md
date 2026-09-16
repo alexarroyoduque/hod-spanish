@@ -9,13 +9,13 @@ La implementación actual funciona correctamente en las pruebas realizadas. Este
 ```text
 dev.md
 text.rb
-hod_spanish_chars_v9.ips
-hod_spanish_chars_mapping_v9.txt
+hod_spanish_chars.ips
+hod_spanish_chars_mapping.txt
 ```
 
 - `text.rb`: modifica `DSVEdit/dsvlib/text.rb` para codificar y decodificar los caracteres españoles.
-- `hod_spanish_chars_v9.ips`: modifica las fuentes de HoD y el mínimo necesario de la ruta de renderizado de menús.
-- `hod_spanish_chars_mapping_v9.txt`: referencia exacta de códigos y offsets. Debe considerarse la fuente de verdad del mapeo.
+- `hod_spanish_chars.ips`: modifica las fuentes de HoD y el mínimo necesario de la ruta de renderizado de menús.
+- `hod_spanish_chars_mapping.txt`: referencia exacta de códigos y offsets. Debe considerarse la fuente de verdad del mapeo.
 
 Los tres archivos técnicos deben mantenerse sincronizados.
 
@@ -33,7 +33,7 @@ Conservar siempre una copia limpia.
 ## Instalación
 
 1. Hacer copia de seguridad de `DSVEdit/dsvlib/text.rb` y sustituirlo por el `text.rb` de esta carpeta.
-2. Aplicar `hod_spanish_chars_v9.ips` a la ROM compatible.
+2. Aplicar `hod_spanish_chars.ips` a la ROM compatible.
 3. Abrir la ROM con DSVEdit y comprobar los caracteres dentro del juego.
 
 DSVEdit debe permitir escribir directamente, sin `{RAW ...}`:
@@ -61,7 +61,7 @@ La **fuente pequeña de menús** se modifica deliberadamente lo mínimo posible:
 
 `Á É Í Ú ü Ñ ¿ ¡` no se añaden a la fuente pequeña porque no son necesarios en los nombres de objetos previstos. Evitar esos cambios reduce el riesgo de afectar símbolos o comportamientos originales.
 
-Las asignaciones concretas están en `hod_spanish_chars_mapping_v9.txt`.
+Las asignaciones concretas están en `hod_spanish_chars_mapping.txt`.
 
 ## Cómo funciona
 
@@ -178,7 +178,7 @@ Criterios:
 5. El índice vacío/fallback debe permanecer intacto.
 6. `text.rb`, la fuente grande y, cuando aplique, la fuente pequeña deben compartir exactamente el mismo mapeo.
 
-Consultar siempre `hod_spanish_chars_mapping_v9.txt` para las asignaciones finales.
+Consultar siempre `hod_spanish_chars_mapping.txt` para las asignaciones finales.
 
 ## Añadir un carácter en el futuro
 
@@ -279,7 +279,7 @@ Se recomienda conservar estos créditos y referencias en cualquier redistribuci�
 2. El IPS contiene los glifos y el pequeño ajuste del renderizador
    necesario para los caracteres de menú.
 
-3. hod_spanish_chars_mapping_v9.txt mantiene ambas partes sincronizadas.
+3. hod_spanish_chars_mapping.txt mantiene ambas partes sincronizadas.
 ```
 
 Mantener intacto el fallback del menú, no ampliar la fuente pequeña sin necesidad y volver a comprobar compatibilidad cuando exista el parche completo de traducción.
