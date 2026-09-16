@@ -14,260 +14,270 @@
 "
 0x0FE,"Contrarresta el veneno.\n
 "
-0x0FF,"Contrarresta maldiciones.\n
+0x0FF,"Contrarresta las maldiciones.\n
 "
-0x100,"Contiene medicina que otorga\n
-invencibilidad temporal.\n
+0x100,"Medicina que te hace invencible\n
+por tiempo limitado.\n
 "
-0x101,"Abre la puerta con brillo\n
-arcoíris.\n
+0x101,"Abre las puertas con brillo\n
+arcoiris.\n
 "
-0x102,"Abre puertas calavera (verdes).\n
+0x102,"Abre puertas con diseño de\n
+calavera verdes.\n
 "
-0x103,"Entra la cruz del león en la cueva.\n
+0x103,"Úsala en la cabeza\n
+de león de las cuevas.\n
 "
-0x104,"Contiene parte del plano\n
-del castillo.\n
+0x104,"Contiene una parte del\n
+plano del castillo.\n
 "
-0x105,"Contiene parte del plano\n
-del castillo.\n
+0x105,"Contiene una parte del\n
+plano del castillo.\n
 "
-0x106,"Contiene parte del plano\n
-del castillo.\n
+0x106,"Contiene una parte del\n
+plano del castillo.\n
 "
-0x107,"Drena las cuevas en la\n
-cabeza de león con la llave\n
+0x107,"Drena las cuevas en la cabeza\n
+de león con la llave.\n
 "
-0x108,"La diosa del acueducto\n
-indica un pasaje secreto.\n
+0x108,"Los ojos de la diosa señalan un\n
+pasadizo secreto en el acueducto.\n
 "
-0x109,"Arrodíllate ante la puerta\n
-redonda para ir a otro lugar.\n
+0x109,"Mira hacia arriba para cambiar de capa\n
+y hacia abajo para regresar.\n
 "
-0x10A,"Algunos hechizos se lanzan\n
+0x10A,"Algunos hechizos se pueden lanzar\n
 varias veces.\n
 "
-0x10B,"Dicen que hay un libro que\n
-invoca monstruos.\n
+0x10B,"Dicen que el libro negro tiene el\n
+poder de invocar monstruos.\n
 "
-0x10C,"El libro rojo y la Daga\n
-comparten un secreto.\n
+0x10C,"El libro rojo y el cuchillo comparten\n
+un secreto.\n
 "
-0x10D,"No se puede ver de noche.\n
+0x10D,"Se oculta en la noche, brilla mucho.\n
 "
-0x10E,"Una joya blanca.\n
+0x10E,"Una gema blanca.\n
 "
-0x10F,"Una joya azul verdoso.\n
+0x10F,"Una gema azul verdosa.\n
 "
-0x110,"Una valiosa joya azul.\n
+0x110,"Una valiosa gema azul.\n
 "
-0x111,"Una valiosa joya roja.\n
+0x111,"Una valiosa gema roja.\n
 "
-0x112,"Una joya de gran valor.\n
+0x112,"Una gema muy valiosa.\n
 "
-0x113,"Al mantener ATTACK, un\n
-ataque cargado rompe muros.\n
+0x113,"Al mantener pulsado ATAQUE, el ataque\n
+cargado puede romper algunos muros.\n
 "
-0x114,"Agrega una bola de acero\n
-a la punta del latigo.\n
+0x114,"Añade una bola de acero\n
+a la punta del látigo.\n
 "
-0x115,"Agrega una bola de platino\n
-a la punta del latigo.\n
+0x115,"Añade una bola de platino\n
+a la punta del látigo.\n
 "
-0x116,"Mantener ATTACK hace girar\n
-el latigo del usuario.\n
+0x116,"Mantener pulsado ATAQUE hace girar el\n
+látigo alrededor del usuario.\n
 "
-0x117,"Dispara balas desde el\n
-latigo solo con HP al máximo.\n
+0x117,"Lanza balas desde la punta del látigo\n
+solo con el HP al máximo.\n
 "
-0x118,"Agrega fuego a los ataques del latigo.\n
+0x118,"Añade fuego a los\n
+ataques con el látigo.\n
 "
-0x119,"Agrega hielo a los ataques del latigo.\n
+0x119,"Añade hielo a los\n
+ataques con el látigo.\n
 "
-0x11A,"Agrega rayo a los ataques del latigo.\n
+0x11A,"Añade trueno a los\n
+ataques con el látigo.\n
 "
-0x11B,"Agrega viento a los ataques del latigo.\n
+0x11B,"Añade viento a los\n
+ataques con el látigo.\n
 "
-0x11C,"Armadura fácil de mover,\n
-hecha de piel curtida.\n
+0x11C,"Armadura ligera hecha\n
+de cuero curtido.\n
 "
-0x11D,"Armadura hecha de un\n
-material suave como goma.\n
+0x11D,"Placa hecha de un material blando\n
+parecido a la goma.\n
 "
-0x11E,"Armadura tejida con hierba.\n
-Sorprendentemente resistente.\n
+0x11E,"Tejida con largas briznas de hierba.\n
+Sorprendentemente fuerte.\n
 "
-0x11F,"Larga armadura de metal que\n
-protege sobre las rodillas.\n
+0x11F,"Larga cota de metal que protege por\n
+encima de las rodillas.\n
 "
 0x120,"Armadura hecha de tela.\n
 "
 0x121,"Armadura hecha de bronce.\n
 "
-0x122,"Armadura de cuero en capas,\n
-endurecida con cera.\n
+0x122,"Cuero en capas,\n
+endurecido con cera.\n
 "
-0x123,"Armadura de tela tratada\n
-con un líquido especial.\n
+0x123,"Tela tratada con un\n
+líquido especial.\n
 "
-0x124,"Armadura de cuero con\n
-piezas de metal cosidas.\n
+0x124,"Cuero con piezas de\n
+metal cosidas.\n
 "
-0x125,"Un abrigo elegante.\n
+0x125,"Un abrigo a la moda.\n
 "
-0x126,"Armadura muy vistosa.\n
-A algunos les gusta.\n
+0x126,"Armadura muy vistosa. A algunos les\n
+resulta atractiva.\n
 "
-0x127,"Armadura de malla de cadenas.\n
+0x127,"Armadura hecha con malla de cadenas.\n
 "
-0x128,"Armadura hecha de escamas\n
-de metal en capas.\n
+0x128,"Armadura con capas de\n
+escamas de metal.\n
 "
-0x129,"Al estar quieto, esta armadura\n
-restaura HP lentamente.\n
+0x129,"Al quedarse quieto, restaura el HP\n
+lentamente.\n
 "
-0x12A,"El cuerpo de Armadura Guarda.\n
+0x12A,"El cuerpo de la Coraza Guarda.\n
 "
 0x12B,"Armadura con alta\n
 resistencia al fuego.\n
 "
-0x12C,"Armadura hecha de una\n
-mezcla de madera y metal.\n
+0x12C,"Hecha combinando\n
+madera y metal.\n
 "
-0x12D,"Cuenta la leyenda que dioses\n
-antiguos vistieron esta armadura.\n
+0x12D,"Cuenta la leyenda que la usaron\n
+antiguos dioses.\n
 "
-0x12E,"Esta armadura se ve muy pesada.\n
+0x12E,"Esta armadura parece muy pesada.\n
 "
-0x12F,"Armadura hecha enteramente de\n
-metal. Extremadamente pesada.\n
+0x12F,"Hecha enteramente de metal, por lo que\n
+es muy pesada.\n
 "
 0x130,"Armadura de doble capa.\n
 "
-0x131,"Armadura afectada por el Sol.\n
+0x131,"Armadura influida por el Sol.\n
 "
-0x132,"Armadura afectada por la Luna.\n
+0x132,"Armadura influida por la Luna.\n
 "
-0x133,"Armadura hecha para moverse\n
-con facilidad en batalla.\n
+0x133,"Diseñada para moverse con facilidad en\n
+combate.\n
 "
-0x134,"Esta armadura restaura HP\n
-cuando el usuario se mueve.\n
+0x134,"Restaura el HP de su\n
+usuario al moverse.\n
 "
 0x135,"Armadura forjada en plata.\n
 "
-0x136,"Armadura hecha de un material\n
-que ningún alquimista entiende.\n
+0x136,"Hecha de un material que los\n
+alquimistas modernos no comprenden.\n
 "
-0x137,"Esta armadura afecta el espíritu.\n
+0x137,"Afecta al espíritu de su usuario.\n
 Reduce el consumo de MP.\n
 "
-0x138,"Se dice que la usaron emperadores.\n
+0x138,"Se dice que la vistieron\n
+emperadores.\n
 "
-0x139,"Ropa que usa la gente de ciudad.\n
+0x139,"Ropa que suele vestir gente de ciudad.\n
 "
-0x13A,"Prendas finas, muy cómodas\n
-en climas calurosos.\n
+0x13A,"Prendas finas muy cómodas en climas\n
+cálidos.\n
 "
-0x13B,"Algo informal, pero le queda\n
-elegante a algunos.\n
+0x13B,"Algo informal, pero queda elegante en\n
+algunas personas.\n
 "
-0x13C,"Túnica de tela fina, ligera\n
+0x13C,"Hecha de trozos de tela fina, ligera\n
 como una pluma.\n
 "
 0x13D,"Ropa bellamente bordada.\n
 "
-0x13E,"Pensada para esquivar\n
-ataques con facilidad.\n
+0x13E,"Diseñada para esquivar ataques con\n
+facilidad.\n
 "
-0x13F,"Parece un abrigo normal, pero\n
-tiene metal tejido en su interior.\n
+0x13F,"Parece un abrigo normal, pero tiene\n
+metal entretejido.\n
 "
 0x140,"Túnica con alta resistencia al hielo.\n
 "
-0x141,"Una elegante túnica para nobles.\n
+0x141,"Una túnica elegante\n
+propia de la nobleza.\n
 "
-0x142,"Túnica con poderes ocultos.\n
-Aumenta el INT del usuario.\n
+0x142,"Túnica con extraños poderes ocultos.\n
+Aumenta el INT.\n
 "
-0x143,"Túnica con resistencia al rayo.\n
+0x143,"Túnica con alta\n
+resistencia al trueno.\n
 "
-0x144,"Ropa de batalla. Refuerza\n
-ciertas zonas para más protección.\n
+0x144,"Ropa de batalla. Algunas zonas están\n
+reforzadas.\n
 "
-0x145,"Se dice que la uso un\n
-gran sabio en el pasado.\n
+0x145,"Se dice que la usó un gran sabio en el\n
+pasado.\n
 "
-0x146,"Juste le tomo aprecio a este\n
-brazalete y siempre lo usa.\n
+0x146,"Juste le ha tomado cariño y siempre lo\n
+lleva puesto.\n
 "
-0x147,"Permite ver en la oscuridad\n
-hasta cierto punto.\n
+0x147,"Permite ver algo en\n
+la oscuridad.\n
 "
-0x148,"Recuerdo de Maxim\n
-, abre puerta ámbar.\n
+0x148,"Recuerdo de Maxim, abre puerta\n
+ámbar y algo más combinado con JB.\n
 "
-0x149,"Con HIGH JUMP, es posible\n
+0x149,"Con GRAN SALTO se pueden\n
 romper algunos techos.\n
 "
 0x14A,"Una bandana con estilo.\n
 "
-0x14B,"Los turbantes triunfan en\n
-zonas de clima cálido.\n
+0x14B,"Los turbantes son muy populares\n
+en zonas cálidas.\n
 "
-0x14C,"Una diadema simple.\n
+0x14C,"Una diadema sencilla.\n
 "
-0x14D,"Un sombrero hecho de cuero.\n
+0x14D,"Un gorro hecho de cuero.\n
 "
-0x14E,"Un casco hecho de tela\n
-muy endurecida.\n
+0x14E,"Casco de tela muy\n
+endurecida.\n
 "
 0x14F,"Un casco hecho de cuero.\n
 "
-0x150,"Un casco con medallas\n
-fuertes en su estructura.\n
+0x150,"Casco con fuertes medallas en su\n
+estructura.\n
 "
-0x151,"Casco de metal que protege\n
-la parte alta de la cabeza.\n
+0x151,"Casco de metal que protege la parte\n
+superior de la cabeza.\n
 "
-0x152,"Un casco de estilo corintio.\n
+0x152,"Un yelmo de estilo corintio.\n
 "
-0x153,"Protege el rostro del usuario.\n
+0x153,"Diseñado para\n
+proteger la cara.\n
 "
 0x154,"Un casco de tierras lejanas.\n
 "
-0x155,"Un casco tejido con finas\n
-tiras de metal.\n
+0x155,"Casco tejido con\n
+finas tiras de metal.\n
 "
-0x156,"Un casco con una\n
-protector facial incluido.\n
+0x156,"Casco con un protector de\n
+cara adjunto.\n
 "
-0x157,"La cabeza de Armadura Guarda.\n
+0x157,"La cabeza de la Coraza Guarda.\n
 "
-0x158,"Un casco pensado para proteger\n
-la nuca del usuario.\n
+0x158,"Diseñado para proteger la nuca del\n
+usuario.\n
 "
-0x159,"Un casco de malla de cadenas.\n
+0x159,"Casco hecho con malla de cadenas.\n
 "
-0x15A,"Con este sombrero luces elegante.\n
+0x15A,"Otorga un aspecto elegante.\n
 "
 0x15B,"Un casco con forma de tubo.\n
 "
-0x15C,"Un casco con protector\n
-de nuca incluido.\n
+0x15C,"Casco con un protector de cuello\n
+adjunto.\n
 "
-0x15D,"Un casco con forma de olla.\n
+0x15D,"Un casco con forma de caldero.\n
 "
 0x15E,"Un casco hecho de hierro.\n
 "
-0x15F,"Un casco que cubre la cabeza\n
+0x15F,"Cubre desde la cabeza entera\n
 hasta el cuello.\n
 "
-0x160,"Casco con orejeras. Reduce\n
-la audición del usuario.\n
+0x160,"Tiene protectores de oído. Reduce la\n
+audición al llevarlo.\n
 "
-0x161,"Un casco con forma de olla\n
-puesta al revés.\n
+0x161,"Un casco con forma\n
+de olla invertida.\n
 "
 0x162,"Una tiara hecha de plata.\n
 "
@@ -275,282 +285,292 @@ puesta al revés.\n
 "
 0x164,"Un casco usado por los vikingos.\n
 "
-0x165,"Una cinta hecha de oro.\n
+0x165,"Aro de oro para la cabeza.\n
 "
-0x166,"Una corona hecha de platino.\n
+0x166,"Corona hecha de platino.\n
 "
-0x167,"Un sombrero carmesí semi formal.\n
+0x167,"Sombrero casual de seda carmesí.\n
 "
-0x168,"Guantes de cuero. Abrigan.\n
+0x168,"Guantes de cuero. Abrigan bien.\n
 "
-0x169,"Los guanteletes protegen las manos.\n
+0x169,"Guanteletes de protección\n
+para las manos.\n
 "
-0x16A,"Un guante acolchado que\n
+0x16A,"Guante acolchado que\n
 protege las manos.\n
 "
 0x16B,"Guantes de cuero endurecido.\n
 "
-0x16C,"El brazo de Armadura Guarda.\n
+0x16C,"El brazo de la Coraza Guarda.\n
 "
-0x16D,"Buena protección para el brazo,\n
-pero sudan un poco.\n
+0x16D,"Buena protección para todo el brazo,\n
+aunque hace sudar un poco.\n
 "
-0x16E,"Armadura de brazo hecha\n
-enteramente de metal.\n
+0x16E,"Armadura de brazo hecha completamente\n
+de metal.\n
 "
-0x16F,"Un guante empapado de sangre.\n
+0x16F,"Un guante empapado de mucha sangre.\n
 "
 0x170,"Un guante hecho de acero.\n
 "
-0x171,"Botas de cuero. Muy cómodas.\n
+0x171,"Botas de cuero. Son\n
+muy cómodas.\n
 "
-0x172,"Calzado protector de cuero.\n
-También protege las espinillas.\n
+0x172,"Calzado protector de cuero. También\n
+cubre las espinillas.\n
 "
-0x173,"Zapatos pensados para\n
-proteger más los tobillos.\n
+0x173,"Diseñadas con protección\n
+extra para el tobillo.\n
 "
 0x174,"Botas hechas de bronce.\n
 "
-0x175,"Las piernas de Armadura Guarda.\n
+0x175,"Las piernas de la Coraza Guarda.\n
 "
-0x176,"Botas de hierro. Frías\n
-en época de invierno.\n
+0x176,"Botas de hierro. Son\n
+frías en invierno.\n
 "
-0x177,"Pantalones reforzados con\n
+0x177,"Pantalones reforzados\n
+con placas de metal.\n
+"
+0x178,"La parte delantera lleva refuerzos de\n
 placas de metal.\n
-"
-0x178,"El frente de estas botas está\n
-reforzado con placas de metal.\n
 "
 0x179,"Botas hechas de plata.\n
 "
-0x17A,"Botas que desafían las\n
-leyes de la gravedad.\n
+0x17A,"Botas que desafían las leyes de la\n
+gravedad.\n
 "
-0x17B,"Zapatos de platino.\n
-Extremadamente valiosos.\n
+0x17B,"Hechos de platino. Son\n
+Muy valiosos.\n
 "
-0x17C,"Estas botas permiten saltos infinitos.\n
+0x17C,"Estas botas permiten dar saltos\n
+de forma infinita.\n
 "
-0x17D,"Una capa de seda fina,\n
-extremadamente ligera.\n
+0x17D,"Capa de seda fina,\n
+muy ligera.\n
 "
 0x17E,"Una capa hecha de terciopelo.\n
 "
 0x17F,"Una capa verde brillante.\n
 "
-0x180,"Capa con alta resistencia al viento.\n
+0x180,"Capa con alta\n
+resistencia al viento.\n
 "
 0x181,"Una capa roja como la sangre.\n
 "
 0x182,"Capa de asesino del\n
-país dorado.\n
+país del oro.\n
 "
-0x183,"Capa negra que crea un aura\n
-de oscuridad en su portador.\n
+0x183,"Capa negra como el azabache que\n
+envuelve al usuario en sombras.\n
 "
-0x184,"Ofrece un excelente soporte.\n
+0x184,"Ofrece un excelente\n
+apoyo.\n
 "
-0x185,"Un protector de brazo.\n
+0x185,"Un protector de muñeca.\n
 "
-0x186,"Se dice que emperadores\n
-usaron este brazalete.\n
+0x186,"Se dice que la\n
+usaron emperadores.\n
 "
-0x187,"Una argolla hecha de plata.\n
+0x187,"Un brazalete hecho de plata.\n
 "
-0x188,"Este brazalete tiene\n
-grabado algún tipo de blasón.\n
+0x188,"Tiene grabado algún\n
+tipo de blasón.\n
 "
-0x189,"El amuleto que se compra\n
-en cualquier lugar.\n
+0x189,"Un amuleto que se puede comprar en\n
+cualquier sitio.\n
 "
-0x18A,"Aumenta el LCK del usuario.\n
-No está permitido mirar dentro.\n
+0x18A,"Aumenta el LCK (SUERTE) del usuario.\n
+No se puede ver su interior.\n
 "
-0x18B,"Un collar de oro.\n
-Algo llamativo.\n
+0x18B,"Collar hecho de oro. Es un poco\n
+llamativo.\n
 "
-0x18C,"Este collar mágico vuelve\n
-más sabio a su usuario.\n
+0x18C,"Este collar mágico vuelve más sabio a\n
+su usuario.\n
 "
-0x18D,"Este colgante aumenta la\n
-resistencia a la petrificación.\n
+0x18D,"Aumenta la resistencia a la\n
+petrificación.\n
 "
-0x18E,"Collar con forma de corazón.\n
-Aumenta la aparición de\n
-CORAZONES GRANDES.\n
+0x18E,"Collar con forma de corazón. Aumenta\n
+la aparición de CORAZONES GRANDES.\n
 "
-0x18F,"Este amuleto aumenta la\n
-suerte al encontrar dinero.\n
+0x18F,"Aumenta la suerte de su usuario para\n
+encontrar dinero.\n
 "
-0x190,"Este broche vuelve\n
-más sabio a su usuario.\n
+0x190,"Este broche vuelve mucho más sabio\n
+a su usuario.\n
 "
-0x191,"Acelera la velocidad de\n
+0x191,"Acelera la\n
 recuperación de MP.\n
 "
-0x192,"Este colgante aumenta la\n
+0x192,"Aumenta la\n
 resistencia al veneno.\n
 "
-0x193,"Aumenta el LCK del usuario.\n
+0x193,"Aumenta LCK(SUERTE) del usuario.\n
 "
-0x194,"El poder sagrado de este anillo\n
-evita que le lancen maldiciones.\n
+0x194,"Sus poderes sagrados dificultan\n
+sufrir maldiciones.\n
 "
-0x195,"Aumenta la aparición de\n
-objetos raros.\n
+0x195,"Aumenta la aparición\n
+de objetos raros.\n
 "
-0x196,"Aumenta la fuerza del Agua Bendita.\n
+0x196,"Aumenta la fuerza\n
+del Agua Bendita.\n
 "
-0x197,"Aumenta la fuerza de la Cruz.\n
+0x197,"Aumenta la fuerza\n
+de la Cruz.\n
 "
-0x198,"Aumenta la fuerza del Cuchillo.\n
+0x198,"Aumenta la fuerza\n
+del Cuchillo.\n
 "
 0x199,"Aumenta la fuerza del Hacha.\n
 "
-0x19A,"Aumenta la fuerza del Golpe Sagrado.\n
+0x19A,"Aumenta la fuerza\n
+del Puño Sagrado.\n
 "
-0x19B,"Aumenta la fuerza del Libro Sagrado.\n
+0x19B,"Aumenta la fuerza\n
+del Libro Sagrado.\n
 "
-0x19C,"Combinado con un arma secundaria,\n
-lanza muchos hechizos de fuego.\n
+0x19C,"Combinado con una subarma, permite\n
+lanzar hechizos de fuego.\n
 "
-0x19D,"Combinado con un arma secundaria,\n
-lanza muchos hechizos de hielo.\n
+0x19D,"Combinado con una subarma, permite\n
+lanzar hechizos de hielo.\n
 "
-0x19E,"Combinado con un arma secundaria,\n
-lanza muchos hechizos de rayo.\n
+0x19E,"Combinado con una subarma, permite\n
+lanzar hechizos de trueno.\n
 "
-0x19F,"Combinado con un arma secundaria,\n
-lanza muchos hechizos de viento.\n
+0x19F,"Combinado con una subarma, permite\n
+lanzar hechizos de viento.\n
 "
-0x1A0,"Combinado con un arma secundaria,\n
-invoca muchos monstruos.\n
+0x1A0,"Combinado con una subarma, permite\n
+invocar monstruos.\n
 "
-0x1A1,"Presiona DOWN + JUMP para SLIDE.\n
+0x1A1,"Al pulsar ABAJO + SALTO, el usuario\n
+puede DESLIZARSE.\n
 "
-0x1A2,"En el aire, puedes hacer un\n
-JUMP adicional.\n
+0x1A2,"En el aire, el usuario puede dar un\n
+SALTO adicional.\n
 "
-0x1A3,"Presiona DOWN/UP + JUMP para\n
-hacer un HIGH JUMP.\n
+0x1A3,"Al pulsar ABAJO/ARRIBA + SALTO,\n
+se puede dar un GRAN SALTO.\n
 "
-0x1A4,"Permite ver cuánto daño ha\n
-recibido un enemigo.\n
+0x1A4,"Permite ver cuánto daño ha recibido un\n
+enemigo.\n
 "
-0x1A5,"Permite ver los nombres\n
-de sus enemigos.\n
+0x1A5,"Permite conocer el nombre de sus\n
+enemigos.\n
 "
-0x1A6,"Permite ver los datos de\n
-monstruos ya encontrados.\n
+0x1A6,"Permite ver los datos de los monstruos\n
+que ha encontrado.\n
 "
-0x1A7,"Resto del cuerpo de Drácula.\n
-Tiene el poder de anular maldiciones.\n
+0x1A7,"Uno de los restos de Drácula. Anula\n
+maldiciones.\n
 "
-0x1A8,"Resto del cuerpo de Drácula.\n
-Anula la petrificación.\n
+0x1A8,"Uno de los restos de Drácula. Anula la\n
+petrificación.\n
 "
-0x1A9,"Resto del cuerpo de Drácula.\n
-Anula el veneno.\n
+0x1A9,"Uno de los restos de Drácula. Anula el\n
+veneno.\n
 "
-0x1AA,"Resto del cuerpo de Drácula.\n
-Aumenta el STR.\n
+0x1AA,"Uno de los restos de Drácula. Aumenta\n
+el STR (FUERZA).\n
 "
-0x1AB,"Resto del cuerpo de Drácula.\n
-Aumenta el DEF.\n
+0x1AB,"Uno de los restos de Drácula. Aumenta\n
+el DEF.\n
 "
-0x1AC,"Pertenencia de Drácula.\n
-Aumenta el LCK.\n
+0x1AC,"Una de las pertenencias de Drácula.\n
+Aumenta el LCK (SUERTE).\n
 "
-0x1AD,"Se dice que lo uso la realeza.\n
-Tiene una historia interesante.\n
+0x1AD,"Se dice que lo usó la realeza. Tiene\n
+una historia interesante.\n
 "
-0x1AE,"Comprado el día que nació tu\n
-abuelo. Aún marca la hora exacta.\n
+0x1AE,"Comprado la mañana que nació su\n
+abuelo. Aún da la hora exacta.\n
 "
-0x1AF,"Una estantería muy resistente.\n
-Y a prueba de terremotos.\n
+0x1AF,"Una estantería muy resistente. Aguanta\n
+terremotos.\n
 "
-0x1B0,"Prototipo de radio recibido\n
-del gran inventor en persona.\n
+0x1B0,"Prototipo de radio recibido del propio\n
+gran inventor.\n
 "
-0x1B1,"Esta vajilla de plata\n
-irradia elegancia.\n
+0x1B1,"Esta vajilla de plata pura irradia\n
+elegancia.\n
 "
-0x1B2,"Tallado en un cedro\n
-milenario.\n
+0x1B2,"Hecha con un cedro\n
+de 1000 años.\n
 "
-0x1B3,"Una silla de madera muy bien hecha.\n
+0x1B3,"Una silla de madera de excelente\n
+factura.\n
 "
 0x1B4,"Esta relajante silla cruje\n
-suavemente al mecerse.\n
+con suavidad al mecerse.\n
 "
-0x1B5,"Hecho de finas sedas,\n
-suave al tacto.\n
+0x1B5,"Hecha con las mejores sedas, suave\n
+con tacto aterciopelado.\n
 "
-0x1B6,"Los objetos más valiosos son\n
-los difíciles de valorar.\n
+0x1B6,"Los objetos más valiosos son los que\n
+cuesta valorar.\n
 "
-0x1B7,"Mirar fijamente esta urna\n
-provoca estornudos.\n
+0x1B7,"Mirarla fijamente suele provocar\n
+estornudos.\n
 "
-0x1B8,"Un jarrón bonito lleno de\n
+0x1B8,"Un jarrón repleto de\n
 flores artificiales.\n
 "
-0x1B9,"Las mesas laterales dan un\n
-toque agradable a cualquier sala.\n
+0x1B9,"Da un toque agradable a cualquier\n
+habitación.\n
 "
-0x1BA,"Con un sorbo de té de esta\n
-taza, puedes unirte a nuestro clan.\n
+0x1BA,"Con un sorbo de té de esta taza,\n
+puedes unirte a nuestro clan.\n
 "
-0x1BB,"Tiene el poder de mejorar\n
-el sabor del té.\n
+0x1BB,"Hace que el té sepa mejor de lo que\n
+realmente es.\n
 "
-0x1BC,"Una hermosa copa de vino para\n
-veladas elegantes con amigos.\n
+0x1BC,"Bonita copa para veladas elegantes\n
+con amigos.\n
 "
-0x1BD,"Un héroe inmortalizado por siempre.\n
-Algún día, seré yo...\n
+0x1BD,"Un héroe inmortalizado para siempre.\n
+Algún día seré yo...\n
 "
-0x1BE,"Estatua de una diosa.\n
-Las diosas son hermosas, verdad?\n
+0x1BE,"Estatua de una diosa. Las diosas son\n
+muy bellas, no crees?\n
 "
-0x1BF,"Estatua de un anciano engreído.\n
+0x1BF,"Estatua de un anciano algo engreído.\n
 "
-0x1C0,"Una gran obra de arte hecha\n
-por un hábil artesano mapache.\n
+0x1C0,"Obra de arte de un artesano claramente\n
+hábil en figuras de mapaches.\n
 "
-0x1C1,"Una estatua que atrae dinero.\n
-Efectividad desconocida.\n
+0x1C1,"Estatua que ayuda a atraer dinero. No\n
+se sabe si es efectiva.\n
 "
-0x1C2,"Una máquina que emite sonido.\n
-El analógico es genial, no?\n
+0x1C2,"Máquina que emite sonido. Lo analógico\n
+es genial, verdad...\n
 "
-0x1C3,"Símbolo de los ricos.\n
-Siento que me observan.\n
+0x1C3,"Símbolo de los ricos. Siento que me\n
+observan.\n
 "
-0x1C4,"Una palmatoria de plata\n
-para veladas con amigos.\n
+0x1C4,"Candelero de plata para veladas\n
+elegantes con amigos.\n
 "
-0x1C5,"Una palmatoria de oro\n
-para veladas con amigos.\n
+0x1C5,"Candelero de oro para elegantes\n
+veladas con amigos.\n
 "
-0x1C6,"La inscripción dice que la\n
-luz de vela hace ver rica la comida.\n
+0x1C6,"La inscripción dice: la luz de\n
+las velas hace ver rica la comida.\n
 "
-0x1C7,"La inscripción dice que la\n
-luz de vela te hace más\n
-atractivo para tu pareja.\n
+0x1C7,"La inscripción dice: la luz de las\n
+velas hace que tu novia te quiera más.\n
 "
-0x1C8,"Si te asomas, sientes que\n
-alguien está ahí...\n
+0x1C8,"Al mirarlo sientes como si alguien\n
+estuviera ahí...\n
 "
-0x1C9,"Parece fuera de lugar en este castillo.\n
+0x1C9,"Parece un lugar fuera del castillo.\n
 "
-0x1CA,"Fabricado por la única marca\n
-de confianza en camas: FUTÓN.\n
+0x1CA,"Fabricada por la única marca de\n
+confianza en camas: FUTON.\n
 "
-0x1CB,"Para quienes tienen mucha ropa\n
-y poco espacio.\n
+0x1CB,"Olvídate de tener demasiada ropa y\n
+poco espacio.\n
 "

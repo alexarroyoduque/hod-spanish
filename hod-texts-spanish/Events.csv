@@ -1,310 +1,310 @@
-0x00A,"Ha pasado medio siglo desde\n
-qué Simon {NAMEINSERT 0x0006} venció\n
+0x00A,"Han pasado cincuenta años desde que\n
+Simon {NAMEINSERT 0x0006} venció\n
 la maldición de {NAMEINSERT 0x0007}.\n
 {WAITINPUT}{SAMECHAR}
-El destino ha dictado qué {NAMEINSERT 0x0000}\n
-{NAMEINSERT 0x0006}, descendiente de sangre\n
-de la familia {NAMEINSERT 0x0006}, debe\n
-recuperar las reliquias de {NAMEINSERT 0x0007}.\n
+El destino ha dispuesto que {NAMEINSERT 0x0000}\n
+{NAMEINSERT 0x0006}, descendiente directo\n
+de la familia {NAMEINSERT 0x0006}, busque\n
+las reliquias de {NAMEINSERT 0x0007}.\n
 {WAITINPUT}{SAMECHAR}
 Un día, el mejor amigo de {NAMEINSERT 0x0000},\n
-{NAMEINSERT 0x0001}, quien se fue a entrenar\n
-hace dos inviernos, volvió de\n
-repente... con el cuerpo\n
-cubierto de heridas.\n
+{NAMEINSERT 0x0001}, que había partido en un\n
+viaje de entrenamiento dos años\n
+antes, regresó inesperadamente...\n
+con el cuerpo cubierto de heridas.\n
 {WAITINPUT}{SAMECHAR}
-Le cuenta a {NAMEINSERT 0x0000} qué Lydie, una\n
-amiga de la infancia a quien\n
-ambos aprecian mucho, ha sido\n
+Le contó a {NAMEINSERT 0x0000} que Lydie,\n
+amiga de la infancia muy querida\n
+por ambos, había sido\n
 secuestrada.\n
-{WAITINPUT}{SAMECHAR}{NAMEINSERT 0x0001} perdió por completo\n
-la memoria de su entrenamiento\n
-lejos de casa, y solo tiene\n
-imágenes vagas del secuestro.\n
+{WAITINPUT}{SAMECHAR}{NAMEINSERT 0x0001} había perdido por completo\n
+los recuerdos de su entrenamiento\n
+lejos de casa, y solo conservaba\n
+vagas imágenes del secuestro.\n
 {WAITINPUT}{SAMECHAR}
 Ignorando sus heridas, {NAMEINSERT 0x0001}\n
-lleva a {NAMEINSERT 0x0000} al lugar dónde cree\n
-qué Lydie está cautiva.\n
+guió a {NAMEINSERT 0x0000} hasta el lugar donde\n
+creía que Lydie estaba cautiva.\n
 {WAITINPUT}{SAMECHAR}
-Atravesando una espesa niebla,\n
-los dos hombres hallan un castillo\n
-qué no aparece en ningún mapa.\n
-¿Será acaso el legendario\n
-castillo de {NAMEINSERT 0x0007}?\n
+Tras cruzar una espesa niebla,\n
+los dos hombres hallaron un castillo\n
+que no figuraba en ningún mapa.\n
+Podría ser el legendario castillo\n
+de {NAMEINSERT 0x0007}?\n
 {WAITINPUT}{SAMECHAR}
-De pie solemne en la noche,\n
-este temible castillo recibe a\n
-sus visitantes inesperados\n
-mientras brilla la luz de la luna...\n
+Erguido solemnemente en la noche,\n
+el siniestro castillo recibe a sus\n
+inesperados huéspedes bajo\n
+la luz de la luna...\n
 {WAITINPUT}{SAMECHAR}"
 0x00B,"{PORTRAIT 0x0001}{NAME 0x0000}
-Entonces de verdad crees qué\n
-{NAMEINSERT 0x0004} fue traída a este\n
+Así que de verdad crees que\n
+trajeron a {NAMEINSERT 0x0004} a este\n
 castillo...\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0002}{NAME 0x0001}
-Mi memoria falla, pero...\n
-este parece ser el lugar...\n
+Mi memoria me falla, pero...\n
+creo que este es el lugar...\n
 No me crees?\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
-Sé mejor qué nadie qué tú\n
-no eres de los qué\n
-mienten.\n
+Te conozco mejor que\n
+nadie y sé que tú no\n
+mentirías sobre esto.\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0002}{NAME 0x0001}{NAMEINSERT 0x0000}...\n
 {NEXTACTION}
-Aaargh!! \n
+Aaargh!!\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
 Estás bien?!\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0002}{NAME 0x0001}
-E− Estoy bien... es por\n
-{NAMEINSERT 0x0004} por quien\n
-deberías preocuparte, no por mí...\n
+E-estoy bien... Es {NAMEINSERT 0x0004}\n
+quien debe preocuparte,\n
+no yo...\n
 {WAITINPUT}{SAMECHAR}
 Sigue adelante!!\n
-Estaré justo detrás tuyo.\n
-Tienes mi palabra.\n
+Iré justo detrás de ti.\n
+Te doy mi palabra.\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
-Bien, entonces.\n
+De acuerdo.\n
 Nos vemos dentro!!\n
 {WAITINPUT}{NEWCHAR}"
 0x00C,"{PORTRAIT 0x0004}{NAME 0x0009}
 Alto!\n
-El color de tú alma...\n
-Debes ser un {NAMEINSERT 0x0006}...\n
+El color de tu alma...\n
+Debes de ser un {NAMEINSERT 0x0006}...\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
-Correcto. Este...\n
+Así es. Este...\n
 poder abrumador...\n
 {NAMEINSERT 0x0005}...?\n
 {WAITINPUT}{NEWCHAR}{NEXTACTION}{PORTRAIT 0x0004}{NAME 0x0009}
-Así es.\n
+En efecto.\n
 {NAME 0x0005}{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
-Lo qué significa qué este es,\n
-de hecho, el castillo de {NAMEINSERT 0x0007}...\n
+Entonces este es,\n
+en efecto, el castillo de {NAMEINSERT 0x0007}...\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0004}{NAME 0x0005}
-Podría ser cierto...\n
-aunque el poder qué hay\n
-aquí no es el de mi amo.\n
+Puede que así sea...\n
+pero el poder que hay\n
+aquí no es el de mi señor.\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
 Qué quieres decir?!\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0004}{NAME 0x0005}
-Debo irme ahora.\n
-Nos volveremos a ver,\n
-hijo de {NAMEINSERT 0x0006}...\n
+Debo irme.\n
+Volveremos a vernos,\n
+hijo de los {NAMEINSERT 0x0006}...\n
 {WAITINPUT}{NEWCHAR}{NEXTACTION}{COMMAND2 0x0000}{PORTRAIT 0x0001}{NAME 0x0000}
 Aaargh...\n
-Se... escapó...\n
+Se... ha escapado...\n
 {WAITINPUT}{NEWCHAR}"
 0x00D,"{PORTRAIT 0x0001}{NAME 0x0000}{NAMEINSERT 0x0001}!!\n
 Estás bien?\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0002}{NAME 0x0001}{NEXTACTION}
-Oh... eh... {NAMEINSERT 0x0000}, eres\n
-tú? Me alegra qué estes\n
+Oh... eh... {NAMEINSERT 0x0000}, eres tú?\n
+Me alegra que estés\n
 bien.\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
-Qué te pasa?\n
-Quedarte ahí cómo en trance...\n
-te deja vulnerable.\n
+Qué te ocurre?\n
+Quedarte ahí aturdido...\n
+te deja indefenso.\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0002}{NAME 0x0001}{NEXTACTION}
-Yo, eh... creo qué ya\n
-he estado en este\n
-castillo antes...\n
+Yo, eh... creo que ya\n
+he estado antes en\n
+este castillo...\n
 {WAITINPUT}{NEWCHAR}{NEXTACTION}{PORTRAIT 0x0001}{NAME 0x0000}
-Qué dijiste?\n
+Qué has dicho?\n
 {WAITINPUT}{NEWCHAR}{NEXTACTION}{PORTRAIT 0x0002}{NAME 0x0001}
 No lo recuerdo bien,\n
-pero creo qué he\n
-estado aquí antes...\n
+pero creo que ya he\n
+estado aquí...\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
-Tú memoria está\n
-volviendo?\n
+Te está volviendo\n
+la memoria?\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0002}{NAME 0x0001}
-Eso parece. Me he sentido\n
-raro desde qué llegué\n
-al castillo.\n
+Eso parece. Me siento\n
+extraño desde que\n
+llegamos al castillo.\n
 {WAITINPUT}{SAMECHAR}
-Si seguimos un poco\n
-más, tal vez pueda\n
-recordar algo.\n
+Si avanzamos un poco más,\n
+quizá consiga recordar\n
+algo.\n
 {WAITINPUT}{NEWCHAR}{NEXTACTION}{PORTRAIT 0x0001}{NAME 0x0000}
 Vamos!\n
 Vayamos juntos, {NAMEINSERT 0x0001}.\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0002}{NAME 0x0001}
-No, si vamos a encontrar\n
+No. Si queremos encontrar\n
 a {NAMEINSERT 0x0004}, debemos separarnos.\n
 Cubriremos más terreno.\n
 {WAITINPUT}{NEWCHAR}{NEXTACTION}{PORTRAIT 0x0001}{NAME 0x0000}
 Hmm...\n
-Si, tienes razón.\n
+Sí, tienes razón.\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0002}{NAME 0x0001}
-Cuídate, {NAMEINSERT 0x0000}. \n
+Ten cuidado, {NAMEINSERT 0x0000}.\n
 {WAITINPUT}{NEWCHAR}{NEXTACTION}{PORTRAIT 0x0001}{NAME 0x0000}
-Cuídate tú también,\n
+Tú también ten cuidado,\n
 {NAMEINSERT 0x0001}...\n
 {WAITINPUT}{NEWCHAR}{NEXTACTION}"
 0x00E,"{PORTRAIT 0x0003}{NAME 0x0001}{NAMEINSERT 0x0000}! Ahí estás!\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
-Qué paso, {NAMEINSERT 0x0001}?\n
-Encontraste a {NAMEINSERT 0x0004}?\n
+Qué te ocurre, {NAMEINSERT 0x0001}?\n
+Has encontrado a {NAMEINSERT 0x0004}?\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0003}{NAME 0x0001}
 Cómo te atreves a\n
-preguntar por {NAMEINSERT 0x0004}?\n
-Eres uno de sus captores?\n
+preguntar por {NAMEINSERT 0x0004}? Tú eres\n
+uno de sus captores, verdad?\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
-Qué? De qué diablos\n
+Eh? De qué demonios\n
 estás hablando?\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0003}{NAME 0x0001}
-Oh, nada... \n
+Oh, de nada...\n
 Olvídalo.\n
 {WAITINPUT}{SAMECHAR}
-No conozco el alcance de\n
-tú poder, {NAMEINSERT 0x0006}. Pero\n
-no dejaré qué la tengas.\n
+No sé hasta dónde llega\n
+tu poder, {NAMEINSERT 0x0006}. Pero\n
+no dejaré que te la lleves.\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
 Qué te ha pasado?\n
-No eres tú mismo\n
-de siempre!\n
+No pareces ser\n
+tú mismo!\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0003}{NAME 0x0001}
-Obtuve nuevos poderes\n
-para superar tú fuerza.\n
-Pero primero, la mujer...\n
+He obtenido poderes nuevos\n
+para superar tu fuerza.\n
+Pero antes, la mujer...\n
 {WAITINPUT}{SAMECHAR}
 Adiós!\n
-Qué te pudras dentro \n
-de los muros de este castillo.\n
+Púdrete entre los muros\n
+de este castillo.\n
 {WAITINPUT}{NEWCHAR}{NEXTACTION}{PORTRAIT 0x0001}{NAME 0x0000}
 Espera, {NAMEINSERT 0x0001}!\n
 {COMMAND2 0x0000}{WAITINPUT}{SAMECHAR}
 Era de verdad {NAMEINSERT 0x0001}?\n
-Me falla la vista \n
-y el oído?\n
+Me engañan los ojos\n
+y los oídos?\n
 {WAITINPUT}{NEWCHAR}"
 0x00F,"{PORTRAIT 0x0002}{NAME 0x0001}{NAMEINSERT 0x0000}!\n
-Encontraste a {NAMEINSERT 0x0004}?\n
+Has encontrado a {NAMEINSERT 0x0004}?\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
-Tú...eres {NAMEINSERT 0x0001},\n
+Tú... eres {NAMEINSERT 0x0001},\n
 verdad?\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0002}{NAME 0x0001}
-Oye! Qué quieres decir\n
+Eh! Qué quieres decir\n
 con eso?\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
 Eh, nada. Olvídalo.\n
-Dime, cómo te\n
-fue?\n
+Y tú, cómo te ha\n
+ido?\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0002}{NAME 0x0001}
 Aún no he encontrado nada.\n
-Pero mi memoria está\n
-volviendo poco a poco.\n
+Pero poco a poco me\n
+vuelve la memoria.\n
 {WAITINPUT}{NEWCHAR}{NEXTACTION}{PORTRAIT 0x0001}{NAME 0x0000}
-En serio? Entonces {NAMEINSERT 0x0004}\n
-está en algún lugar\n
-de este castillo despues de todo?\n
+De verdad? Entonces {NAMEINSERT 0x0004}\n
+sí está en algún lugar\n
+de este castillo?\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0002}{NAME 0x0001}
-Si, ahora estoy seguro.\n
-Y se qué yo también\n
+Sí, ahora estoy seguro.\n
+Y sé que yo también\n
 he estado aquí antes...\n
 {WAITINPUT}{SAMECHAR}
 ...\n
-Y hay algo qué\n
-creo qué deberías saber...\n
+Y hay algo que creo\n
+que deberías saber...\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
-Adelante, puedes decirme\n
-lo qué sea.\n
+Adelante, puedes contarme\n
+lo que sea.\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0002}{NAME 0x0001}
-El día qué heredaste el\n
-título de Cazador de Vampiros...\n
-sentí cómo si un muro \n
+El día que heredaste el\n
+título de Cazavampiros...\n
+sentí que se alzaba un muro\n
 {WAITINPUT}{SAMECHAR}
-se hubiera alzado entre\n
-nosotros... y por eso \n
-salí en mi expedición.\n
+entre nosotros...\n
+y por eso partí en\n
+mi viaje.\n
 {WAITINPUT}{SAMECHAR}
-Quise ser mejor \n
-qué tú y liberarte\n
-de tú destino.\n
+Quería superarte\n
+y librarte así\n
+de tu destino.\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
 ...\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0002}{NAME 0x0001}
-Hace tiempo, me hablaste de\n
-los restos de {NAMEINSERT 0x0007}. Lo \n
-recuerdas?\n
+Hace tiempo me hablaste\n
+de los restos de {NAMEINSERT 0x0007}.\n
+Lo recuerdas?\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
-Si, lo recuerdo.\n
+Sí, lo recuerdo.\n
 La historia de cómo mi\n
-abuelo, Simon, \n
+abuelo, Simon,\n
 {WAITINPUT}{SAMECHAR}
-reunió los restos de \n
-{NAMEINSERT 0x0007} y los destruyó\n
-para deshacer su maldición.\n
+reunió los restos de {NAMEINSERT 0x0007}\n
+y los destruyó para\n
+romper su maldición.\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0002}{NAME 0x0001}
-Pensé qué mis deseos se \n
-cumplirian si yo también \n
-pudiera reunirlos y destruirlos.\n
+Pensé que mis deseos\n
+se cumplirían si yo también\n
+los reunía y destruía.\n
 {WAITINPUT}{NEWCHAR}"
 0x010,"{PORTRAIT 0x0001}{NAME 0x0000}
-Qué?! \n
+Qué?!\n
 Los encontraste?!\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0002}{NAME 0x0001}
 Según la leyenda, aún es\n
-muy pronto para la \n
-resurrección de {NAMEINSERT 0x0007}.\n
+demasiado pronto para que\n
+{NAMEINSERT 0x0007} resucite.\n
 {WAITINPUT}{SAMECHAR}
-Además, nadie está \n
+Y tampoco hay nadie\n
 maldito ahora mismo.\n
 {WAITINPUT}{SAMECHAR}
-Al principio, dudaba \n
-poder encontrar todos \n
-sus restos...\n
+Al principio dudaba\n
+de que pudiera hallar\n
+todos sus restos...\n
 {WAITINPUT}{SAMECHAR}
-Pero descubrí seis \n
-partes, cómo si un ser\n
-superior me guiará...\n
+Pero encontré seis partes,\n
+como si un ser superior\n
+me guiara...\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
 Eso es imposible...\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0002}{NAME 0x0001}
-Recuerdo poco de lo \n
-qué paso despues, \n
-pero los restos \n
+Recuerdo muy poco de\n
+lo que pasó después,\n
+pero los restos\n
 {WAITINPUT}{SAMECHAR}
-desaparecieron. Si recuerdo\n
-con claridad qué {NAMEINSERT 0x0004}\n
+desaparecieron. Sí recuerdo\n
+claramente que {NAMEINSERT 0x0004}\n
 fue secuestrada...\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
 Si es cierto, los restos\n
-de {NAMEINSERT 0x0007} podrían estar \n
+de {NAMEINSERT 0x0007} podrían estar\n
 dando origen a este castillo...\n
 {WAITINPUT}{NEWCHAR}"
 0x011,"{PORTRAIT 0x0001}{NAME 0x0000}
-Eso significa qué los \n
-restos hallados en este \n
+Eso significa que los\n
+restos hallados en este\n
 castillo son auténticos...\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0002}{NAME 0x0001}
-Son idénticos a los \n
-qué encontré. Pero recuerdo \n
-poco de lo qué \n
+Son idénticos a los que\n
+encontré. Pero apenas\n
+recuerdo lo que ocurrió\n
 {WAITINPUT}{SAMECHAR}
-paso despues de\n
-encontrarlos. Solo recuerdo \n
-qué trajeron aquí a {NAMEINSERT 0x0004}.\n
+después de encontrarlos.\n
+Solo recuerdo que trajeron\n
+aquí a {NAMEINSERT 0x0004}.\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
-Si es cierto, los restos \n
+Si es cierto, los restos\n
 de {NAMEINSERT 0x0007} podrían estar\n
 dando origen a este castillo...\n
 {WAITINPUT}{NEWCHAR}"
 0x012,"{PORTRAIT 0x0002}{NAME 0x0001}
 Perdóname.\n
-Todo esto es mi culpa...\n
+Todo esto es culpa mía...\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
 No soy yo a quien\n
-deberías pedir\n
+debes pedirle\n
 perdón...\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0002}{NAME 0x0001}
 ?!\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
-Deberías disculparte con\n
-{NAMEINSERT 0x0004} primero. Debemos\n
-apurarnos a buscarla.\n
+Primero debes disculparte\n
+con {NAMEINSERT 0x0004}. Debemos darnos prisa\n
+y encontrarla.\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0002}{NAME 0x0001}
-Si. Si, tienes razón.\n
-Bien, entonces me voy.\n
+Sí. Sí, tienes razón.\n
+Bien, me pondré en marcha.\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}{NAMEINSERT 0x0001}...\n
 Confío en ti.\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0002}{NAME 0x0001}
@@ -316,186 +316,186 @@ Aaargh!\n
 {NAMEINSERT 0x0005} ha vuelto!\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0004}{NAME 0x0005}
 Mortal... conoces a un\n
-hombre llamado \n
-'{NAMEINSERT 0x0001},' no es así?\n
+hombre llamado\n
+""{NAMEINSERT 0x0001}"", verdad?\n
 {WAITINPUT}{NEWCHAR}{NEXTACTION}{PORTRAIT 0x0001}{NAME 0x0000}
-Si, lo conozco!\n
-Qué hay con el?!\n
+Sí!\n
+Qué pasa con él?!\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0004}{NAME 0x0005}
-Creo qué ese hombre ha\n
-descubierto objetos qué\n
-guardan el poder de mi amo.\n
+Creo que ese hombre halló\n
+objetos que contienen\n
+el poder de mi señor.\n
 {WAITINPUT}{NEWCHAR}{NEXTACTION}{PORTRAIT 0x0001}{NAME 0x0000}
 ?!\n
-Te refieres a los restos \n
+Te refieres a los restos\n
 de {NAMEINSERT 0x0007}...\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0004}{NAME 0x0005}
-Los restos fragmentados \n
-de mi amo?! Ahora todo\n
-tiene perfecto sentido...\n
+Los restos fragmentados\n
+de mi señor?! Ahora todo\n
+encaja a la perfección...\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
-De qué diablos estás\n
-hablando?!\n
+De qué demonios\n
+estás hablando?!\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0004}{NAME 0x0005}
-Me has dado una\n
-respuesta. Así qué te \n
-recompensaré con una\n
+Me has dado la respuesta.\n
+Así que te recompensaré\n
+con una explicación.\n
 {WAITINPUT}{SAMECHAR}
-explicación. Es simple. \n
-Este castillo es una creación \n
-de la voluntad de {NAMEINSERT 0x0001}.\n
+Es sencillo. Este castillo\n
+es una creación de la\n
+voluntad de {NAMEINSERT 0x0001}.\n
 {WAITINPUT}{NEWCHAR}{NEXTACTION}{PORTRAIT 0x0001}{NAME 0x0000}
 Qué?!\n
-Pero el no es capaz de \n
-tal hazaña!\n
+Pero él no es capaz\n
+de algo así!\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0004}{NAME 0x0005}
-Cierto para el {NAMEINSERT 0x0001}\n
-original, pero poseer los \n
-restos de mi amo cambia \n
+Eso sería cierto para el\n
+{NAMEINSERT 0x0001} original, pero poseer los\n
+restos de mi señor lo cambia\n
 {WAITINPUT}{SAMECHAR}
-todo. Los dos espíritus del \n
-castillo ahora encarnan\n
-el poder de mi amo.\n
+todo. Los dos espíritus\n
+del castillo encarnan ahora\n
+el poder de mi señor.\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
-Los ""dos"" espíritus del castillo?!\n
+Los dos espíritus del castillo?!\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0004}{NAME 0x0005}
-Dos espíritus existen \n
-ahora dentro de su cuerpo. \n
+Ahora existen dos espíritus\n
+dentro de su cuerpo.\n
 {WAITINPUT}{SAMECHAR}
-Su espíritu original y \n
-un espíritu malvado nacido\n
-de los restos de mi amo.\n
+Su espíritu original y\n
+un espíritu maligno nacido\n
+de los restos de mi señor.\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
-Qué idea tan ridícula...\n
+Qué idea tan absurda...\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0004}{NAME 0x0005}
-Y así, nacieron dos \n
-castillos para encarnar \n
-a los dos espíritus.\n
+Así nacieron dos castillos\n
+que encarnan esos dos\n
+espíritus.\n
 {WAITINPUT}{SAMECHAR}
-De los dos espíritus, \n
-el malvado deseaba más \n
-los castillos.\n
+De los dos espíritus,\n
+el maligno era quien más\n
+deseaba los castillos.\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
-Espera un momento! Qué\n
-quieres decir con ""dos castillos""?!\n
+Espera! Qué quieres decir\n
+con ""dos castillos""?!\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0004}{NAME 0x0005}
-Mortal ignorante... No\n
-te das cuenta qué este castillo\n
-tiene dos ""capas""?\n
+Mortal ignorante... No ves\n
+que este castillo tiene\n
+dos ""capas""?\n
 {WAITINPUT}{SAMECHAR}
-No quiero tener nada \n
-más qué ver contigo. \n
+No quiero seguir\n
+perdiendo el tiempo contigo.\n
 Adiós!\n
 {WAITINPUT}{NEWCHAR}{NEXTACTION}{COMMAND2 0x0000}{PORTRAIT 0x0001}{NAME 0x0000}
-E−espera!\n
-Estás huyendo \n
-de mi?\n
+E-espera!\n
+Estás huyendo\n
+de mí?\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0004}{NAME 0x0005}
-Este castillo, tal cómo es,\n
-es transitorio. Debo \n
-ir a ayudar a completarlo...\n
+Este castillo, tal como está,\n
+es transitorio. Debo ir a\n
+ayudar a completarlo...\n
 {WAITINPUT}{NEWCHAR}"
 0x014,"{PORTRAIT 0x0003}{NAME 0x0001}
-Oh, veo qué sigues \n
-vivo...\n
+Oh, veo que aún\n
+sigues vivo...\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}{NAMEINSERT 0x0001}!\n
 No, tú no eres {NAMEINSERT 0x0001}...\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0003}{NAME 0x0001}
 Ja...\n
-Me descubriste...\n
+Me has descubierto...\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
-Qué diablos eres?\n
+Qué demonios eres?\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0003}{NAME 0x0001}
-Yo soy... yo mismo...\n
-solo qué no el 'yo' qué\n
-conociste en el pasado.\n
+Soy... yo mismo...\n
+solo que no el ""yo""\n
+que conocías.\n
 {WAITINPUT}{SAMECHAR}
-Los deseos reprimidos de \n
-este hombre, junto con su\n
-posesión de los restos \n
+Los deseos reprimidos\n
+de este hombre, unidos a\n
+los restos de {NAMEINSERT 0x0007},\n
 {WAITINPUT}{SAMECHAR}
-de {NAMEINSERT 0x0007}, dieron origen\n
-a un espíritu aparte... \n
+hicieron nacer\n
+un espíritu distinto...\n
 y...\n
 {WAITINPUT}{SAMECHAR}
 ese otro espíritu soy yo.\n
-No estoy seguro si el\n
-sabe siquiera de mi existencia.\n
+Ni siquiera sé si él sabe\n
+que existo.\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
-Y también fuiste tú\n
-quien secuestro a {NAMEINSERT 0x0004}?\n
+Y tú también fuiste\n
+quien secuestró a {NAMEINSERT 0x0004}?\n
 {WAITINPUT}{NEWCHAR}{NEXTACTION}{PORTRAIT 0x0003}{NAME 0x0001}
-Je−je...\n
-Claro qué fue obra mía. \n
+Je, je...\n
+Claro que fui yo.\n
 Ella me pertenece.\n
 {WAITINPUT}{SAMECHAR}{NEXTACTION}
-Pero el perdió la memoria \n
-y ni siquiera sabe \n
-dónde está ella!\n
+Pero él perdió la memoria\n
+y ni siquiera sabe\n
+dónde está!\n
 {WAITINPUT}{SAMECHAR}
-Pero pronto recuperara \n
-la memoria! Cuando lo haga, \n
+Pero pronto recuperará\n
+la memoria! Y entonces\n
 ella será toda mía.\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
 Maldito seas!\n
 {NEXTACTION}{WAITINPUT}{NEWCHAR}{NEXTACTION}{PORTRAIT 0x0003}{NAME 0x0001}
-Seguro de eso? Si muero,\n
-tú mejor amigo\n
-perecerá conmigo!\n
+Estás seguro? Si muero,\n
+tu mejor amigo también\n
+morirá conmigo!\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
 Aaargh!\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0003}{NAME 0x0001}
-Tú muerte está cerca!\n
-Muere, perro vil!\n
+Tu muerte está cerca!\n
+Muere, perro miserable!\n
 {WAITINPUT}{NEWCHAR}"
 0x015,"{PORTRAIT 0x0002}{NAME 0x0001}
-Ju− {NAMEINSERT 0x0000}...\n
+Ju-{NAMEINSERT 0x0000}...\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}{NAMEINSERT 0x0001}!!\n
-De verdad eres tú\n
-está vez, cierto...?\n
+Esta vez eres tú\n
+de verdad, no...?\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0002}{NAME 0x0001}
 ...\n
-Veo qué te has topado\n
+Veo que te has encontrado\n
 con... mi otro yo.\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
-Si...\n
+Sí...\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0002}{NAME 0x0001}
 Ya veo...\n
-Casi soy dominado\n
-por el...\n
-{WAITINPUT}{SAMECHAR}{NAMEINSERT 0x0007} tenía una fuerza\n
-abrumadora...\n
+Casi consiguió apoderarse\n
+de mí...\n
+{WAITINPUT}{SAMECHAR}El poder de {NAMEINSERT 0x0007}\n
+era demasiado abrumador...\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
 No digas eso!\n
 Debes mantenerte fuerte!\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0002}{NAME 0x0001}
 Escúchame...\n
-Cuando el trajo a {NAMEINSERT 0x0004}\n
+Cuando él trajo a {NAMEINSERT 0x0004}\n
 a este lugar...\n
 {WAITINPUT}{SAMECHAR}
-La escondio en un castillo\n
-forjado del tejido de\n
-mi mente. Al perder\n
+la ocultó en un castillo\n
+forjado a partir de\n
+mi propia mente. Al perder\n
 {WAITINPUT}{SAMECHAR}
-mi memoria, la protegi,\n
-pero creo qué he \n
-llegado a mi límite...\n
+la memoria, la protegí,\n
+pero creo que he llegado\n
+a mi límite...\n
 {WAITINPUT}{SAMECHAR}
-Ella está en la sala del amo.\n
-Con este brazalete, tú\n
-también puedes entrar.\n
+Está en la sala del señor.\n
+Con este brazalete tú\n
+también podrás entrar.\n
 {WAITINPUT}{NEWCHAR}{NEXTACTION}{PORTRAIT 0x0001}{NAME 0x0000}
-No puedo dejarte\n
-tirado aquí así...\n
+No puedo dejarte aquí\n
+tirado en este estado...\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0002}{NAME 0x0001}
 Debes hacerlo! No podemos\n
-dejar qué el atrape a {NAMEINSERT 0x0004}!\n
+dejar que se apodere de {NAMEINSERT 0x0004}!\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
-E− Entendido. Una vez \n
-qué salvé a {NAMEINSERT 0x0004}, prometo, \n
-qué volveré por ti...\n
+D-de acuerdo. Cuando haya\n
+salvado a {NAMEINSERT 0x0004}, prometo\n
+que volveré por ti...\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0002}{NAME 0x0001}
-Vete ya... depende de ti...\n
+Ve... ahora depende de ti...\n
 {WAITINPUT}{NEWCHAR}"
 0x016,"{PORTRAIT 0x0001}{NAME 0x0000}{NAMEINSERT 0x0004}!!\n
 {WAITINPUT}{NEWCHAR}{NEXTACTION}{PORTRAIT 0x0005}{NAME 0x0004}{NAMEINSERT 0x0000}!\n
@@ -504,165 +504,163 @@ De verdad eres tú, {NAMEINSERT 0x0000}?!\n
 Estás bien?\n
 Estás herida?\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0005}{NAME 0x0004}
-Estoy bien. \n
-{NAMEINSERT 0x0001} me mantuvo \n
-a salvo aquí.\n
+Estoy bien.\n
+{NAMEINSERT 0x0001} me dejó a salvo\n
+aquí.\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
-Oh, ya veo...\n
+Ah, ya veo...\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0005}{NAME 0x0004}
-No vino contigo?\n
-{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}{NAMEINSERT 0x0001} nos espera \n
-afuera, creo...\n
+No ha venido contigo?\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}{NAMEINSERT 0x0001} Nos está\n
+esperando fuera, me parece...\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0005}{NAME 0x0004}
-Oye, qué le paso a\n
-la persona qué me trajo\n
-a este lugar?\n
+Oye, qué pasó con\n
+la persona que me trajo\n
+hasta aquí?\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
-Quieres decir qué no\n
-sabes quien fue el \n
-qué te secuestro!?\n
+Quieres decir que no\n
+sabes quién fue quien\n
+te secuestró!?\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0005}{NAME 0x0004}
-Hasta qué {NAMEINSERT 0x0001} vino a\n
-rescatarme, yo− yo estuve \n
-con los ojos vendados...\n
+Hasta que {NAMEINSERT 0x0001} vino\n
+a rescatarme, yo...\n
+tenía los ojos vendados...\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
 Ya veo...\n
-Bien, intentemos salir \n
+Bien, intentemos salir\n
 de este lugar...\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0005}{NAME 0x0004}
-Si, vámonos.\n
+Sí, vámonos.\n
 {WAITINPUT}{NEWCHAR}{NEXTACTION}{PORTRAIT 0x0004}{NAME 0x0005}
-Así qué aquí es dónde \n
-te has escondido...\n
-El también es un hombre audaz...\n
+Así que aquí era donde\n
+te escondías...\n
+Él también es muy osado...\n
 {WAITINPUT}{NEWCHAR}{NEXTACTION}{PORTRAIT 0x0005}{NAME 0x0004}
-Noooo!\n
+Nooooo!\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}{NAMEINSERT 0x0004}!\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0004}{NAME 0x0005}
-Me quedaré con está\n
-doncella para mi mismo.\n
+Me llevaré a esta doncella\n
+para mí.\n
 {WAITINPUT}{NEWCHAR}{NEXTACTION}{PORTRAIT 0x0005}{NAME 0x0004}
 No! {NAMEINSERT 0x0000}... sálvame!!\n
 {WAITINPUT}{NEWCHAR}{NEXTACTION}{PORTRAIT 0x0001}{NAME 0x0000}
 Maldición!\n
-Debo apresurarme tras ellos!\n
+Debo ir tras ellos!\n
 {WAITINPUT}{NEWCHAR}"
 0x017,"{PORTRAIT 0x0001}{NAME 0x0000}
-Así qué aquí estabas! \n
+Así que estabas aquí!\n
 Devuélveme a {NAMEINSERT 0x0004}!\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0004}{NAME 0x0005}
 No temas.\n
-Esa doncella ahora está\n
+Esa doncella está ahora\n
 con {NAMEINSERT 0x0001}.\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
-Pero por qué!?\n
-Deja a {NAMEINSERT 0x0004} fuera de esto!\n
+Pero por qué?!\n
+Deja a {NAMEINSERT 0x0004} al margen!\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0004}{NAME 0x0005}
-Esa doncella jugará un\n
-papel esencial en la \n
-finalización de este castillo.\n
+Esa doncella tendrá\n
+un papel esencial para\n
+completar este castillo.\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
 Qué quieres decir\n
 con eso!?\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0004}{NAME 0x0005}
-Este castillo está en un\n
-estado transitorio y se \n
-prepara para la resurrección\n
+Este castillo se encuentra\n
+en un estado transitorio y\n
+se prepara para la resurrección\n
 {WAITINPUT}{SAMECHAR}
-de mi amo. Sin embargo,\n
-el castillo no estará completo\n
-hasta qué los dos castillos\n
-se fusionen.\n
+de mi señor. Sin embargo,\n
+no estará completo hasta\n
+que ambos castillos se unan.\n
 {WAITINPUT}{SAMECHAR}
-En resumen, debemos\n
-eliminar el espíritu de\n
-tú querido amigo.\n
-{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}{NAMEINSERT 0x0001} es un hombre de \n
-gran fuerza! No será tan\n
-fácil hacer lo qué planeas!!\n
+En pocas palabras, debemos\n
+librarnos del espíritu\n
+de tu querido amigo.\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}{NAMEINSERT 0x0001} es un hombre muy\n
+fuerte! No te resultará\n
+tan fácil como crees!!\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0004}{NAME 0x0005}
-El nació de mi amo, así\n
-qué claro qué conoce\n
-formas de reforzar su poder. \n
+Nació de mi señor, así que\n
+conoce formas de reforzar\n
+su poder.\n
 {WAITINPUT}{SAMECHAR}
-Cuando algo te es\n
-querido, su efecto sobre\n
-ti se vuelve inmensurable.\n
+Cuando algo te es querido,\n
+su efecto sobre ti\n
+se vuelve inconmensurable.\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
 ?!\n
-No, seguro qué no...\n
-no la sangre de {NAMEINSERT 0x0004}...\n
+No, no puede ser...\n
+la sangre de {NAMEINSERT 0x0004}...\n
 {WAITINPUT}{SAMECHAR}
 Aléjate de ella!\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0004}{NAME 0x0005}
-No interfieras. Ahora,\n
-extinguiré la llama \n
-de tú alma!\n
+No interfieras. Ahora\n
+apagaré la llama\n
+de tu alma!\n
 {WAITINPUT}{NEWCHAR}"
 0x018,"{PORTRAIT 0x0004}{NAME 0x0005}
 Llegas demasiado tarde...\n
-Los castillos pronto \n
+Los castillos pronto\n
 comenzarán a fusionarse...\n
 {WAITINPUT}{NEWCHAR}"
 0x019,"{PORTRAIT 0x0001}{NAME 0x0000}
 Alto!\n
 {WAITINPUT}{NEWCHAR}{NEXTACTION}{PORTRAIT 0x0002}{NAME 0x0001}
-Ju− {NAMEINSERT 0x0000}, eres tú...\n
+J-{NAMEINSERT 0x0000}, eres tú...\n
 {WAITINPUT}{NEWCHAR}{NEXTACTION}{PORTRAIT 0x0001}{NAME 0x0000}{NAMEINSERT 0x0004}, estás bien?!\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0005}{NAME 0x0004}
 ...\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
-Perdió el conocimiento.\n
-Pero creo qué llegamos\n
+Ha perdido el conocimiento.\n
+Pero creo que hemos llegado\n
 a tiempo!\n
 {WAITINPUT}{NEWCHAR}{NEXTACTION}{PORTRAIT 0x0001}{NAME 0x0000}{NAMEINSERT 0x0001}!\n
-Aún logras conservar \n
-tú verdadero ser.\n
+Aún has logrado conservar\n
+tu verdadero yo.\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0002}{NAME 0x0001}
-Si, de alguna manera o\n
-de otra... pero...\n
+Sí, de un modo u otro...\n
+pero...\n
 he llegado a mi límite...\n
 {WAITINPUT}{SAMECHAR}
-Te− te lo ruego...\n
-Toma mi vida.\n
+T-te lo suplico...\n
+Acaba con mi vida.\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
-Qu− Qué estás diciendo \n
-de? No puedo...\n
+Q-qué estás diciendo?\n
+No puedo...\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0002}{NAME 0x0001}
-Ya no puedo aguantar más.\n
-No puedo luchar contra\n
-el impulso...\n
+No aguantaré mucho más.\n
+No puedo contener el impulso...\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
 Pero yo...\n
 No puedo quitarte la vida.\n
 {WAITINPUT}{NEWCHAR}{NEXTACTION}{PORTRAIT 0x0003}{NAME 0x0001}
-Entonces, haré qué\n
+Entonces haré que\n
 me mates...\n
 Defiéndete!\n
 {WAITINPUT}{NEWCHAR}"
 0x01A,"{PORTRAIT 0x0002}{NAME 0x0001}
 Gracias, {NAMEINSERT 0x0000}...\n
-Porque de verdad deseaba\n
-caer por tú mano...\n
+De verdad deseaba\n
+caer por tu mano...\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}{NAMEINSERT 0x0001}!\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0002}{NAME 0x0001}
-Quería liberarte de\n
-tú destino maldito...\n
+Quería liberarte\n
+de tu destino maldito...\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
-Ya basta. No hace\n
-falta decir nada\n
+Ya basta. No hace falta\n
+que digas nada\n
 más...\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0002}{NAME 0x0001}
-Cuida de {NAMEINSERT 0x0004}, \n
-lo harás...\n
+Cuida de {NAMEINSERT 0x0004},\n
+por favor...\n
 {NEXTACTION}{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}{NAMEINSERT 0x0001}!!!\n
 {WAITINPUT}{NEWCHAR}"
 0x01B,"{PORTRAIT 0x0001}{NAME 0x0000}{NAMEINSERT 0x0004}!!\n
 {WAITINPUT}{NEWCHAR}{NEXTACTION}{PORTRAIT 0x0005}{NAME 0x0004}
 ...\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
-Aún respira,\n
-pero... Maldición! Llegué\n
+Aún respira, pero...\n
+Maldición! He llegado\n
 demasiado tarde.\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0003}{NAME 0x0001}
 Bienvenido a la fiesta,\n
@@ -671,214 +669,213 @@ Llegas tarde.\n
 {WAITINPUT}{NEWCHAR}{NEXTACTION}{PORTRAIT 0x0001}{NAME 0x0000}{NAMEINSERT 0x0001}...\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0003}{NAME 0x0001}{NAMEINSERT 0x0001}?\n
 Oh, su espíritu ya no\n
-vive dentro de mi.\n
+vive dentro de mí.\n
 {WAITINPUT}{SAMECHAR}{NEXTACTION}
-Y todo se lo debo a esa \n
-mujer. Mira toda la \n
-fuerza qué me ha dado.\n
+Y todo se lo debo a esa\n
+mujer. Mira toda la fuerza\n
+que me ha dado.\n
 {WAITINPUT}{NEWCHAR}{NEXTACTION}{PORTRAIT 0x0001}{NAME 0x0000}
-Maldición! Ninguna piedad para\n
-ti.\n
+Maldito! No tendré\n
+piedad contigo.\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0003}{NAME 0x0001}
-Quien necesita piedad?\n
-Amenazas débiles de\n
-un rival indigno..\n
+Quién necesita piedad?\n
+Amenazas vacías de un\n
+rival indigno...\n
 {WAITINPUT}{NEWCHAR}"
 0x01C,"{PORTRAIT 0x0001}{NAME 0x0000}{NAMEINSERT 0x0001}...\n
 Perdóname...\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0003}{NAME 0x0001}
-Crees qué perderé...\n
-Yo, qué controlo el poder\n
-del Conde {NAMEINSERT 0x0007}...\n
+Crees que perderé...\n
+Yo, que poseo el poder\n
+del conde {NAMEINSERT 0x0007}...\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}{NAMEINSERT 0x0001} era más fuerte\n
-qué tú...\n
+que tú...\n
 {WAITINPUT}{SAMECHAR}
-No creo qué pudieras\n
-haber tomado todo\n
-lo qué el era!\n
+No creo que hayas podido\n
+arrebatarle todo\n
+lo que era!\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0003}{NAME 0x0001}
-Pero si yo muero, el \n
-también perecerá.\n
-Y la mujer, también...\n
+Pero si yo muero,\n
+él también morirá.\n
+Y la mujer también...\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
 ...\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0003}{NAME 0x0001}
-Así qué este es el adiós...\n
+Así que esto es el adiós...\n
 {WAITINPUT}{SAMECHAR}
-Con esa fuerza maldita\n
-qué tienes, más te vale\n
-cazar a {NAMEINSERT 0x0007} eternamente.\n
+Con ese poder maldito,\n
+más te vale perseguir a\n
+{NAMEINSERT 0x0007} por toda la eternidad.\n
 {NEXTACTION}{WAITINPUT}{NEWCHAR}"
 0x01D,"{PORTRAIT 0x0002}{NAME 0x0001}
 Aaargh...\n
-Ese− ese brazalete...\n
-Lo usaste por mi...\n
+E-ese brazalete...\n
+Te lo pusiste por mí...\n
 {WAITINPUT}{NEWCHAR}{NEXTACTION}{PORTRAIT 0x0001}{NAME 0x0000}
 ?!\n
 {NAMEINSERT 0x0001}, eres tú?\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0003}{NAME 0x0001}
-Por− Por qué sigues \n
-viviendo dentro de mi?! Creí\n
-qué estabas muerto!!\n
+P-por qué sigues vivo\n
+dentro de mí?! Creí que\n
+habías muerto!!\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
 Recuerda, {NAMEINSERT 0x0001}!!\n
 Eres más fuerte\n
-qué esto!!\n
+que esto!!\n
 {WAITINPUT}{NEWCHAR}{NEXTACTION}{PORTRAIT 0x0002}{NAME 0x0001}
-Tie− Tienes razón... Pero\n
-comparado con el\n
+T-tienes razón... Pero\n
+comparado con nuestro\n
 entrenamiento... esto no es nada.\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0003}{NAME 0x0001}
 Por qué!?\n
 Por qué no puedo\n
 librarme de ti?\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0002}{NAME 0x0001}
-Porque elijo no \n
-liberarte. {NAMEINSERT 0x0000}! Acábame\n
-de una vez!!\n
+Porque he decidido no\n
+liberarte. {NAMEINSERT 0x0000}! Acaba\n
+conmigo!!\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0003}{NAME 0x0001}
 Aaargh...\n
 {NEXTACTION}
-Siento una magia\n
-poderosa actuando...\n
+Siento una magia poderosa\n
+en acción...\n
 {WAITINPUT}{NEWCHAR}{NEXTACTION}{PORTRAIT 0x0001}{NAME 0x0000}
-Los− Los restos...\n
+L-los restos...\n
 {WAITINPUT}{NEWCHAR}{NEXTACTION}{PORTRAIT 0x0003}{NAME 0x0001}
-Mientras tenga este\n
-poder, no necesito este \n
-cuerpo! Toma, quedatelo!\n
+Mientras tenga este poder,\n
+no necesito este cuerpo!\n
+Toma, te lo regalo!\n
 {WAITINPUT}{NEWCHAR}{NEXTACTION}{PORTRAIT 0x0002}{NAME 0x0001}
 Aaaaaah!!\n
 {WAITINPUT}{NEWCHAR}{NEXTACTION}{COMMAND2 0x0000}{PORTRAIT 0x0006}{NAME 0x0008}
-Hmmph, no estoy estable,\n
-pero tú sangre una vez\n
-más me completará.\n
+Hmpf, aún no soy estable,\n
+pero tu sangre volverá\n
+a completarme.\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
-Tómala si puedes...\n
+Ven a por ella si puedes...\n
 {NEXTACTION}
-No subestimes \n
-el poder de los {NAMEINSERT 0x0006}...\n
+No subestimes el poder\n
+de los {NAMEINSERT 0x0006}...\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0006}{NAME 0x0008}{NEXTACTION}
-Bien, comencemos entonces.\n
-Disfrutare\n
+Bien, empecemos.\n
+Disfrutaré\n
 destruyéndote.\n
 {WAITINPUT}{NEWCHAR}"
 0x01E,"{PORTRAIT 0x0006}{NAME 0x0008}
 Argggh!!\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
-Te lo dije. No \n
-subestimes el \n
-poder de mi linaje!!\n
+Te lo advertí. No\n
+subestimes el poder\n
+de mi linaje!!\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0006}{NAME 0x0008}
-Así− Así qué este es el poder\n
+A-así que este es el poder\n
 de los {NAMEINSERT 0x0006}...\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
-Vil engendro de {NAMEINSERT 0x0001}, tú\n
-no eres digno de ser \n
-mi oponente.\n
+Vil engendro de {NAMEINSERT 0x0001},\n
+no eres digno de ser\n
+mi rival.\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0006}{NAME 0x0008}
-Ahora me desvaneceré de\n
-este mundo... pero encuentro\n
-algo de placer en esto...\n
+Ahora desapareceré de este\n
+mundo... pero esto me\n
+produce cierto placer...\n
 {WAITINPUT}{SAMECHAR}
-con esos poderes malditos\n
-tuyos, el destino te llama \n
-a cazar por la eternidad.\n
+con ese poder maldito,\n
+tu destino es cazar\n
+por toda la eternidad.\n
 {WAITINPUT}{NEWCHAR}"
 0x01F,"{PORTRAIT 0x0005}{NAME 0x0004}
 ...\n
-Oh, Ooh...\n
+Oh, uuh...\n
 {NEXTACTION}{WAITINPUT}{NEWCHAR}{NEXTACTION}{PORTRAIT 0x0001}{NAME 0x0000}
-Parece qué estás\n
-despertando...\n
+Parece que estás\n
+volviendo en ti...\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0005}{NAME 0x0004}
-Hemos...\n
-sido salvados?\n
+Nos hemos...\n
+salvado?\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
-Si...\n
+Sí...\n
 {WAITINPUT}{NEWCHAR}{NEXTACTION}{PORTRAIT 0x0005}{NAME 0x0004}
 Eh? Dónde está {NAMEINSERT 0x0001}?\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
 ...\n
 {NAMEINSERT 0x0001} está...\n
 arghh...\n
-{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0005}{NAME 0x0004}{NAMEINSERT 0x0000}... está bien.\n
-No tienes qué decir\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0005}{NAME 0x0004}{NAMEINSERT 0x0000}... no pasa nada.\n
+No tienes que decir\n
 nada más.\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
 Yo... yo...\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0005}{NAME 0x0004}
-No tengo idea de lo qué\n
-paso entre ustedes dos... \n
-pero no debes \n
+No sé qué ocurrió entre\n
+vosotros dos... pero no\n
+debes culparte. Culparte\n
 {WAITINPUT}{SAMECHAR}
-culparte. Culparte a ti\n
-mismo es lo mismo qué \n
-culparlo a el.\n
+a ti mismo es lo mismo\n
+que culparlo también\n
+a él.\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
-Tal vez tengas razón...\n
-De hecho, {NAMEINSERT 0x0001} habría\n
-estado de acuerdo contigo...\n
+Quizá tengas razón...\n
+Seguro que {NAMEINSERT 0x0001}\n
+habría pensado igual...\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0005}{NAME 0x0004}
-De todos modos, vamos \n
-a casa. Resolveremos todo\n
-despues de descansar.\n
+En cualquier caso, volvamos\n
+a casa. Ya aclararemos todo\n
+después de descansar.\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
-Suena bien...\n
-Vamos a casa, {NAMEINSERT 0x0004}!\n
+Me parece bien...\n
+Volvamos a casa, {NAMEINSERT 0x0004}!\n
 {WAITINPUT}{NEWCHAR}"
 0x020,"{PORTRAIT 0x0001}{NAME 0x0000}
-Maldición! Al final, no \n
-pude salvar a Lydie o a\n
-{NAMEINSERT 0x0001}.\n
+Maldición! Al final\n
+no pude salvar ni a Lydie\n
+ni a {NAMEINSERT 0x0001}.\n
 {WAITINPUT}{SAMECHAR}
-Todo lo qué queda\n
+Lo único que me queda\n
 para recordarlos\n
 es este brazalete...\n
 {WAITINPUT}{SAMECHAR}{NEXTACTION}
-Ni siquiera pude proteger \n
-a quienes amo. He fallado \n
-cómo Cazador de Vampiros!\n
+Ni siquiera pude proteger\n
+a quienes amo. He fracasado\n
+como Cazavampiros!\n
 {WAITINPUT}{SAMECHAR}
-Qué diablos debo hacer\n
-conmigo ahora...?\n
+Qué demonios voy a hacer\n
+con mi vida ahora...?\n
 {WAITINPUT}{NEWCHAR}"
 0x021,"{PORTRAIT 0x0002}{NAME 0x0001}
 ...\n
-Do− Dónde estoy?\n
-{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}{NAMEINSERT 0x0001}, has vuelto \n
+D-dónde estoy?\n
+{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}{NAMEINSERT 0x0001}, has vuelto\n
 con nosotros...\n
 {WAITINPUT}{NEWCHAR}{NEXTACTION}{PORTRAIT 0x0002}{NAME 0x0001}
 Estoy vivo...?\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
-Usaste tú propia\n
-fuerza para expulsarlo\n
-de ti.\n
+Usaste tu propia fuerza\n
+para expulsarlo\n
+de tu interior.\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0002}{NAME 0x0001}
 No fue mi fuerza...\n
-Fue la tuya y \n
+Fue la tuya y\n
 la de {NAMEINSERT 0x0004}...\n
 {WAITINPUT}{SAMECHAR}{NEXTACTION}
 ?!\n
-Qué hay de {NAMEINSERT 0x0004}?!\n
+Qué ha sido de {NAMEINSERT 0x0004}?!\n
 La salvaste?\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
-Ella aún no despierta, pero \n
-sus marcas de mordida se\n
-borraron cuando {NAMEINSERT 0x0007}\n
-fue vencido.\n
+Aún no ha despertado, pero\n
+las marcas desaparecieron\n
+al vencer a {NAMEINSERT 0x0007}.\n
 {WAITINPUT}{SAMECHAR}
 Ha recuperado algo de color.\n
-Es cuestión de tiempo \n
-antes de qué despierte.\n
+Solo es cuestión de tiempo\n
+antes de que despierte.\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0002}{NAME 0x0001}
 Ya veo...\n
 {NAMEINSERT 0x0000}...\n
 Por favor, perdóname...\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
-Todo quedo atrás ya. \n
-Todos fueron salvados, así\n
-qué no hay nada más qué decir.\n
+Todo ha quedado atrás.\n
+Todos están a salvo, así que\n
+no hay nada más que decir.\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0002}{NAME 0x0001}
 ...\n
 Gracias.\n
@@ -886,23 +883,23 @@ Gracias.\n
 ...\n
 Uhh... Ooh...\n
 {WAITINPUT}{NEWCHAR}{NEXTACTION}{PORTRAIT 0x0001}{NAME 0x0000}
-Parece qué {NAMEINSERT 0x0004} \n
-está despertando...\n
+Parece que {NAMEINSERT 0x0004}\n
+está volviendo en sí...\n
 {WAITINPUT}{NEWCHAR}{NEXTACTION}{PORTRAIT 0x0005}{NAME 0x0004}
 Eh, {NAMEINSERT 0x0000}...\n
 Qué hago aquí...?\n
 {WAITINPUT}{SAMECHAR}
-Creo... qué yo...\n
+Creo... que yo...\n
 fui mordida por {NAMEINSERT 0x0001}...\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
-Cálmate...debiste \n
-haber tenido solo\n
-una pesadilla. Toca tú cuello.\n
+Tranquila... solo habrás\n
+tenido una pesadilla.\n
+Tócate el cuello.\n
 {WAITINPUT}{NEWCHAR}{NEXTACTION}{PORTRAIT 0x0005}{NAME 0x0004}
 ...\n
 {COMMAND2 0x0000}{WAITINPUT}
-No hay nada ahí...\n
-Vaya, solo fue una pesadilla.\n
+No hay nada...\n
+Vaya, solo fue un sueño.\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0002}{NAME 0x0001}
 Oye, dile la verdad...\n
 {WAITINPUT}{NEWCHAR}{NEXTACTION}{PORTRAIT 0x0001}{NAME 0x0000}
@@ -912,51 +909,51 @@ Qué...?\n
 {NAMEINSERT 0x0001}!\n
 Has vuelto!\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0002}{NAME 0x0001}
-Si, pero en realidad...\n
+Sí, pero en realidad...\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
-Si, {NAMEINSERT 0x0001}. Seguro estás \n
-agotado, hablemos \n
+Sí, {NAMEINSERT 0x0001}. Seguro que estás\n
+agotado, así que hablaremos\n
 cuando lleguemos a casa!\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0002}{NAME 0x0001}
 No, quiero...\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
-Vamos, {NAMEINSERT 0x0001}. No paso\n
-nada! No es mejor \n
-dejarlo así?\n
+Vamos, {NAMEINSERT 0x0001}. No ha pasado\n
+nada! No es mejor dejarlo\n
+así?\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0002}{NAME 0x0001}
 No, eso no está bien!\n
-Debes terminar lo\n
-qué empiezas...\n
+Hay que terminar\n
+lo que se empieza...\n
 {WAITINPUT}{NEWCHAR}{NEXTACTION}{PORTRAIT 0x0001}{NAME 0x0000}
-Qué acabas de decir!?\n
+Qué acabas de decir?!\n
 {WAITINPUT}{NEWCHAR}{NEXTACTION}{PORTRAIT 0x0005}{NAME 0x0004}
-Basta, ustedes dos!\n
+Dejadlo ya, los dos!\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0002}{NAME 0x0001}
 ...\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
 ...\n
 {WAITINPUT}{NEWCHAR}{NEXTACTION}{PORTRAIT 0x0005}{NAME 0x0004}
-Deténganse, los dos!\n
-No empiecen. Recién\n
-nos reunimos!\n
+Basta ya, los dos!\n
+No empecéis a discutir.\n
+Acabamos de reunirnos!\n
 {NEXTACTION}{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0002}{NAME 0x0001}
-En realidad, {NAMEINSERT 0x0004}...\n
+La verdad, {NAMEINSERT 0x0004}...\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0005}{NAME 0x0004}
-Escucharé sus historias en\n
-casa. Hasta entonces, \n
+Ya escucharé vuestras historias\n
+en casa. Hasta entonces,\n
 hablemos de otras cosas.\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
-Ya oíste a la dama.\n
+Ya has oído a la señorita.\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0002}{NAME 0x0001}
 ...\n
 {NEXTACTION}
-Está bien...\n
+De acuerdo...\n
 {WAITINPUT}{NEWCHAR}{NEXTACTION}{PORTRAIT 0x0005}{NAME 0x0004}
-Jeje. Ha pasado tiempo, \n
-verdad, desde qué los\n
-tres estuvimos juntos.\n
+Je, je. Ha pasado mucho\n
+tiempo desde la última vez\n
+que estuvimos los tres juntos.\n
 {NEXTACTION}{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
-Si, así es...\n
+Sí, así es...\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0002}{NAME 0x0001}
-Si...\n
+Sí...\n
 {WAITINPUT}{NEWCHAR}"

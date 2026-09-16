@@ -8,20 +8,23 @@ class Text
   NDS_SPECIAL_CHARACTERS = "・¡¢£¨©®°±´¸¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýŒœˆ˜‐‗‘’‚“”„•…′″›※€™«»⁰"
   
   HOD_SPANISH_CHARACTERS = {
+    # Menu + dialogue shared characters
+    0x827A => "Ó",
+    0x829C => "á",
+    0x829D => "é",
+    0x829E => "í",
+    0x829F => "ó",
+    0x82A0 => "ú",
+    0x819A => "ñ",
+
+    # Dialogue-only Spanish characters (not added to the small/menu font)
     0x82A4 => "Á",
     0x82A5 => "É",
     0x82A6 => "Í",
-    0x82A7 => "Ó",
     0x82A8 => "Ú",
     0x82A9 => "Ñ",
-    0x82AD => "á",
     0x82AE => "¡",
-    0x82AF => "ñ",
     0x82B0 => "¿",
-    0x82B1 => "í",
-    0x82B2 => "é",
-    0x82B4 => "ó",
-    0x82B7 => "ú",
     0x82B8 => "ü",
   }
   

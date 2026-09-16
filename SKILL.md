@@ -54,9 +54,15 @@ Usar el resto de `references/` como material de apoyo para mantener la terminolo
 - No inventar terminología cuando los materiales de apoyo proporcionen un término aprobado o preferente.
 - Ante cualquier nombre o término dudoso, aplicar primero la jerarquía de autoridad y las correcciones/niveles de confianza de `translation-notes.md` antes que la localización inglesa original; no "corregir" nombres por intuición sin respaldo documentado.
 - No resumir, acortar, ampliar ni reescribir el contenido más allá de lo necesario para obtener una traducción precisa y natural.
-- La fuente del juego ya soporta á,é,í,ó,ú,ñ,ü y sus versiones en mayúscula (Á,É,Í,Ó,Ú,Ñ,Ü), así como los signos ¿ y ¡: usar la ortografía española correcta y natural, con tildes, eñes y signos de apertura donde corresponda.
+- A excepción de "Item Names" y "Enemy Names", la fuente del juego ya soporta á,é,í,ó,ú,ñ,ü y sus versiones en mayúscula (Á,É,Í,Ó,Ú,Ñ), así como los signos ¿ y ¡: usar la ortografía española correcta y natural, con tildes y eñes, pero no utilizar todavía los signos de apertura ¿ o ¡.
+- "Items Descriptions" no puede tener más de dos líneas de texto.
+- En el caso de "Item Names" y "Enemy Names" está permitido el uso de á,é,í,ó,ú,Ó,ñ. Estos textos aparecen en el menú con otra fuente.
 - Los archivos de `hod-texts-spanish/` traducidos antes de esta confirmación pueden contener palabras escritas sin tildes/eñe o sin signos de apertura por la restricción previa; revisarlos y corregirlos para aplicar la ortografía correcta.
-- Respetar los límites de longitud por línea/campo observados en el material original (aprox. 37-40 caracteres por línea en Events.csv/Menus.csv/Item Descriptions.csv, 23 en Music Names.csv, 16 en Enemy Names.csv, 14 en Item Names.csv/Character Names.csv). Si una línea traducida los supera, reformular de forma más breve en vez de truncar.
+- Respetar los límites de longitud por línea/campo observados en el material original (aprox. 37-40 caracteres por línea en Events.csv/Menus.csv/Item Descriptions.csv, 23 en Music Names.csv, 14 en Enemy Names.csv, 14 en Item Names.csv/Character Names.csv). Si una línea traducida los supera, reformular de forma más breve en vez de truncar.
+- JB's Bracelet: traducir como Brazalete JB
+- MK's Bracelet: traducir como Brazalete MK
+- Las descripciones de objeto de "Item Descriptions" al traducirse deben respetar las mismas líneas que su homólogo original. Es decir, si una descripción tiene 2 líneas no debe pasar a 1, el resultado traducido debe ser de dos líneas. Por otro lado si una descripción tiene 1 línea no debe dividirse en 2, el resultado traducido debe mantenerse en una sola línea.
+- Los archivos finales traducidos deben tener las mismas líneas que los originales.
 - Cuando una línea de diálogo inserte una variable `{NAMEINSERT 0xNNNN}`/`{NAME 0xNNNN}` en medio del texto, tener en cuenta que esa variable ocupará espacio adicional en tiempo de ejecución (según su longitud en `Character Names.csv`) dentro del límite de caracteres de esa misma línea.
 - No modificar los archivos originales de `references/hod-texts-original/`.
 - No modificar ningún otro archivo dentro de `references/`.

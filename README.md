@@ -4,7 +4,7 @@
 
 Parche de traducción del videojuego Castlevania: Harmony of Dissonance al español. Ha sido realizada con IA y posterior revisión humana.
 
-El parche solo altera los textos, no cambia gráficos porque los textos que haya en forma de imágenes se mantienen. Esto se ha hecho así para que la traducción pueda combinarse con otros parches de mejora visual.
+El parche solo altera los textos, no cambia gráficos por lo que textos que haya en forma de imágenes se mantienen. Esto se ha hecho así para que la traducción pueda combinarse con otros parches de mejora visual.
 
 ## ¿Cómo aplicar el parche?
 
@@ -48,8 +48,8 @@ Validado: número de entradas idéntico al original en los 7 archivos, control m
 
 ## Limitaciones conocidas
 
-- Cada campo tiene un límite de longitud distinto según el archivo (14 caracteres en nombres de objeto/personaje, 16 en nombres de enemigo, ~37-40 en diálogos/descripciones, 23 en títulos de pista), heredado del tamaño de caja original del juego.
-- La fuente del juego ya soporta tildes, eñe (á,é,í,ó,ú,ñ,ü,Á,É,Í,Ó,Ú,Ñ,Ü) y los signos `¿`/`¡`. Parte del texto traducido antes de esta confirmación todavía carece de tildes/eñe/signos de apertura por la restricción previa; está pendiente una revisión para corregir la ortografía.
+- Cada campo tiene un límite de longitud distinto según el archivo (14 caracteres en nombres de objeto/personaje/nombres de enemigo, ~37-40 en diálogos/descripciones, 23 en títulos de pista), heredado del tamaño de caja original del juego.
+- La fuente del juego soporta tildes, eñe (á,é,í,ó,ú,ñ,ü,Á,É,Í,Ó,Ú,Ñ,Ü) y los signos `¿`/`¡`. Parte del texto traducido antes de esta confirmación todavía carece de tildes/eñe/signos de apertura por la restricción previa; está pendiente una revisión para corregir la ortografía.
 
 ## Credits
 - -SuXei999- testing

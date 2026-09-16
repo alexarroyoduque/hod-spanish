@@ -4,25 +4,25 @@
 "
 0x024,"Elixir\n
 "
-0x025,"Prisma Mana\n
+0x025,"Prisma de Maná\n
 "
-0x026,"Prisma Mana+\n
+0x026,"Prisma Maná+\n
 "
-0x027,"Muslo Pollo\n
+0x027,"Muslo\n
 "
 0x028,"Pavo\n
 "
-0x029,"Antiveneno\n
+0x029,"Antídoto\n
 "
-0x02A,"Poción Bendita\n
+0x02A,"Purificante\n
 "
-0x02B,"Frasco Cura\n
+0x02B,"Invencible\n
 "
-0x02C,"Llave Reclamo\n
+0x02C,"Llave Señuelo\n
 "
 0x02D,"Llave Cráneo\n
 "
-0x02E,"Llave Presa\n
+0x02E,"Llave Compuerta\n
 "
 0x02F,"Mapa Castillo 1\n
 "
@@ -54,15 +54,15 @@
 "
 0x03D,"Diamante\n
 "
-0x03E,"Piedra Fuerza\n
+0x03E,"Piedra Machaca\n
 "
 0x03F,"Punta Acero\n
 "
 0x040,"Punta Platino\n
 "
-0x041,"Círculo Poder\n
+0x041,"Círculo Energía\n
 "
-0x042,"Alma Christopher\n
+0x042,"Alma Cristopher\n
 "
 0x043,"Piedra Roja\n
 "
@@ -74,65 +74,65 @@
 "
 0x047,"Armadura Cuero\n
 "
-0x048,"Armadura Goma\n
+0x048,"Placa de Goma\n
 "
 0x049,"Armadura Campo\n
 "
-0x04A,"Abrigo Placas\n
+0x04A,"Manto Placas\n
 "
-0x04B,"Túnica Tela\n
+0x04B,"Armadura Tela\n
 "
-0x04C,"Armadura Bronce\n
+0x04C,"Cota de Bronce\n
 "
-0x04D,"Cuero Roca\n
+0x04D,"Cuero Rocoso\n
 "
 0x04E,"Coraza\n
 "
-0x04F,"Armadura Suave\n
+0x04F,"Peto Acolchado\n
 "
-0x050,"Abrigo Inflado\n
+0x050,"Abrigo Mullido\n
 "
 0x051,"Armadura Gala\n
 "
-0x052,"Cota Malla\n
+0x052,"Cota de Malla\n
 "
-0x053,"Armadura Escama\n
+0x053,"Coraza Escamas\n
 "
 0x054,"Cota Curativa\n
 "
-0x055,"Armadura Guarda\n
+0x055,"Cota de Guarda\n
 "
-0x056,"Cota Fuego\n
+0x056,"Armadura Llama\n
 "
 0x057,"Brigantina\n
 "
-0x058,"Armadura Vieja\n
+0x058,"Coraza Antigua\n
 "
-0x059,"Armadura Pesada\n
+0x059,"Coraza Pesada\n
 "
-0x05A,"Cota Placas\n
+0x05A,"Armadura Placa\n
 "
 0x05B,"Cota Doble\n
 "
-0x05C,"Armadura Sol\n
+0x05C,"Armadura Solar\n
 "
-0x05D,"Armadura Luna\n
+0x05D,"Armadura Lunar\n
 "
-0x05E,"Armadura Lucha\n
+0x05E,"Coraza Batalla\n
 "
-0x05F,"Armadura Móvil\n
+0x05F,"Armadura Andar\n
 "
-0x060,"Armadura Plata\n
+0x060,"Coraza Plata\n
 "
 0x061,"Cota Cerámica\n
 "
-0x062,"Armadura Mágica\n
+0x062,"Coraza Mágica\n
 "
 0x063,"Cota Kaiser\n
 "
 0x064,"Ropa Casual\n
 "
-0x065,"Ropa Verano\n
+0x065,"Ropa Ligera\n
 "
 0x066,"Camiseta\n
 "
@@ -140,21 +140,21 @@
 "
 0x068,"Ropa Elegante\n
 "
-0x069,"Ropa Holgada\n
+0x069,"Ropa Evasión\n
 "
-0x06A,"Abrigo Ramail\n
+0x06A,"Manto Laminar\n
 "
-0x06B,"Túnica Nieve\n
+0x06B,"Túnica Gélida\n
 "
-0x06C,"Túnica Noble \n
+0x06C,"Ropa Noble \n
 "
 0x06D,"Túnica Mística\n
 "
-0x06E,"Túnica Rayo\n
+0x06E,"Túnica Trueno\n
 "
-0x06F,"Traje Guerra\n
+0x06F,"Traje Combate\n
 "
-0x070,"Túnica Vieja\n
+0x070,"Túnica Vetusta\n
 "
 0x071,"Brazalete JB\n
 "
@@ -162,15 +162,15 @@
 "
 0x073,"Brazalete MK\n
 "
-0x074,"Botas Fuerza\n
+0x074,"Botas Choque\n
 "
-0x075,"Banda Lujosa\n
+0x075,"Bandana\n
 "
-0x076,"Turbante Duro\n
+0x076,"Turbante\n
 "
-0x077,"Diadema Simple\n
+0x077,"Diadema\n
 "
-0x078,"Gorra Cuero\n
+0x078,"Gorro Cuero\n
 "
 0x079,"Casco Tela\n
 "
@@ -180,11 +180,11 @@
 "
 0x07C,"Bicocette\n
 "
-0x07D,"Casco Griego\n
+0x07D,"Yelmo Corinto\n
 "
-0x07E,"Visera\n
+0x07E,"Protector Cara\n
 "
-0x07F,"Casco Piros\n
+0x07F,"Pilos\n
 "
 0x080,"Bagonette\n
 "
@@ -194,15 +194,15 @@
 "
 0x083,"Armet\n
 "
-0x084,"Bascinet\n
+0x084,"Bacinete\n
 "
 0x085,"Sombrero Seda\n
 "
 0x086,"Casco Barril\n
 "
-0x087,"Morion\n
+0x087,"Morrión\n
 "
-0x088,"Casco Olla\n
+0x088,"Capellina\n
 "
 0x089,"Casco Hierro\n
 "
@@ -210,7 +210,7 @@
 "
 0x08B,"Cabacete\n
 "
-0x08C,"Casco Caldero\n
+0x08C,"Casco Langosta\n
 "
 0x08D,"Tiara Plata\n
 "
@@ -218,7 +218,7 @@
 "
 0x08F,"Casco Vikingo\n
 "
-0x090,"Cinta Oro\n
+0x090,"Corona de Oro\n
 "
 0x091,"Corona Platino\n
 "
@@ -234,7 +234,7 @@
 "
 0x097,"Guante Guarda\n
 "
-0x098,"Guarda Brazo\n
+0x098,"Guarda Brazos\n
 "
 0x099,"Placas Brazo\n
 "
@@ -244,9 +244,9 @@
 "
 0x09C,"Botas Cuero\n
 "
-0x09D,"Espinillera\n
+0x09D,"Grebas Cuero\n
 "
-0x09E,"Tobillera\n
+0x09E,"Botas Tobillo\n
 "
 0x09F,"Botas Bronce\n
 "
@@ -260,15 +260,15 @@
 "
 0x0A4,"Botas Plata\n
 "
-0x0A5,"Botas Flotantes\n
+0x0A5,"Botas Flotan\n
 "
-0x0A6,"Zapato Platino\n
+0x0A6,"Zueco Platino\n
 "
-0x0A7,"Botas Eternas\n
+0x0A7,"Botas Infinitas\n
 "
-0x0A8,"Capa Seda\n
+0x0A8,"Capa de Seda\n
 "
-0x0A9,"Capa Terciopelo\n
+0x0A9,"Capa Terciopel\n
 "
 0x0AA,"Capa Esmeralda\n
 "
@@ -278,37 +278,37 @@
 "
 0x0AD,"Capa Ninja\n
 "
-0x0AE,"Capa Ocaso\n
+0x0AE,"Capa Azabache\n
 "
-0x0AF,"Banda Brazo\n
+0x0AF,"Muñequera\n
 "
-0x0B0,"Argolla\n
+0x0B0,"Brazalete\n
 "
-0x0B1,"Nudillo Kaiser\n
+0x0B1,"Puño Kaiser\n
 "
-0x0B2,"Argolla Plata\n
+0x0B2,"Brazal Plata\n
 "
-0x0B3,"Banda Cresta\n
+0x0B3,"Brazal Blasón\n
 "
 0x0B4,"Colgante\n
 "
 0x0B5,"Amuleto Suerte\n
 "
-0x0B6,"Collar Oro\n
+0x0B6,"Collar de Oro\n
 "
 0x0B7,"Collar Mágico\n
 "
-0x0B8,"Colgante Medusa\n
+0x0B8,"Collar Medusa\n
 "
 0x0B9,"Collar Corazón\n
 "
-0x0BA,"Amuleto Codicia\n
+0x0BA,"Collar Codicia\n
 "
-0x0BB,"Broche Místico\n
+0x0BB,"Broche álmico\n
 "
-0x0BC,"Cristal de Sypha\n
+0x0BC,"Cristal Sypha\n
 "
-0x0BD,"Colgante Espejo\n
+0x0BD,"Collar Espejo\n
 "
 0x0BE,"Anillo Suerte\n
 "
@@ -320,7 +320,7 @@
 "
 0x0C2,"Anillo Nova\n
 "
-0x0C3,"Anillo Logoth\n
+0x0C3,"Anillo Logos\n
 "
 0x0C4,"Anillo Celeste\n
 "
@@ -332,35 +332,35 @@
 "
 0x0C8,"Libro Hielo\n
 "
-0x0C9,"Libro Rayo\n
+0x0C9,"Libro Trueno\n
 "
 0x0CA,"Libro Viento\n
 "
-0x0CB,"Tomo Llamado\n
+0x0CB,"Tomo Invocador\n
 "
-0x0CC,"Cola Lagarto\n
+0x0CC,"Cola de Geco\n
 "
-0x0CD,"Pluma Silfo\n
+0x0CD,"Pluma Sílfide\n
 "
 0x0CE,"Ala de Grifo\n
 "
-0x0CF,"Orbe Alma\n
+0x0CF,"Orbe de Alma\n
 "
-0x0D0,"Diario Hada\n
+0x0D0,"Diario de Hada\n
 "
 0x0D1,"Tomo Monstruos\n
 "
-0x0D2,"Ojo de Vlad\n
+0x0D2,"Ojo de Drácula\n
 "
-0x0D3,"Corazón de Vlad\n
+0x0D3,"Corazón Drácula\n
 "
-0x0D4,"Costilla Vlad\n
+0x0D4,"Costilla Drácula\n
 "
-0x0D5,"Garra de Vlad\n
+0x0D5,"Garra Drácula\n
 "
-0x0D6,"Colmillo Vlad\n
+0x0D6,"Diente Drácula\n
 "
-0x0D7,"Anillo Vlad\n
+0x0D7,"Anillo Drácula\n
 "
 0x0D8,"Candelabro\n
 "
@@ -376,13 +376,13 @@
 "
 0x0DE,"Silla\n
 "
-0x0DF,"Silla Mecedora\n
+0x0DF,"Mecedora\n
 "
 0x0E0,"Cortina Seda\n
 "
-0x0E1,"Urna Vieja\n
+0x0E1,"Urna Antigua\n
 "
-0x0E2,"Urna Mago\n
+0x0E2,"Urna del Mago\n
 "
 0x0E3,"Jarrón Bonito\n
 "
@@ -392,11 +392,11 @@
 "
 0x0E6,"Tetera\n
 "
-0x0E7,"Copa Vino\n
+0x0E7,"Copa de Vino\n
 "
 0x0E8,"Estatua Héroe\n
 "
-0x0E9,"Estatua Sonrisa\n
+0x0E9,"Estatua Riendo\n
 "
 0x0EA,"Estatua Sabio\n
 "
@@ -406,17 +406,17 @@
 "
 0x0ED,"Fonógrafo\n
 "
-0x0EE,"Ciervo Peluche\n
+0x0EE,"Ciervo Relleno\n
 "
-0x0EF,"Candelero\n
+0x0EF,"Portavelas\n
 "
-0x0F0,"Palmatoria\n
+0x0F0,"Candelero\n
 "
-0x0F1,"Baratija Plata\n
+0x0F1,"Adorno Plata\n
 "
-0x0F2,"Baratija Oro\n
+0x0F2,"Adorno de Oro\n
 "
-0x0F3,"Espejo Raro\n
+0x0F3,"Espejo Extraño\n
 "
 0x0F4,"Dibujo Castillo\n
 "
