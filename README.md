@@ -50,8 +50,15 @@ Validado: número de entradas idéntico al original en los 7 archivos, control m
 
 ## Limitaciones conocidas
 
-- Cada campo tiene un límite de longitud distinto según el archivo (14 caracteres en nombres de objeto/personaje/nombres de enemigo, ~37-40 en diálogos/descripciones, 23 en títulos de pista), heredado del tamaño de caja original del juego.
-- La fuente del juego soporta tildes, eñe (á,é,í,ó,ú,ñ,ü,Á,É,Í,Ó,Ú,Ñ,Ü) y los signos `¿`/`¡`. Parte del texto traducido antes de esta confirmación todavía carece de tildes/eñe/signos de apertura por la restricción previa; está pendiente una revisión para corregir la ortografía.
+- Cada campo tiene un límite de longitud teórico según el lo que se puede intepretar del juego original:
+
+  - 14 caracteres: nombres de objeto, personajes y enemigos
+  - ~37-40 caracteres: en diálogos, descripciones
+  - 23 caracteres: en títulos de pista
+
+- La fuente del juego soporta tildes, eñe (á,é,í,ó,ú,ñ,ü,Á,É,Í,Ó,Ú,Ñ) y los signos `¿`/`¡`.
+  - Pero en nombres de objetos y enemigos ÁÉÍÚñÑü¿¡ no está soportados porque no se ha encontrado ningún nombre con esos caracteres.
+- Los signos `¿`/`¡` todavía no se han incluido en los diálogos por limitaciones técnicas. Queda pendiente para más adelante.
 
 ## Credits
 - -SuXei999- testing
