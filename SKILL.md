@@ -54,7 +54,8 @@ Usar el resto de `references/` como material de apoyo para mantener la terminolo
 - No inventar terminología cuando los materiales de apoyo proporcionen un término aprobado o preferente.
 - Ante cualquier nombre o término dudoso, aplicar primero la jerarquía de autoridad y las correcciones/niveles de confianza de `translation-notes.md` antes que la localización inglesa original; no "corregir" nombres por intuición sin respaldo documentado.
 - No resumir, acortar, ampliar ni reescribir el contenido más allá de lo necesario para obtener una traducción precisa y natural.
-- A excepción de "Item Names" y "Enemy Names", la fuente del juego ya soporta á,é,í,ó,ú,ñ,ü y sus versiones en mayúscula (Á,É,Í,Ó,Ú,Ñ), así como los signos ¿ y ¡: usar la ortografía española correcta y natural, con tildes y eñes, pero no utilizar todavía los signos de apertura ¿ o ¡.
+- A excepción de "Item Names" y "Enemy Names", la fuente del juego ya soporta á,é,í,ó,ú,ñ,ü y sus versiones en mayúscula (Á,É,Í,Ó,Ú,Ñ), así como los signos ¿ y ¡: usar la ortografía española correcta y natural, con tildes y eñes.
+- Revisar la correcta incorporación de ¿ y del ¡ en los diálogos de eventos.
 - "Items Descriptions" no puede tener más de dos líneas de texto.
 - En el caso de "Item Names" y "Enemy Names" está permitido el uso de á,é,í,ó,ú,Ó,ñ. Estos textos aparecen en el menú con otra fuente.
 - Los archivos de `hod-texts-spanish/` traducidos antes de esta confirmación pueden contener palabras escritas sin tildes/eñe o sin signos de apertura por la restricción previa; revisarlos y corregirlos para aplicar la ortografía correcta.
