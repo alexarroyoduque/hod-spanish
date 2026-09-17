@@ -135,9 +135,9 @@ Cubriremos más terreno.\n
 Hmm...\n
 Sí, tienes razón.\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0002}{NAME 0x0001}
-Cuídate {NAMEINSERT 0x0000}.\n
+Cuídate, {NAMEINSERT 0x0000}.\n
 {WAITINPUT}{NEWCHAR}{NEXTACTION}{PORTRAIT 0x0001}{NAME 0x0000}
-Tú también, vigila tu espalda\n
+Tú también, vigila tu espalda,\n
 {NAMEINSERT 0x0001}...\n
 {WAITINPUT}{NEWCHAR}{NEXTACTION}"
 0x00E,"{PORTRAIT 0x0003}{NAME 0x0001}¡{NAMEINSERT 0x0000}! ¡Ahí estás!\n
