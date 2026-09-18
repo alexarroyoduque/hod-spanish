@@ -13,19 +13,19 @@
 "
 0x253,"??????????\n
 "
-0x254,"Cambiar objetos equipados.\n
+0x254,"Revisar equipamiento.\n
 "
-0x255,"Examinar o usar objetos.\n
+0x255,"Examinar/usar objetos.\n
 "
-0x256,"Elegir libro de hechizos.\n
+0x256,"Elegir grimorio.\n
 "
-0x257,"Activar/desactivar objetos mágicos.\n
+0x257,"On/Off objetos mágicos.\n
 "
 0x258,"Cambiar configuración de botones.\n
 "
 0x259,"???\n
 "
-0x25A,"Guardado Rápido\n
+0x25A,"Guardar ya\n
 "
 0x25B,"Esta función no se puede usar\n
 hasta guardar la partida.\n
@@ -38,8 +38,8 @@ hasta guardar la partida.\n
 "
 0x25F,"Objeto no equipado.\n
 "
-0x260,"Pulsar SELECT reiniciará\n
-la configuración del sistema.\n
+0x260,"Pulsa SELECT para\n
+reiniciar configuración.\n
 "
 0x261,"¡La configuración de\n
 controles está en conflicto!\n

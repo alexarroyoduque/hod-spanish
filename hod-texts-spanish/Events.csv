@@ -1,5 +1,5 @@
-0x00A,"Han pasado cincuenta años desde que\n
-Simon {NAMEINSERT 0x0006} venció\n
+0x00A,"Han pasado cincuenta años desde\n
+que Simon {NAMEINSERT 0x0006} venció\n
 la maldición de {NAMEINSERT 0x0007}.\n
 {WAITINPUT}{SAMECHAR}
 El destino ha dispuesto que {NAMEINSERT 0x0000}\n
@@ -51,7 +51,7 @@ nadie y sé que tú no\n
 mentirías sobre esto.\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0002}{NAME 0x0001}{NAMEINSERT 0x0000}...\n
 {NEXTACTION}
-¡¡Aaargh!!\n
+¡Aaargh!\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
 ¡¿Estás bien?!\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0002}{NAME 0x0001}
@@ -77,8 +77,8 @@ poder abrumador...\n
 {WAITINPUT}{NEWCHAR}{NEXTACTION}{PORTRAIT 0x0004}{NAME 0x0009}
 En efecto.\n
 {NAME 0x0005}{WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
-Entonces este es,\n
-en efecto, el castillo de {NAMEINSERT 0x0007}...\n
+Entonces este es, de\n
+hecho, el castillo de {NAMEINSERT 0x0007}...\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0004}{NAME 0x0005}
 Puede que así sea...\n
 pero el poder que hay\n
