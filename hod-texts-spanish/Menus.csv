@@ -5,7 +5,7 @@
 0x24D,$250
 0x24E,$400
 0x24F,$2000
-0x250," Guardar? \n
+0x250," ¿Guardar? \n
 "
 0x251," Sí \n
 "
@@ -27,10 +27,10 @@
 "
 0x25A,"Guardado Rápido\n
 "
-0x25B,"Está función no se puede usar\n
+0x25B,"Esta función no se puede usar\n
 hasta guardar la partida.\n
 "
-0x25C,"Guardado rápido ahora?\n
+0x25C,"¿Hacer guardado rápido ahora?\n
 "
 0x25D,"−−−\n
 "
@@ -41,7 +41,7 @@ hasta guardar la partida.\n
 0x260,"Pulsar SELECT reiniciará\n
 la configuración del sistema.\n
 "
-0x261,"La configuración de\n
+0x261,"¡La configuración de\n
 controles está en conflicto!\n
 "
 0x262,"Puedes ver los datos de\n
@@ -55,7 +55,7 @@ y los efectos de sonido.\n
 "
 0x265," fue usado\n
 "
-0x266,"Alzaste el brazalete de Maxim en alto.\n
+0x266,"Alzaste el brazalete de Maxim.\n
 "
 0x267,"Un gran caudal de agua se drenó.\n
 "
@@ -69,11 +69,11 @@ y los efectos de sonido.\n
 "
 0x26C,"Elige la partida a copiar.\n
 "
-0x26D,"Elige donde copiar la partida.\n
+0x26D,"Elige dónde copiar la partida.\n
 "
 0x26E,"Elige la partida a borrar.\n
 "
-0x26F,"Iniciar partida desde el inicio. \n
+0x26F,"Iniciar partida desde el principio. \n
 "
 0x270,"Continuar partida.\n
 "
@@ -97,7 +97,7 @@ y los efectos de sonido.\n
 usada en el juego. \n
 "
 0x27A,"Puedes escuchar los\n
-efectos usados en el juego.\n
+efectos de sonido del juego.\n
 "
 0x27B,   
 0x27C,"Un pasadizo se abrió en algún lugar.\n
@@ -114,7 +114,7 @@ guardado rápido ahora.\n
 Bienvenido.\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
 ?!\n
-Por qué tienes una tienda\n
+¿Por qué tienes una tienda\n
 en un lugar como este?\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0000}{NAME 0x0280}
 Bueno, siendo el mercader\n
@@ -125,7 +125,7 @@ De repente me tragó\n
 una densa niebla... y \n
 acabé aquí.\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
-Aun así, no necesitabas\n
+Aun así, no hace falta\n
 poner una tienda\n
 en un lugar como este... \n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0000}{NAME 0x0280}
@@ -137,45 +137,45 @@ sin otras opciones,\n
 abrí mi negocio\n
 justo aquí...\n
 {WAITINPUT}{SAMECHAR}
-Bueno, en qué puedo ayudarte?\n
+Bueno, ¿en qué puedo ayudarte?\n
 {WAITINPUT}{NEWCHAR}"
 0x282,"{PORTRAIT 0x0000}{NAME 0x0280}
 Nos volvemos a encontrar.\n
 Me alegra verte bien.\n
-En qué puedo ayudarte?\n
+¿En qué puedo ayudarte?\n
 {WAITINPUT}{NEWCHAR}"
 0x283,"{PORTRAIT 0x0000}{NAME 0x0280}
-Oh? Olvidaste\n
+¿Ah? ¿Olvidaste\n
 algo?\n
 {WAITINPUT}{NEWCHAR}"
 0x284,"Por favor, compra algo. \n
-Tienes dinero, no?\n
+Tienes dinero, ¿no?\n
 "
 0x285,"Si me muestras algo valioso, \n
 puedo darte monedas por ello.\n
 "
-0x286,"Ya terminaste tus asuntos \n
+0x286,"¿Ya terminaste tus asuntos \n
 conmigo?\n
 "
 0x287,"{PORTRAIT 0x0001}{NAME 0x0000}
 Vaya, qué buena habitación. \n
-Un poco sosa, quizá.\n
-Tal vez algo de muebles...\n
+Quizá un poco sosa.\n
+Tal vez, con algunos muebles...\n
 {WAITINPUT}{SAMECHAR}
-Vale, probaré a \n
+Vale, ¡probaré a \n
 poner esto justo \n
 aquí!\n
 {WAITINPUT}{NEWCHAR}"
 0x288,"{PORTRAIT 0x0001}{NAME 0x0000}
 Vaya, qué buena habitación. \n
-Un poco sosa, quizá.\n
-Tal vez algo de muebles...\n
+Quizá un poco sosa.\n
+Tal vez, con algunos muebles...\n
 {WAITINPUT}{NEWCHAR}"
 0x289,"Colocando muebles\n
 "
 0x28A,"{PORTRAIT 0x0001}{NAME 0x0000}
 Por alguna razón, las cosas \n
-se ven algo distintas a\n
+se ven algo distintas de\n
 como eran antes...\n
 {WAITINPUT}{NEWCHAR}"
 0x28B,"{PORTRAIT 0x0001}{NAME 0x0000}

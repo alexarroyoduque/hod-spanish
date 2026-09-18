@@ -149,7 +149,7 @@ Tú también, vigila tu espalda,\n
 preguntar por {NAMEINSERT 0x0004}? Tú eres\n
 uno de sus captores, ¿verdad?\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
-¿Eh? De qué demonios\n
+¿Eh? ¿De qué demonios\n
 estás hablando?\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0003}{NAME 0x0001}
 Oh, no es nada...\n
@@ -377,11 +377,11 @@ el maligno era quien más\n
 deseaba los castillos.\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
 ¡Espera! ¡¿Qué quieres decir\n
-con "dos castillos"?!\n
+con 'dos castillos'?!\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0004}{NAME 0x0005}
 Mortal ignorante... ¿No ves\n
 que este castillo tiene\n
-dos "capas"?\n
+dos 'capas'?\n
 {WAITINPUT}{SAMECHAR}
 No quiero seguir\n
 perdiendo el tiempo contigo.\n

@@ -4,16 +4,11 @@
 
 Parche de traducción del videojuego Castlevania: Harmony of Dissonance al español. Ha sido realizada con IA y posterior revisión humana.
 
-El parche solo altera los textos, no cambia gráficos por lo que textos que haya en forma de imágenes se mantienen. Esto se ha hecho así para que la traducción pueda combinarse con otros parches de mejora visual.
-
-- Se han agregado algunas descripciones que ayudan más al jugador en llaves y pistas.
+El parche solo altera los textos, no cambia gráficos por lo que textos que haya en forma de imágenes se mantienen. **Se ha hecho así para que la traducción pueda combinarse con otros parches de mejora visual.**
 
 ## ¿Cómo aplicar el parche?
-
 - Disponer de una (ROM) USA de Castlevania: Harmony of Dissonance. 
-
 - [Descargar el parche hod-spanish.ips](./hod-spanish.ips).
-
 - [Aplicar el parche](https://www.romhacking.net/patch/).
 
 ```
@@ -27,26 +22,25 @@ DSVania solo funciona con la región de USA por eso es el parche solo funciona c
 
 ## Estructura del proyecto
 
-- `references/hod-texts-original/`: textos originales en inglés (extraídos de la ROM USA con el editor [DSVania](https://www.romhacking.net/community/4318)), en formato CSV (`0xHEX,"texto"`). Es la fuente de la traducción, no se modifica. Obtenidos con DSVania.
+- `references/hod-texts-original/`: textos originales en inglés (extraídos de la ROM USA con el editor [DSVania](https://www.romhacking.net/community/4318)), en formato CSV (`0xHEX,"texto"`). Es la fuente de la traducción, no se modifica.
 - `hod-texts-spanish/`: textos traducidos al español, listos para reimportar a la ROM con DSVania. Misma estructura y códigos hex que los originales.
 - `references/` (resto de archivos): material de apoyo consultado durante la traducción (terminología, nombres correctos según el japonés original, guías de objetos/enemigos, walkthrough en español, parche de corrección de textos en inglés). No se traducen ni se modifican.
-- `SKILL.md`: definición del flujo de trabajo y las reglas de traducción seguidas (terminología, estilo, restricciones de caracteres, límites de longitud por campo).
+- `SKILL.md`: definición del flujo de trabajo y las reglas de traducción seguidas.
+- `dev`: información para desarrolladores. Explicación del proceso de desarrollo y "hackeo" de DSVania para incorporar tildes.
 
-## Estado de la traducción
-
-Todos los archivos traducibles de `references/hod-texts-original/` están traducidos y validados en `hod-texts-spanish/`:
-
-| Archivo | Contenido | Estado |
-|---|---|---|
-| Character Names.csv | Nombres de personajes | Traducido |
-| Enemy Names.csv | Nombres de enemigos | Traducido |
-| Item Names.csv | Nombres de objetos | Traducido |
-| Item Descriptions.csv | Descripciones de objetos | Traducido |
-| Menus.csv | Menús, guardado rápido, diálogo del Mercader | Traducido |
-| Events.csv | Diálogos de la historia principal | Traducido |
-| Music Names.csv | Títulos de pistas (sound test) | Sin traducir (títulos artísticos) |
-
-Validado: número de entradas idéntico al original en los 7 archivos, control markers (`{WAITINPUT}`, `{NAMEINSERT}`, etc.) preservados y sin restos de texto en inglés. Pendiente: revisión ortográfica para añadir tildes, eñe y signos de apertura ahora que la fuente del juego los soporta (ver Limitaciones conocidas).
+## Decisiones creativas
+- Se ha intentado mantener una traducción cercana al original basada en las referencias obtenidas
+- Se mantienen los nombres originales de las canciones
+- Las descripciones de algunas pistas y llaves se han adaptado para facilitar la exploración al jugador.
+  - Llave Cráneo: Abre puertas con diseño de calavera verdes. (En la descripción original no se indica el color verde)
+  - Llave Señuelo: Abre las puertas con brillo arcoiris. (En la versión original se indica un brillo dorado)
+  - JB's Bracelet: traducido como Brazalete JB.
+  - MK's Bracelet: traducido como Brazalete MK. En la conversación donde se obtiene el brazalete, Maxim indica que el objeto permite abrir una puerta, en la descripción se detalla que es la puerta con brillo ámbar.
+  - Llave compuerta: Úsala en la cabeza de león de las cuevas. (Más específica que la pista original.)
+  - Pista 1: Drena las cuevas en la cabeza de león con la llave. (Es más específico que la pista original que habla simplemente de un posible mecanismo de drenaje.)
+  - Pista 2: Los ojos de la diosa señalan un pasadizo secreto en el acueducto. (Se agrega la pisa de la zona del acueducto.)
+  - Bullet Tip: traducido como "Eco Christopher". Serías más correcto "Alma Christopher" pero hay una limitación de caracteres.
+  - Cipher's Charm: traducido como Cristal Sypha
 
 ## Limitaciones conocidas
 
@@ -56,21 +50,8 @@ Validado: número de entradas idéntico al original en los 7 archivos, control m
   - ~37-40 caracteres: en diálogos, descripciones
   - 23 caracteres: en títulos de pista
 
-- La fuente del juego soporta tildes, eñe (á,é,í,ó,ú,ñ,ü,Á,É,Í,Ó,Ú,Ñ) y los signos `¿`/`¡`.
-  - Pero en nombres de objetos y enemigos ÁÉÍÚñÑü¿¡ no está soportados porque no se ha encontrado ningún nombre con esos caracteres.
-
-## Decisiones creativas
-- Se ha intentado mantener una traducción cercana al original basada en las referencias obtenidas
-- Las descripciones de algunas pistas y llaves se han adaptado para facilitar la exploración al jugador.
-  - Llave Cráneo: Abre puertas con diseño de calavera verdes. (En la descripción original no se indica el color verde)
-  - Llave Señuelo: Abre las puertas con brillo arcoiris. (En la versión original se indica un brillo dorado)
-  - JB's Bracelet: traducido como Brazalete JB.
-  - MK's Bracelet: traducido como Brazalete MK. En la conversación donde se obtiene el brazalete Maxim indica que el objeto permite abrir una puerta, en la descripción se detalla que es la puerta con brillo ámbar.
-  - Llave compuerta: Úsala en la cabeza de león de las cuevas. (Más específica que la pista original.)
-  - Pista 1: Drena las cuevas en la cabeza de león con la llave. (Es más específico que la pista original que habla simplemente de un posible mecanismo para drenar las cuevas.)
-  - Pista 2: Los ojos de la diosa señalan un pasadizo secreto en el acueducto. (Se agrega la pisa de la zona del acueducto.)
-  - Bullet Tip: traducido como "Eco Christopher". Serías más correcto "Alma Christopher" pero hay una limitación de caracteres.
-  - Cipher's Charm: traducido como Cristal Sypha
+- La fuente del juego soporta tildes, eñe (á,é,í,ó,ú,ñ,ü,Á,É,Í,Ó,Ú,Ñ) y los signos `¿`/`¡` para diálogos y descripciones de objetos.
+- En nombres de objetos y enemigos los caracteres ÁÉÍÚñÑü¿¡ no están soportados porque no se ha encontrado ningún nombre con esas letras. Estos términos se muestran en el juego con otra fuente.
 
 ## Credits
 - -SuXei999- testing
