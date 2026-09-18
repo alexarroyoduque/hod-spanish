@@ -34,8 +34,8 @@ de {NAMEINSERT 0x0007}?\n
 {WAITINPUT}{SAMECHAR}
 Erguido solemnemente en la noche,\n
 el siniestro castillo recibe a sus\n
-inesperados huéspedes bajo\n
-la luz de la luna...\n
+inesperados huéspedes bajo la luz de\n
+la luna...-Traducción AlexArroyoDuque-\n
 {WAITINPUT}{SAMECHAR}"
 0x00B,"{PORTRAIT 0x0001}{NAME 0x0000}
 Así que de verdad crees que\n
