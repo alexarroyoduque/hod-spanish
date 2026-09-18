@@ -5,9 +5,9 @@
 0x24D,$250
 0x24E,$400
 0x24F,$2000
-0x250," ¿Guardar? \n
+0x250,"¿Guardar? \n
 "
-0x251," Sí \n
+0x251," Sí\n
 "
 0x252," No \n
 "
@@ -15,13 +15,13 @@
 "
 0x254,"Revisar equipamiento.\n
 "
-0x255,"Examinar/usar objetos.\n
+0x255,"Examinar/usar objetos\n
 "
 0x256,"Elegir grimorio.\n
 "
 0x257,"On/Off objetos mágicos.\n
 "
-0x258,"Cambiar configuración de botones.\n
+0x258,"Revisar controles.\n
 "
 0x259,"???\n
 "
@@ -41,14 +41,14 @@ hasta guardar la partida.\n
 0x260,"Pulsa SELECT para\n
 reiniciar configuración.\n
 "
-0x261,"¡La configuración de\n
-controles está en conflicto!\n
+0x261,"Los controles\n
+están en conflicto\n
 "
-0x262,"Puedes ver los datos de\n
-todos los enemigos vencidos.\n
+0x262,"Puedes ver datos de los enemigos\n
+vencidos.\n
 "
-0x263,"Puedes ver los datos de\n
-todos los muebles obtenidos.\n
+0x263,"Puedes ver los datos de muebles\n
+obtenidos.\n
 "
 0x264,"Puedes escuchar la música\n
 y los efectos de sonido.\n
@@ -65,7 +65,7 @@ y los efectos de sonido.\n
 "
 0x26A,"Cambiar ubicación de la partida.\n
 "
-0x26B,"Borrar partida.\n
+0x26B,"Borrar datos\n
 "
 0x26C,"Elige la partida a copiar.\n
 "
@@ -73,9 +73,9 @@ y los efectos de sonido.\n
 "
 0x26E,"Elige la partida a borrar.\n
 "
-0x26F,"Iniciar partida desde el principio. \n
+0x26F,"Iniciar nueva partida. \n
 "
-0x270,"Continuar partida.\n
+0x270,"Continuar.\n
 "
 0x271,"Elige la partida a cambiar.\n
 "
@@ -85,27 +85,27 @@ y los efectos de sonido.\n
 "
 0x274,"Está cerrado con magia. \n
 "
-0x275,"objeto mágico \n
+0x275,"objeto mág \n
 "
 0x276,"arma \n
 "
-0x277,"pergamino mágico \n
+0x277,"rollo mágico \n
 "
 0x278,"Obtenido \n
 "
 0x279,"Puedes escuchar la música\n
-usada en el juego. \n
+del juego. \n
 "
 0x27A,"Puedes escuchar los\n
-efectos de sonido del juego.\n
+efectos de sonido.\n
 "
 0x27B,   
 0x27C,"Un pasadizo se abrió en algún lugar.\n
 "
 0x27D,"Los restos de Drácula brillan.\n
 "
-0x27E,"No es posible hacer un\n
-guardado rápido ahora.\n
+0x27E,"No es posible hacer un guardado\n
+rápido.\n
 "
 0x27F,"Oyes máquinas moverse arriba.\n
 "
