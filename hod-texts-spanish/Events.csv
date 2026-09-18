@@ -357,7 +357,7 @@ todo. Los dos espíritus\n
 del castillo encarnan ahora\n
 el poder de mi señor.\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
-¡¿Los dos espíritus del castillo?!\n
+¡¿Los 'dos' espíritus del castillo?!\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0004}{NAME 0x0005}
 Ahora existen dos espíritus\n
 dentro de su cuerpo.\n
