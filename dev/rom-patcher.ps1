@@ -1,4 +1,3 @@
-```powershell
 # ============================================================
 # CONFIGURACION
 # ============================================================
@@ -15,20 +14,22 @@ $Parche2      = ".\visual1.2.8.ips"
 
 $ErrorActionPreference = "Stop"
 
-# flips.exe debe estar en la misma carpeta que este script
 $ScriptDir = Split-Path -Parent $MyInvocation.MyCommand.Path
+
 $Flips = Join-Path $ScriptDir "flips.exe"
 
-# Convertimos las rutas relativas en rutas absolutas
 $RomOriginal  = Join-Path $ScriptDir "rom-harmony-usa.gba"
 $RomTraducido = Join-Path $ScriptDir "built_rom_hod.gba"
 $Parche1      = Join-Path $ScriptDir "REharmonized-usa.bps"
 $Parche2      = Join-Path $ScriptDir "visual1.2.8.ips"
 
-# Directorio de salida: el mismo donde esta la ROM original
+
+# ============================================================
+# ARCHIVOS DE SALIDA
+# ============================================================
+
 $RomDir = Split-Path -Parent $RomOriginal
 
-# Archivos intermedios y finales
 $RomParche1 = Join-Path $RomDir "rom-parche1.gba"
 $RomParche2 = Join-Path $RomDir "rom-parche2.gba"
 $RomParche3 = Join-Path $RomDir "rom-parche3.gba"
@@ -43,7 +44,6 @@ $Parche3 = Join-Path $RomDir "rom-parche3.ips"
 if (-not (Test-Path $Flips)) {
     Write-Host ""
     Write-Host "ERROR: No se encuentra flips.exe"
-    Write-Host "Ruta esperada:"
     Write-Host $Flips
     exit 1
 }
@@ -81,13 +81,13 @@ if (-not (Test-Path $Parche2)) {
 # LIMPIEZA PREVIA
 # ============================================================
 
-# Borrar resultados/intermedios anteriores
 foreach ($Archivo in @(
     $RomParche1,
     $RomParche2,
     $RomParche3,
     $Parche3
 )) {
+
     if (Test-Path $Archivo) {
         Remove-Item $Archivo -Force
     }
@@ -97,9 +97,7 @@ foreach ($Archivo in @(
 try {
 
     # ========================================================
-    # PASO 1
-    # GENERAR rom-parche3.ips
-    # comparando la ROM original con la ROM traducida
+    # 1. GENERAR PARCHE 3 IPS
     # ========================================================
 
     Write-Host ""
@@ -112,110 +110,103 @@ try {
     Write-Host "Parche salida: $Parche3"
     Write-Host ""
 
-    & "$Flips" --create "$RomOriginal" "$RomTraducido" "$Parche3"
+    & $Flips --create $RomOriginal $RomTraducido $Parche3
 
-    $CodigoSalida = $LASTEXITCODE
 
-    if ($CodigoSalida -ne 0) {
-        throw "Error generando rom-parche3.ips. Codigo de salida: $CodigoSalida"
-    }
+    # Esperar un poco por si Flips tarda en escribir el archivo
+    Start-Sleep -Milliseconds 500
+
 
     if (-not (Test-Path $Parche3)) {
-        throw "flips.exe termino sin error, pero no se ha generado rom-parche3.ips"
+        throw "No se ha generado rom-parche3.ips"
     }
 
+    if ((Get-Item $Parche3).Length -eq 0) {
+        throw "rom-parche3.ips se ha generado pero esta vacio"
+    }
+
+    Write-Host ""
     Write-Host "OK: rom-parche3.ips generado correctamente."
+    Write-Host "Tamano: $((Get-Item $Parche3).Length) bytes"
 
 
     # ========================================================
-    # PASO 2
-    # APLICAR PARCHE 1 BPS
+    # 2. APLICAR PARCHE 1 BPS
     # ========================================================
 
     Write-Host ""
     Write-Host "========================================"
-    Write-Host "2. APLICANDO PARCHE 1"
+    Write-Host "2. APLICANDO REharmonized-usa.bps"
     Write-Host "========================================"
 
-    Write-Host "Parche:"
-    Write-Host $Parche1
+    Write-Host "Entrada : $RomOriginal"
+    Write-Host "Parche  : $Parche1"
+    Write-Host "Salida  : $RomParche1"
     Write-Host ""
 
-    & "$Flips" --apply "$Parche1" "$RomOriginal" "$RomParche1"
+    & $Flips --apply $Parche1 $RomOriginal $RomParche1
 
-    $CodigoSalida = $LASTEXITCODE
-
-    if ($CodigoSalida -ne 0) {
-        throw "Error aplicando REharmonized-usa.bps. Codigo: $CodigoSalida"
-    }
+    Start-Sleep -Milliseconds 500
 
     if (-not (Test-Path $RomParche1)) {
         throw "No se ha generado rom-parche1.gba"
     }
 
+    Write-Host ""
     Write-Host "OK: rom-parche1.gba generado."
 
 
     # ========================================================
-    # PASO 3
-    # APLICAR PARCHE 2 IPS
+    # 3. APLICAR PARCHE 2 IPS
     # ========================================================
 
     Write-Host ""
     Write-Host "========================================"
-    Write-Host "3. APLICANDO PARCHE 2"
+    Write-Host "3. APLICANDO visual1.2.8.ips"
     Write-Host "========================================"
 
-    Write-Host "Parche:"
-    Write-Host $Parche2
+    Write-Host "Entrada : $RomParche1"
+    Write-Host "Parche  : $Parche2"
+    Write-Host "Salida  : $RomParche2"
     Write-Host ""
 
-    & "$Flips" --apply "$Parche2" "$RomParche1" "$RomParche2"
+    & $Flips --apply $Parche2 $RomParche1 $RomParche2
 
-    $CodigoSalida = $LASTEXITCODE
-
-    if ($CodigoSalida -ne 0) {
-        throw "Error aplicando visual1.2.8.ips. Codigo: $CodigoSalida"
-    }
+    Start-Sleep -Milliseconds 500
 
     if (-not (Test-Path $RomParche2)) {
         throw "No se ha generado rom-parche2.gba"
     }
 
+    Write-Host ""
     Write-Host "OK: rom-parche2.gba generado."
 
 
     # ========================================================
-    # PASO 4
-    # APLICAR PARCHE 3 IPS GENERADO
+    # 4. APLICAR PARCHE 3 IPS
     # ========================================================
 
     Write-Host ""
     Write-Host "========================================"
-    Write-Host "4. APLICANDO PARCHE 3"
+    Write-Host "4. APLICANDO rom-parche3.ips"
     Write-Host "========================================"
 
-    Write-Host "Parche:"
-    Write-Host $Parche3
+    Write-Host "Entrada : $RomParche2"
+    Write-Host "Parche  : $Parche3"
+    Write-Host "Salida  : $RomParche3"
     Write-Host ""
 
-    & "$Flips" --apply "$Parche3" "$RomParche2" "$RomParche3"
+    & $Flips --apply $Parche3 $RomParche2 $RomParche3
 
-    $CodigoSalida = $LASTEXITCODE
-
-    if ($CodigoSalida -ne 0) {
-        throw "Error aplicando rom-parche3.ips. Codigo: $CodigoSalida"
-    }
+    Start-Sleep -Milliseconds 500
 
     if (-not (Test-Path $RomParche3)) {
         throw "No se ha generado rom-parche3.gba"
     }
 
-    Write-Host "OK: rom-parche3.gba generado."
-
 
     # ========================================================
-    # RESULTADO FINAL
+    # RESULTADO
     # ========================================================
 
     Write-Host ""
@@ -224,12 +215,13 @@ try {
     Write-Host "========================================"
     Write-Host ""
 
-    Write-Host "Parche 3 generado:"
+    Write-Host "Parche generado:"
     Write-Host $Parche3
 
     Write-Host ""
     Write-Host "ROM final:"
     Write-Host $RomParche3
+
     Write-Host ""
 
 }
@@ -247,7 +239,7 @@ catch {
 finally {
 
     # ========================================================
-    # LIMPIEZA DE ARCHIVOS INTERMEDIOS
+    # ELIMINAR ARCHIVOS INTERMEDIOS
     # ========================================================
 
     Write-Host ""
@@ -264,4 +256,3 @@ finally {
     Write-Host "Limpieza terminada."
     Write-Host ""
 }
-```
