@@ -7,15 +7,36 @@ $RomTraducido        = ".\built_rom_hod.gba"
 $ParcheREharmonized  = ".\REharmonized-usa.bps"
 $ParcheVisual        = ".\visual1.2.8.ips"
 
+$ParcheTraduccion    = ".\spanish.ips"
+
+$RomParche1          = ".\rom-parche1.gba"
+$RomParche2          = ".\rom-parche2.gba"
+
+$RomFinal            = ".\rom-reharmonized-visual-spanish.gba"
+
 
 # ============================================================
-# ARCHIVOS GENERADOS
+# FUNCION DE ESPERA
 # ============================================================
 
-$ParcheTraduccion = ".\spanish.ips"
-$RomParche1       = ".\rom-parche1.gba"
-$RomParche2       = ".\rom-parche2.gba"
-$RomFinal         = ".\rom-reharmonized-visual-spanish.gba"
+function Esperar-Archivo($Ruta) {
+
+    for ($i = 0; $i -lt 100; $i++) {
+
+        if (Test-Path $Ruta) {
+
+            $Tamano = (Get-Item $Ruta).Length
+
+            if ($Tamano -gt 0) {
+                return
+            }
+        }
+
+        Start-Sleep -Milliseconds 100
+    }
+
+    throw "No se genero correctamente el archivo: $Ruta"
+}
 
 
 # ============================================================
@@ -28,81 +49,130 @@ Remove-Item $RomParche2       -Force -ErrorAction SilentlyContinue
 Remove-Item $RomFinal         -Force -ErrorAction SilentlyContinue
 
 
-# ============================================================
-# 1. GENERAR PARCHE DE TRADUCCION
-# ============================================================
+try {
 
-Write-Host ""
-Write-Host "Generando spanish.ips..."
+    # ========================================================
+    # 1. GENERAR PARCHE DE TRADUCCION
+    # ========================================================
 
-.\flips.exe --create `
-    "$RomOriginal" `
-    "$RomTraducido" `
-    "$ParcheTraduccion"
+    Write-Host ""
+    Write-Host "========================================"
+    Write-Host "1. GENERANDO spanish.ips"
+    Write-Host "========================================"
+    Write-Host ""
 
+    .\flips.exe --create `
+        "$RomOriginal" `
+        "$RomTraducido" `
+        "$ParcheTraduccion"
 
-# ============================================================
-# 2. APLICAR REHARMONIZED
-# ============================================================
+    Esperar-Archivo $ParcheTraduccion
 
-Write-Host ""
-Write-Host "Aplicando REharmonized..."
-
-.\flips.exe --apply `
-    "$ParcheREharmonized" `
-    "$RomOriginal" `
-    "$RomParche1"
+    Write-Host "OK: spanish.ips generado"
+    Write-Host ""
 
 
-# ============================================================
-# 3. APLICAR VISUAL
-# ============================================================
+    # ========================================================
+    # 2. APLICAR REHARMONIZED
+    # ========================================================
 
-Write-Host ""
-Write-Host "Aplicando Visual..."
+    Write-Host "========================================"
+    Write-Host "2. APLICANDO REharmonized"
+    Write-Host "========================================"
+    Write-Host ""
 
-.\flips.exe --apply `
-    "$ParcheVisual" `
-    "$RomParche1" `
-    "$RomParche2"
+    .\flips.exe --apply `
+        "$ParcheREharmonized" `
+        "$RomOriginal" `
+        "$RomParche1"
 
+    Esperar-Archivo $RomParche1
 
-# ============================================================
-# 4. APLICAR PARCHE DE TRADUCCION
-# ============================================================
-
-Write-Host ""
-Write-Host "Aplicando spanish.ips..."
-
-.\flips.exe --apply `
-    "$ParcheTraduccion" `
-    "$RomParche2" `
-    "$RomFinal"
+    Write-Host "OK: rom-parche1.gba generado"
+    Write-Host ""
 
 
-# ============================================================
-# 5. BORRAR ARCHIVOS INTERMEDIOS
-# ============================================================
+    # ========================================================
+    # 3. APLICAR VISUAL
+    # ========================================================
 
-Write-Host ""
-Write-Host "Eliminando archivos intermedios..."
+    Write-Host "========================================"
+    Write-Host "3. APLICANDO visual1.2.8.ips"
+    Write-Host "========================================"
+    Write-Host ""
 
-Remove-Item $RomParche1 -Force -ErrorAction SilentlyContinue
-Remove-Item $RomParche2 -Force -ErrorAction SilentlyContinue
+    .\flips.exe --apply `
+        "$ParcheVisual" `
+        "$RomParche1" `
+        "$RomParche2"
+
+    Esperar-Archivo $RomParche2
+
+    Write-Host "OK: rom-parche2.gba generado"
+    Write-Host ""
 
 
-# ============================================================
-# FIN
-# ============================================================
+    # ========================================================
+    # 4. APLICAR TRADUCCION
+    # ========================================================
 
-Write-Host ""
-Write-Host "============================================="
-Write-Host "Proceso terminado."
-Write-Host "============================================="
-Write-Host ""
-Write-Host "Parche de traduccion:"
-Write-Host $ParcheTraduccion
-Write-Host ""
-Write-Host "ROM final:"
-Write-Host $RomFinal
-Write-Host ""
+    Write-Host "========================================"
+    Write-Host "4. APLICANDO spanish.ips"
+    Write-Host "========================================"
+    Write-Host ""
+
+    .\flips.exe --apply `
+        "$ParcheTraduccion" `
+        "$RomParche2" `
+        "$RomFinal"
+
+    Esperar-Archivo $RomFinal
+
+    Write-Host "OK: ROM final generada"
+    Write-Host ""
+
+
+    # ========================================================
+    # RESULTADO
+    # ========================================================
+
+    Write-Host "========================================"
+    Write-Host "PROCESO TERMINADO CORRECTAMENTE"
+    Write-Host "========================================"
+    Write-Host ""
+
+    Write-Host "Parche de traduccion:"
+    Write-Host $ParcheTraduccion
+    Write-Host ""
+
+    Write-Host "ROM final:"
+    Write-Host $RomFinal
+    Write-Host ""
+
+}
+catch {
+
+    Write-Host ""
+    Write-Host "========================================"
+    Write-Host "ERROR"
+    Write-Host "========================================"
+    Write-Host ""
+
+    Write-Host $_.Exception.Message
+    Write-Host ""
+
+}
+finally {
+
+    # ========================================================
+    # BORRAR ARCHIVOS INTERMEDIOS
+    # ========================================================
+
+    Write-Host "Eliminando archivos intermedios..."
+
+    Remove-Item $RomParche1 -Force -ErrorAction SilentlyContinue
+    Remove-Item $RomParche2 -Force -ErrorAction SilentlyContinue
+
+    Write-Host "Limpieza terminada."
+    Write-Host ""
+}
