@@ -1,23 +1,252 @@
 Harmony of Dissonance (USA) - Spanish chars v9.2
+Technical mapping / maintenance reference
 
-Corrección específica de la ñ minúscula.
+Base ROM
+--------
+Game: Castlevania: Harmony of Dissonance (USA)
+Game code: ACHE
+ROM size: 8 MiB
+CRC32: 88C1B562
 
-La v9.1 ya asociaba correctamente:
-ñ = 0x819A
+Purpose
+-------
+This patch adds the Spanish characters required by the translation while keeping
+the menu/small-font changes as limited as possible.
 
-pero el bitmap dibujado tenía apariencia de Ñ mayúscula.
+There are two separate rendering paths:
 
-v9.2 mantiene el mismo código y la misma ruta, y cambia únicamente el dibujo:
-- fuente pequeña / menú: 0x4962E2-0x4962E8
-- fuente grande / diálogos: 0x4967F4-0x4967FF
+1. Large font / dialogue text
+2. Small font / menu and item names
 
-Los nuevos glifos parten de la n minúscula original de HoD y añaden la virgulilla.
+A character may therefore work in dialogue but not in item/menu text unless it
+also has a valid small-font mapping.
 
-Archivos:
-- hod_spanish_chars_v9_2_lowercase_n.ips
-  Parche completo. Aplicar sobre ROM USA limpia CRC32 88C1B562.
-- hod_spanish_v9_1_fix_lowercase_n.ips
-  Add-on mínimo si ya tienes aplicada la v9.1.
+Current supported characters
+----------------------------
 
-No necesitas cambiar text.rb:
-ñ sigue siendo 0x819A.
+Large font / dialogue:
+  á é í ó ú ü ñ
+  Á É Í Ó Ú Ñ
+  ¿ ¡
+
+Small font / menu:
+  á é í ó ú Ó ñ
+
+Characters intentionally NOT added to the small/menu font:
+  Á É Í Ú ü Ñ ¿ ¡
+
+These are not currently required by the expected item/menu names, so they are
+kept dialogue-only to avoid sacrificing more original menu symbols.
+
+Character mapping
+-----------------
+
+Menu + dialogue:
+
+  Ó = 0x827A
+      small-font index: 0x1A
+
+  á = 0x829C
+      small-font index: 0x3B
+
+  é = 0x829D
+      small-font index: 0x3C
+
+  í = 0x829E
+      small-font index: 0x3D
+
+  ó = 0x829F
+      small-font index: 0x3E
+
+  ú = 0x82A0
+      small-font index: 0x3F
+
+  ñ = 0x819A
+      reuses the original star-symbol slot
+      available in large and small font
+
+Dialogue-only:
+
+  Á = 0x82A4
+  É = 0x82A5
+  Í = 0x82A6
+  Ú = 0x82A8
+  Ñ = 0x82A9
+  ¡ = 0x82AE
+  ¿ = 0x82B0
+  ü = 0x82B8
+
+Important:
+  Ü is not mapped.
+  The lowercase ñ remains encoded as 0x819A.
+
+Small-font renderer changes
+---------------------------
+
+The menu renderer originally accepts only the normal Latin ranges.
+
+The patch extends the accepted ranges just enough for the Spanish menu
+characters:
+
+  ROM 0x143DC:
+    CMP #0x19 -> CMP #0x1A
+
+  ROM 0x14404:
+    CMP #0x19 -> CMP #0x1F
+
+Resulting additional menu mappings:
+
+  0x827A -> index 0x1A -> Ó
+
+  0x829B -> index 0x3A -> EMPTY / FALLBACK
+  0x829C -> index 0x3B -> á
+  0x829D -> index 0x3C -> é
+  0x829E -> index 0x3D -> í
+  0x829F -> index 0x3E -> ó
+  0x82A0 -> index 0x3F -> ú
+
+The small-font index 0x3A MUST remain untouched.
+It is used as an empty/fallback glyph by the menu renderer.
+
+Lowercase ñ
+-----------
+
+ñ uses:
+
+  code: 0x819A
+
+This code originally points to the star-symbol slot.
+
+v9.2 corrects the glyph so that it is visually a lowercase ñ, not an uppercase
+Ñ-like shape.
+
+Small/menu font:
+  bitmap: 0x4962E2-0x4962E8
+
+Large/dialogue font:
+  entry code: 0x819A
+  bitmap: 0x4967F4-0x4967FF
+
+The v9.2 glyphs are based on HoD's original lowercase n and add a tilde above it.
+
+Trade-off:
+  The original star symbol that occupied 0x819A is no longer available in that
+  position because it has been repurposed as ñ.
+
+Large-font structure
+--------------------
+
+The large font begins around:
+
+  0x496314
+
+Relevant entries use this structure:
+
+  +0x00  character code byte 1
+  +0x01  character code byte 2
+  +0x02  bitmap row 0
+  ...
+  +0x0D  bitmap row 11
+
+Total:
+  14 bytes per entry
+  2 bytes code + 12 bytes bitmap
+
+Do not assume that a character offset can be calculated safely from a simple
+linear character index. Locate the actual code entry first and modify only its
+bitmap.
+
+Small-font structure
+--------------------
+
+The menu font is a different structure and must not be treated as the large
+font.
+
+The important rule for maintenance is:
+
+  text code -> menu renderer -> small-font index -> glyph bitmap
+
+A character that renders correctly in dialogue does not automatically render
+correctly in an item name.
+
+Before adding a new menu character:
+
+1. Confirm the code reaches a unique small-font index.
+2. Confirm it does not resolve to index 0x3A.
+3. Confirm the target small-font slot can safely be reused.
+4. Draw the glyph in that exact slot.
+5. Update text.rb with the same code.
+6. Test the character in an actual item/menu context.
+
+DSVEdit / text.rb
+-----------------
+
+The modified DSVEdit text.rb must use exactly the same character codes as this
+mapping.
+
+Most importantly:
+
+  ñ = 0x819A
+
+The patch and text.rb must always be kept synchronized.
+
+If text.rb maps a character to one code while the ROM patch draws it at another
+code, DSVEdit may save successfully but the game will render the wrong glyph.
+
+Recommended test strings
+------------------------
+
+Dialogue:
+
+  áéíóú ü ñ
+  ÁÉÍÓÚ Ñ
+  ¿Qué ocurrió aquí? ¡Bien!
+
+Menu / item names:
+
+  Poción
+  Corazón
+  items containing ñ, if applicable
+
+Check all of the following:
+
+1. DSVEdit accepts and saves the character.
+2. The character renders correctly in dialogue.
+3. Menu-supported characters render correctly in item names.
+4. Spaces and empty menu cells remain empty.
+5. Reopening the text in DSVEdit decodes the character correctly.
+
+Compatibility notes
+-------------------
+
+The Spanish character support was designed to remain independent from the
+translation text patch.
+
+It has also been checked separately against the technical changes of:
+
+  - REharmonized (USA)
+  - CV HOD Visual Improvement V1.2.8
+
+However, compatibility of a COMPLETE translation patch must be verified again
+when all translated text and pointers are finalized.
+
+Maintenance rules
+-----------------
+
+1. Do not modify small-font index 0x3A.
+2. Do not add menu characters unless a real menu/item string needs them.
+3. Keep text.rb and this mapping synchronized.
+4. Keep the Spanish glyph patch separate from translated text while developing.
+5. When changing a code, verify both large-font and small-font behavior.
+6. After changing the menu font, test spaces/fallbacks as well as accented text.
+7. Keep the clean USA ROM (CRC32 88C1B562) as the canonical development base.
+
+Current version
+---------------
+ñ remains 0x819A, but its large and small bitmaps are explicitly drawn as
+lowercase ñ.
+
+Files normally used with this mapping:
+  hod_spanish_chars.ips
+  text.rb
+  hod_spanish_chars_mapping.txt
