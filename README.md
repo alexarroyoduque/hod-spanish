@@ -7,7 +7,7 @@ Parche de traducción del videojuego Castlevania: Harmony of Dissonance al espa�
 El parche solo altera los textos, no cambia gráficos por lo que textos que haya en forma de imágenes se mantienen. **Se ha hecho así para que la traducción pueda combinarse con otros parches de mejora visual.**
 
 ## ¿Cómo aplicar el parche?
-- Disponer de una (ROM) USA de Castlevania: Harmony of Dissonance. 
+- Disponer de una (ROM) USA de Castlevania: Harmony of Dissonance. (DSVania solo funciona la ROM USA por eso el parche solo es compatible con esta región).
 - [Descargar el parche hod-spanish.ips](./hod-spanish.ips).
 - [Aplicar el parche](https://www.romhacking.net/patch/).
 
@@ -18,7 +18,16 @@ File/ROM SHA-1: B90DA0D9BE0B3A0893CD9E2C399056BCF9579E21
 File/ROM CRC32: 88C1B562
 ```
 
-DSVania solo funciona con la región de USA por eso es el parche solo funciona con esta región.
+### Compatibilidad con Visual Improvement (Pemburu Vampir)
+Se ha intentado que exista un único parche de traducción pero al combinarlo con Visual Improvement aparecián errores que eran dificiles de corregir. Esto es debido a que para agregar tildes y caracteres del español ha sido necesario alterar la fuente gráfica del juego chocando con el parche visual.
+Para poder disfrutar de la traducción se ha creado el parche de compatibilidad.
+- Primero debe aplicarse el parche Visual Improvement
+- Segundo aplicar el [parche hod-spanish-compatibility-visual-improvement1.2.8.ips](./hod-spanish-compatibility-visual-improvement1.2.8.ips) al resultado anterior
+
+Si se desea combinar con REharmonized el orden de aplicación de parches sería:
+- REharmonized
+- Visual Improvement
+- hod-spanish-compatibility-visual-improvement1.2.8
 
 ## Estructura del proyecto
 
@@ -26,14 +35,16 @@ DSVania solo funciona con la región de USA por eso es el parche solo funciona c
 - `hod-texts-spanish/`: textos traducidos al español, listos para reimportar a la ROM con DSVania. Misma estructura y códigos hex que los originales.
 - `references/` (resto de archivos): material de apoyo consultado durante la traducción (terminología, nombres correctos según el japonés original, guías de objetos/enemigos, walkthrough en español, parche de corrección de textos en inglés). No se traducen ni se modifican.
 - `SKILL.md`: definición del flujo de trabajo y las reglas de traducción seguidas.
-- `dev`: información para desarrolladores. Explicación del proceso de desarrollo y "hackeo" de DSVania para incorporar tildes.
+- `dev`: información para desarrolladores. Explicación del proceso de desarrollo y "hackeo" de DSVania para incorporar tildes. Incluye el .ips para agregar tildes a la ROM original.
 
 ## Decisiones creativas
 - Se ha intentado mantener una traducción cercana al original basada en las referencias obtenidas
 - Se mantienen los nombres originales de las canciones
 - Las descripciones de algunas pistas y llaves se han adaptado para facilitar la exploración al jugador:
   - Llave Cráneo: Abre puertas con diseño de calavera verdes. (Originalmente no se indica el color verde)
-  - Llave Portal: Abre las puertas con brillo arcoiris. (Originalmente se indica un brillo dorado)
+  - Llave Portal
+    - Lure Key: en versión original. Lure viene a significar "señuelo" o "atraer", esa atracción evoca como el portal te traspasa de un castillo a otro. En español "Llave Señuelo" no encaja demasiado.
+    - Abre las puertas con brillo arcoiris. (Originalmente se indica un brillo dorado).
   - JB's Bracelet: traducido como Brazalete JB.
   - MK's Bracelet: traducido como Brazalete MK. En la conversación donde se obtiene el brazalete, Maxim indica que el objeto permite abrir una puerta, en la descripción se detalla que es la puerta con brillo ámbar.
   - Llave compuerta: Úsala en la cabeza de león de las cuevas. (Más específica que la pista original.)
@@ -41,6 +52,12 @@ DSVania solo funciona con la región de USA por eso es el parche solo funciona c
   - Pista 2: Los ojos de la diosa señalan un pasadizo secreto en el acueducto. (Se agrega la pisa de la zona del acueducto.)
   - Bullet Tip: traducido como "Eco Christopher". Sería más correcto "Alma Christopher" pero hay una limitación de caracteres.
   - Cipher's Charm: traducido como Cristal Sypha.
+  - Crushing Stone: Traducido como Demoledora. Es la modificación del látigo que rompe muros.
+  - Red Stone: Las modificaciones del látigo con esta estructura se traducen como Gema Roja.
+  - Walk Armor: tradudcido como Cota Errante.
+  - Crush Boots: Bota de Choque. Son las botas que rompen techos.
+  - Floating Boots: Botas aladas, te permiten flotar.
+  - Velvet Cloak: Capa de Ante. Sería más correcto "Capa Terciopelo" pero no entra.
 
 ## Limitaciones técnicas
 
