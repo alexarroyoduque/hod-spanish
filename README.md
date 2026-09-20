@@ -32,25 +32,22 @@ DSVania solo funciona con la región de USA por eso es el parche solo funciona c
 - Se ha intentado mantener una traducción cercana al original basada en las referencias obtenidas
 - Se mantienen los nombres originales de las canciones
 - Las descripciones de algunas pistas y llaves se han adaptado para facilitar la exploración al jugador:
-  - Llave Cráneo: Abre puertas con diseño de calavera verdes. (En la descripción original no se indica el color verde)
-  - Llave Señuelo: Abre las puertas con brillo arcoiris. (En la versión original se indica un brillo dorado)
+  - Llave Cráneo: Abre puertas con diseño de calavera verdes. (Originalmente no se indica el color verde)
+  - Llave Portal: Abre las puertas con brillo arcoiris. (Originalmente se indica un brillo dorado)
   - JB's Bracelet: traducido como Brazalete JB.
   - MK's Bracelet: traducido como Brazalete MK. En la conversación donde se obtiene el brazalete, Maxim indica que el objeto permite abrir una puerta, en la descripción se detalla que es la puerta con brillo ámbar.
   - Llave compuerta: Úsala en la cabeza de león de las cuevas. (Más específica que la pista original.)
   - Pista 1: Drena las cuevas en la cabeza de león con la llave. (Es más específico que la pista original que habla simplemente de un posible mecanismo de drenaje.)
   - Pista 2: Los ojos de la diosa señalan un pasadizo secreto en el acueducto. (Se agrega la pisa de la zona del acueducto.)
   - Bullet Tip: traducido como "Eco Christopher". Sería más correcto "Alma Christopher" pero hay una limitación de caracteres.
-  - Cipher's Charm: traducido como Cristal Sypha
+  - Cipher's Charm: traducido como Cristal Sypha.
 
 ## Limitaciones técnicas
 
 - Cada campo tiene un límite de longitud teórico según el lo que se puede intepretar del juego original:
-
   - 14 caracteres: nombres de objeto, personajes y enemigos
   - ~37-40 caracteres: en diálogos, descripciones
   - 23 caracteres: en títulos de pista
-  - Al probar el juego con parches como REharmonized + Visual Improvement se ha detectado que los textos de menú fallan si se sobrepasa la logintud original por lo que se han tenido que ajustar algunos términos. Esto también se ha visto en algunos diálogos. (Por ejemplo el primer "Aaargh!!" de Maxim si se traduce como "¡¡Aaargh!!" ocupando 2 espacios más no se visualiza bien después, por lo que se ha optado por "¡Aaargh!") 
-
 - La fuente del juego parcheada agrega tildes (á,é,í,ó,ú,ñ,ü,Á,É,Í,Ó,Ú,Ñ), eñe  y los signos `¿`/`¡` para diálogos y descripciones de objetos.
 - En nombres de objetos y enemigos los caracteres ÁÉÍÚñÑü¿¡ no están soportados porque no se ha encontrado ningún elemento con esas letras. Estos términos se muestran en el juego con otra fuente.
 
