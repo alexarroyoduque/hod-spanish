@@ -1,39 +1,23 @@
-Harmony of Dissonance (USA) - Spanish font v9
-Base ROM CRC32: 88C1B562
+Harmony of Dissonance (USA) - Spanish chars v9.2
 
-v9 principle:
-- Keeps the simplified v8 menu support.
-- Adds lowercase ñ to the small/menu font.
-- Menu support is now limited to: á é í ó ú Ó ñ.
-- Á É Í Ú ü Ñ ¿ ¡ remain dialogue-only.
-- Small-font blank/fallback index 0x3A remains untouched.
-- Only one menu symbol is sacrificed for ñ: the star symbol at code 0x819A.
+Corrección específica de la ñ minúscula.
 
-Menu + dialogue mapping:
-Ó = 0x827A | small idx 0x1A
-á = 0x829C | small idx 0x3B
-é = 0x829D | small idx 0x3C
-í = 0x829E | small idx 0x3D
-ó = 0x829F | small idx 0x3E
-ú = 0x82A0 | small idx 0x3F
-ñ = 0x819A | reuses the star-symbol slot in large and small fonts
+La v9.1 ya asociaba correctamente:
+ñ = 0x819A
 
-Dialogue-only mapping:
-Á = 0x82A4
-É = 0x82A5
-Í = 0x82A6
-Ú = 0x82A8
-Ñ = 0x82A9
-¡ = 0x82AE
-¿ = 0x82B0
-ü = 0x82B8
+pero el bitmap dibujado tenía apariencia de Ñ mayúscula.
 
-Renderer patches inherited from v8:
-ROM 0x143DC: CMP #0x19 -> CMP #0x1A
-ROM 0x14404: CMP #0x19 -> CMP #0x1F
+v9.2 mantiene el mismo código y la misma ruta, y cambia únicamente el dibujo:
+- fuente pequeña / menú: 0x4962E2-0x4962E8
+- fuente grande / diálogos: 0x4967F4-0x4967FF
 
-Important:
-- The original star symbol mapped by 0x819A is no longer available in the menu/dialogue font; it is used for ñ.
-- ¿ and ¡ remain dialogue-only by design.
-- Apply directly to the clean USA ROM; do not stack v3-v8 first.
-- Use text_hod_spanish_v9.rb as DSVEdit/dsvlib/text.rb (rename to text.rb).
+Los nuevos glifos parten de la n minúscula original de HoD y añaden la virgulilla.
+
+Archivos:
+- hod_spanish_chars_v9_2_lowercase_n.ips
+  Parche completo. Aplicar sobre ROM USA limpia CRC32 88C1B562.
+- hod_spanish_v9_1_fix_lowercase_n.ips
+  Add-on mínimo si ya tienes aplicada la v9.1.
+
+No necesitas cambiar text.rb:
+ñ sigue siendo 0x819A.

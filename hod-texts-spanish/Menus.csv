@@ -17,15 +17,15 @@
 "
 0x255,"Examinar/usar objetos\n
 "
-0x256,"Elegir grimorio.\n
+0x256,"Elegir libro de hechizos.\n
 "
-0x257,"On/Off objetos mágicos.\n
+0x257,"Activar/desactivar objetos mágicos.\n
 "
 0x258,"Revisar controles.\n
 "
 0x259,"???\n
 "
-0x25A,"Guardar ya\n
+0x25A,"Guardado Rápido\n
 "
 0x25B,"Esta función no se puede usar\n
 hasta guardar la partida.\n
@@ -38,11 +38,11 @@ hasta guardar la partida.\n
 "
 0x25F,"Objeto no equipado.\n
 "
-0x260,"Pulsa SELECT para\n
-reiniciar configuración.\n
+0x260,"Pulsa SELECT para volver\n
+a configuración por defecto.\n
 "
-0x261,"Los controles\n
-están en conflicto\n
+0x261,"La configuración de controles\n
+está en conflicto\n
 "
 0x262,"Puedes ver datos de los enemigos\n
 vencidos.\n
@@ -65,7 +65,7 @@ y los efectos de sonido.\n
 "
 0x26A,"Cambiar ubicación de la partida.\n
 "
-0x26B,"Borrar datos\n
+0x26B,"Borrar partida.\n
 "
 0x26C,"Elige la partida a copiar.\n
 "
@@ -85,7 +85,7 @@ y los efectos de sonido.\n
 "
 0x274,"Está cerrado con magia. \n
 "
-0x275,"objeto mág \n
+0x275,"objeto mágico \n
 "
 0x276,"arma \n
 "
@@ -105,7 +105,7 @@ efectos de sonido.\n
 0x27D,"Los restos de Drácula brillan.\n
 "
 0x27E,"No es posible hacer un guardado\n
-rápido.\n
+rápido en este momento.\n
 "
 0x27F,"Oyes máquinas moverse arriba.\n
 "

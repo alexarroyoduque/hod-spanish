@@ -1,6 +1,6 @@
 0x022,"Poción\n
 "
-0x023,"Poción Mayor\n
+0x023,"Poción+\n
 "
 0x024,"Elixir\n
 "
@@ -18,7 +18,7 @@
 "
 0x02B,"Invencible\n
 "
-0x02C,"Llave Señuelo\n
+0x02C,"Llave Portal\n
 "
 0x02D,"Llave Cráneo\n
 "
@@ -54,23 +54,23 @@
 "
 0x03D,"Diamante\n
 "
-0x03E,"Piedra Machaca\n
+0x03E,"Demoledora\n
 "
 0x03F,"Punta Acero\n
 "
 0x040,"Punta Platino\n
 "
-0x041,"Círculo Energía\n
+0x041,"Poder Orbital\n
 "
 0x042,"Eco Christopher\n
 "
-0x043,"Piedra Roja\n
+0x043,"Gema Roja\n
 "
-0x044,"Piedra Azul\n
+0x044,"Gema Azul\n
 "
-0x045,"Piedra Amarilla\n
+0x045,"Gema Amarilla\n
 "
-0x046,"Piedra Verde\n
+0x046,"Gema Verde\n
 "
 0x047,"Armadura Cuero\n
 "
@@ -162,7 +162,7 @@
 "
 0x073,"Brazalete MK\n
 "
-0x074,"Botas Choque\n
+0x074,"Bota de Choque\n
 "
 0x075,"Bandana\n
 "
@@ -260,7 +260,7 @@
 "
 0x0A4,"Botas Plata\n
 "
-0x0A5,"Botas Flotan\n
+0x0A5,"Botas Aladas\n
 "
 0x0A6,"Zueco Platino\n
 "
@@ -268,7 +268,7 @@
 "
 0x0A8,"Capa de Seda\n
 "
-0x0A9,"Capa Terciopel\n
+0x0A9,"Capa de Ante\n
 "
 0x0AA,"Capa Esmeralda\n
 "
