@@ -1,18 +1,25 @@
 # ============================================================
+# INSTALL flips.exe https://www.romhacking.net/utilities/1040/
+# ============================================================
+
+# ============================================================
 # CONFIGURACION
 # ============================================================
 
 $RomOriginal         = ".\rom-harmony-usa.gba"
-$RomTraducido        = ".\built_rom_hod.gba"
+$RomTraducido        = "C:\Users\Irene Solana\OneDrive - Kairos Digital Solution SL\Documentos\Extracted files rom-harmony-usa-spanish-chars9.2\built_rom_hod.gba"
 $ParcheREharmonized  = ".\REharmonized-usa.bps"
 $ParcheVisual        = ".\visual1.2.8.ips"
+$ParcheSpanishChars  = ".\spanish-chars.ips"
 
 $ParcheTraduccion    = ".\spanish.ips"
 
-$RomParche1          = ".\rom-parche1.gba"
-$RomParche2          = ".\rom-parche2.gba"
+$RomREharmonized                    = ".\rom-harmony-usa-REharmonized.gba"
+$RomREharmonizedSpanish             = ".\rom-harmony-usa-REharmonized-spanish.gba"
+$RomREharmonizedVisual              = ".\rom-harmony-usa-REharmonized-visual.gba"
+$RomREharmonizedVisualSpanishChars  = ".\rom-harmony-usa-REharmonized-visual-spanish-chars.gba"
 
-$RomFinal            = ".\rom-reharmonized-visual-spanish.gba"
+$RomFinal            = ".\rom-reharmonized-visual-spanish-final.gba"
 
 
 # ============================================================
@@ -44,8 +51,10 @@ function Esperar-Archivo($Ruta) {
 # ============================================================
 
 Remove-Item $ParcheTraduccion -Force -ErrorAction SilentlyContinue
-Remove-Item $RomParche1       -Force -ErrorAction SilentlyContinue
-Remove-Item $RomParche2       -Force -ErrorAction SilentlyContinue
+Remove-Item $RomREharmonized       -Force -ErrorAction SilentlyContinue
+Remove-Item $RomREharmonizedSpanish       -Force -ErrorAction SilentlyContinue
+Remove-Item $RomREharmonizedVisual       -Force -ErrorAction SilentlyContinue
+Remove-Item $RomREharmonizedVisualSpanishChars       -Force -ErrorAction SilentlyContinue
 Remove-Item $RomFinal         -Force -ErrorAction SilentlyContinue
 
 
@@ -84,11 +93,30 @@ try {
     .\flips.exe --apply `
         "$ParcheREharmonized" `
         "$RomOriginal" `
-        "$RomParche1"
+        "$RomREharmonized"
 
-    Esperar-Archivo $RomParche1
+    Esperar-Archivo $RomREharmonized
 
-    Write-Host "OK: rom-parche1.gba generado"
+    Write-Host "OK: parche REharmonized"
+    Write-Host ""
+
+    # ========================================================
+    # 2. APLICAR REHARMONIZED
+    # ========================================================
+
+    Write-Host "========================================"
+    Write-Host "2.5 APLICANDO Spanish a REharmonized"
+    Write-Host "========================================"
+    Write-Host ""
+
+    .\flips.exe --apply `
+        "$ParcheTraduccion" `
+        "$RomREharmonized" `
+        "$RomREharmonizedSpanish"
+
+    Esperar-Archivo $RomREharmonizedSpanish
+
+    Write-Host "OK: rom REharmonized + spanish"
     Write-Host ""
 
 
@@ -103,12 +131,31 @@ try {
 
     .\flips.exe --apply `
         "$ParcheVisual" `
-        "$RomParche1" `
-        "$RomParche2"
+        "$RomREharmonized" `
+        "$RomREharmonizedVisual"
 
-    Esperar-Archivo $RomParche2
+    Esperar-Archivo $RomREharmonizedVisual
 
-    Write-Host "OK: rom-parche2.gba generado"
+    Write-Host "OK: rom REharmonized + visual"
+    Write-Host ""
+
+    # ========================================================
+    # 4B. APLICAR TRADUCCION
+    # ========================================================
+
+    Write-Host "========================================"
+    Write-Host "4B. APLICANDO spanish-chars.ips"
+    Write-Host "========================================"
+    Write-Host ""
+
+    .\flips.exe --apply `
+        "$ParcheSpanishChars" `
+        "$RomREharmonizedVisual" `
+        "$RomREharmonizedVisualSpanishChars"
+
+    Esperar-Archivo $RomREharmonizedVisualSpanishChars
+
+    Write-Host "OK: ROM REharmonized + visual + spanish chars"
     Write-Host ""
 
 
@@ -123,12 +170,12 @@ try {
 
     .\flips.exe --apply `
         "$ParcheTraduccion" `
-        "$RomParche2" `
+        "$RomREharmonizedVisual" `
         "$RomFinal"
 
     Esperar-Archivo $RomFinal
 
-    Write-Host "OK: ROM final generada"
+    Write-Host "OK: ROM final REharmonized + visual + spanish"
     Write-Host ""
 
 
@@ -168,10 +215,10 @@ finally {
     # BORRAR ARCHIVOS INTERMEDIOS
     # ========================================================
 
-    Write-Host "Eliminando archivos intermedios..."
+    # Write-Host "Eliminando archivos intermedios..."
 
-    Remove-Item $RomParche1 -Force -ErrorAction SilentlyContinue
-    Remove-Item $RomParche2 -Force -ErrorAction SilentlyContinue
+    # Remove-Item $RomREharmonized -Force -ErrorAction SilentlyContinue
+    # Remove-Item $RomREharmonizedVisual -Force -ErrorAction SilentlyContinue
 
     Write-Host "Limpieza terminada."
     Write-Host ""
