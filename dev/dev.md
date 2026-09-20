@@ -61,7 +61,7 @@ La **fuente pequeña de menús** se modifica deliberadamente lo mínimo posible:
 
 `Á É Í Ú ü Ñ ¿ ¡` no se añaden a la fuente pequeña porque no son necesarios en los nombres de objetos previstos. Evitar esos cambios reduce el riesgo de afectar símbolos o comportamientos originales.
 
-Las asignaciones concretas están en `hod_spanish_chars_mapping.txt`.
+Las asignaciones concretas están en `hod_spanish_chars_mapping.txt`. Ese archivo debe considerarse la referencia autoritativa para códigos y offsets.
 
 ## Cómo funciona
 
@@ -201,32 +201,128 @@ Además:
 4. crear el glifo pequeño;
 5. probarlo específicamente en inventario/interfaz.
 
-No ampliar la fuente pequeña salvo que un texto real lo necesite.
+No ampliar la fuente pequeña salvo que un texto real lo necesite. En especial, cualquier cambio de `ñ` debe comprobarse visualmente para confirmar que el glifo es minúsculo.
 
-## Compatibilidad con otros hacks
+## Compatibilidad y builds
 
-El soporte técnico de caracteres se ha comparado con:
+Existe **una única fuente de traducción española**, pero pueden existir varios builds binarios dependiendo de la ROM base sobre la que DSVania Editor inserte los textos.
 
-- **REharmonized (USA)**;
-- **CV HOD Visual Improvement V1.2.8** y las variantes incluidas en el paquete analizado.
+Esto es importante porque se han observado problemas en nombres y descripciones de objetos cuando un parche de traducción generado sobre la ROM limpia se aplica después de REharmonized + Visual Improvement. Insertar los mismos textos directamente con DSVania sobre la ROM ya modificada sí puede producir un resultado correcto.
 
-No se encontraron solapamientos con los cambios técnicos de `spanish chars v9`.
+Por tanto, no se deben mantener traducciones distintas: se mantienen **los mismos textos** y se generan builds distintos.
 
-El orden previsto para una instalación completa es:
+### Build standalone
 
 ```text
 ROM USA limpia
-    ↓
-REharmonized            (opcional)
-    ↓
-Visual Improvement      (opcional)
-    ↓
-traducción española     (último)
+→ spanish chars
+→ insertar textos españoles con DSVania Editor
+→ generar parche standalone
 ```
 
-La intención es integrar finalmente este soporte dentro del parche completo de traducción.
+Al generar el parche:
 
-Cuando exista el parche con todos los textos será necesario repetir el análisis de compatibilidad, ya que la reinserción de textos y punteros puede modificar otras zonas.
+```text
+ORIGINAL:
+ROM USA limpia
+
+MODIFICADA:
+ROM USA limpia + spanish chars + textos españoles
+```
+
+### Build Visual Improvement
+
+```text
+ROM USA limpia
+→ Visual Improvement
+→ spanish chars
+→ insertar los mismos textos españoles con DSVania Editor
+→ generar parche compatible
+```
+
+Al generar el parche:
+
+```text
+ORIGINAL:
+ROM USA limpia + Visual Improvement
+
+MODIFICADA:
+esa misma base + spanish chars + textos españoles
+```
+
+### Build REharmonized + Visual Improvement
+
+```text
+ROM USA limpia
+→ REharmonized
+→ Visual Improvement
+→ spanish chars
+→ insertar los mismos textos españoles con DSVania Editor
+→ generar parche compatible
+```
+
+Al generar el parche:
+
+```text
+ORIGINAL:
+ROM USA limpia + REharmonized + Visual Improvement
+
+MODIFICADA:
+esa misma base + spanish chars + textos españoles
+```
+
+El usuario final aplicará:
+
+```text
+ROM USA limpia
+→ REharmonized
+→ Visual Improvement
+→ traducción española compatible
+```
+
+El parche español compatible **no debe incluir** REharmonized ni Visual Improvement: esos hacks forman parte del archivo base/original utilizado para generar el diff.
+
+### Regla fundamental al generar parches
+
+Comparar siempre:
+
+```text
+BASE X
+vs.
+BASE X + Spanish
+```
+
+Nunca:
+
+```text
+ROM limpia
+vs.
+REharmonized + Visual + Spanish
+```
+
+porque eso incluiría accidentalmente cambios de los hacks externos dentro del parche español.
+
+Herramientas como Flips/Floating IPS pueden utilizarse para crear el parche. Siempre que sea posible, verificar después que:
+
+```text
+BASE + parche generado == ROM modificada esperada
+```
+
+byte por byte.
+
+### Cambios de versión de hacks externos
+
+Si cambia REharmonized o Visual Improvement, el build correspondiente debe considerarse **no verificado** hasta regenerarlo y probarlo.
+
+Proceso:
+
+1. construir la nueva ROM base;
+2. aplicar `spanish chars`;
+3. insertar los mismos textos con DSVania;
+4. generar de nuevo el parche contra esa misma base;
+5. probar diálogos, objetos, descripciones y fuentes.
+
+No asumir que dos versiones distintas de un hack son binariamente compatibles.
 
 ## Pruebas recomendadas
 
@@ -247,6 +343,42 @@ Comprobar:
 3. que los acentos necesarios aparecen en inventario/menús;
 4. que los espacios y zonas vacías del menú siguen vacíos;
 5. que DSVEdit decodifica correctamente los caracteres al reabrir el texto.
+
+## Reglas para futuras modificaciones
+
+Si otra persona o una IA continúa este trabajo:
+
+1. No cambiar un código en `text.rb` sin comprobar el glifo que lo representa.
+2. No modificar un glifo sin comprobar qué código y qué ruta de renderizado lo utilizan.
+3. No asumir que la fuente grande y la fuente pequeña funcionan igual.
+4. Mantener intacto el índice vacío/fallback del menú.
+5. No añadir caracteres a la fuente pequeña salvo que un texto real los necesite.
+6. Consultar `hod_spanish_chars_mapping.txt` antes de modificar códigos u offsets.
+7. Probar nombres y descripciones de objetos además de diálogos.
+8. Mantener una única fuente de textos españoles para todos los builds.
+9. Generar cada parche contra exactamente la misma base para la que está destinado.
+10. Si cambia REharmonized o Visual Improvement, regenerar y volver a validar el build.
+
+### Checklist mínimo de validación
+
+Probar al menos:
+
+```text
+áéíóú ñ
+ÁÉÍÓÚ Ñ
+¿Qué ocurrió aquí? ¡Bien!
+Poción
+Corazón
+```
+
+Comprobar que:
+
+- DSVEdit guarda y vuelve a leer los caracteres correctamente;
+- los diálogos muestran los glifos correctos;
+- los caracteres necesarios aparecen correctamente en objetos/menús;
+- la `ñ` de menú se ve como minúscula;
+- los espacios y zonas vacías siguen vacíos;
+- nombres y descripciones de objetos no presentan corrupción.
 
 ## Trabajo previo y créditos
 
@@ -282,4 +414,4 @@ Se recomienda conservar estos créditos y referencias en cualquier redistribuci�
 3. hod_spanish_chars_mapping.txt mantiene ambas partes sincronizadas.
 ```
 
-Mantener intacto el fallback del menú, no ampliar la fuente pequeña sin necesidad y volver a comprobar compatibilidad cuando exista el parche completo de traducción.
+Mantener intacto el fallback del menú, no ampliar la fuente pequeña sin necesidad y validar cada build contra la base exacta para la que se genera.
