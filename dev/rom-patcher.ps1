@@ -1,25 +1,30 @@
 # ============================================================
 # INSTALL flips.exe https://www.romhacking.net/utilities/1040/
+# .\rom-patcher.ps1
 # ============================================================
 
 # ============================================================
 # CONFIGURACION
 # ============================================================
-
+# SOURCES
 $RomOriginal         = ".\rom-harmony-usa.gba"
 $RomTraducido        = "C:\Users\Irene Solana\OneDrive - Kairos Digital Solution SL\Documentos\Extracted files rom-harmony-usa-spanish-chars9.2\built_rom_hod.gba"
 $ParcheREharmonized  = ".\REharmonized-usa.bps"
 $ParcheVisual        = ".\visual1.2.8.ips"
 $ParcheSpanishChars  = ".\spanish-chars.ips"
 
+# RESULTS
 $ParcheTraduccion    = ".\spanish.ips"
 
 $RomREharmonized                    = ".\rom-harmony-usa-REharmonized.gba"
+$RomVisual                    = ".\rom-harmony-usa-visual.gba"
+$RomVisualSpanishConErrores                    = ".\rom-harmony-usa-visual-spanish_con-errores.gba"
+$RomVisualSpanishChars                    = ".\rom-harmony-usa-visual-spanish-chars.gba"
 $RomREharmonizedSpanish             = ".\rom-harmony-usa-REharmonized-spanish.gba"
 $RomREharmonizedVisual              = ".\rom-harmony-usa-REharmonized-visual.gba"
 $RomREharmonizedVisualSpanishChars  = ".\rom-harmony-usa-REharmonized-visual-spanish-chars.gba"
 
-$RomFinal            = ".\rom-reharmonized-visual-spanish-final.gba"
+$RomREharmonizedVisualSpanishConErrores          = ".\rom-reharmonized-visual-spanish_con-errores.gba"
 
 
 # ============================================================
@@ -52,10 +57,14 @@ function Esperar-Archivo($Ruta) {
 
 Remove-Item $ParcheTraduccion -Force -ErrorAction SilentlyContinue
 Remove-Item $RomREharmonized       -Force -ErrorAction SilentlyContinue
+Remove-Item $RomVisual       -Force -ErrorAction SilentlyContinue
+Remove-Item $RomVisualSpanishConErrores       -Force -ErrorAction SilentlyContinue
+Remove-Item $RomVisualSpanishChars       -Force -ErrorAction SilentlyContinue
 Remove-Item $RomREharmonizedSpanish       -Force -ErrorAction SilentlyContinue
 Remove-Item $RomREharmonizedVisual       -Force -ErrorAction SilentlyContinue
+
 Remove-Item $RomREharmonizedVisualSpanishChars       -Force -ErrorAction SilentlyContinue
-Remove-Item $RomFinal         -Force -ErrorAction SilentlyContinue
+Remove-Item $RomREharmonizedVisualSpanishConErrores       -Force -ErrorAction SilentlyContinue
 
 
 try {
@@ -101,7 +110,7 @@ try {
     Write-Host ""
 
     # ========================================================
-    # 2. APLICAR REHARMONIZED
+    # 2.5 APLICAR spanish a REharmonized
     # ========================================================
 
     Write-Host "========================================"
@@ -117,6 +126,25 @@ try {
     Esperar-Archivo $RomREharmonizedSpanish
 
     Write-Host "OK: rom REharmonized + spanish"
+    Write-Host ""
+
+    # ========================================================
+    # 2.5 APLICAR Visual a original
+    # ========================================================
+
+    Write-Host "========================================"
+    Write-Host "2.6 APLICANDO Visual a ROM USA"
+    Write-Host "========================================"
+    Write-Host ""
+
+    .\flips.exe --apply `
+        "$ParcheVisual" `
+        "$RomOriginal" `
+        "$RomVisual"
+
+    Esperar-Archivo $RomVisual
+
+    Write-Host "OK: rom visual"
     Write-Host ""
 
 
@@ -137,6 +165,44 @@ try {
     Esperar-Archivo $RomREharmonizedVisual
 
     Write-Host "OK: rom REharmonized + visual"
+    Write-Host ""
+
+    # ========================================================
+    # 4C. APLICAR TRADUCCION
+    # ========================================================
+
+    Write-Host "========================================"
+    Write-Host "4C. APLICANDO spanish-chars a Visual"
+    Write-Host "========================================"
+    Write-Host ""
+
+    .\flips.exe --apply `
+        "$ParcheSpanishChars" `
+        "$RomVisual" `
+        "$RomVisualSpanishChars"
+
+    Esperar-Archivo $RomVisualSpanishChars
+
+    Write-Host "OK: ROM + visual + spanish chars"
+    Write-Host ""
+
+    # ========================================================
+    # 4C. APLICAR TRADUCCION
+    # ========================================================
+
+    Write-Host "========================================"
+    Write-Host "4C. APLICANDO spanish a Visual"
+    Write-Host "========================================"
+    Write-Host ""
+
+    .\flips.exe --apply `
+        "$ParcheTraduccion" `
+        "$RomVisual" `
+        "$RomVisualSpanishConErrores"
+
+    Esperar-Archivo $RomVisualSpanishConErrores
+
+    Write-Host "OK: ROM + visual + spanish con errores"
     Write-Host ""
 
     # ========================================================
@@ -171,11 +237,11 @@ try {
     .\flips.exe --apply `
         "$ParcheTraduccion" `
         "$RomREharmonizedVisual" `
-        "$RomFinal"
+        "$RomREharmonizedVisualSpanishConErrores"
 
-    Esperar-Archivo $RomFinal
+    Esperar-Archivo $RomREharmonizedVisualSpanishConErrores
 
-    Write-Host "OK: ROM final REharmonized + visual + spanish"
+    Write-Host "OK: ROM final REharmonized + visual + spanish con errores"
     Write-Host ""
 
 
@@ -193,7 +259,7 @@ try {
     Write-Host ""
 
     Write-Host "ROM final:"
-    Write-Host $RomFinal
+    Write-Host $RomREharmonizedVisualSpanishConErrores
     Write-Host ""
 
 }
