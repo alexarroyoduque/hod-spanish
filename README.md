@@ -57,7 +57,7 @@ Si se desea combinar con REharmonized el orden de aplicación de parches sería:
   - Walk Armor: tradudcido como Cota Errante.
   - Crush Boots: Bota de Choque. Son las botas que rompen techos.
   - Floating Boots: Botas aladas, te permiten flotar.
-  - Velvet Cloak: Capa de Ante. Sería más correcto "Capa Terciopelo" pero no entra.
+  - Velvet Cloak: Capa de Ante. Sería más correcto "Capa Terciopelo" pero son demasiados caracteres.
 
 ## Limitaciones técnicas
 
@@ -66,7 +66,7 @@ Si se desea combinar con REharmonized el orden de aplicación de parches sería:
   - ~37-40 caracteres: en diálogos, descripciones
   - 23 caracteres: en títulos de pista
 - La fuente del juego parcheada agrega tildes (á,é,í,ó,ú,ñ,ü,Á,É,Í,Ó,Ú,Ñ), eñe  y los signos `¿`/`¡` para diálogos y descripciones de objetos.
-- En nombres de objetos y enemigos los caracteres ÁÉÍÚñÑü¿¡ no están soportados porque no se ha encontrado ningún elemento con esas letras. Estos términos se muestran en el juego con otra fuente.
+- En nombres de objetos y enemigos los caracteres ÁÉÍÚÑü¿¡ no están soportados porque no se ha encontrado ningún elemento con esas letras. Estos términos se muestran en el juego con otra fuente.
 
 ## Credits
 - -SuXei999- testing
