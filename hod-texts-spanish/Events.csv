@@ -51,7 +51,7 @@ nadie y sé que tú no\n
 mentirías sobre esto.\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0002}{NAME 0x0001}{NAMEINSERT 0x0000}...\n
 {NEXTACTION}
-¡Aaargh!\n
+¡¡Aaargh!!\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
 ¡¿Estás bien?!\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0002}{NAME 0x0001}

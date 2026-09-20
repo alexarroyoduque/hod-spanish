@@ -1,16 +1,16 @@
-0x0F7,"Restaura algo de HP.\n
+0x0F7,"Restaura algo de salud.\n
 "
-0x0F8,"Restaura mucho HP.\n
+0x0F8,"Restaura mucha salud.\n
 "
-0x0F9,"Restaura todo el HP.\n
+0x0F9,"Restaura toda la salud.\n
 "
-0x0FA,"Restaura algo de MP.\n
+0x0FA,"Restaura algo de magia.\n
 "
-0x0FB,"Restaura mucho MP.\n
+0x0FB,"Restaura mucha magia.\n
 "
-0x0FC,"Restaura algo de HP.\n
+0x0FC,"Restaura algo de salud.\n
 "
-0x0FD,"Restaura mucho HP.\n
+0x0FD,"Restaura mucha salud.\n
 "
 0x0FE,"Contrarresta el veneno.\n
 "
@@ -80,7 +80,7 @@ a la punta del látigo.\n
 látigo alrededor del usuario.\n
 "
 0x117,"Lanza balas desde la punta del látigo\n
-solo con el HP al máximo.\n
+solo con salud al máximo.\n
 "
 0x118,"Añade fuego a los\n
 ataques con el látigo.\n
@@ -129,8 +129,8 @@ resulta atractiva.\n
 0x128,"Armadura con capas de\n
 escamas de metal.\n
 "
-0x129,"Al quedarse quieto, restaura el HP\n
-lentamente.\n
+0x129,"Al quedarse quieto, restaura\n
+la salud lentamente.\n
 "
 0x12A,"El cuerpo de la Coraza Guarda.\n
 "
@@ -157,7 +157,7 @@ es muy pesada.\n
 0x133,"Diseñada para moverse con facilidad en\n
 combate.\n
 "
-0x134,"Restaura el HP de su\n
+0x134,"Restaura la salud del\n
 usuario al moverse.\n
 "
 0x135,"Armadura forjada en plata.\n
@@ -166,7 +166,7 @@ usuario al moverse.\n
 alquimistas modernos no comprenden.\n
 "
 0x137,"Afecta al espíritu de su usuario.\n
-Reduce el consumo de MP.\n
+Reduce el consumo de magia.\n
 "
 0x138,"Se dice que la vistieron\n
 emperadores.\n
@@ -196,7 +196,7 @@ metal entretejido.\n
 propia de la nobleza.\n
 "
 0x142,"Túnica con extraños poderes ocultos.\n
-Aumenta el INT.\n
+Aumenta INT (INTELIGENCIA).\n
 "
 0x143,"Túnica con alta\n
 resistencia al trueno.\n
@@ -380,7 +380,7 @@ tipo de blasón.\n
 0x189,"Un amuleto que se puede comprar en\n
 cualquier sitio.\n
 "
-0x18A,"Aumenta el LCK (SUERTE) del usuario.\n
+0x18A,"Aumenta LCK (SUERTE) del usuario.\n
 No se puede ver su interior.\n
 "
 0x18B,"Collar hecho de oro. Es un poco\n
@@ -475,13 +475,13 @@ petrificación.\n
 veneno.\n
 "
 0x1AA,"Uno de los restos de Drácula. Aumenta\n
-el STR (FUERZA).\n
+STR (FUERZA).\n
 "
 0x1AB,"Uno de los restos de Drácula. Aumenta\n
-el DEF.\n
+DEF (DEFENSA).\n
 "
 0x1AC,"Una de las pertenencias de Drácula.\n
-Aumenta el LCK (SUERTE).\n
+Aumenta LCK (SUERTE).\n
 "
 0x1AD,"Se dice que lo usó la realeza. Tiene\n
 una historia interesante.\n
