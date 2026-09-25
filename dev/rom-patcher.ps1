@@ -1,6 +1,8 @@
 # ============================================================
 # INSTALL flips.exe https://www.romhacking.net/utilities/1040/
 # .\rom-patcher.ps1
+# Si no funciona ejecutar
+# Set-ExecutionPolicy Bypass -Scope Process
 # ============================================================
 
 # ============================================================
@@ -8,9 +10,9 @@
 # ============================================================
 # SOURCES
 $RomOriginal         = ".\rom-harmony-usa.gba"
-$RomTraducido        = "C:\Users\Irene Solana\OneDrive - Kairos Digital Solution SL\Documentos\Extracted files rom-harmony-usa-spanish-chars9.2\built_rom_hod.gba"
+$RomTraducido        = "C:\Users\user\Documentos\Extracted files rom-harmony-usa-spanish-chars9.2\built_rom_hod.gba"
 $ParcheREharmonized  = ".\REharmonized-usa.bps"
-$ParcheVisual        = ".\visual1.2.8.ips"
+$ParcheVisual        = ".\visual1.2.9.ips"
 $ParcheSpanishChars  = ".\spanish-chars.ips"
 
 # RESULTS

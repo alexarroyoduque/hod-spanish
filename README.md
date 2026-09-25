@@ -27,7 +27,7 @@ Para poder disfrutar de la traducción se ha creado el parche de compatibilidad.
 Si se desea combinar con REharmonized el orden de aplicación de parches sería:
 - REharmonized
 - Visual Improvement
-- hod-spanish-compatibility-visual-improvement1.2.8
+- hod-spanish-compatibility-visual-improvement1.2.9
 
 ## Estructura del proyecto
 
