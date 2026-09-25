@@ -36,7 +36,7 @@
 "
 0x1DE,"Ectoplasma\n
 "
-0x1DF,"Maestro filo\n
+0x1DF,"Maestro del Filo\n
 "
 0x1E0,"Gran Esqueleto\n
 "
@@ -46,7 +46,7 @@
 "
 0x1E3,"Mayal Óseo\n
 "
-0x1E4,"Lanza Óseo\n
+0x1E4,"Lancero Óseo\n
 "
 0x1E5,"Esqueleto Rojo\n
 "
@@ -54,9 +54,9 @@
 "
 0x1E7,"Lanzahuesos\n
 "
-0x1E8,"Esqueleto Mono\n
+0x1E8,"Simio Esqueleto\n
 "
-0x1E9,"Guarda Puerta\n
+0x1E9,"Guardián Puerta\n
 "
 0x1EA,"Gólem\n
 "
@@ -70,13 +70,13 @@
 "
 0x1EF,"Planta Voraz\n
 "
-0x1F0,"Coraza Hacha\n
+0x1F0,"Armadura Hacha\n
 "
 0x1F1,"Bruja\n
 "
 0x1F2,"Sirena\n
 "
-0x1F3,"Coraza Bomba\n
+0x1F3,"Armadura Bomba\n
 "
 0x1F4,"Minotauro\n
 "
@@ -88,7 +88,7 @@
 "
 0x1F8,"Espada Real\n
 "
-0x1F9,"Coraza Disco\n
+0x1F9,"Armadura Disco\n
 "
 0x1FA,"Diablo\n
 "
@@ -102,13 +102,13 @@
 "
 0x1FF,"Demonio Pluma\n
 "
-0x200,"Coraza Guarda\n
+0x200,"Coraza Guardián\n
 "
-0x201,"Coraza Escama\n
+0x201,"Armadura Escamas\n
 "
 0x202,"Gran Tritón\n
 "
-0x203,"Baba Maxi\n
+0x203,"Gran Baba\n
 "
 0x204,"Pulga Armada\n
 "
@@ -124,11 +124,11 @@
 "
 0x20A,"Arpía\n
 "
-0x20B,"Coraza Hacha 2\n
+0x20B,"Armadura Hacha 2\n
 "
 0x20C,"Espectro\n
 "
-0x20D,"Guarda Bronce\n
+0x20D,"Guardián Bronce\n
 "
 0x20E,"Gran Fisgón\n
 "
@@ -158,15 +158,15 @@
 "
 0x21B,"Vidrio Óseo\n
 "
-0x21C,"Coraza Triunfo\n
+0x21C,"Armadura Triunfo\n
 "
 0x21D,"Doble Martillo\n
 "
-0x21E,"Coraza Disco 2\n
+0x21E,"Armadura Disco 2\n
 "
 0x21F,"Minotauro 2\n
 "
-0x220,"Legión-cadáver\n
+0x220,"Legión (cadáver)\n
 "
 0x221,"Talos\n
 "
@@ -176,19 +176,19 @@
 "
 0x224,"Pixie\n
 "
-0x225,"Silfo\n
+0x225,"Sílfide\n
 "
-0x226,"Reptil Maestro\n
+0x226,"Maestro Reptil\n
 "
 0x227,"Búho\n
 "
 0x228,"Hueso Claro\n
 "
-0x229,"Pilar Espetón\n
+0x229,"Espeto de Huesos\n
 "
-0x22A,"Simon espectro\n
+0x22A,"Simon Espectro\n
 "
-0x22B,"Maestro Pica\n
+0x22B,"Maestro de Pica\n
 "
 0x22C,"Cíclope\n
 "
@@ -240,7 +240,7 @@
 "
 0x244,"Ojo Fisgón\n
 "
-0x245,"Coraza Rencor\n
+0x245,"Armadura Rencor\n
 "
 0x246,"NULL\n
 "

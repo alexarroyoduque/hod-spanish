@@ -357,7 +357,7 @@ todo. Los dos espíritus\n
 del castillo encarnan ahora\n
 el poder de mi señor.\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
-¡¿Los 'dos' espíritus del castillo?!\n
+¿Los 'dos' espíritus del castillo?\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0004}{NAME 0x0005}
 Ahora existen dos espíritus\n
 dentro de su cuerpo.\n
@@ -481,7 +481,7 @@ la memoria, la protegí,\n
 pero creo que he llegado\n
 a mi límite...\n
 {WAITINPUT}{SAMECHAR}
-Está en la sala del señor.\n
+Está en la sala del trono.\n
 Con este brazalete tú\n
 también podrás entrar.\n
 {WAITINPUT}{NEWCHAR}{NEXTACTION}{PORTRAIT 0x0001}{NAME 0x0000}
@@ -612,7 +612,7 @@ J-{NAMEINSERT 0x0000}, eres tú...\n
 ...\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
 Ha perdido el conocimiento.\n
-¡Pero creo que hemos llegado\n
+¡Pero creo que he llegado\n
 a tiempo!\n
 {WAITINPUT}{NEWCHAR}{NEXTACTION}{PORTRAIT 0x0001}{NAME 0x0000}¡{NAMEINSERT 0x0001}!\n
 Aún has logrado conservar\n
@@ -660,8 +660,8 @@ por favor...\n
 ...\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0001}{NAME 0x0000}
 Aún respira, pero...\n
-¡Maldición! He llegado\n
-demasiado tarde.\n
+¡Maldición! ¡He llegado\n
+demasiado tarde!\n
 {WAITINPUT}{NEWCHAR}{PORTRAIT 0x0003}{NAME 0x0001}
 Bienvenido a la fiesta,\n
 {NAMEINSERT 0x0000}.\n
