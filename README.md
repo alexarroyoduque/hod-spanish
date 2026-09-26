@@ -22,7 +22,7 @@ File/ROM CRC32: 88C1B562
 Se ha intentado que exista un único parche de traducción pero al combinarlo con Visual Improvement aparecián errores que eran dificiles de corregir. Esto es debido a que para agregar tildes y caracteres del español ha sido necesario alterar la fuente gráfica del juego chocando con el parche visual.
 Para poder disfrutar de la traducción se ha creado el parche de compatibilidad.
 - Primero debe aplicarse el parche Visual Improvement
-- Segundo aplicar el [parche hod-spanish-compatibility-visual-improvement1.2.8.ips](./hod-spanish-compatibility-visual-improvement1.2.8.ips) al resultado anterior
+- Segundo aplicar el [parche hod-spanish-compatibility-visual-improvement1.2.9.ips](./hod-spanish-compatibility-visual-improvement1.2.9.ips) al resultado anterior
 
 Si se desea combinar con REharmonized el orden de aplicación de parches sería:
 - REharmonized
@@ -35,7 +35,12 @@ Si se desea combinar con REharmonized el orden de aplicación de parches sería:
 - `hod-texts-spanish/`: textos traducidos al español, listos para reimportar a la ROM con DSVania. Misma estructura y códigos hex que los originales.
 - `references/` (resto de archivos): material de apoyo consultado durante la traducción (terminología, nombres correctos según el japonés original, guías de objetos/enemigos, walkthrough en español, parche de corrección de textos en inglés). No se traducen ni se modifican.
 - `SKILL.md`: definición del flujo de trabajo y las reglas de traducción seguidas.
-- `dev`: información para desarrolladores. Explicación del proceso de desarrollo y "hackeo" de DSVania para incorporar tildes. Incluye el .ips para agregar tildes a la ROM original.
+- `dev`: información para desarrolladores.
+ -  Explicación del proceso de desarrollo
+ - "hackeo" de DSVania para incorporar tildes
+ - Incluye el .ips para agregar tildes a la ROM original
+ - script `rom-patcher.ps1`para generar ayudar en la generación del parche con múltiples combinaciones
+  - Para generar el parche de compatibilidad con Visual Improvement es necesario generar una `ROM USA + Visual Improvement + spanish chars`, después inyectar los textos traducidos con DSVania y posteriormente generar el parche.
 
 ## Decisiones creativas
 - Se ha intentado mantener una traducción cercana al original basada en las referencias obtenidas
@@ -50,19 +55,18 @@ Si se desea combinar con REharmonized el orden de aplicación de parches sería:
   - Llave compuerta: Úsala en la cabeza de león de las cuevas. (Más específica que la pista original.)
   - Pista 1: Drena las cuevas en la cabeza de león con la llave. (Es más específico que la pista original que habla simplemente de un posible mecanismo de drenaje.)
   - Pista 2: Los ojos de la diosa señalan un pasadizo secreto en el acueducto. (Se agrega la pisa de la zona del acueducto.)
-  - Bullet Tip: traducido como "Eco Christopher". Sería más correcto "Alma Christopher" pero hay una limitación de caracteres.
-  - Cipher's Charm: traducido como Cristal Sypha.
-  - Crushing Stone: Traducido como Demoledora. Es la modificación del látigo que rompe muros.
+  - Bullet Tip: traducido como "Alma Christopher".
+  - Cipher's Charm: traducido como Cristal de Sypha.
+  - Crushing Stone: Traducido como Punta Demoledora. Es la modificación del látigo que rompe muros.
   - Red Stone: Las modificaciones del látigo con esta estructura se traducen como Gema Roja.
-  - Walk Armor: tradudcido como Cota Errante.
-  - Crush Boots: Bota de Choque. Son las botas que rompen techos.
+  - Walk Armor: tradudcido como Armadura Errante.
+  - Crush Boots: Botas de Choque. Son las botas que rompen techos.
   - Floating Boots: Botas aladas, te permiten flotar.
-  - Velvet Cloak: Capa de Ante. Sería más correcto "Capa Terciopelo" pero son demasiados caracteres.
 
 ## Limitaciones técnicas
 
 - Cada campo tiene un límite de longitud teórico según el lo que se puede intepretar del juego original:
-  - 14 caracteres: nombres de objeto, personajes y enemigos
+  - 16 caracteres: nombres de objeto, personajes y enemigos. Hay algunos nombres que con 16 letras no se ven bien porque ocupan demasiado y se salen de su caja por lo que hay que recortar.
   - ~37-40 caracteres: en diálogos, descripciones
   - 23 caracteres: en títulos de pista
 - La fuente del juego parcheada agrega tildes (á,é,í,ó,ú,ñ,ü,Á,É,Í,Ó,Ú,Ñ), eñe  y los signos `¿`/`¡` para diálogos y descripciones de objetos.
