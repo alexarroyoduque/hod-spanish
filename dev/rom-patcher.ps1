@@ -7,31 +7,31 @@
 # ============================================================
 
 # SOURCES
-$RomOriginal         = ".\rom-harmony-usa.gba"
+$RomOriginal        = ".\rom-harmony-usa.gba"
 
-$RomTraducido        = "C:\built_rom_hod.gba"    # from DSVania build
-$ParcheVisual        = ".\visual1.2.9.ips"       # download Visual Improvement (Pemburu Vampir)
-$ParcheSpanishChars  = ".\hod-spanish-chars.ips" # from dev folder
+$RomTranslated       = "C:\built_rom_hod.gba"    # from DSVania build
+$PatchVisual        = ".\visual1.2.9.ips"       # download Visual Improvement (Pemburu Vampir)
+$PatchSpanishChars  = ".\hod-spanish-chars.ips" # from dev folder
 
 # RESULTS
-$ParcheTraduccion       = ".\hod-spanish.ips" 
+$PatchSpanish           = ".\hod-spanish.ips" # Need $RomOriginal and $RomTranslated 
 
 $RomVisual              = ".\rom-harmony-usa-visual.gba"
 $RomVisualSpanishChars  = ".\rom-harmony-usa-visual-spanish-chars.gba"
 
 # ============================================================
-# FUNCION DE ESPERA
+# WAIT-FILE FUNCTION
 # ============================================================
 
-function Esperar-Archivo($Ruta) {
+function Wait-File($FilePath) {
 
     for ($i = 0; $i -lt 100; $i++) {
 
-        if (Test-Path $Ruta) {
+        if (Test-Path $FilePath) {
 
-            $Tamano = (Get-Item $Ruta).Length
+            $FileSize = (Get-Item $FilePath).Length
 
-            if ($Tamano -gt 0) {
+            if ($FileSize -gt 0) {
                 return
             }
         }
@@ -39,15 +39,15 @@ function Esperar-Archivo($Ruta) {
         Start-Sleep -Milliseconds 100
     }
 
-    throw "No se genero correctamente el archivo: $Ruta"
+    throw "File not generated: $FilePath"
 }
 
 
 # ============================================================
-# LIMPIEZA PREVIA
+# PREVIOUS CLEANUP
 # ============================================================
 
-Remove-Item $ParcheTraduccion       -Force -ErrorAction SilentlyContinue
+Remove-Item $PatchSpanish       -Force -ErrorAction SilentlyContinue
 Remove-Item $RomVisual              -Force -ErrorAction SilentlyContinue
 Remove-Item $RomVisualSpanishChars  -Force -ErrorAction SilentlyContinue
 
@@ -55,50 +55,50 @@ try {
 
     Write-Host ""
     Write-Host "========================================"
-    Write-Host "GENERANDO parche de traducción"
+    Write-Host "GENERATING translation patch"
     Write-Host "========================================"
     Write-Host ""
 
     .\flips.exe --create `
         "$RomOriginal" `
-        "$RomTraducido" `
-        "$ParcheTraduccion"
+        "$RomTranslated" `
+        "$PatchSpanish"
 
-    Esperar-Archivo $ParcheTraduccion
+    Wait-File $PatchSpanish
 
-    Write-Host "OK: traducción generada"
-    Write-Host $ParcheTraduccion
+    Write-Host "OK: translation generated"
+    Write-Host $PatchSpanish
     Write-Host ""
 
     Write-Host "========================================"
-    Write-Host "APLICANDO Visual a ROM Original"
+    Write-Host "APPLYING Visual to Original ROM"
     Write-Host "========================================"
     Write-Host ""
 
     .\flips.exe --apply `
-        "$ParcheVisual" `
+        "$PatchVisual" `
         "$RomOriginal" `
         "$RomVisual"
 
-    Esperar-Archivo $RomVisual
+    Wait-File $RomVisual
 
-    Write-Host "OK: rom visual"
+    Write-Host "OK: Original ROM + Visual"
     Write-Host ""
 
 
     Write-Host "========================================"
-    Write-Host "APLICANDO spanish-chars a ROM Visual"
+    Write-Host "Applying spanish-chars to Visual ROM"
     Write-Host "========================================"
     Write-Host ""
 
     .\flips.exe --apply `
-        "$ParcheSpanishChars" `
+        "$PatchSpanishChars" `
         "$RomVisual" `
         "$RomVisualSpanishChars"
 
-    Esperar-Archivo $RomVisualSpanishChars
+    Wait-File $RomVisualSpanishChars
 
-    Write-Host "OK: ROM + visual + spanish chars"
+    Write-Host "OK: ROM + Visual + Spanish chars"
     Write-Host ""
 
 
@@ -107,18 +107,18 @@ try {
     # ========================================================
 
     Write-Host "========================================"
-    Write-Host "PROCESO TERMINADO CORRECTAMENTE"
+    Write-Host "PROCESS COMPLETED SUCCESSFULLY"
     Write-Host "========================================"
     Write-Host ""
 
-    Write-Host "Parche de traduccion:"
-    Write-Host $ParcheTraduccion
+    Write-Host "Translation patch:"
+    Write-Host $PatchSpanish
     Write-Host ""
 
-    Write-Host "Para generar el parche de compatibilidad de Visual Improvement:"
-    Write-Host "1. Abrir con DSVania: rom-harmony-usa-visual-spanish-chars.gba"
-    Write-Host "2. Inyectar textos traducidos y hacer build"
-    Write-Host "3. Generar parche con rom-usa-visual y la build"
+    Write-Host "To generate the Visual Improvement compatibility patch:"
+    Write-Host "1. Open with DSVania: rom-harmony-usa-visual-spanish-chars.gba"
+    Write-Host "2. Inject translated texts and build"
+    Write-Host "3. Generate patch with rom-usa-visual and the build"
     Write-Host $RomVisualSpanishChars
     Write-Host ""
 
@@ -138,11 +138,11 @@ catch {
 finally {
 
     # ========================================================
-    # BORRAR ARCHIVOS INTERMEDIOS
+    # CLEANUP
     # ========================================================
 
-    # Write-Host "Eliminando archivos intermedios..."
+    # Write-Host "Deleting intermediate files..."
 
-    Write-Host "Proceso finalizado."
+    Write-Host "Process completed."
     Write-Host ""
 }
