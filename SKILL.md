@@ -59,7 +59,7 @@ Usar el resto de `references/` como material de apoyo para mantener la terminolo
 - "Items Descriptions" no puede tener más de dos líneas de texto.
 - En el caso de "Item Names" y "Enemy Names" está permitido el uso de á,é,í,ó,ú,Ó,ñ. Estos textos aparecen en el menú con otra fuente.
 - Los archivos de `hod-texts-spanish/` traducidos antes de esta confirmación pueden contener palabras escritas sin tildes/eñe o sin signos de apertura por la restricción previa; revisarlos y corregirlos para aplicar la ortografía correcta.
-- Respetar los límites de longitud por línea/campo observados en el material original (aprox. 37-40 caracteres por línea en Events.csv/Menus.csv/Item Descriptions.csv, 23 en Music Names.csv, 14 en Enemy Names.csv, 14 en Item Names.csv/Character Names.csv). Si una línea traducida los supera, reformular de forma más breve en vez de truncar.
+- Respetar los límites de longitud por línea/campo observados en el material original (aprox. 37-40 caracteres por línea en Events.csv/Menus.csv/Item Descriptions.csv, 23 en Music Names.csv, 16 en Enemy Names.csv/Item Names.csv/Character Names.csv). Si una línea traducida los supera, reformular de forma más breve en vez de truncar.
 - JB's Bracelet: traducir como Brazalete JB
 - MK's Bracelet: traducir como Brazalete MK
 - Las descripciones de objeto de "Item Descriptions" al traducirse deben respetar las mismas líneas que su homólogo original. Es decir, si una descripción tiene 2 líneas no debe pasar a 1, el resultado traducido debe ser de dos líneas. Por otro lado si una descripción tiene 1 línea no debe dividirse en 2, el resultado traducido debe mantenerse en una sola línea.

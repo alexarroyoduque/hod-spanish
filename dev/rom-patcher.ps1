@@ -19,7 +19,6 @@ $ParcheTraduccion       = ".\hod-spanish.ips"
 $RomVisual              = ".\rom-harmony-usa-visual.gba"
 $RomVisualSpanishChars  = ".\rom-harmony-usa-visual-spanish-chars.gba"
 
-
 # ============================================================
 # FUNCION DE ESPERA
 # ============================================================

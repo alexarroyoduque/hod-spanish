@@ -32,14 +32,14 @@ Si se desea combinar con REharmonized el orden de aplicación de parches sería:
 ## Estructura del proyecto
 
 - `references/hod-texts-original/`: textos originales en inglés (extraídos de la ROM USA con el editor [DSVania](https://www.romhacking.net/community/4318)), en formato CSV (`0xHEX,"texto"`). Es la fuente de la traducción, no se modifica.
-- `hod-texts-spanish/`: textos traducidos al español, listos para reimportar a la ROM con DSVania. Misma estructura y códigos hex que los originales.
+- `hod-texts-spanish/`: textos traducidos al español para importar a la ROM con DSVania. Misma estructura que los originales.
 - `references/` (resto de archivos): material de apoyo consultado durante la traducción (terminología, nombres correctos según el japonés original, guías de objetos/enemigos, walkthrough en español, parche de corrección de textos en inglés). No se traducen ni se modifican.
 - `SKILL.md`: definición del flujo de trabajo y las reglas de traducción seguidas.
 - `dev`: información para desarrolladores.
  -  Explicación del proceso de desarrollo
- - "hackeo" de DSVania para incorporar tildes
+ - "Hackeo" de DSVania para incorporar tildes
  - Incluye el .ips para agregar tildes a la ROM original
- - script `rom-patcher.ps1`para generar ayudar en la generación del parche con múltiples combinaciones
+ - Script `rom-patcher.ps1`para generar ayudar en la generación del parche con múltiples combinaciones
   - Para generar el parche de compatibilidad con Visual Improvement es necesario generar una `ROM USA + Visual Improvement + spanish chars`, después inyectar los textos traducidos con DSVania y posteriormente generar el parche.
 
 ## Decisiones creativas
