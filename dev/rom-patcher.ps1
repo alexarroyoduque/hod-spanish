@@ -1,5 +1,6 @@
 # ============================================================
-# INSTALL flips.exe https://www.romhacking.net/utilities/1040
+# Use Windows and PowerShell to run this script
+# Install flips.exe https://www.romhacking.net/utilities/1040
 # Move this patcher script to the folder where flips.exe is located
 # .\rom-patcher.ps1
 # If it doesn't work, run the following command:

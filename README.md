@@ -1,15 +1,14 @@
-# Castlevania: Harmony of Dissonance - spanish (patch)
+# hod-spanish
+Parche de traducción al español de Castlevania: Harmony of Dissonance
 
 # * * * EN DESARROLLO * * *
 
-Parche de traducción del videojuego Castlevania: Harmony of Dissonance al español. Ha sido realizada con IA y posterior revisión humana.
-
-El parche solo altera los textos, no cambia gráficos por lo que textos que haya en forma de imágenes se mantienen. **Se ha hecho así para que la traducción pueda combinarse con otros parches de mejora visual.**
+El parche solo altera los textos, no cambia gráficos por lo que textos que haya en forma de imágenes se mantienen como en el original
 
 ## ¿Cómo aplicar el parche?
 - Disponer de una (ROM) USA de Castlevania: Harmony of Dissonance. (DSVania solo funciona la ROM USA por eso el parche solo es compatible con esta región).
 - [Descargar el parche hod-spanish.ips](./hod-spanish.ips).
-- [Aplicar el parche](https://www.romhacking.net/patch/).
+- [Aplicar el parche](https://www.romhacking.net/patch/) a la ROM.
 
 ```
 Database match: Castlevania - Harmony of Dissonance (USA)
@@ -19,28 +18,15 @@ File/ROM CRC32: 88C1B562
 ```
 
 ### Compatibilidad con Visual Improvement (Pemburu Vampir)
-Se ha intentado que exista un único parche de traducción pero al combinarlo con Visual Improvement aparecián errores que eran dificiles de corregir. Esto es debido a que para agregar tildes y caracteres del español ha sido necesario alterar la fuente gráfica del juego chocando con el parche visual.
-Para poder disfrutar de la traducción se ha creado el parche de compatibilidad.
-- Primero debe aplicarse el parche Visual Improvement
-- Segundo aplicar el [parche hod-spanish-compatibility-visual-improvement1.2.9.ips](./hod-spanish-compatibility-visual-improvement1.2.9.ips) al resultado anterior
+Se ha intentado que exista un único parche de traducción pero al combinarlo con Visual Improvement aparecián difíciles de corregir. Para agregar tildes y caracteres del español ha sido necesario alterar la fuente gráfica del juego y eso choca con el parche visual.
+Para poder disfrutar de la traducción y la corrección visual se ha creado el parche de compatibilidad.
+1. Aplicar el parche [Visual Improvement](https://www.romhacking.net/hacks/9086)
+2. Aplicar el [parche hod-spanish-compatibility-visual-improvement1.2.9.ips](./hod-spanish-compatibility-visual-improvement1.2.9.ips) al resultado anterior
 
 Si se desea combinar con REharmonized el orden de aplicación de parches sería:
-- REharmonized
-- Visual Improvement
-- hod-spanish-compatibility-visual-improvement1.2.9
-
-## Estructura del proyecto
-
-- `references/hod-texts-original/`: textos originales en inglés (extraídos de la ROM USA con el editor [DSVania](https://www.romhacking.net/community/4318)), en formato CSV (`0xHEX,"texto"`). Es la fuente de la traducción, no se modifica.
-- `hod-texts-spanish/`: textos traducidos al español para importar a la ROM con DSVania. Misma estructura que los originales.
-- `references/` (resto de archivos): material de apoyo consultado durante la traducción (terminología, nombres correctos según el japonés original, guías de objetos/enemigos, walkthrough en español, parche de corrección de textos en inglés). No se traducen ni se modifican.
-- `SKILL.md`: definición del flujo de trabajo y las reglas de traducción seguidas.
-- `dev`: información para desarrolladores.
- -  Explicación del proceso de desarrollo
- - "Hackeo" de DSVania para incorporar tildes
- - Incluye el .ips para agregar tildes a la ROM original
- - Script `rom-patcher.ps1`para generar ayudar en la generación del parche con múltiples combinaciones
-  - Para generar el parche de compatibilidad con Visual Improvement es necesario generar una `ROM USA + Visual Improvement + spanish chars`, después inyectar los textos traducidos con DSVania y posteriormente generar el parche.
+1. [REharmonized](https://www.romhacking.net/hacks/9975)
+2. [Visual Improvement](https://www.romhacking.net/hacks/9086)
+3. [hod-spanish-compatibility-visual-improvement1.2.9.ips](./hod-spanish-compatibility-visual-improvement1.2.9.ips)
 
 ## Decisiones creativas
 - Se ha intentado mantener una traducción cercana al original basada en las referencias obtenidas
@@ -72,9 +58,26 @@ Si se desea combinar con REharmonized el orden de aplicación de parches sería:
 - La fuente del juego parcheada agrega tildes (á,é,í,ó,ú,ñ,ü,Á,É,Í,Ó,Ú,Ñ), eñe  y los signos `¿`/`¡` para diálogos y descripciones de objetos.
 - En nombres de objetos y enemigos los caracteres ÁÉÍÚÑü¿¡ no están soportados porque no se ha encontrado ningún elemento con esas letras. Estos términos se muestran en el juego con otra fuente.
 
+## Estructura e información del proyecto
+
+- `references/hod-texts-original/`: textos originales en inglés (extraídos de la ROM USA con el editor [DSVania](https://www.romhacking.net/community/4318)), en formato CSV (`0xHEX,"texto"`). Es la fuente de la traducción, no se modifica.
+- `hod-texts-spanish/`: textos traducidos al español para importar a la ROM con DSVania. Misma estructura que los originales.
+- `references/` (resto de archivos): material de apoyo consultado durante la traducción (terminología, nombres correctos según el japonés original, guías de objetos/enemigos, walkthrough en español, parche de corrección de textos en inglés). No se traducen ni se modifican.
+- `SKILL.md`: definición del flujo de trabajo y las reglas de traducción seguidas.
+- `dev`: información para desarrolladores.
+    -  Explicación del proceso de desarrollo
+    - "Hackeo" de DSVania para incorporar tildes
+    - Incluye el .ips para agregar tildes a la ROM original
+    - Script `rom-patcher.ps1`para generar ayudar en la generación del parche con múltiples combinaciones
+    - Para generar el parche de compatibilidad con Visual Improvement:
+      - Sustituir el archivo `text.rb`de DSVania por el de este proyecto
+      - Generar una `ROM USA + Visual Improvement + spanish chars`
+      - Inyectar los textos traducidos con DSVania a la ROM del paso anterior
+      - Generar el parche con `ROM USA + Visual Improvement` y la `ROM USA + Visual Improvement + spanish chars` traducida
+
 ## Credits
-- -SuXei999- testing
-- leomontenegro6 y las personas que participaron en [chod-traducao-ptbr](https://github.com/leomontenegro6/chod-traducao-ptbr), cuyo trabajo previo sobre la traducción brasileña, las fuentes y la codificación fue una referencia fundamental para orientar esta implementación española.
+- [-SuXei999-](https://www.youtube.com/@-suxei999-4) ayuda con las pruebas y calidad del parche.
+- leomontenegro6 y las personas que participaron en [chod-traducao-ptbr](https://github.com/leomontenegro6/chod-traducao-ptbr), cuyo trabajo previo sobre la traducción brasileña, las fuentes y la codificación fue una referencia fundamental.
 - [LagoLunatic, DSVania Edit creator](https://www.romhacking.net/community/4318)
 - [Efrem Orizzonte, item list](https://gamefaqs.gamespot.com/gba/554981-castlevania-harmony-of-dissonance/faqs/19328)
 - [Uriel Laurito, spanish translation](https://gamefaqs.gamespot.com/gba/554981-castlevania-harmony-of-dissonance/faqs/24513)
