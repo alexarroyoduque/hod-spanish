@@ -3,7 +3,7 @@ Parche de traducción al español de Castlevania: Harmony of Dissonance
 
 # * * * EN DESARROLLO * * *
 
-El parche solo altera los textos, no cambia gráficos por lo que textos que haya en forma de imágenes se mantienen como en el original
+El parche solo altera los textos, no cambia gráficos. Los caracteres que se muestran en imágenes se mantienen en su versión original afectando en su mayoría a los menús.
 
 ## ¿Cómo aplicar el parche?
 - Disponer de una (ROM) USA de Castlevania: Harmony of Dissonance. (DSVania solo funciona la ROM USA por eso el parche solo es compatible con esta región).
@@ -17,9 +17,10 @@ File/ROM SHA-1: B90DA0D9BE0B3A0893CD9E2C399056BCF9579E21
 File/ROM CRC32: 88C1B562
 ```
 
-### Compatibilidad con Visual Improvement (Pemburu Vampir)
-Se ha intentado que exista un único parche de traducción pero al combinarlo con Visual Improvement aparecián difíciles de corregir. Para agregar tildes y caracteres del español ha sido necesario alterar la fuente gráfica del juego y eso choca con el parche visual.
-Para poder disfrutar de la traducción y la corrección visual se ha creado el parche de compatibilidad.
+### Compatibilidad
+Para agregar tildes y caracteres del español ha sido necesario alterar la fuente gráfica del juego y eso choca con los parches visuales.
+
+### hod-spanish + Visual Improvement (Pemburu Vampir)
 1. Aplicar el parche [Visual Improvement](https://www.romhacking.net/hacks/9086)
 2. Aplicar el [parche hod-spanish-compatibility-visual-improvement1.2.9.ips](./hod-spanish-compatibility-visual-improvement1.2.9.ips) al resultado anterior
 
@@ -27,6 +28,11 @@ Si se desea combinar con REharmonized el orden de aplicación de parches sería:
 1. [REharmonized](https://www.romhacking.net/hacks/9975)
 2. [Visual Improvement](https://www.romhacking.net/hacks/9086)
 3. [hod-spanish-compatibility-visual-improvement1.2.9.ips](./hod-spanish-compatibility-visual-improvement1.2.9.ips)
+
+### hod-spanish + REharmonized sin arreglo visual
+1. [REharmonized](https://www.romhacking.net/hacks/9975)
+2. [hod-spanish.ips](./hod-spanish-compatibility-visual-improvement1.2.9.ips)
+
 
 ## Decisiones creativas
 - Se ha intentado mantener una traducción cercana al original basada en las referencias obtenidas
@@ -42,12 +48,11 @@ Si se desea combinar con REharmonized el orden de aplicación de parches sería:
   - Pista 1: Drena las cuevas en la cabeza de león con la llave. (Es más específico que la pista original que habla simplemente de un posible mecanismo de drenaje.)
   - Pista 2: Los ojos de la diosa señalan un pasadizo secreto en el acueducto. (Se agrega la pisa de la zona del acueducto.)
   - Bullet Tip: traducido como "Alma Christopher".
-  - Cipher's Charm: traducido como Cristal de Sypha.
-  - Crushing Stone: Traducido como Punta Demoledora. Es la modificación del látigo que rompe muros.
-  - Red Stone: Las modificaciones del látigo con esta estructura se traducen como Gema Roja.
+  - Cipher's Charm: traducido como "Cristal de Sypha".
+  - Crushing Stone: Traducido como "Punta Demoledora". Es la modificación del látigo que rompe muros.
+  - Red Stone: Las modificaciones del látigo con esta estructura se traducen como "Gema Roja".
   - Walk Armor: tradudcido como Armadura Errante.
   - Crush Boots: Botas de Choque. Son las botas que rompen techos.
-  - Floating Boots: Botas aladas, te permiten flotar.
 
 ## Limitaciones técnicas
 
