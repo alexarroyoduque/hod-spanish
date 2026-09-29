@@ -3,7 +3,7 @@ Parche de traducción al español de Castlevania: Harmony of Dissonance
 
 # * * * EN DESARROLLO * * *
 
-El parche solo altera los textos, no cambia gráficos. Los caracteres que se muestran en imágenes se mantienen en su versión original afectando en su mayoría a los menús.
+El parche solo modifica los textos, no cambia gráficos. Los caracteres que se muestran en imágenes se mantienen en su versión original afectando en su mayoría a los menús.
 
 ## ¿Cómo aplicar el parche?
 - Disponer de una (ROM) USA de Castlevania: Harmony of Dissonance. (DSVania solo funciona la ROM USA por eso el parche solo es compatible con esta región).
