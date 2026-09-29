@@ -14,13 +14,13 @@
 "
 0x1D3,"Soldado Óseo\n
 "
-0x1D4,"Guerrero Acero\n
+0x1D4,"Caballero Armado\n
 "
 0x1D5,"Rey Murciélago\n
 "
 0x1D6,"Fantasma\n
 "
-0x1D7,"Pilar Óseo\n
+0x1D7,"Pilar Óseo\n 
 "
 0x1D8,"Gran Fantasma\n
 "
@@ -36,17 +36,17 @@
 "
 0x1DE,"Ectoplasma\n
 "
-0x1DF,"Maestro del Filo\n
+0x1DF,"Esqueleto Bifilo\n
 "
 0x1E0,"Gran Esqueleto\n
 "
-0x1E1,"Hueso Volador\n
+0x1E1,"Esqueleto Alado\n
 "
-0x1E2,"Ojo Fisgón\n
+0x1E2,"Ojo Espía\n
 "
 0x1E3,"Mayal Óseo\n
 "
-0x1E4,"Lancero Óseo\n
+0x1E4,"Alabardero Óseo\n
 "
 0x1E5,"Esqueleto Rojo\n
 "
@@ -60,7 +60,7 @@
 "
 0x1EA,"Gólem\n
 "
-0x1EB,"Cráneo Armado\n
+0x1EB,"Caballero Cráneo\n
 "
 0x1EC,"Mini Diablo\n
 "
@@ -84,7 +84,7 @@
 "
 0x1F6,"Gran Globo\n
 "
-0x1F7,"Arquero Óseo\n
+0x1F7,"Arquero Calavera\n
 "
 0x1F8,"Espada Real\n
 "
@@ -114,7 +114,7 @@
 "
 0x205,"Medusa Dorada\n
 "
-0x206,"Imitador\n
+0x206,"Mímico\n
 "
 0x207,"Naga Ósea\n
 "
@@ -148,9 +148,9 @@
 "
 0x216,"Spriggan\n
 "
-0x217,"Gorgona\n
+0x217,"Gorgón\n
 "
-0x218,"Maestro Fuego\n
+0x218,"Maestro del Filo\n
 "
 0x219,"Artro Huesudo\n
 "
@@ -184,9 +184,9 @@
 "
 0x228,"Hueso Claro\n
 "
-0x229,"Espeto de Huesos\n
+0x229,"Pilar de Huesos\n
 "
-0x22A,"Simon Espectro\n
+0x22A,"Simon Espectral\n
 "
 0x22B,"Maestro de Pica\n
 "
@@ -238,7 +238,7 @@
 "
 0x243,"Talos\n
 "
-0x244,"Ojo Fisgón\n
+0x244,"Ojo Espía\n
 "
 0x245,"Armadura Rencor\n
 "

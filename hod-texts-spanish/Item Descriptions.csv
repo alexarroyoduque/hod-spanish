@@ -82,16 +82,16 @@ látigo alrededor del usuario.\n
 0x117,"Lanza balas desde la punta del látigo\n
 solo con salud al máximo.\n
 "
-0x118,"Añade fuego a los\n
+0x118,"Añade fuego (fire) a los\n
 ataques con el látigo.\n
 "
-0x119,"Añade hielo a los\n
+0x119,"Añade hielo (ice) a los\n
 ataques con el látigo.\n
 "
-0x11A,"Añade trueno a los\n
+0x11A,"Añade rayo (lightning) a los\n
 ataques con el látigo.\n
 "
-0x11B,"Añade viento a los\n
+0x11B,"Añade viento (wind) a los\n
 ataques con el látigo.\n
 "
 0x11C,"Armadura ligera hecha\n
@@ -199,7 +199,7 @@ propia de la nobleza.\n
 Aumenta INT (INTELIGENCIA).\n
 "
 0x143,"Túnica con alta\n
-resistencia al trueno.\n
+resistencia al rayo.\n
 "
 0x144,"Ropa de batalla. Algunas zonas están\n
 reforzadas.\n
@@ -433,16 +433,16 @@ del Puño Sagrado.\n
 del Libro Sagrado.\n
 "
 0x19C,"Combinado con una subarma, permite\n
-lanzar hechizos de fuego.\n
+lanzar hechizos de fuego (fire).\n
 "
 0x19D,"Combinado con una subarma, permite\n
-lanzar hechizos de hielo.\n
+lanzar hechizos de hielo (ice).\n
 "
 0x19E,"Combinado con una subarma, permite\n
-lanzar hechizos de trueno.\n
+lanzar hechizos de rayo (lightning).\n
 "
 0x19F,"Combinado con una subarma, permite\n
-lanzar hechizos de viento.\n
+lanzar hechizos de viento (wind).\n
 "
 0x1A0,"Combinado con una subarma, permite\n
 invocar monstruos.\n
