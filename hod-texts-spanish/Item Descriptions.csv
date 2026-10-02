@@ -22,11 +22,11 @@ por tiempo limitado.\n
 0x101,"Abre las puertas con brillo\n
 arcoiris.\n
 "
-0x102,"Abre puertas con diseño de\n
-calavera verdes.\n
+0x102,"Abre las puertas verdes\n
+con diseño de calavera.\n
 "
 0x103,"Úsala en la cabeza\n
-de león de las cuevas.\n
+de león en la caverna.\n
 "
 0x104,"Contiene una parte del\n
 plano del castillo.\n
@@ -43,8 +43,8 @@ de león con la llave.\n
 0x108,"Los ojos de la diosa señalan un\n
 pasadizo secreto en el acueducto.\n
 "
-0x109,"Usa los portales para transportarte\n
-a un lugar diferente.\n
+0x109,"Agáchate (pulsa ABAJO) en un\n
+portal para ir a un lugar diferente.\n
 "
 0x10A,"Algunos hechizos se pueden lanzar\n
 varias veces.\n
@@ -132,7 +132,7 @@ escamas de metal.\n
 0x129,"Al quedarse quieto, restaura\n
 la salud lentamente.\n
 "
-0x12A,"El cuerpo de la Coraza Guarda.\n
+0x12A,"Cuerpo del Guardían Coraza.\n
 "
 0x12B,"Armadura con alta\n
 resistencia al fuego.\n
@@ -252,7 +252,7 @@ finas tiras de metal.\n
 0x156,"Casco con un protector de\n
 cara adjunto.\n
 "
-0x157,"La cabeza de la Coraza Guarda.\n
+0x157,"Cabeza del Guardián Coraza.\n
 "
 0x158,"Diseñado para proteger la nuca del\n
 usuario.\n
@@ -301,7 +301,7 @@ protege las manos.\n
 "
 0x16B,"Guantes de cuero endurecido.\n
 "
-0x16C,"El brazo de la Coraza Guarda.\n
+0x16C,"Brazo del Guardián Coraza\n
 "
 0x16D,"Buena protección para todo el brazo,\n
 aunque hace sudar un poco.\n
@@ -324,7 +324,7 @@ extra para el tobillo.\n
 "
 0x174,"Botas hechas de bronce.\n
 "
-0x175,"Las piernas de la Coraza Guarda.\n
+0x175,"Piernas del Guardián Coraza.\n
 "
 0x176,"Botas de hierro. Son\n
 frías en invierno.\n
@@ -401,8 +401,8 @@ encontrar dinero.\n
 0x190,"Este broche vuelve mucho más sabio\n
 a su usuario.\n
 "
-0x191,"Acelera la\n
-recuperación de MP.\n
+0x191,"Acelera la recuperación\n
+de MP (Magia).\n
 "
 0x192,"Aumenta la\n
 resistencia al veneno.\n
@@ -415,21 +415,21 @@ sufrir maldiciones.\n
 0x195,"Aumenta la aparición\n
 de objetos raros.\n
 "
-0x196,"Aumenta la fuerza\n
+0x196,"Aumenta la potencia\n
 del Agua Bendita.\n
 "
-0x197,"Aumenta la fuerza\n
+0x197,"Aumenta la potencia\n
 de la Cruz.\n
 "
-0x198,"Aumenta la fuerza\n
+0x198,"Aumenta la potencia\n
 del Cuchillo.\n
 "
-0x199,"Aumenta la fuerza del Hacha.\n
+0x199,"Aumenta la potencia de Hacha.\n
 "
-0x19A,"Aumenta la fuerza\n
+0x19A,"Aumenta la potencia\n
 del Puño Sagrado.\n
 "
-0x19B,"Aumenta la fuerza\n
+0x19B,"Aumenta la potencia\n
 del Libro Sagrado.\n
 "
 0x19C,"Combinado con una subarma, permite\n
@@ -459,11 +459,11 @@ se puede dar un GRAN SALTO.\n
 0x1A4,"Permite ver cuánto daño ha recibido un\n
 enemigo.\n
 "
-0x1A5,"Permite conocer el nombre de sus\n
+0x1A5,"Permite conocer el nombre de tus\n
 enemigos.\n
 "
 0x1A6,"Permite ver los datos de los monstruos\n
-que ha encontrado.\n
+que has encontrado.\n
 "
 0x1A7,"Uno de los restos de Drácula. Anula\n
 maldiciones.\n
@@ -486,7 +486,7 @@ Aumenta LCK (SUERTE).\n
 0x1AD,"Se dice que lo usó la realeza. Tiene\n
 una historia interesante.\n
 "
-0x1AE,"Comprado la mañana que nació su\n
+0x1AE,"Comprado la mañana que nació tu\n
 abuelo. Aún da la hora exacta.\n
 "
 0x1AF,"Una estantería muy resistente. Aguanta\n
@@ -508,7 +508,7 @@ factura.\n
 con suavidad al mecerse.\n
 "
 0x1B5,"Hecha con las mejores sedas, suave\n
-con tacto aterciopelado.\n
+y con tacto aterciopelado.\n
 "
 0x1B6,"Los objetos más valiosos son los que\n
 cuesta valorar.\n
@@ -535,7 +535,7 @@ con amigos.\n
 Algún día seré yo...\n
 "
 0x1BE,"Estatua de una diosa. Las diosas son\n
-muy bellas, no crees?\n
+muy bellas, piensa en ello\n
 "
 0x1BF,"Estatua de un anciano algo engreído.\n
 "
@@ -546,7 +546,7 @@ hábil en figuras de mapaches.\n
 se sabe si es efectiva.\n
 "
 0x1C2,"Máquina que emite sonido. Lo analógico\n
-es genial, verdad...\n
+es genial, piensa en ello.\n
 "
 0x1C3,"Símbolo de los ricos. Siento que me\n
 observan.\n
@@ -569,7 +569,7 @@ estuviera ahí...\n
 0x1C9,"Parece un lugar fuera del castillo.\n
 "
 0x1CA,"Fabricada por la única marca de\n
-confianza en camas: FUTON.\n
+confianza en camas: FUTÓN.\n
 "
 0x1CB,"Olvídate de tener demasiada ropa y\n
 poco espacio.\n

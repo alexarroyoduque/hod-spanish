@@ -42,7 +42,7 @@
 "
 0x037,"Pista 6\n
 "
-0x038,"Estrella Cenit\n
+0x038,"Estrella Cénit\n
 "
 0x039,"Ópalo\n
 "
@@ -56,9 +56,9 @@
 "
 0x03E,"Punta Demoledora\n
 "
-0x03F,"Punta Acero\n
+0x03F,"Punta de Acero\n
 "
-0x040,"Punta Platino\n
+0x040,"Punta de Platino\n
 "
 0x041,"Poder Orbital\n
 "
@@ -120,7 +120,7 @@
 "
 0x05E,"Armadura Batalla\n
 "
-0x05F,"Armadura Errante\n
+0x05F,"Cota Errante\n
 "
 0x060,"Coraza de Plata\n
 "
@@ -152,7 +152,7 @@
 "
 0x06E,"Túnica Rayo\n
 "
-0x06F,"Traje de Combate\n
+0x06F,"Traje de Guerra\n
 "
 0x070,"Túnica Vetusta\n
 "
@@ -212,7 +212,7 @@
 "
 0x08C,"Casco Langosta\n
 "
-0x08D,"Tiara Plata\n
+0x08D,"Tiara de Plata\n
 "
 0x08E,"Casco de Acero\n
 "
@@ -232,13 +232,13 @@
 "
 0x096,"Guantes Duros\n
 "
-0x097,"Guante Guardián\n
+0x097,"Guantes Guardián\n
 "
-0x098,"Guarda Brazos\n
+0x098,"Protector Brazos\n
 "
 0x099,"Placas de Brazo\n
 "
-0x09A,"Guante de Sangre\n
+0x09A,"Guante Sangrado\n
 "
 0x09B,"Guante de Acero\n
 "
@@ -262,7 +262,7 @@
 "
 0x0A5,"Botas Aladas\n
 "
-0x0A6,"Zueco Platino\n
+0x0A6,"Zuecos Platino\n
 "
 0x0A7,"Botas Infinitas\n
 "
@@ -288,7 +288,7 @@
 "
 0x0B2,"Brazal de Plata\n
 "
-0x0B3,"Brazal Blasón\n
+0x0B3,"Brazalete Blasón\n
 "
 0x0B4,"Colgante\n
 "
@@ -312,7 +312,7 @@
 "
 0x0BE,"Anillo Suerte\n
 "
-0x0BF,"Anillo Sacro\n
+0x0BF,"Anillo Sagrado\n
 "
 0x0C0,"Anillo Raro\n
 "
@@ -370,7 +370,7 @@
 "
 0x0DB,"Radio Vieja\n
 "
-0x0DC,"Platos dePlata\n
+0x0DC,"Platos de Plata\n
 "
 0x0DD,"Mesa Antigua\n
 "
@@ -398,7 +398,7 @@
 "
 0x0E9,"Estatua Riendo\n
 "
-0x0EA,"Estatua Sabio\n
+0x0EA,"Estatua de Sabio\n
 "
 0x0EB,"Figura Mapache\n
 "

@@ -20,7 +20,7 @@
 "
 0x1D6,"Fantasma\n
 "
-0x1D7,"Pilar Óseo\n 
+0x1D7,"Pilar Óseo\n
 "
 0x1D8,"Gran Fantasma\n
 "
@@ -36,7 +36,7 @@
 "
 0x1DE,"Ectoplasma\n
 "
-0x1DF,"Esqueleto Bifilo\n
+0x1DF,"Maestro Cuchillos\n
 "
 0x1E0,"Gran Esqueleto\n
 "
@@ -44,9 +44,9 @@
 "
 0x1E2,"Ojo Espía\n
 "
-0x1E3,"Mayal Óseo\n
+0x1E3,"Esqueleto Mayal\n
 "
-0x1E4,"Alabardero Óseo\n
+0x1E4,"Esqueleto Lanza\n
 "
 0x1E5,"Esqueleto Rojo\n
 "
@@ -102,7 +102,7 @@
 "
 0x1FF,"Demonio Pluma\n
 "
-0x200,"Coraza Guardián\n
+0x200,"Guardián Coraza\n
 "
 0x201,"Armadura Escama\n
 "
@@ -118,7 +118,7 @@
 "
 0x207,"Naga Ósea\n
 "
-0x208,"Espejo Óseo\n
+0x208,"Esqueleto Espejo\n
 "
 0x209,"O\n
 "
@@ -130,7 +130,7 @@
 "
 0x20D,"Guardián Bronce\n
 "
-0x20E,"Gran Fisgón\n
+0x20E,"Gran Ojo Espía\n
 "
 0x20F,"Legión (santo)\n
 "
@@ -152,11 +152,11 @@
 "
 0x218,"Maestro del Filo\n
 "
-0x219,"Artro Huesudo\n
+0x219,"Artroesqueleto\n
 "
 0x21A,"Fantasma Raro\n
 "
-0x21B,"Vidrio Óseo\n
+0x21B,"Esqueleto Vidrio\n
 "
 0x21C,"Armadura Triunfo\n
 "
@@ -182,7 +182,7 @@
 "
 0x227,"Búho\n
 "
-0x228,"Hueso Claro\n
+0x228,"Esqueleto Claro\n
 "
 0x229,"Pilar de Huesos\n
 "
@@ -224,8 +224,8 @@
 "
 0x23C,"NULL\n
 "
-0x23D,"Vidrio Óseo\n
-"
+0x23D,"Esqueleto Vidrio\n
+{RAW 0x000D}"
 0x23E,"Mini Baba\n
 "
 0x23F,"Hombre Pulga\n
