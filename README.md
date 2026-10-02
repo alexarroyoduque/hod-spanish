@@ -38,20 +38,20 @@ Si se desea combinar con REharmonized el orden de aplicación de parches sería:
 - Se ha intentado mantener una traducción cercana al original basada en las referencias obtenidas
 - Se mantienen los nombres originales de las canciones
 - Las descripciones de algunas pistas y llaves se han adaptado para facilitar la exploración al jugador:
-  - Llave Cráneo: Abre puertas con diseño de calavera verdes. (Originalmente no se indica el color verde)
+  - Llave Cráneo: Abre las puertas verdes con diseño de calavera verdes. (Originalmente no se indica el color verde)
   - Llave Portal
     - Lure Key: en versión original. Lure viene a significar "señuelo" o "atraer", esa atracción evoca como el portal te traspasa de un castillo a otro. En español "Llave Señuelo" no encaja demasiado.
     - Abre las puertas con brillo arcoiris. (Originalmente se indica un brillo dorado).
   - JB's Bracelet: traducido como Brazalete JB.
   - MK's Bracelet: traducido como Brazalete MK. En la conversación donde se obtiene el brazalete, Maxim indica que el objeto permite abrir una puerta, en la descripción se detalla que es la puerta con brillo ámbar.
-  - Llave compuerta: Úsala en la cabeza de león de las cuevas. (Más específica que la pista original.)
+  - Llave compuerta: Úsala en la cabeza de león en la caverna. (Más específica que la pista original.)
   - Pista 1: Drena las cuevas en la cabeza de león con la llave. (Es más específico que la pista original que habla simplemente de un posible mecanismo de drenaje.)
   - Pista 2: Los ojos de la diosa señalan un pasadizo secreto en el acueducto. (Se agrega la pisa de la zona del acueducto.)
+  - Pista 3: Agáchate (pulsa ABAJO) en un portal para ir a un lugar diferente.
   - Bullet Tip: traducido como "Alma Christopher".
   - Cipher's Charm: traducido como "Cristal de Sypha".
   - Crushing Stone: Traducido como "Punta Demoledora". Es la modificación del látigo que rompe muros.
   - Red Stone: Las modificaciones del látigo con esta estructura se traducen como "Gema Roja".
-  - Walk Armor: tradudcido como Armadura Errante.
   - Crush Boots: Botas de Choque. Son las botas que rompen techos.
 
 ## Limitaciones técnicas
@@ -81,7 +81,7 @@ Si se desea combinar con REharmonized el orden de aplicación de parches sería:
       - Generar el parche con `ROM USA + Visual Improvement` y la `ROM USA + Visual Improvement + spanish chars` traducida
 
 ## Credits
-- [-SuXei999-](https://www.youtube.com/@-suxei999-4) ayuda con las pruebas y calidad del parche.
+- [-SuXei999-](https://www.youtube.com/@-suxei999-4) por su paciencia, generosidad y atención a los detalles, ha sido de gran ayuda para elevar la calidad del parche.
 - leomontenegro6 y las personas que participaron en [chod-traducao-ptbr](https://github.com/leomontenegro6/chod-traducao-ptbr), cuyo trabajo previo sobre la traducción brasileña, las fuentes y la codificación fue una referencia fundamental.
 - [LagoLunatic, DSVania Edit creator](https://www.romhacking.net/community/4318)
 - [Efrem Orizzonte, item list](https://gamefaqs.gamespot.com/gba/554981-castlevania-harmony-of-dissonance/faqs/19328)
