@@ -36,7 +36,7 @@
 "
 0x1DE,"Ectoplasma\n
 "
-0x1DF,"Maestro Cuchillos\n
+0x1DF,"Maestro Cuchillo\n
 "
 0x1E0,"Gran Esqueleto\n
 "
@@ -124,7 +124,7 @@
 "
 0x20A,"Arpía\n
 "
-0x20B,"Armadura Hacha2\n
+0x20B,"Armad. Hacha 2\n
 "
 0x20C,"Espectro\n
 "
@@ -194,9 +194,9 @@
 "
 0x22D,"Maxim\n
 "
-0x22E,"Eco de Drácula\n
+0x22E,"Drácula Espectro\n
 "
-0x22F,"Eco de Drácula\n
+0x22F,"Drácula Espectro\n
 "
 0x230,"NULL\n
 "
@@ -224,8 +224,7 @@
 "
 0x23C,"NULL\n
 "
-0x23D,"Esqueleto Vidrio\n
-{RAW 0x000D}"
+0x23D,Esqueleto Vidrio\n
 0x23E,"Mini Baba\n
 "
 0x23F,"Hombre Pulga\n
