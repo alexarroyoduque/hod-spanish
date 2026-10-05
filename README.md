@@ -85,6 +85,7 @@ Si se desea combinar con REharmonized el orden de aplicación de parches sería:
 - [Marc Robledo — RomPatcher.js](https://github.com/marcrobledo/RomPatcher.js)
 - [Romhacking.net](https://www.romhacking.net)
 - [-SuXei999-](https://www.youtube.com/@-suxei999-4) por su paciencia, generosidad y atención a los detalles, ha sido de gran ayuda para elevar la calidad del parche.
+- [spiffy, Location fix](http://www.romhacking.net/community/3923/)
 - leomontenegro6 y las personas que participaron en [chod-traducao-ptbr](https://github.com/leomontenegro6/chod-traducao-ptbr), cuyo trabajo previo sobre la traducción brasileña, las fuentes y la codificación fue una referencia fundamental.
 - [LagoLunatic, DSVania Edit creator](https://www.romhacking.net/community/4318)
 - [Efrem Orizzonte, item list](https://gamefaqs.gamespot.com/gba/554981-castlevania-harmony-of-dissonance/faqs/19328)
