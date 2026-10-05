@@ -1,9 +1,9 @@
 # hod-spanish
 Parche de traducción al español de Castlevania: Harmony of Dissonance
 
-# * * * EN DESARROLLO * * *
-
 El parche solo modifica los textos, no cambia gráficos. Los caracteres que se muestran en imágenes se mantienen en su versión original afectando en su mayoría a los menús.
+
+[Vídeo demostración.](https://youtu.be/tRBpHLWBUSM)
 
 ## ¿Cómo aplicar el parche?
 - Disponer de una (ROM) USA de Castlevania: Harmony of Dissonance. (DSVania solo funciona la ROM USA por eso el parche solo es compatible con esta región).
@@ -81,6 +81,9 @@ Si se desea combinar con REharmonized el orden de aplicación de parches sería:
       - Generar el parche con `ROM USA + Visual Improvement` y la `ROM USA + Visual Improvement + spanish chars` traducida
 
 ## Credits
+- AlexArroyoDuque
+- [Marc Robledo — RomPatcher.js](https://github.com/marcrobledo/RomPatcher.js)
+- [Romhacking.net](https://www.romhacking.net)
 - [-SuXei999-](https://www.youtube.com/@-suxei999-4) por su paciencia, generosidad y atención a los detalles, ha sido de gran ayuda para elevar la calidad del parche.
 - leomontenegro6 y las personas que participaron en [chod-traducao-ptbr](https://github.com/leomontenegro6/chod-traducao-ptbr), cuyo trabajo previo sobre la traducción brasileña, las fuentes y la codificación fue una referencia fundamental.
 - [LagoLunatic, DSVania Edit creator](https://www.romhacking.net/community/4318)
@@ -89,4 +92,3 @@ Si se desea combinar con REharmonized el orden de aplicación de parches sería:
 - [BFrayne, translation guide](https://gamefaqs.gamespot.com/gba/554981-castlevania-harmony-of-dissonance/faqs/17572)
 - [Efrem Orizzonte, monster list](https://gamefaqs.gamespot.com/gba/554981-castlevania-harmony-of-dissonance/faqs/19329)
 - [spiffy, location fixes patch](http://www.romhacking.net/community/3923)
-
